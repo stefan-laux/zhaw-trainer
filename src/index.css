@@ -114,7 +114,8 @@ html.light ::-webkit-scrollbar-thumb {
     @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-all duration-200 focus:outline-none focus-visible:ring-2 disabled:cursor-not-allowed disabled:opacity-50;
   }
   .btn-primary {
-    @apply btn bg-gradient-to-r from-[#1E3A5F] to-[#2b4a73] text-white shadow-glow hover:from-[#26456b] hover:to-[#35598a] active:scale-[0.98];
+    @apply btn bg-gradient-to-r from-[#1E3A5F] to-[#2b4a73] shadow-glow hover:from-[#26456b] hover:to-[#35598a] active:scale-[0.98];
+    color: #ffffff;
   }
   .btn-ghost {
     @apply btn border text-slate-200;
@@ -207,9 +208,13 @@ html.light .divide-white\/5 > :not([hidden]) ~ :not([hidden]) {
   border-color: var(--c-border) !important;
 }
 /* keep white text/icons on solid coloured surfaces */
-html.light .bg-zhaw,
-html.light .btn-primary,
-html.light .bg-gradient-to-r.from-\[#1E3A5F\] {
+html.light .bg-zhaw {
+  color: #ffffff !important;
+}
+html.light .btn-primary {
+  color: #ffffff !important;
+}
+html.light .btn-primary * {
   color: #ffffff !important;
 }
 html.light .text-white.keep-white,
