@@ -1,0 +1,376 @@
+{
+  "title": "Wettbewerbsrecht I - UWG",
+  "week": "SW 7",
+  "tagline": "Einführung in das Lauterkeitsrecht des UWG.",
+  "summary": "Das UWG zielt darauf ab, einen lauteren und unverfälschten Wettbewerb zu gewährleisten. Es umfasst Handlungen, die die Wettbewerbsverhältnisse beeinflussen, auch ohne direktes Wettbewerbsverhältnis. Die Generalklausel beschreibt unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend. Spezialtatbestände des UWG regeln spezifische unlautere Handlungen. Die Durchsetzung erfolgt zivilrechtlich, verwaltungsrechtlich und strafrechtlich.",
+  "learningGoals": [
+    "Verstehen des Zwecks und der Geltungsbereiche des UWG.",
+    "Erkennen unlauteren Wettbewerbs anhand der Generalklausel und Spezialtatbestände.",
+    "Kenntnis der Durchsetzungsmechanismen des UWG."
+  ],
+  "blocks": [
+    {
+      "title": "Zweck und Geltungsbereich des UWG",
+      "body": "Das UWG hat das Ziel, einen lauteren und unverfälschten Wettbewerb zu gewährleisten. Es gilt für Handlungen, die die Wettbewerbsverhältnisse beeinflussen, auch ohne direktes Wettbewerbsverhältnis.",
+      "bullets": [
+        "Ziel: Lauterer Wettbewerb (Art. 1 UWG)",
+        "Sachlicher Geltungsbereich: Beeinflussung der Wettbewerbsverhältnisse",
+        "Persönlicher Geltungsbereich: Alle Akteure des Wettbewerbs",
+        "Geografischer Geltungsbereich: Marktortprinzip"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 1 UWG",
+          "text": "Zweck des UWG"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Generalklausel des UWG",
+      "body": "Die Generalklausel beschreibt unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend, wenn es das Verhältnis zwischen Wettbewerbern oder zwischen Anbietern und Abnehmern beeinflusst.",
+      "bullets": [
+        "Unlauteres Verhalten: Täuschung oder Verstoss gegen Treu und Glauben",
+        "Prüfung vor Spezialtatbeständen"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 2 UWG",
+          "text": "Generalklausel des UWG"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Hauptfallgruppen unlauteren Wettbewerbs",
+      "body": "Unlauterer Wettbewerb kann in zwei Hauptfallgruppen unterteilt werden: Beeinflussung und Kundenfang sowie unkorrektes Vorgehen gegenüber Wettbewerbern.",
+      "bullets": [
+        "Irreführung und Täuschung",
+        "Aggressive Absatzmethoden",
+        "Anlehnung und Ausbeutung",
+        "Behinderung und Schädigung"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Spezialtatbestände des UWG",
+      "body": "Spezialtatbestände regeln spezifische unlautere Handlungen wie Herabsetzung, Begünstigung und unzutreffende Titelführung.",
+      "bullets": [
+        "Herabsetzung (Art. 3a)",
+        "Begünstigung (Art. 3b, i)",
+        "Unzutreffende Titelführung (Art. 3c)",
+        "Irreführung über betriebliche Herkunft (Art. 3d)"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 3 UWG",
+          "text": "Spezialtatbestände des UWG"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Durchsetzung des UWG",
+      "body": "Die Durchsetzung des UWG erfolgt durch zivilrechtliche, verwaltungsrechtliche und strafrechtliche Verfahren.",
+      "bullets": [
+        "Zivilrechtliches Verfahren (Art. 9-15 UWG)",
+        "Verwaltungsrechtliche Bestimmungen (Art. 16-20 UWG)",
+        "Strafsanktionen (Art. 23-27 UWG)"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 9-15 UWG",
+          "text": "Zivilrechtliches Verfahren"
+        },
+        {
+          "ref": "Art. 16-20 UWG",
+          "text": "Verwaltungsrechtliche Bestimmungen"
+        },
+        {
+          "ref": "Art. 23-27 UWG",
+          "text": "Strafsanktionen"
+        }
+      ],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "UWG",
+      "definition": "Gesetz gegen den unlauteren Wettbewerb",
+      "article": "Art. 1 UWG"
+    },
+    {
+      "term": "Marktortprinzip",
+      "definition": "Geografischer Geltungsbereich des UWG"
+    },
+    {
+      "term": "Generalklausel",
+      "definition": "Unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend",
+      "article": "Art. 2 UWG"
+    },
+    {
+      "term": "Irreführung",
+      "definition": "Täuschende Werbemassnahmen"
+    },
+    {
+      "term": "Aggressive Absatzmethoden",
+      "definition": "Nötigende Verkaufsstrategien"
+    },
+    {
+      "term": "Anlehnung",
+      "definition": "Ausnutzen des Rufs eines Mitbewerbers"
+    },
+    {
+      "term": "Behinderung",
+      "definition": "Blockieren von Kunden oder Mitarbeitern eines Mitbewerbers"
+    },
+    {
+      "term": "Herabsetzung",
+      "definition": "Unlautere Schädigung des Rufs von Konkurrenten",
+      "article": "Art. 3a UWG"
+    },
+    {
+      "term": "Begünstigung",
+      "definition": "Falsche Angaben zur Herkunft",
+      "article": "Art. 3b UWG"
+    },
+    {
+      "term": "Unzutreffende Titelführung",
+      "definition": "Falsche Berufsbezeichnungen",
+      "article": "Art. 3c UWG"
+    },
+    {
+      "term": "Verleitung zum Vertragsbruch",
+      "definition": "Unlautere Anstiftung Dritter zum Vertragsbruch",
+      "article": "Art. 4a UWG"
+    },
+    {
+      "term": "Verletzung von Geschäftsgeheimnissen",
+      "definition": "Unbefugte Nutzung von vertraulichen Informationen",
+      "article": "Art. 4c UWG"
+    },
+    {
+      "term": "Preisbekanntgabe",
+      "definition": "Pflicht zur Preisbekanntgabe",
+      "article": "Art. 16 UWG"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist das Ziel des UWG?",
+      "back": "Gewährleistung eines lauteren und unverfälschten Wettbewerbs.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was umfasst der sachliche Geltungsbereich des UWG?",
+      "back": "Handlungen, die die Wettbewerbsverhältnisse beeinflussen.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist das Marktortprinzip?",
+      "back": "Geografischer Geltungsbereich des UWG.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was beschreibt die Generalklausel des UWG?",
+      "back": "Unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Nenne zwei Hauptfallgruppen unlauteren Wettbewerbs.",
+      "back": "Beeinflussung und Kundenfang; unkorrektes Vorgehen gegenüber Wettbewerbern.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist Irreführung im Sinne des UWG?",
+      "back": "Täuschende Werbemassnahmen.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was sind aggressive Absatzmethoden?",
+      "back": "Nötigende Verkaufsstrategien.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was bedeutet Anlehnung im Wettbewerbsrecht?",
+      "back": "Ausnutzen des Rufs eines Mitbewerbers.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist Herabsetzung nach Art. 3a UWG?",
+      "back": "Unlautere Schädigung des Rufs von Konkurrenten.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist Begünstigung nach Art. 3b UWG?",
+      "back": "Falsche Angaben zur Herkunft.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist unzutreffende Titelführung nach Art. 3c UWG?",
+      "back": "Falsche Berufsbezeichnungen.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist Verleitung zum Vertragsbruch nach Art. 4a UWG?",
+      "back": "Unlautere Anstiftung Dritter zum Vertragsbruch.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Was ist die Pflicht zur Preisbekanntgabe?",
+      "back": "Pflicht zur Preisbekanntgabe von Waren und Dienstleistungen.",
+      "tag": "UWG"
+    },
+    {
+      "front": "Welche Verfahrensarten gibt es zur Durchsetzung des UWG?",
+      "back": "Zivilrechtliches, verwaltungsrechtliches und strafrechtliches Verfahren.",
+      "tag": "UWG"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welches Ziel verfolgt das UWG?",
+      "options": [
+        "Schutz der Konsumenten",
+        "Gewährleistung eines lauteren Wettbewerbs",
+        "Förderung von Monopolen",
+        "Regulierung von Preisen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das UWG zielt darauf ab, einen lauteren und unverfälschten Wettbewerb zu gewährleisten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was beschreibt die Generalklausel des UWG?",
+      "options": [
+        "Unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend",
+        "Regelung von Preisangaben",
+        "Schutz von Geschäftsgeheimnissen",
+        "Verbot von Monopolen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Generalklausel beschreibt unlauteres Verhalten als täuschend oder gegen Treu und Glauben verstossend.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist das Marktortprinzip?",
+      "options": [
+        "Das Recht des Staates, in dessen Markt die unlautere Handlung wirkt",
+        "Das Recht des Staates, in dem das Unternehmen seinen Sitz hat",
+        "Das Recht des Staates, in dem der Konsument lebt",
+        "Das Recht des Staates, in dem der Vertrag geschlossen wurde"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Marktortprinzip besagt, dass das Recht des Staates gilt, in dessen Markt die unlautere Handlung wirkt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Handlungen fällt unter aggressive Absatzmethoden?",
+      "options": [
+        "Falsche Angaben zur Herkunft",
+        "Nötigende Verkaufsstrategien",
+        "Verleitung zum Vertragsbruch",
+        "Verletzung von Geschäftsgeheimnissen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Aggressive Absatzmethoden umfassen nötigende Verkaufsstrategien.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Verfahrensart gehört nicht zur Durchsetzung des UWG?",
+      "options": [
+        "Zivilrechtliches Verfahren",
+        "Verwaltungsrechtliches Verfahren",
+        "Strafrechtliches Verfahren",
+        "Steuerrechtliches Verfahren"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Die Durchsetzung des UWG erfolgt nicht durch steuerrechtliche Verfahren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist Herabsetzung nach Art. 3a UWG?",
+      "options": [
+        "Unlautere Schädigung des Rufs von Konkurrenten",
+        "Falsche Angaben zur Herkunft",
+        "Unzutreffende Titelführung",
+        "Irreführung über betriebliche Herkunft"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Herabsetzung nach Art. 3a UWG bezieht sich auf die unlautere Schädigung des Rufs von Konkurrenten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Handlungen ist eine Spezialtatbestand nach Art. 3 UWG?",
+      "options": [
+        "Verleitung zum Vertragsbruch",
+        "Verletzung von Geschäftsgeheimnissen",
+        "Unzutreffende Titelführung",
+        "Missachtung von Arbeitsbedingungen"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Unzutreffende Titelführung ist ein Spezialtatbestand nach Art. 3 UWG.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Artikel des UWG regeln die zivilrechtliche Durchsetzung?",
+      "options": [
+        "Art. 1-5 UWG",
+        "Art. 9-15 UWG",
+        "Art. 16-20 UWG",
+        "Art. 23-27 UWG"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die zivilrechtliche Durchsetzung des UWG wird in Art. 9-15 UWG geregelt.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist das Ziel der Preisbekanntgabeverordnung (PBV)?",
+      "options": [
+        "Preisklarheit",
+        "Förderung von Monopolen",
+        "Schutz von Geschäftsgeheimnissen",
+        "Verbot von irreführender Werbung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein Ziel der PBV ist die Preisklarheit.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Handlungen fällt unter die Kategorie 'Verwertung fremder Leistungen'?",
+      "options": [
+        "Unbefugte Nutzung von vertraulichen Informationen",
+        "Unrechtmässige Nutzung fremder Arbeitsergebnisse",
+        "Verleitung zum Vertragsbruch",
+        "Missachtung von Arbeitsbedingungen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Verwertung fremder Leistungen bezieht sich auf die unrechtmässige Nutzung fremder Arbeitsergebnisse.",
+      "difficulty": "schwer"
+    }
+  ],
+  "id": "wr-sw7",
+  "subjectId": "wr"
+}

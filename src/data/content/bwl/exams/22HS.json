@@ -1,0 +1,1538 @@
+{
+  "id": "bwl-22HS",
+  "subjectId": "bwl",
+  "year": "22HS",
+  "label": "MEP 22HS",
+  "minutes": 60,
+  "maxPoints": 40.0,
+  "scoring": "mixed",
+  "questions": [
+    {
+      "number": 1,
+      "type": "truefalse",
+      "prompt": "Die Schaltung einer Stellenanzeige «Mechaniker/in mit Elektrokenntnissen» ist den Geschäftsprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Stellenanzeigen gehören zu den Unterstützungsprozessen, da sie die Personalbeschaffung betreffen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "truefalse",
+      "prompt": "Die Beratung eines Kunden am Schalter ist den Unterstützungsprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Kundenberatung ist Teil der Geschäftsprozesse, da sie direkt zur Wertschöpfung beiträgt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "truefalse",
+      "prompt": "Die Durchführung eines Mitarbeitergesprächs ist den Managementprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Mitarbeitergespräche sind Teil der Managementprozesse, da sie zur Führung und Entwicklung der Mitarbeitenden beitragen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "truefalse",
+      "prompt": "Die fahrplanmässige Fahrt eines Personenfernverkehrszugs von Zürich nach Genf ist den Geschäftsprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Durchführung von Zugfahrten ist ein zentraler Geschäftsprozess der SBB.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "truefalse",
+      "prompt": "Die Wartung einer Weiche am Bahnhof Hardbrücke ist den Managementprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Wartung von Infrastruktur gehört zu den Unterstützungsprozessen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "truefalse",
+      "prompt": "Die Disposition von Rollmaterial im Tagesgeschäft ist den Geschäftsprozessen zuzuordnen.",
+      "scenario": "Die SBB AG ist das grösste Unternehmen des öffentlichen Verkehrs in der Schweiz und eine der grössten Arbeitgeberinnen des Landes.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Disposition von Rollmaterial ist ein Teil der operativen Geschäftsprozesse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "truefalse",
+      "prompt": "Die Uniformen der Zugbegleiter sind dem Ordnungselement «Struktur» zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Uniformen sind Teil der Kultur, nicht der Struktur.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "truefalse",
+      "prompt": "Werbeagenturen, welche Broschüren für die SBB entwickeln, sind den «Lieferanten» zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Werbeagenturen sind externe Dienstleister und somit Lieferanten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "truefalse",
+      "prompt": "Eine verbesserte Taktung des Fahrplans mit verkürzten Umsteigezeiten ist dem Entwicklungsmodus «Optimierung» zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Optimierung bezieht sich auf die Verbesserung bestehender Prozesse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "truefalse",
+      "prompt": "Wenn die SBB regelmässig Kundenreklamationen erhält, kommt es zu einem Interaktionsthema.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Kundenreklamationen sind ein direktes Interaktionsthema zwischen Unternehmen und Kunden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "truefalse",
+      "prompt": "Als Unternehmen des Bundes haben die Umweltsphären keine Relevanz für die SBB.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Umweltsphären sind für alle Unternehmen relevant, unabhängig von der Eigentümerstruktur.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "truefalse",
+      "prompt": "Der Zughersteller Alstom zählt zur Anspruchsgruppe «Konkurrenz».",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Alstom ist ein Lieferant, nicht ein Konkurrent.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "open",
+      "prompt": "Bevor Skagen an den Start gegangen ist, wurde eine PESTEL-Analyse durchgeführt, um die Chancen und Gefahren zu sondieren, die sich aus dem aktuellen und künftigen Umfeld ergeben. Bitte nennen Sie in jedem Bereich eine mögliche Gefahr, mit welcher sich das Unternehmen «Skagen» in seiner Umwelt (national und international) auseinandersetzen muss.",
+      "scenario": "Der Uhrenhersteller Skagen hat eine neue Kollektion, die «Aaren Ocean Watch», aus Plastikmüll entwickelt.",
+      "options": [],
+      "correct": [],
+      "points": 3.0,
+      "explanation": "",
+      "modelAnswer": "P: Politische Instabilität in den Ländern, aus denen der Plastikmüll bezogen wird. E: Wirtschaftliche Rezession, die die Kaufkraft der Kunden mindert. S: Gesellschaftliche Ablehnung von Produkten aus recyceltem Material. T: Technologische Fortschritte bei Konkurrenten, die bessere Alternativen bieten. E: Umweltauflagen, die die Produktion verteuern. L: Gesetzliche Einschränkungen beim Import von recyceltem Material.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "truefalse",
+      "prompt": "Marktdurchdringung: Intensivere Bearbeitung des Schweizer Marktes mit Preisangeboten und einer grossen Social Media Kampagne, um etablierten Mitbewerbern Marktanteile abzujagen.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marktdurchdringung zielt darauf ab, den Marktanteil in bestehenden Märkten zu erhöhen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "truefalse",
+      "prompt": "Produktentwicklung: Entwicklung und Produktion von Spielzeug aus Plastikmüll, um auch in diesem Bereich ein konkurrenzfähiges Angebot zu besitzen.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Produktentwicklung bezieht sich auf die Einführung neuer Produkte in bestehenden Märkten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "truefalse",
+      "prompt": "Marktentwicklung: Aufbau und Betrieb einer eigenen Online-Handelsplattform, um nicht mehr über Uhrengeschäfte im B2B-Bereich tätig sein zu müssen, sondern um B2C-Endkunden direkt selbst ansprechen zu können.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marktentwicklung umfasst die Erschliessung neuer Absatzkanäle oder Märkte.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "truefalse",
+      "prompt": "Vertikale Diversifikation: Übernahme der Firma «CosmoLife», die ebenfalls im nachhaltigen Bereich unterwegs ist und unter anderem Uhren aus Holz und Kautschuk anfertigt.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Vertikale Diversifikation bezieht sich auf die Erweiterung der Wertschöpfungskette, nicht auf die Übernahme von Unternehmen im gleichen Markt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "truefalse",
+      "prompt": "Horizontale Diversifikation: Beteiligung an der Firma «Tide Ocean» in Basel, um sich langfristig einen strategischen Zugriff auf den Rohstoff «Ocean Plastic» zu sichern.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Horizontale Diversifikation bezieht sich auf die Erweiterung des Produktangebots, nicht auf die Sicherung von Rohstoffen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "truefalse",
+      "prompt": "Laterale Diversifikation: Entwicklung von weiteren Armbanduhren im oberen Preissegment, die an bestehende Kunden vertrieben werden.",
+      "scenario": "Für die Weiterentwicklung ihrer Strategie in der Ausbauphase 2 prüft «Skagen» verschiedene Optionen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Laterale Diversifikation bezieht sich auf die Erschliessung völlig neuer Geschäftsfelder, nicht auf die Erweiterung des bestehenden Angebots.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "truefalse",
+      "prompt": "Aktuelle und potenzielle Wettbewerber: Bisher gibt es wenig Rivalität unter den Anbietern in der Branche, in der «Skagen» tätig ist. Tiefe Markteintrittsbarrieren können aber dazu führen, dass sich das schnell ändert.",
+      "scenario": "In Zusammenhang mit der Suche nach weiteren Investoren versucht das «Skagen»-Team, in ihrem Business Plan die Attraktivität des Uhrenmarktes zu beschreiben.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Geringe Markteintrittsbarrieren können zu erhöhter Konkurrenz führen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "truefalse",
+      "prompt": "Konsumenten: Da «Skagen» sehr spezifische und gut vermarktete Produkte anbietet, die nicht austauschbar sind und diese nur über exklusive Fachhändler vertreibt, haben die Kunden keine grosse Verhandlungsmacht.",
+      "scenario": "In Zusammenhang mit der Suche nach weiteren Investoren versucht das «Skagen»-Team, in ihrem Business Plan die Attraktivität des Uhrenmarktes zu beschreiben.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Exklusive Produkte und Vertriebskanäle reduzieren die Verhandlungsmacht der Kunden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "truefalse",
+      "prompt": "Ersatzprodukte: Taschenuhren sind keine Substitutionsangebote zu Armbanduhren, da diese eine andere Zielgruppe ansprechen.",
+      "scenario": "In Zusammenhang mit der Suche nach weiteren Investoren versucht das «Skagen»-Team, in ihrem Business Plan die Attraktivität des Uhrenmarktes zu beschreiben.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Taschenuhren können als Ersatzprodukte für Armbanduhren betrachtet werden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "truefalse",
+      "prompt": "Lieferanten: Wenn es zukünftig mehr Lieferanten wie «Tide Ocean» gibt, verbessert das deren Verhandlungsposition gegenüber «Skagen».",
+      "scenario": "In Zusammenhang mit der Suche nach weiteren Investoren versucht das «Skagen»-Team, in ihrem Business Plan die Attraktivität des Uhrenmarktes zu beschreiben.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Mehr Lieferanten verringern die Verhandlungsmacht der einzelnen Lieferanten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "truefalse",
+      "prompt": "Die vier Geschäftsbereiche «Electrification» bis «Robotics & Discrete Automation» sind als Sparten der ABB Switzerland AG zu verstehen.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Geschäftsbereiche sind als Sparten organisiert, die jeweils spezifische Marktsegmente bedienen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "truefalse",
+      "prompt": "Der Stab «Human Resources» wurde der Unternehmensleitung angegliedert, da Personalfragen für alle Geschäftsbereiche sehr ähnlich sind und damit Redundanzen vermieden werden.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "HR ist zentralisiert, um Effizienz und Einheitlichkeit zu gewährleisten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "truefalse",
+      "prompt": "«Marketing & Sales» ist sehr spezifisch für den Geschäftsbereich «Electrification», weshalb er als eigene Stabsstelle diesem Geschäftsbereich untergeordnet wird.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marketing & Sales ist auf die spezifischen Bedürfnisse des Geschäftsbereichs abgestimmt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "truefalse",
+      "prompt": "«Energy Industries» ist weniger wichtig als «Turbocharging», weshalb er im Geschäftsbereich «Industrial Automation» zuletzt aufgeführt wird.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Reihenfolge im Organigramm spiegelt nicht die Wichtigkeit wider.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "truefalse",
+      "prompt": "Die ABB Switzerland AG hat eine Matrix-Organisation gewählt, da Funktionen wie «Digitalization» in allen Sparten eine Rolle spielen und so ähnliche Probleme in allen Sparten leichter gelöst werden können.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Organigramm zeigt eine funktionale Organisation, keine Matrixstruktur.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "truefalse",
+      "prompt": "Die einzelnen Sparten können in Konkurrenz zueinander treten, was eine bessere Leistung, aber auch Konflikte zur Folge haben kann.",
+      "scenario": "Im Jahr 2020 hatte die ABB Schweiz folgendes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Sparten können konkurrieren, was Innovation fördert, aber auch Konflikte verursachen kann.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "open",
+      "prompt": "Benennen Sie die drei Ebenen des Kulturmodells von Schein (1984) und nennen Sie je Ebene genau ein Beispiel, wie bei Amazon diese Ebene umgesetzt wird.",
+      "scenario": "\"The most important single thing is to obsessively focus on the customer. It's our job everyday to make every important aspect of the customer experience a little bit better.\" (Jeff Bezos, Amazon)",
+      "options": [],
+      "correct": [],
+      "points": 3.0,
+      "explanation": "",
+      "modelAnswer": "Artefakte: Offene Büros und flexible Arbeitszeiten, die Innovation fördern. Werte: Kundenorientierung als zentraler Wert, der in allen Unternehmensentscheidungen reflektiert wird. Grundannahmen: Der Glaube, dass Technologie die Welt verbessern kann und sollte.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "truefalse",
+      "prompt": "Ein Generalunternehmer im Baugewerbe ist ein typisches Beispiel für einen Komplettanbieter.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ein Generalunternehmer bietet alle Leistungen aus einer Hand an, was typisch für einen Komplettanbieter ist.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "truefalse",
+      "prompt": "Apple ist ein typisches Beispiel für einen Spezialanbieter, da sich das Unternehmen auf die Bereiche der Wertschöpfungskette konzentriert, die es am besten beherrscht.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Apple fokussiert sich auf Design und Innovation, was es zu einem Spezialanbieter macht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "truefalse",
+      "prompt": "Red Bull ist ein klassischer Komplettanbieter, da das Unternehmen von Getränken, Medien, Events etc. in sehr vielen Bereichen Waren und Dienstleistungen anbietet.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Red Bull ist ein Spezialanbieter, der sich auf die Marke und das Erlebnis konzentriert, nicht auf eine breite Produktpalette.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "truefalse",
+      "prompt": "Ein Unternehmen, das Festivals organisiert, ist ein Lösungsanbieter.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ein Festivalorganisator bietet eine Komplettlösung für ein Event an, was es zu einem Lösungsanbieter macht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "truefalse",
+      "prompt": "Primäraktivitäten schaffen die eigentliche Wertschöpfung der Organisation und sind deshalb wichtiger als die unterstützenden Aktivitäten.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Primär- und unterstützende Aktivitäten sind beide wichtig für die Wertschöpfung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "truefalse",
+      "prompt": "Die Wertkette besteht aus Primäraktivitäten abzüglich der unterstützenden Aktivitäten, woraus die Marge resultiert.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Wertkette umfasst sowohl Primär- als auch unterstützende Aktivitäten, die zusammen die Marge beeinflussen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "truefalse",
+      "prompt": "Je besser die Primäraktivitäten und die unterstützenden Aktivitäten aufeinander abgestimmt sind, desto höher ist die Gewinnspanne und damit der Wettbewerbsvorteil.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Eine gute Abstimmung zwischen Primär- und unterstützenden Aktivitäten erhöht die Effizienz und den Wettbewerbsvorteil.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "truefalse",
+      "prompt": "Die Wertkette kann angepasst und auch auf die Wertschöpfung von Dienstleistungsunternehmen übertragen werden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Wertkette ist ein flexibles Modell, das auf verschiedene Branchen angewendet werden kann.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "truefalse",
+      "prompt": "Von meinen Vorgesetzten durfte ich grosses Vertrauen und eine hohe Wertschätzung erfahren.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Vertrauen und Wertschätzung sind Motivatoren, keine Hygienefaktoren.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "truefalse",
+      "prompt": "Unkomplizierter und respektvoller Umgang. Du-Kultur und offene Türen.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Ein respektvoller Umgang ist ein Motivator, keine Hygienefaktor.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "truefalse",
+      "prompt": "Sehr grosszügige Fringe Benefits und Sozialleistungen.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Fringe Benefits und Sozialleistungen sind Hygienefaktoren.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 42,
+      "type": "truefalse",
+      "prompt": "Ich mag die direkte Art meiner Chefin. Bei ihr weiss ich immer, woran ich bin.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die direkte Art der Führung ist ein Motivator, keine Hygienefaktor.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 43,
+      "type": "truefalse",
+      "prompt": "Aus betrieblichen Gründen wurde noch niemand entlassen.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Sicherheit des Arbeitsplatzes ist ein Hygienefaktor.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 44,
+      "type": "truefalse",
+      "prompt": "Ich kann Aufträge auswählen und habe dadurch enorme Gestaltungsfreiheit.",
+      "scenario": "Die Rivella AG wurde 1952 vom Pionier und Rivella-Erfinder Robert Barth gegründet und ist die grösste Unternehmensgruppe für Marken-Erfrischungsgetränke aus der Schweiz.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Gestaltungsfreiheit ist ein Motivator, keine Hygienefaktor.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 45,
+      "type": "truefalse",
+      "prompt": "Durch Employer Branding spart sich Rivella aufwändige Werbe- und Recruitment-Kampagnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Employer Branding ergänzt, aber ersetzt nicht die Notwendigkeit von Werbe- und Recruitment-Kampagnen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 46,
+      "type": "truefalse",
+      "prompt": "Beim Aufbau und der Positionierung einer Arbeitgebermarke (Employer Brand) sollen vorwiegend die Präferenzen der Führungskräfte von Rivella berücksichtigt werden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Präferenzen der Zielgruppe, nicht der Führungskräfte, sollten im Fokus stehen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 47,
+      "type": "truefalse",
+      "prompt": "Der demografische Wandel macht für Rivella kein Employer Branding notwendig, das Getränk wird von allen Altersschichten konsumiert.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Unabhängig vom Konsumverhalten ist Employer Branding wichtig, um als attraktiver Arbeitgeber wahrgenommen zu werden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 48,
+      "type": "truefalse",
+      "prompt": "Die derzeitigen Mitarbeitenden kennen die EVPs von Rivella. Deshalb sollten geeignete Medien und Kanäle vor allem für die Kommunikation ausserhalb des Unternehmens genutzt werden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Externe Kommunikation ist wichtig, um neue Talente anzuziehen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 49,
+      "type": "truefalse",
+      "prompt": "Der Beitrag zum Gemeinwohl entspricht einer mittleren (wechselseitigen) Reichweite.",
+      "scenario": "Das Leitbild des Outdoor-Herstellers vaude lautet: Wir verstehen Unternehmertum als Verantwortung, einen Beitrag zum Gemeinwohl zu leisten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Der Beitrag zum Gemeinwohl hat eine mittlere Reichweite, da er sowohl intern als auch extern wirkt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 50,
+      "type": "truefalse",
+      "prompt": "Die Übernahme von Verantwortung kann als langfristig beschrieben werden.",
+      "scenario": "Das Leitbild des Outdoor-Herstellers vaude lautet: Wir verstehen Unternehmertum als Verantwortung, einen Beitrag zum Gemeinwohl zu leisten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Verantwortungsübernahme ist ein langfristiges Engagement.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 51,
+      "type": "truefalse",
+      "prompt": "Der Verantwortungsbegriff entspricht der utilitaristischen Ethik des Modells nach Schüz.",
+      "scenario": "Das Leitbild des Outdoor-Herstellers vaude lautet: Wir verstehen Unternehmertum als Verantwortung, einen Beitrag zum Gemeinwohl zu leisten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Verantwortungsbegriff entspricht eher der Tugend- oder Pflichtenethik.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 52,
+      "type": "truefalse",
+      "prompt": "Mitarbeiter und Partner sind die Instanz auf der Ebene der sozialen Verantwortung.",
+      "scenario": "Das Leitbild des Outdoor-Herstellers vaude lautet: Wir verstehen Unternehmertum als Verantwortung, einen Beitrag zum Gemeinwohl zu leisten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Mitarbeiter und Partner sind zentrale Stakeholder in der sozialen Verantwortung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 53,
+      "type": "open",
+      "prompt": "Begründen Sie mit Hilfe der drei Grundmodelle der Ethik, warum die Migros Verantwortung in diesem Bereich übernimmt.",
+      "scenario": "2022 hat die Migros ein neues Kapsel-System ohne Kapsel lanciert: CoffeeB.",
+      "options": [],
+      "correct": [],
+      "points": 3.0,
+      "explanation": "",
+      "modelAnswer": "Tugendethik: Migros handelt tugendhaft, indem sie nachhaltige Lösungen fördert und Verantwortung für die Umwelt übernimmt. Utilitaristische Ethik: Die Einführung des CoffeeB-Systems maximiert das Wohl der Gesellschaft, indem es Müll reduziert. Pflichtenethik: Migros erfüllt ihre Pflicht, umweltfreundliche Produkte anzubieten und so ihrer gesellschaftlichen Verantwortung gerecht zu werden.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 54,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Strengere Reiserichtlinien» handelt es sich um eine Rahmenbedingung.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Strengere Reiserichtlinien sind externe Vorgaben, die das Unternehmen beachten muss.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 55,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Gewinnmarge» handelt es sich um eine Steuerungsgrösse (=Hebel).",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Gewinnmarge ist ein Ergebnis, keine Steuerungsgrösse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 56,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Emissionsabgaben» handelt es sich um eine Steuerungsgrösse (=Hebel).",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Emissionsabgaben sind externe Kosten, keine Steuerungsgrösse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 57,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Ticketpreise» handelt es sich ausschliesslich um eine Messgrösse (Indikator).",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Ticketpreise sind sowohl ein Indikator als auch eine Steuerungsgrösse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 58,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Kundenzufriedenheit» handelt es sich um eine Messgrösse (Indikator).",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Kundenzufriedenheit wird gemessen, um den Erfolg von Massnahmen zu bewerten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 59,
+      "type": "truefalse",
+      "prompt": "Bei der Grösse «Servicequalität» handelt es sich um eine Rahmenbedingung.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Servicequalität ist eine interne Grösse, die das Unternehmen beeinflussen kann.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 60,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Strengere Reiserichtlinien» und der Grösse «Nachfrage nach Flügen» besteht ein positiver Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Strengere Reiserichtlinien führen in der Regel zu einer geringeren Nachfrage nach Flügen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 61,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Kosten pro Passagier» und der Grösse «Gewinnmarge» besteht ein negativer Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Höhere Kosten pro Passagier reduzieren die Gewinnmarge.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 62,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Servicequalität» und der Grösse «Kundenzufriedenheit» besteht ein positiver Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Bessere Servicequalität führt zu höherer Kundenzufriedenheit.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 63,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Impfpflicht für Mitarbeitende» und der Grösse «Ansteckungsrisiko der Kunden» besteht ein negativer Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Eine Impfpflicht reduziert das Ansteckungsrisiko.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 64,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Gehalt für Mitarbeiter» und der Grösse «Kosten pro Passagier» besteht ein positiver Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Höhere Gehälter erhöhen die Kosten pro Passagier.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 65,
+      "type": "truefalse",
+      "prompt": "Zwischen der Grösse «Impfpflicht für Mitarbeitende» und der Grösse «Nachfrage nach Flügen» besteht ein negativer Wirkungszusammenhang.",
+      "scenario": "Im Anschluss an Ihr Studium treten Sie eine Stelle im Stab der Unternehmensleitung der Swiss International Air Lines AG an.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Eine Impfpflicht könnte das Vertrauen der Kunden erhöhen und somit die Nachfrage steigern.",
+      "modelAnswer": "",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    }
+  ]
+}

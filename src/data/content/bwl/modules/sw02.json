@@ -1,0 +1,365 @@
+{
+  "title": "Strategische Unternehmensführung",
+  "week": "SW 2-3",
+  "tagline": "Strategische Unternehmensführung für nachhaltige Wettbewerbsvorteile.",
+  "summary": "In den Wochen 2 und 3 der Vorlesung wird die strategische Unternehmensführung behandelt. Die Studierenden lernen, wie sie strategische Analysen durchführen und Strategien planen und umsetzen können. Wichtige Modelle wie das 5-Kräfte-Modell von Porter, die SWOT-Analyse und die BCG-Matrix werden vorgestellt und angewendet. Zudem werden die Wettbewerbs- und Wachstumsstrategien nach Porter und Ansoff erläutert.",
+  "learningGoals": [
+    "Zusammenhänge zwischen Strategie, Struktur und Kultur erklären.",
+    "Merkmale einer Strategie nennen.",
+    "5-Kräfte-Modell von Porter anwenden.",
+    "SWOT-Analyse anwenden.",
+    "Wettbewerbsstrategien nach Porter erläutern.",
+    "Wachstumsstrategien nach Ansoff erläutern.",
+    "BCG-Matrix anwenden."
+  ],
+  "blocks": [
+    {
+      "title": "Definition und Merkmale einer Strategie",
+      "body": "Die Strategie ist langfristig und vertraulich. Sie definiert die Marschrichtung und zeigt die Schritte auf, um von der Gegenwart zum Visionsziel zu gelangen.",
+      "bullets": [
+        "Langfristig und beständig",
+        "Vertraulichkeit",
+        "Marschrichtung und Leitplanken"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "5-Kräfte-Modell von Porter",
+      "body": "Das 5-Kräfte-Modell analysiert die Branchenattraktivität basierend auf fünf Wettbewerbskräften: Bedrohung durch neue Konkurrenten, Verhandlungsmacht der Lieferanten und Kunden, Bedrohung durch Ersatzprodukte und Rivalität unter bestehenden Wettbewerbern.",
+      "bullets": [
+        "Bedrohung durch neue Konkurrenten",
+        "Verhandlungsmacht der Lieferanten",
+        "Verhandlungsmacht der Kunden",
+        "Bedrohung durch Ersatzprodukte",
+        "Rivalität unter bestehenden Wettbewerbern"
+      ],
+      "articles": [
+        {
+          "ref": "Porter",
+          "text": "Michael Porter ist der Entwickler des 5-Kräfte-Modells."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "SWOT-Analyse",
+      "body": "Die SWOT-Analyse bewertet interne Stärken und Schwächen sowie externe Chancen und Gefahren. Sie dient als Grundlage für die Entwicklung von Strategieansätzen.",
+      "bullets": [
+        "Stärken und Schwächen (Inwelt)",
+        "Chancen und Gefahren (Umwelt)",
+        "Strategieansätze: SO, WO, ST, WT"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Wettbewerbsstrategien nach Porter",
+      "body": "Porter unterscheidet zwischen Kostenführerschaft, Differenzierung und Fokusstrategien. Unternehmen können sich entweder auf Kosten oder auf Leistung konzentrieren, um Wettbewerbsvorteile zu erzielen.",
+      "bullets": [
+        "Kostenführerschaft",
+        "Differenzierung",
+        "Kostenfokus",
+        "Differenzierungsfokus"
+      ],
+      "articles": [
+        {
+          "ref": "Porter",
+          "text": "Porter entwickelte die Wettbewerbsstrategien."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Wachstumsstrategien nach Ansoff",
+      "body": "Ansoff identifiziert vier Wachstumsstrategien: Marktdurchdringung, Marktentwicklung, Produktentwicklung und Diversifikation. Diese Strategien helfen Unternehmen, ihre Marktposition zu stärken.",
+      "bullets": [
+        "Marktdurchdringung",
+        "Marktentwicklung",
+        "Produktentwicklung",
+        "Diversifikation"
+      ],
+      "articles": [
+        {
+          "ref": "Ansoff",
+          "text": "Ansoff ist bekannt für seine Wachstumsstrategien."
+        }
+      ],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Strategie",
+      "definition": "Langfristige Marschrichtung eines Unternehmens."
+    },
+    {
+      "term": "5-Kräfte-Modell",
+      "definition": "Analysemodell zur Bewertung der Branchenattraktivität."
+    },
+    {
+      "term": "SWOT-Analyse",
+      "definition": "Analyse von Stärken, Schwächen, Chancen und Gefahren."
+    },
+    {
+      "term": "Wettbewerbsstrategien",
+      "definition": "Strategien zur Erzielung von Wettbewerbsvorteilen."
+    },
+    {
+      "term": "Kostenführerschaft",
+      "definition": "Strategie der Kostensenkung zur Preisführerschaft."
+    },
+    {
+      "term": "Differenzierung",
+      "definition": "Strategie der Einzigartigkeit zur Abgrenzung vom Wettbewerb."
+    },
+    {
+      "term": "Marktdurchdringung",
+      "definition": "Strategie zur Erhöhung des Marktanteils bestehender Produkte."
+    },
+    {
+      "term": "Marktentwicklung",
+      "definition": "Strategie zur Erschliessung neuer Märkte mit bestehenden Produkten."
+    },
+    {
+      "term": "Produktentwicklung",
+      "definition": "Strategie zur Entwicklung neuer Produkte für bestehende Märkte."
+    },
+    {
+      "term": "Diversifikation",
+      "definition": "Strategie zur Erschliessung neuer Märkte mit neuen Produkten."
+    },
+    {
+      "term": "BCG-Matrix",
+      "definition": "Analyseinstrument zur Bewertung des Produktportfolios."
+    },
+    {
+      "term": "SEP",
+      "definition": "Strategische Erfolgspositionen, langfristige Wettbewerbsvorteile."
+    },
+    {
+      "term": "USP",
+      "definition": "Unique Selling Proposition, kurzfristige Alleinstellungsmerkmale."
+    },
+    {
+      "term": "Balanced Scorecard",
+      "definition": "Instrument zur Messung der Strategieumsetzung."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Strategie?",
+      "back": "Langfristige Marschrichtung eines Unternehmens.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne die fünf Kräfte im 5-Kräfte-Modell von Porter.",
+      "back": "Bedrohung durch neue Konkurrenten, Verhandlungsmacht der Lieferanten, Verhandlungsmacht der Kunden, Bedrohung durch Ersatzprodukte, Rivalität unter bestehenden Wettbewerbern.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was analysiert die SWOT-Analyse?",
+      "back": "Interne Stärken und Schwächen sowie externe Chancen und Gefahren.",
+      "tag": "process"
+    },
+    {
+      "front": "Welche Wettbewerbsstrategien gibt es nach Porter?",
+      "back": "Kostenführerschaft, Differenzierung, Kostenfokus, Differenzierungsfokus.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Marktdurchdringung?",
+      "back": "Strategie zur Erhöhung des Marktanteils bestehender Produkte.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter Diversifikation?",
+      "back": "Strategie zur Erschliessung neuer Märkte mit neuen Produkten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was zeigt die BCG-Matrix?",
+      "back": "Analyse des Produktportfolios basierend auf Marktanteil und Marktwachstum.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind strategische Erfolgspositionen (SEP)?",
+      "back": "Langfristige Wettbewerbsvorteile eines Unternehmens.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen SEP und USP?",
+      "back": "SEP sind langfristige Wettbewerbsvorteile, USP sind kurzfristige Alleinstellungsmerkmale.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die Balanced Scorecard?",
+      "back": "Instrument zur Messung der Strategieumsetzung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Strategie verfolgt ein Unternehmen bei Kostenführerschaft?",
+      "back": "Kostensenkung zur Preisführerschaft.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Differenzierung?",
+      "back": "Strategie der Einzigartigkeit zur Abgrenzung vom Wettbewerb.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Produktentwicklung?",
+      "back": "Strategie zur Entwicklung neuer Produkte für bestehende Märkte.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Marktentwicklung?",
+      "back": "Strategie zur Erschliessung neuer Märkte mit bestehenden Produkten.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Analyse bewertet interne Stärken und Schwächen sowie externe Chancen und Gefahren?",
+      "options": [
+        "PESTEL-Analyse",
+        "SWOT-Analyse",
+        "5-Kräfte-Modell",
+        "BCG-Matrix"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die SWOT-Analyse bewertet sowohl interne als auch externe Faktoren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Strategie nach Porter fokussiert auf Kostensenkung?",
+      "options": [
+        "Differenzierung",
+        "Kostenführerschaft",
+        "Kostenfokus",
+        "Differenzierungsfokus"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Kostenführerschaft zielt auf Kostensenkung ab, um Preisführerschaft zu erreichen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist das Ziel der Marktdurchdringung?",
+      "options": [
+        "Erhöhung des Marktanteils bestehender Produkte",
+        "Erschliessung neuer Märkte mit bestehenden Produkten",
+        "Entwicklung neuer Produkte für bestehende Märkte",
+        "Erschliessung neuer Märkte mit neuen Produkten"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Marktdurchdringung zielt darauf ab, den Marktanteil bestehender Produkte zu erhöhen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Kraft im 5-Kräfte-Modell von Porter bezieht sich auf die Bedrohung durch neue Anbieter?",
+      "options": [
+        "Verhandlungsmacht der Lieferanten",
+        "Rivalität unter bestehenden Wettbewerbern",
+        "Bedrohung durch neue Konkurrenten",
+        "Bedrohung durch Ersatzprodukte"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Bedrohung durch neue Konkurrenten bezieht sich auf die Gefahr neuer Anbieter in der Branche.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Strategie nach Ansoff beinhaltet die Entwicklung neuer Produkte für bestehende Märkte?",
+      "options": [
+        "Marktdurchdringung",
+        "Marktentwicklung",
+        "Produktentwicklung",
+        "Diversifikation"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Produktentwicklung zielt darauf ab, neue Produkte für bestehende Märkte zu entwickeln.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was zeigt die BCG-Matrix an?",
+      "options": [
+        "Analyse der Branchenattraktivität",
+        "Analyse des Produktportfolios",
+        "Analyse der internen und externen Faktoren",
+        "Analyse der strategischen Erfolgspositionen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die BCG-Matrix analysiert das Produktportfolio basierend auf Marktanteil und Marktwachstum.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Strategie nach Porter fokussiert auf Einzigartigkeit?",
+      "options": [
+        "Kostenführerschaft",
+        "Differenzierung",
+        "Kostenfokus",
+        "Differenzierungsfokus"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Differenzierung zielt darauf ab, sich durch Einzigartigkeit vom Wettbewerb abzugrenzen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine strategische Erfolgsposition (SEP)?",
+      "options": [
+        "Kurzfristige Alleinstellungsmerkmale",
+        "Langfristige Wettbewerbsvorteile",
+        "Instrument zur Messung der Strategieumsetzung",
+        "Analyse des Produktportfolios"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "SEP sind langfristige Wettbewerbsvorteile eines Unternehmens.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Strategie nach Ansoff beinhaltet die Erschliessung neuer Märkte mit neuen Produkten?",
+      "options": [
+        "Marktdurchdringung",
+        "Marktentwicklung",
+        "Produktentwicklung",
+        "Diversifikation"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Diversifikation zielt darauf ab, neue Märkte mit neuen Produkten zu erschliessen.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Kraft im 5-Kräfte-Modell von Porter bezieht sich auf die Verhandlungsmacht der Kunden?",
+      "options": [
+        "Verhandlungsmacht der Lieferanten",
+        "Rivalität unter bestehenden Wettbewerbern",
+        "Verhandlungsmacht der Abnehmer",
+        "Bedrohung durch Ersatzprodukte"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Verhandlungsmacht der Abnehmer bezieht sich auf die Macht der Kunden gegenüber den Unternehmen der Branche.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "bwl-sw02",
+  "subjectId": "bwl"
+}

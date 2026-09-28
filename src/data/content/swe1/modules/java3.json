@@ -1,0 +1,261 @@
+{
+  "title": "Arrays & for-Schleifen",
+  "week": "Woche 3",
+  "tagline": "Effiziente Datenverwaltung und Iteration in Java.",
+  "summary": "In dieser Woche lernen wir die Grundlagen von Arrays und for-Schleifen in Java. Arrays ermöglichen das Speichern mehrerer Variablen des gleichen Typs in einer einzigen Datenstruktur. For-Schleifen bieten eine kompakte Möglichkeit, über Arrays zu iterieren und sind in Java weit verbreitet. Wir betrachten die Deklaration, Instanziierung und den Zugriff auf Arrays sowie die Syntax und Anwendung von for-Schleifen.",
+  "learningGoals": [
+    "Verstehen der Struktur und Funktion von Arrays.",
+    "Deklaration und Instanziierung von Arrays in Java.",
+    "Effizientes Iterieren über Arrays mit for-Schleifen.",
+    "Vermeidung von Laufzeitfehlern durch korrekten Array-Zugriff."
+  ],
+  "blocks": [
+    {
+      "title": "Aufgabe von Arrays",
+      "body": "Arrays ermöglichen das Speichern mehrerer Variablen des gleichen Typs in einer einzigen Datenstruktur. Dies vereinfacht die Verwaltung und den Zugriff auf die Daten.",
+      "bullets": [
+        "Speichern von Variablen des gleichen Typs.",
+        "Zugriff über Index.",
+        "Feste Länge."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Deklaration und Instanziierung von Arrays",
+      "body": "Arrays werden in Java durch Deklaration einer Array-Variable und Instanziierung mit dem Schlüsselwort 'new' erstellt. Die Länge des Arrays muss bei der Instanziierung angegeben werden.",
+      "bullets": [
+        "Deklaration: int[] werte;",
+        "Instanziierung: werte = new int[4];",
+        "Deklaration und Instanziierung in einem Schritt: int[] werte = new int[4];"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Zugriff auf Arrays",
+      "body": "Der Zugriff auf die Elemente eines Arrays erfolgt über den Index. Sowohl Lese- als auch Schreibzugriffe sind möglich.",
+      "bullets": [
+        "Erster Index ist 0.",
+        "Letzter Index ist Länge - 1.",
+        "Zugriff: werte[3] = 24;"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "For-Schleifen",
+      "body": "For-Schleifen bieten eine kompakte Möglichkeit, über Arrays zu iterieren. Sie kombinieren Zählerinitialisierung, Bedingungsprüfung und Zählererhöhung in einer Zeile.",
+      "bullets": [
+        "Syntax: for (int i = 0; i < array.length; i++)",
+        "Kompakt und effizient.",
+        "Vermeidung von Fehlern durch klare Struktur."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Zugriff auf ungültigen Index",
+      "body": "Ein Zugriff auf einen ungültigen Index führt zu einem Laufzeitfehler. Der Fehler tritt erst zur Laufzeit auf und kann das Programm zum Absturz bringen.",
+      "bullets": [
+        "ArrayIndexOutOfBoundsException bei ungültigem Index.",
+        "Fehler tritt zur Laufzeit auf.",
+        "Wichtig: Immer innerhalb der Array-Grenzen bleiben."
+      ],
+      "articles": [],
+      "type": "pitfall"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Array",
+      "definition": "Eine Datenstruktur zur Speicherung mehrerer Variablen des gleichen Typs."
+    },
+    {
+      "term": "Index",
+      "definition": "Eine Nummer, die die Position eines Elements in einem Array angibt."
+    },
+    {
+      "term": "Deklaration",
+      "definition": "Das Erstellen einer Variablen mit einem bestimmten Typ."
+    },
+    {
+      "term": "Instanziierung",
+      "definition": "Das Erstellen eines neuen Objekts oder Arrays mit dem Schlüsselwort 'new'."
+    },
+    {
+      "term": "For-Schleife",
+      "definition": "Eine Schleife, die Zählerinitialisierung, Bedingungsprüfung und Zählererhöhung kombiniert."
+    },
+    {
+      "term": "ArrayIndexOutOfBoundsException",
+      "definition": "Ein Laufzeitfehler, der bei Zugriff auf einen ungültigen Array-Index auftritt."
+    },
+    {
+      "term": "Laufzeitfehler",
+      "definition": "Ein Fehler, der während der Ausführung eines Programms auftritt."
+    },
+    {
+      "term": "Zähler",
+      "definition": "Eine Variable, die zur Steuerung der Schleifeniteration verwendet wird."
+    },
+    {
+      "term": "Syntax",
+      "definition": "Die Regeln, die die Struktur von Code bestimmen."
+    },
+    {
+      "term": "Variable",
+      "definition": "Ein benannter Speicherplatz, der einen Wert speichern kann."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist ein Array?",
+      "back": "Eine Datenstruktur zur Speicherung mehrerer Variablen des gleichen Typs.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie wird ein Array in Java deklariert?",
+      "back": "int[] werte;",
+      "tag": "process"
+    },
+    {
+      "front": "Wie wird ein Array instanziiert?",
+      "back": "werte = new int[4];",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist der erste Index eines Arrays?",
+      "back": "0",
+      "tag": "concept"
+    },
+    {
+      "front": "Was passiert bei Zugriff auf einen ungültigen Index?",
+      "back": "ArrayIndexOutOfBoundsException tritt auf.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Wie lautet die Syntax einer for-Schleife?",
+      "back": "for (int i = 0; i < array.length; i++)",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine ArrayIndexOutOfBoundsException?",
+      "back": "Ein Laufzeitfehler bei Zugriff auf einen ungültigen Index.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist eine Variable?",
+      "back": "Ein benannter Speicherplatz, der einen Wert speichern kann.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Laufzeitfehler?",
+      "back": "Ein Fehler, der während der Ausführung eines Programms auftritt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie kann man die Länge eines Arrays bestimmen?",
+      "back": "Mit array.length",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen Deklaration und Instanziierung?",
+      "back": "Deklaration erstellt eine Variable, Instanziierung erstellt ein Objekt oder Array.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Zähler in einer Schleife?",
+      "back": "Eine Variable zur Steuerung der Schleifeniteration.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist der erste Index eines Arrays?",
+      "options": [
+        "0",
+        "1",
+        "Länge - 1",
+        "Länge"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Der erste Index eines Arrays ist immer 0.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Schleife ist in Java am häufigsten verwendet?",
+      "options": [
+        "while-Schleife",
+        "do-while-Schleife",
+        "for-Schleife",
+        "foreach-Schleife"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die for-Schleife ist die in Java am häufigsten verwendete Schleife.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was passiert bei Zugriff auf einen Index, der ausserhalb der Array-Grenzen liegt?",
+      "options": [
+        "Kompilierfehler",
+        "Laufzeitfehler",
+        "Keine Ausgabe",
+        "Das Programm läuft weiter"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Laufzeitfehler tritt auf, genauer gesagt eine ArrayIndexOutOfBoundsException.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie wird ein Array instanziiert?",
+      "options": [
+        "int[] werte;",
+        "werte = new int[4];",
+        "int werte = new int[];",
+        "new int[4];"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Array wird mit dem Schlüsselwort 'new' und der Angabe der Länge instanziiert.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Ausgabe erzeugt das Programm: int[] d = {3, 4, 7, 1}; int j = 1; while (j < d.length) { IO.println(d[j]-d[0]); j++; }",
+      "options": [
+        "1, 4, 7",
+        "1, 4, 1",
+        "1, 4, 4",
+        "1, 4, 7, 1"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Programm subtrahiert den ersten Wert des Arrays von den nachfolgenden Werten.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Wie lautet die Syntax einer for-Schleife?",
+      "options": [
+        "for (int i = 0; i < array.length; i++)",
+        "for (int i = 0; i++)",
+        "for (int i < array.length; i++)",
+        "for (i = 0; i < array.length; i++)"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die for-Schleife kombiniert Zählerinitialisierung, Bedingungsprüfung und Zählererhöhung in einer Zeile.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "swe1-java3",
+  "subjectId": "swe1"
+}

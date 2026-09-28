@@ -1,0 +1,383 @@
+{
+  "title": "Vertragsrecht III - IT-Verträge & AGB",
+  "week": "SW 3",
+  "tagline": "Vertragsarten und AGB im IT-Bereich verstehen und anwenden.",
+  "summary": "In dieser Woche werden die Grundlagen von IT-Verträgen und Allgemeinen Geschäftsbedingungen (AGB) behandelt. Der Fokus liegt auf der Vertragsfreiheit und den verschiedenen Arten von IT-Verträgen, wie Nominat- und Innominatverträgen. Zudem wird die Bedeutung und Anwendbarkeit von AGB im Geschäftsverkehr, insbesondere im B2C-Bereich, erläutert. Die rechtlichen Rahmenbedingungen und Schutzmechanismen für Konsumenten werden ebenfalls thematisiert.",
+  "learningGoals": [
+    "Verstehen der Vertragsfreiheit und Typenfreiheit im Vertragsrecht.",
+    "Unterscheidung zwischen Nominat- und Innominatverträgen.",
+    "Kenntnis der verschiedenen IT-Vertragstypen und deren Merkmale.",
+    "Verständnis der Anwendbarkeit und Grenzen von AGB.",
+    "Erkennen der Schutzmechanismen für Konsumenten bei AGB."
+  ],
+  "blocks": [
+    {
+      "title": "Vertragsfreiheit und Typenfreiheit",
+      "body": "Verträge können innerhalb der Schranken des Rechts frei gestaltet werden. Dies umfasst sowohl die Inhaltsfreiheit als auch die Typenfreiheit.",
+      "bullets": [
+        "Inhaltsfreiheit gemäss Art. 19 Abs. 1 OR",
+        "Typenfreiheit: Verträge müssen nicht einem bestimmten Typ entsprechen"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 19 Abs. 1 OR",
+          "text": "Inhaltsfreiheit der Verträge"
+        },
+        {
+          "ref": "Art. 18 OR",
+          "text": "Vertragsauslegung unabhängig von der Bezeichnung"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Nominatverträge",
+      "body": "Nominatverträge sind gesetzlich geregelte Vertragstypen im Obligationenrecht, die spezifische Bestimmungen für die Vertragsparteien enthalten.",
+      "bullets": [
+        "Mietvertrag: Überlassung einer Sache gegen Mietzins",
+        "Kaufvertrag: Erwerb von Waren oder Rechten",
+        "Werkvertrag: Erstellung eines Werks mit bestimmtem Erfolg",
+        "Auftrag: Sorgfältiges Tätigwerden ohne Erfolgsgarantie"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 184 ff. OR",
+          "text": "Regelungen zu Kaufverträgen"
+        },
+        {
+          "ref": "Art. 253 ff. OR",
+          "text": "Regelungen zu Mietverträgen"
+        },
+        {
+          "ref": "Art. 363 ff. OR",
+          "text": "Regelungen zu Werkverträgen"
+        },
+        {
+          "ref": "Art. 394 ff. OR",
+          "text": "Regelungen zu Aufträgen"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Innominatverträge",
+      "body": "Innominatverträge sind nicht gesetzlich geregelte Verträge, die auf der Vertragsfreiheit basieren und oft Elemente verschiedener Vertragsarten kombinieren.",
+      "bullets": [
+        "Leasingverträge",
+        "Franchiseverträge",
+        "Outsourcingverträge"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "IT-Verträge",
+      "body": "IT-Verträge umfassen verschiedene Vertragstypen, die spezifische Anforderungen und Leistungen im IT-Bereich regeln.",
+      "bullets": [
+        "Software-Entwicklungsvertrag: Entwicklung individueller Software",
+        "Software-Überlassung: Lizenz- oder Kaufvertrag",
+        "Wartungsvereinbarung: Dauerschuldverhältnis oder Sukzessivleistungsvertrag"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Allgemeine Geschäftsbedingungen (AGB)",
+      "body": "AGB sind vorformulierte Vertragsbedingungen für eine Vielzahl von Geschäften. Ihre Anwendbarkeit und Wirksamkeit hängen von der ausdrücklichen Vereinbarung und Zugänglichkeit ab.",
+      "bullets": [
+        "AGB müssen ausdrücklich vereinbart werden",
+        "Individuelle Abreden haben Vorrang",
+        "Ungewöhnlichkeitsregel im B2C-Bereich",
+        "Globalakzept und Online-AGB"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 1 OR",
+          "text": "Vertragsabschluss durch übereinstimmende Willensäusserung"
+        },
+        {
+          "ref": "Art. 8 UWG",
+          "text": "Unlauterer Wettbewerb und Konsumentenschutz"
+        }
+      ],
+      "type": "law"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Vertragsfreiheit",
+      "definition": "Die Freiheit, den Inhalt eines Vertrages innerhalb der gesetzlichen Schranken zu gestalten.",
+      "article": "Art. 19 Abs. 1 OR"
+    },
+    {
+      "term": "Typenfreiheit",
+      "definition": "Die Freiheit, Verträge ohne Bindung an gesetzlich definierte Vertragstypen abzuschliessen."
+    },
+    {
+      "term": "Nominatvertrag",
+      "definition": "Gesetzlich geregelter Vertragstyp im OR, z.B. Kaufvertrag, Mietvertrag."
+    },
+    {
+      "term": "Innominatvertrag",
+      "definition": "Nicht gesetzlich geregelter Vertrag, der auf der Vertragsfreiheit basiert."
+    },
+    {
+      "term": "Software-Entwicklungsvertrag",
+      "definition": "Vertrag über die Entwicklung individueller Software, oft mit werkvertraglichem Charakter."
+    },
+    {
+      "term": "Software-Überlassung",
+      "definition": "Vertrag über die Überlassung von Software, entweder als Lizenz- oder Kaufvertrag."
+    },
+    {
+      "term": "Wartungsvereinbarung",
+      "definition": "Vertrag über die Wartung von Software, oft als Dauerschuldverhältnis."
+    },
+    {
+      "term": "AGB",
+      "definition": "Vorformulierte Vertragsbedingungen für eine Vielzahl von Geschäften."
+    },
+    {
+      "term": "Ungewöhnlichkeitsregel",
+      "definition": "Klauseln, die für den Verbraucher überraschend sind, können im B2C-Bereich nicht durchgesetzt werden."
+    },
+    {
+      "term": "Globalakzept",
+      "definition": "Die Praxis, AGB zu akzeptieren, ohne sie im Detail zu lesen."
+    },
+    {
+      "term": "Online-AGB",
+      "definition": "AGB, die bei Online-Verträgen leicht zugänglich und lesbar sein müssen."
+    },
+    {
+      "term": "Konsumenten-AGB",
+      "definition": "AGB, die im Geschäft zwischen Unternehmen und Konsumenten genutzt werden."
+    },
+    {
+      "term": "Vertragsauslegung",
+      "definition": "Die Interpretation eines Vertrages unabhängig von seiner Bezeichnung.",
+      "article": "Art. 18 OR"
+    },
+    {
+      "term": "Konsumentenschutz",
+      "definition": "Rechtliche Schutzmechanismen für Konsumenten, insbesondere bei AGB.",
+      "article": "Art. 8 UWG"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Vertragsfreiheit?",
+      "back": "Die Freiheit, den Inhalt eines Vertrages innerhalb der gesetzlichen Schranken zu gestalten.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Typenfreiheit?",
+      "back": "Die Freiheit, Verträge ohne Bindung an gesetzlich definierte Vertragstypen abzuschliessen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist ein Nominatvertrag?",
+      "back": "Ein gesetzlich geregelter Vertragstyp im OR, z.B. Kaufvertrag, Mietvertrag.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist ein Innominatvertrag?",
+      "back": "Ein nicht gesetzlich geregelter Vertrag, der auf der Vertragsfreiheit basiert.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist ein Software-Entwicklungsvertrag?",
+      "back": "Ein Vertrag über die Entwicklung individueller Software, oft mit werkvertraglichem Charakter.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Software-Überlassung?",
+      "back": "Ein Vertrag über die Überlassung von Software, entweder als Lizenz- oder Kaufvertrag.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Wartungsvereinbarung?",
+      "back": "Ein Vertrag über die Wartung von Software, oft als Dauerschuldverhältnis.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was sind AGB?",
+      "back": "Vorformulierte Vertragsbedingungen für eine Vielzahl von Geschäften.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was besagt die Ungewöhnlichkeitsregel?",
+      "back": "Klauseln, die für den Verbraucher überraschend sind, können im B2C-Bereich nicht durchgesetzt werden.",
+      "tag": "Regel"
+    },
+    {
+      "front": "Was ist Globalakzept?",
+      "back": "Die Praxis, AGB zu akzeptieren, ohne sie im Detail zu lesen.",
+      "tag": "Begriff"
+    },
+    {
+      "front": "Was sind Online-AGB?",
+      "back": "AGB, die bei Online-Verträgen leicht zugänglich und lesbar sein müssen.",
+      "tag": "Begriff"
+    },
+    {
+      "front": "Was sind Konsumenten-AGB?",
+      "back": "AGB, die im Geschäft zwischen Unternehmen und Konsumenten genutzt werden.",
+      "tag": "Begriff"
+    },
+    {
+      "front": "Was ist Vertragsauslegung?",
+      "back": "Die Interpretation eines Vertrages unabhängig von seiner Bezeichnung.",
+      "tag": "Begriff"
+    },
+    {
+      "front": "Was ist Konsumentenschutz?",
+      "back": "Rechtliche Schutzmechanismen für Konsumenten, insbesondere bei AGB.",
+      "tag": "Begriff"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Freiheit erlaubt es, Verträge ohne Bindung an gesetzlich definierte Vertragstypen abzuschliessen?",
+      "options": [
+        "Vertragsfreiheit",
+        "Typenfreiheit",
+        "Inhaltsfreiheit",
+        "Formfreiheit"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Typenfreiheit bezieht sich auf die Freiheit, Verträge ohne Bindung an gesetzlich definierte Vertragstypen abzuschliessen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Vertragsart ist gesetzlich geregelt und enthält spezifische Bestimmungen für die Vertragsparteien?",
+      "options": [
+        "Nominatvertrag",
+        "Innominatvertrag",
+        "Lizenzvertrag",
+        "Werkvertrag"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Nominatverträge sind gesetzlich geregelte Vertragstypen mit spezifischen Bestimmungen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Regel besagt, dass überraschende Klauseln in AGB im B2C-Bereich nicht durchgesetzt werden können?",
+      "options": [
+        "Globalakzept",
+        "Ungewöhnlichkeitsregel",
+        "Konsumentenschutzregel",
+        "Transparenzregel"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Ungewöhnlichkeitsregel besagt, dass überraschende Klauseln in AGB im B2C-Bereich nicht durchgesetzt werden können.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Vertragsart wird häufig für die Entwicklung individueller Software verwendet?",
+      "options": [
+        "Kaufvertrag",
+        "Werkvertrag",
+        "Mietvertrag",
+        "Lizenzvertrag"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der Werkvertrag wird häufig für die Entwicklung individueller Software verwendet.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Vertragsart liegt vor, wenn Software leihweise überlassen wird?",
+      "options": [
+        "Kaufvertrag",
+        "Lizenzvertrag",
+        "Werkvertrag",
+        "Mietvertrag"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei leihweiser Überlassung von Software gilt ein Lizenzvertrag.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Bestimmung im UWG schützt Konsumenten vor unlauteren AGB?",
+      "options": [
+        "Art. 8 UWG",
+        "Art. 19 OR",
+        "Art. 18 OR",
+        "Art. 1 OR"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Art. 8 UWG schützt Konsumenten vor unlauteren AGB.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Vertragsart kombiniert häufig Elemente verschiedener Vertragstypen?",
+      "options": [
+        "Nominatvertrag",
+        "Innominatvertrag",
+        "Lizenzvertrag",
+        "Auftrag"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Innominatverträge kombinieren häufig Elemente verschiedener Vertragstypen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Vertragsart ist charakteristisch für die Überlassung von Software gegen eine einmalige Gebühr?",
+      "options": [
+        "Lizenzvertrag",
+        "Kaufvertrag",
+        "Werkvertrag",
+        "Mietvertrag"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei dauerhafter Überlassung von Software gegen eine einmalige Gebühr gelten die kaufrechtlichen Bestimmungen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Art von Vertrag ist ein Software-Entwicklungsvertrag bei agilen Projekten?",
+      "options": [
+        "Werkvertrag",
+        "Auftrag",
+        "Mietvertrag",
+        "Kaufvertrag"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei agilen Projekten kann ein Software-Entwicklungsvertrag auch als Auftrag ausgestaltet sein.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Vertragsart liegt vor, wenn ein Unternehmen die Betriebsführung an ein externes Unternehmen auslagert?",
+      "options": [
+        "Leasingvertrag",
+        "Franchisevertrag",
+        "Outsourcingvertrag",
+        "Lizenzvertrag"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Outsourcingvertrag liegt vor, wenn ein Unternehmen die Betriebsführung an ein externes Unternehmen auslagert.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw3",
+  "subjectId": "wr"
+}

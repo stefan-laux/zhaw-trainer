@@ -1,0 +1,316 @@
+{
+  "title": "Ordnungsmomente & Entwicklungsmodi",
+  "week": "SW 4-5",
+  "tagline": "Verstehen Sie die Rolle von Kultur und Struktur in der Unternehmensentwicklung.",
+  "summary": "In den Wochen 4 und 5 werden die Ordnungsmomente und Entwicklungsmodi in Unternehmen behandelt. Die Studierenden lernen verschiedene Kulturmodelle kennen und wie Unternehmenskulturen beschrieben und beurteilt werden können. Zudem werden die Unterschiede zwischen Optimierung und Erneuerung als Entwicklungsmodi erläutert. Die Phasen des Wandels und die damit verbundenen Herausforderungen werden ebenfalls thematisiert.",
+  "learningGoals": [
+    "Kulturmodelle erläutern und anwenden.",
+    "Unternehmenskulturen beschreiben und beurteilen.",
+    "Gliederungsarten von Organisationen erklären.",
+    "Unterschiede zwischen Optimierung und Erneuerung erläutern.",
+    "Phasen des Wandels und Widerstände erläutern."
+  ],
+  "blocks": [
+    {
+      "title": "Unternehmenskultur",
+      "body": "Unternehmenskultur umfasst die geteilten Denk- und Handlungsmuster einer Organisation, die sich im Laufe der Zeit durch gemeinsame Bewältigung von Herausforderungen entwickelt haben.",
+      "bullets": [
+        "Nicht direkt beobachtbar, nur indirekt erschliessbar.",
+        "Äussert sich im alltäglichen Handeln der Belegschaft.",
+        "Vermittelt Sinn und Orientierung."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Kulturmodelle",
+      "body": "Kulturmodelle helfen, die verschiedenen Aspekte und Typen von Unternehmenskulturen zu verstehen und zu analysieren.",
+      "bullets": [
+        "Eisbergmodell nach Hall.",
+        "Modell von Schein: Symbole, Normen, Basisannahmen.",
+        "Kulturtypen nach Deal und Kennedy."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Gliederungsarten von Organisationen",
+      "body": "Organisationen können nach verschiedenen Kriterien gegliedert werden, um ihre Struktur und Abläufe zu optimieren.",
+      "bullets": [
+        "Aufbauorganisation: Statische Struktur.",
+        "Ablauforganisation: Dynamischer Prozessablauf.",
+        "Matrixorganisation: Kombination mehrerer Kriterien."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Entwicklungsmodi: Optimierung vs. Erneuerung",
+      "body": "Unternehmen entwickeln sich durch Optimierung und Erneuerung, wobei beide Ansätze unterschiedliche Ziele und Methoden verfolgen.",
+      "bullets": [
+        "Optimierung: Inkrementeller Wandel, kontinuierliche Verbesserung.",
+        "Erneuerung: Radikaler Wandel, fundamentale Veränderungen.",
+        "Beispiele: Toyota's Produktionssystem vs. Hybridfahrzeug Prius."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Change Management",
+      "body": "Change Management umfasst die Planung und Umsetzung von Veränderungen in Organisationen, um auf interne und externe Herausforderungen zu reagieren.",
+      "bullets": [
+        "Ursachen: Reorganisationen, neue Technologien, Globalisierung.",
+        "Ziele: Steuerung von Menschen, Informationen, Ressourcen.",
+        "Herausforderungen: Mitarbeitende für den Wandel gewinnen."
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Unternehmenskultur",
+      "definition": "Geteilte Denk- und Handlungsmuster einer Organisation."
+    },
+    {
+      "term": "Eisbergmodell",
+      "definition": "Kulturmodell, das sichtbare und unsichtbare Kulturelemente beschreibt."
+    },
+    {
+      "term": "Modell von Schein",
+      "definition": "Kulturmodell mit den Ebenen Symbole, Normen und Basisannahmen."
+    },
+    {
+      "term": "Optimierung",
+      "definition": "Inkrementeller Wandel zur kontinuierlichen Verbesserung."
+    },
+    {
+      "term": "Erneuerung",
+      "definition": "Radikaler Wandel zur fundamentalen Veränderung."
+    },
+    {
+      "term": "Change Management",
+      "definition": "Prozess zur Steuerung von Veränderungen in Organisationen."
+    },
+    {
+      "term": "Aufbauorganisation",
+      "definition": "Statische Struktur eines Unternehmens."
+    },
+    {
+      "term": "Ablauforganisation",
+      "definition": "Dynamischer Prozessablauf in einem Unternehmen."
+    },
+    {
+      "term": "Matrixorganisation",
+      "definition": "Organisationsstruktur, die mehrere Gliederungskriterien kombiniert."
+    },
+    {
+      "term": "Kulturtypen nach Deal und Kennedy",
+      "definition": "Klassifikation von Unternehmenskulturen basierend auf Risiko und Feedback."
+    },
+    {
+      "term": "Basisannahmen",
+      "definition": "Grundlegende Orientierungs- und Vorstellungsmuster in einer Organisation."
+    },
+    {
+      "term": "Symbole und Zeichen",
+      "definition": "Sichtbarer Teil der Organisationskultur, z.B. Riten und Architektur."
+    },
+    {
+      "term": "Normen und Standards",
+      "definition": "Konkretisierte Wertvorstellungen und Verhaltensstandards."
+    },
+    {
+      "term": "Subkulturen",
+      "definition": "Innerhalb der Unternehmenskultur entstehende, eigenständige Kulturen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Unternehmenskultur?",
+      "back": "Geteilte Denk- und Handlungsmuster einer Organisation.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne ein Beispiel für ein Kulturmodell.",
+      "back": "Eisbergmodell nach Hall.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was beschreibt das Modell von Schein?",
+      "back": "Symbole, Normen und Basisannahmen einer Organisationskultur.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Optimierung?",
+      "back": "Inkrementeller Wandel zur kontinuierlichen Verbesserung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Erneuerung?",
+      "back": "Radikaler Wandel zur fundamentalen Veränderung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was umfasst Change Management?",
+      "back": "Prozess zur Steuerung von Veränderungen in Organisationen.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist eine Aufbauorganisation?",
+      "back": "Statische Struktur eines Unternehmens.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Ablauforganisation?",
+      "back": "Dynamischer Prozessablauf in einem Unternehmen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Matrixorganisation?",
+      "back": "Organisationsstruktur, die mehrere Gliederungskriterien kombiniert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Kulturtypen nach Deal und Kennedy?",
+      "back": "Klassifikation von Unternehmenskulturen basierend auf Risiko und Feedback.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Basisannahmen?",
+      "back": "Grundlegende Orientierungs- und Vorstellungsmuster in einer Organisation.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Symbole und Zeichen?",
+      "back": "Sichtbarer Teil der Organisationskultur, z.B. Riten und Architektur.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Normen und Standards?",
+      "back": "Konkretisierte Wertvorstellungen und Verhaltensstandards.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Subkulturen?",
+      "back": "Innerhalb der Unternehmenskultur entstehende, eigenständige Kulturen.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Aussage beschreibt Unternehmenskultur am besten?",
+      "options": [
+        "Direkt beobachtbare Verhaltensweisen.",
+        "Geteilte Denk- und Handlungsmuster.",
+        "Formale Regeln und Vorschriften.",
+        "Individuelle Überzeugungen der Führungskräfte."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Unternehmenskultur umfasst die geteilten Denk- und Handlungsmuster einer Organisation.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welches Modell beschreibt die Ebenen Symbole, Normen und Basisannahmen?",
+      "options": [
+        "Eisbergmodell",
+        "Modell von Schein",
+        "Kulturtypen nach Deal und Kennedy",
+        "Matrixorganisation"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Modell von Schein beschreibt die Ebenen Symbole, Normen und Basisannahmen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Beispiel für Optimierung?",
+      "options": [
+        "Einführung eines neuen Produkts.",
+        "Kontinuierliche Verbesserung bestehender Prozesse.",
+        "Fusion mit einem anderen Unternehmen.",
+        "Entwicklung eines revolutionären Produkts."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Optimierung bezieht sich auf die kontinuierliche Verbesserung bestehender Prozesse.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Organisationsstruktur kombiniert mehrere Gliederungskriterien?",
+      "options": [
+        "Aufbauorganisation",
+        "Ablauforganisation",
+        "Matrixorganisation",
+        "Funktionale Organisation"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Matrixorganisation kombiniert mehrere Gliederungskriterien.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden ist keine Ursache für Change Management?",
+      "options": [
+        "Reorganisationen",
+        "Neue Technologien",
+        "Stabile Marktbedingungen",
+        "Globalisierung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Stabile Marktbedingungen sind keine Ursache für Change Management.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine Herausforderung im Change Management?",
+      "options": [
+        "Mangel an Ressourcen",
+        "Mitarbeitende für den Wandel gewinnen",
+        "Überfluss an Informationen",
+        "Keine klaren Ziele"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Herausforderung im Change Management ist, die Mitarbeitenden für den Wandel zu gewinnen.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Aussage trifft auf eine starke Unternehmenskultur zu?",
+      "options": [
+        "Hohe Anpassungsfähigkeit",
+        "Geringe Motivation der Mitarbeitenden",
+        "Effizientes Kommunikationsnetz",
+        "Hoher Kontrollaufwand"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Eine starke Unternehmenskultur zeichnet sich durch ein effizientes Kommunikationsnetz aus.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was beschreibt die 'Prozess-Kultur' nach Deal und Kennedy?",
+      "options": [
+        "Hohe Risikobereitschaft und schnelle Entscheidungen",
+        "Langsame Entscheidungen und niedrige Risikobereitschaft",
+        "Schnelle Entscheidungen und hohe Risikobereitschaft",
+        "Langsame Entscheidungen und hohe Risikobereitschaft"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Prozess-Kultur zeichnet sich durch langsame Entscheidungen und niedrige Risikobereitschaft aus.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "bwl-sw04",
+  "subjectId": "bwl"
+}

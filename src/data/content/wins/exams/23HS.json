@@ -1,0 +1,1211 @@
+{
+  "id": "wins-23HS",
+  "subjectId": "wins",
+  "year": "23HS",
+  "label": "MEP 23HS",
+  "minutes": 60,
+  "maxPoints": 60.0,
+  "scoring": "exact",
+  "questions": [
+    {
+      "number": 1,
+      "type": "single",
+      "prompt": "Interpersonale Kompetenzen sind gerade für Absolvierende von (Wirtschafts-) Informatik-Studiengängen von zentraler Bedeutung und werden vom Arbeitsmarkt als Bestandteil der Hochschulausbildung vorausgesetzt. Welche Aussage zu \"interpersonale Kompetenzen\" ist korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Personal wird intern nach IT-Kompetenzen geordnet"
+        },
+        {
+          "label": "B",
+          "text": "Die personellen Entscheidungen beruhen auf internalen Kompetenzprofilen"
+        },
+        {
+          "label": "C",
+          "text": "Interne Personen werden in der IT in Kompetenzraster eingeordnet"
+        },
+        {
+          "label": "D",
+          "text": "Sind im IT-Bereich wichtig, da in diesem Sektor viele Teams und Kleingruppen gebildet werden."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Interpersonale Kompetenzen sind wichtig im IT-Bereich, da viele Teams und Kleingruppen gebildet werden.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "single",
+      "prompt": "Um die Stufen des Kreativitätsprozesses zu verstehen ist es hilfreich, sich den kognitiven Prozess, der sich dahinter verbirgt, zu erschliessen. Unter den kognitiven Fähigkeiten, die für kreative Prozesse förderlich sind, bzw. diese erst ermöglichen, ist das divergente Denken in Kombination mit dem konvergenten Denken hervorzuheben. Welche Aussage ist dazu **FALSCH**:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Im divergenten Denkprozess ist es entscheidend, kreativ in die Ideenfindung einzutauchen"
+        },
+        {
+          "label": "B",
+          "text": "Brauchbarkeit und Umsetzbarkeit zu überprüfen ist hinfällig"
+        },
+        {
+          "label": "C",
+          "text": "Intelligenztests messen konvergentes Denken"
+        },
+        {
+          "label": "D",
+          "text": "Konvergentes Denken ermöglicht es eine gute von einer schlechten Idee zu unterscheiden"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Brauchbarkeit und Umsetzbarkeit zu überprüfen ist nicht hinfällig, sondern entscheidend im konvergenten Denken.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "single",
+      "prompt": "Das Peer-Teaching ist nach Hattie eine Methode der Lernunterstützung, bei welcher Peers als Co-Lehrende für Lernende tätig werden. Es bietet die Möglichkeit, Lernenden Selbstregulierung und Kontrolle über ihr eigenes Lernen zu vermitteln, so dass sie ihre eigene Lehrperson werden können. Ein wichtiges Tool beim Peer-Teaching ist der schriftliche Leitfaden, den wir im Studiengang der Wirtschaftsinformatik, im 1. Semester im Modul WINsWIN, als \"Guide\" bezeichnen. Der WINsWeekly Guide wurde so aufbereitet, dass er gut verstanden werden kann. Er ermöglicht bewusst keinen spontanen Prozess des \"sich-gegenseitig-Helfens\", sondern er ist ein Konzept mit klaren Vorgaben und Zielen. Der Vorteil dadurch ist:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Behandlung des Stoffs erfolgt weniger intensiv, wenn Peers ihn aufbereiten, da sie sich schon als Lernende mit dem Stoff beschäftigt haben."
+        },
+        {
+          "label": "B",
+          "text": "Soziales Lernen wird gefördert."
+        },
+        {
+          "label": "C",
+          "text": "Es ist eine Erfahrung ohne Ablenkungsquellen."
+        },
+        {
+          "label": "D",
+          "text": "Die Mitwirkenden sparen Ressourcen."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Der Vorteil des Guides im Peer-Teaching ist die Förderung des sozialen Lernens.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "single",
+      "prompt": "Kreative Prozesse werden in der Literatur gern in Phasenmodellen beschrieben und können uns retrospektiv dabei unterstützen, den kreativen Prozess zu verstehen. Sie dienen als eine Art Hilfestellung. Jede Phase spielt dabei eine wichtige Rolle, beispielsweise in der Wirtschaftsinformatik bei der Entwicklung einer innovativen Softwarelösung. Im Folgenden sehen Sie ein Beispiel, welches die vier Phasen darstellt. 1) In dieser Phase identifiziert das Team die Notwendigkeit für eine neue Softwarelösung, die die Effizienz von Geschäftsprozessen verbessern kann. Das Team führt eine gründliche Analyse der Anforderungen durch. 2) Nachdem die Anforderungen festgelegt sind, benötigt das Team Zeit, um Ideen zu sammeln und verschiedene Ansätze zu erforschen. Ausserdem sollten Teammitglieder die Möglichkeit haben, Abstand von der Idee zu gewinnen. 3) Ein Teammitglied kann plötzlich die entscheidende Erkenntnis haben. Dies kann schnell in einen Prototyp umgesetzt werden, um die Machbarkeit zu überprüfen. 4) Basierend auf den Ergebnissen der Analyse entscheidet das Team, ob es die Idee weiterverfolgen und in die Entwicklung übergehen oder Anpassungen vornehmen muss, bevor es zur Implementierung übergeht. Wie werden die Phasen im genannten Beispiel generell bezeichnet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vorbereitung, Inkubation, Einsicht/Illumination, Bewertung"
+        },
+        {
+          "label": "B",
+          "text": "Vorbereitung, Intrapersonalisierung, Einsicht/Illumination, Bewältigung"
+        },
+        {
+          "label": "C",
+          "text": "Verarbeitung, Internalisierung, Empathie/Innovation, Bewertung"
+        },
+        {
+          "label": "D",
+          "text": "Vervollständigung, Intrapersonalisierung, Einsicht/Illumination, Bewältigung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Die Phasen werden allgemein als Vorbereitung, Inkubation, Einsicht/Illumination und Bewertung bezeichnet.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Self-Leadership-Strategiedimensionen ist **KEINE** verhaltensfokussierte Strategie?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selbstbeobachtung"
+        },
+        {
+          "label": "B",
+          "text": "Selbstgespräch"
+        },
+        {
+          "label": "C",
+          "text": "Selbsterinnerung"
+        },
+        {
+          "label": "D",
+          "text": "Selbstzielsetzung"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Selbstgespräch ist keine verhaltensfokussierte Strategie, sondern eine kognitive Strategie.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "single",
+      "prompt": "Welche der folgenden Aussagen ist in Bezug auf Self-Leadership und Selbstmanagement **FALSCH**?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Self-Leadership bezieht sich auf das Warum und das Wie etwas getan werden sollte."
+        },
+        {
+          "label": "B",
+          "text": "Selbstmanagement bezieht sich auf das Was getan werden sollte."
+        },
+        {
+          "label": "C",
+          "text": "Self-Leadership nutzt extrinsische und intrinsische Motivation."
+        },
+        {
+          "label": "D",
+          "text": "Selbstmanagement erweitert Self-Leadership."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Selbstmanagement erweitert nicht Self-Leadership, sondern ist eher auf das 'Was' fokussiert.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Theorien ist **KEINE** der drei zentralen Basistheorien der menschlichen Motivation und Selbstregulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selbsterfahrungstheorie"
+        },
+        {
+          "label": "B",
+          "text": "Selbstregulationstheorie"
+        },
+        {
+          "label": "C",
+          "text": "Selbstbestimmungstheorie"
+        },
+        {
+          "label": "D",
+          "text": "Sozial-kognitive Theorie"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Die Selbsterfahrungstheorie ist keine der drei zentralen Basistheorien der menschlichen Motivation und Selbstregulation.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "single",
+      "prompt": "Welchen der nachfolgenden Begriffe umfasst das Akronym SMART **NICHT**?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terminiert"
+        },
+        {
+          "label": "B",
+          "text": "Spezifisch"
+        },
+        {
+          "label": "C",
+          "text": "Machbar"
+        },
+        {
+          "label": "D",
+          "text": "Realistisch"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Das Akronym SMART umfasst nicht 'Machbar', sondern 'Erreichbar' (Achievable).",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "single",
+      "prompt": "In der Kleinklasse kamen Sie intensiv mit der Walt-Disney-Methode in Kontakt. Welche Rolle nahm die realistische Position in der Walt-Disney-Methode ein?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Realist betrachtet das Thema von der praktischen Seite: Was ist alles zu tun?"
+        },
+        {
+          "label": "B",
+          "text": "Der Realist betrachtet das Thema von der innovativen Seite: Was ist alles möglich?"
+        },
+        {
+          "label": "C",
+          "text": "Die realistische Position hat die Aufgabe möglichst ideal zu sehen und grenzenlos zu denken."
+        },
+        {
+          "label": "D",
+          "text": "Die realistische Position fragt nach den Problemen."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Der Realist betrachtet das Thema von der praktischen Seite: Was ist alles zu tun?",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "single",
+      "prompt": "Carol S. Dweck's Forschung zu \"Mindset: The New Psychology of Success\" von 2006 untersucht die Idee, dass Menschen im Wesentlichen zwei Arten von Denkmustern oder \"Mindsets\" haben: Das \"Fixed Mindset\" und das \"Growth Mindset\". Sie erklärt, dass Menschen mit einem Fixed Mindset dazu neigen, ihre Fähigkeiten und Intelligenz als statisch anzusehen. Im Gegensatz dazu betont Dweck das Konzept des \"Growth Mindsets\", welches als dynamisch gilt. In der Kleinklasse der SW03 diskutierten wir anhand praktischer Fallstudien und Beispiele das Prinzip. Wir stellten fest, dass im Umgang mit Herausforderungen, Hürden, Aufwand, Kritik, Erfolg anderer und im Umgang mit einem Ergebnis grundlegende Unterschiede bestehen. Beurteilen Sie, welche der folgenden Zuordnungen zwischen Mindset und Beispiel korrekt ist. 1) Fixed ist: vermeidet Herausforderungen, weil er/sie eher das Risiko sieht, Growth: begrüsst Herausforderungen, fordert Kritik und lernt daraus, entwickelt nachhaltige Lösungen und lässt sich auch von Rückschlägen nicht abhalten. 2) Growth gibt schnell bei Hürden auf, ignoriert konstruktive Kritik. Fixed greift Erfolgsrezepte anderer aktiv auf. 3) Growth greift Entwicklungsrezepte anderer aktiv auf, baut durch Erfolg das Gefühl von Selbstbestimmung auf und begreift Herausforderungen als Chance. Fixed fühlt sich vom Erfolg anderer bedroht und ist rasch mit dem Erreichten zufrieden. 4) Fixed fühlt sich vom Erfolg anderer bedroht und fordert Kritik und lernt daraus. Growth: begrüsst Herausforderungen und ist rasch mit dem Erreichten zufrieden und nutzt sein/ihr volles Potential nicht. 5) Fixed ist: gibt schnell bei Hürden auf und empfindet Aufwand als zwecklos. Growth sieht den Aufwand als Weg zur Könnerschaft.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nur 1 ist richtig"
+        },
+        {
+          "label": "B",
+          "text": "Nur 1, 3 und 5 sind richtig"
+        },
+        {
+          "label": "C",
+          "text": "Nur 2 und 5 sind richtig"
+        },
+        {
+          "label": "D",
+          "text": "Nur 1 und 3 sind richtig"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Nur 1, 3 und 5 sind richtig; sie beschreiben korrekt die Unterschiede zwischen Fixed und Growth Mindset.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "single",
+      "prompt": "Im Cloud Computing gibt es verschiedene Service Modelle. Welche der nachfolgenden Abkürzungen beschreibt **KEINES** der im Unterricht besprochenen Modelle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SaaS"
+        },
+        {
+          "label": "B",
+          "text": "LaaS"
+        },
+        {
+          "label": "C",
+          "text": "IaaS"
+        },
+        {
+          "label": "D",
+          "text": "PaaS"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "LaaS ist kein bekanntes Cloud-Service-Modell.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "single",
+      "prompt": "Welchen der nachfolgenden Bereiche muss der Kunde im IaaS-Modell managen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Storage"
+        },
+        {
+          "label": "B",
+          "text": "Security"
+        },
+        {
+          "label": "C",
+          "text": "Operating Systems"
+        },
+        {
+          "label": "D",
+          "text": "Applications"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Im IaaS-Modell muss der Kunde das Betriebssystem (Operating Systems) managen.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "single",
+      "prompt": "Welche Art von Informationssystemen gibt es **NICHT**?",
+      "options": [
+        {
+          "label": "A",
+          "text": "System of Package"
+        },
+        {
+          "label": "B",
+          "text": "System of Insight"
+        },
+        {
+          "label": "C",
+          "text": "System of Engagement"
+        },
+        {
+          "label": "D",
+          "text": "System of Record"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Ein 'System of Package' ist keine bekannte Art von Informationssystem.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "single",
+      "prompt": "Lesen Sie die den folgenden Text und beantworten Sie die nachfolgende Frage mit Bezug zum Cloud Computing: SAP bietet mit S/4HANA eine integrierte Unternehmens-Software, die alle relevanten betriebswirtschaftlichen Funktionen eines Unternehmens abdeckt, wahlweise als On-Premise-Modell, in der Cloud oder als Hybridlösung an. Die cloudbasierte Lösung, die als \"SAP S/4HANA Cloud Edition\" bezeichnet wird und als Technologie, die In-Memory-Plattform SAP HANA10 nutzt, wird vollständig über einen Webbrowser bedient und bedarf keiner lokalen Installation. Die Bereitstellung und das Hosting des Systems erfolgen direkt durch SAP in eigenen Rechenzentren. Support- und Wartung der Software erfolgt durch den Hersteller selbst. Ebenso gehört die Bereitstellung von Updates, das Ausführen von Backups oder die Archivierung zu den Aufgaben des Dienstanbieters. Weiterführende Veränderungen am System, wie beispielsweise kundenspezifische Anpassungen (Customizing oder darüberhinausgehende Anpassungen) werden vom SAP-Consulting oder von speziellen SAP-Partnern bereitgestellt und umgesetzt. Aktuell besteht die Cloud-Edition von SAP S/4HANA aus drei Produkten, die sich in Funktionsumfang und Integrationstiefe unterscheiden. Die \"Cloud Enterprise Edition\" zielt auf Unternehmen ab, die ein gesamtes ERP-System in der Cloud nutzen möchten. Es deckt die wesentlichen Geschäftsbereiche eines Unternehmens wie Finanzwesen, Personalwesen, Beschaffung und Produktion ab. Die beiden anderen Editionen \"Cloud Marketing\" und \"Cloud Projekt Services\" bieten Spezial-Funktionalitäten, die sich für spezielle Einsatzszenarien eignen und Funktionalitäten über die üblichen Geschäftsbereiche hinaus bereitstellen. So richtet sich die \"Cloud Project Services\" Edition vorrangig an Serviceunternehmen wie Beratungsunternehmen, die ihr Projektgeschäft in der Cloud verwalten möchten. Mit der Edition \"Cloud Marketing\" ist hingegen die Steuerung von Marketingmassnahmen möglich, beispielsweise um Kampagnen zur Verkaufsförderung zu verwalten. Abgerechnet wird die Nutzung der Cloud-Edition des ERP-Systems über ein Subskriptionsmodell, bei dem statt anfänglichen Hardwareinvestitionen nur ein monatlicher Mietpreis anfällt. Basierend auf denen im Text gegebenen Informationen ist welche der nachfolgenden Aussagen korrekt? Das im Text beschriebene Produkt \"SAP S/4 HANA Cloud Enterprise Edition\" ist ein Beispiel einer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "... IaaS Lösung."
+        },
+        {
+          "label": "B",
+          "text": "... FaaS Lösung."
+        },
+        {
+          "label": "C",
+          "text": "... SaaS Lösung."
+        },
+        {
+          "label": "D",
+          "text": "... PaaS Lösung."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Das Produkt 'SAP S/4 HANA Cloud Enterprise Edition' ist ein Beispiel einer SaaS-Lösung.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aktionen muss im Rahmen der Methode ALPEN konkret durchgeführt werden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zeitmanagement anpassen"
+        },
+        {
+          "label": "B",
+          "text": "Alle Pufferzeiten streichen"
+        },
+        {
+          "label": "C",
+          "text": "Länge der Tätigkeiten schätzen"
+        },
+        {
+          "label": "D",
+          "text": "Neue Projekte planen"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Im Rahmen der Methode ALPEN muss die Länge der Tätigkeiten geschätzt werden.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "single",
+      "prompt": "Welches sind die vier Ebenen des Kompetenzatlas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Personale Kompetenz - Aktivitäts- und Handlungskompetenz - Fach- und Methodenkompetenz - Sozial-kommunikative Kompetenz"
+        },
+        {
+          "label": "B",
+          "text": "Sozial-kommunikative Kompetenz - Personale Kompetenz - Integritäts- und Integrationskompetenz - Fach- und Methodenkompetenz"
+        },
+        {
+          "label": "C",
+          "text": "Fach- und Methodenkompetenz - Sozial-kommunikative Kompetenz - Konzeptions- und Organisationskompetenz - Personale Kompetenz"
+        },
+        {
+          "label": "D",
+          "text": "Aktivitäts- und Handlungskompetenz - Expertisen- und Methodenkompetenz - Integrations-kommunikative Kompetenz - Fach- und Personale Kompetenz"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Die vier Ebenen des Kompetenzatlas sind Personale Kompetenz, Aktivitäts- und Handlungskompetenz, Fach- und Methodenkompetenz, Sozial-kommunikative Kompetenz.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "single",
+      "prompt": "Welches Aufgabengebiet gehört eher in das Tätigkeitsprofil einer Applikations-Enwickler:In als in das Tätigkeitsprofil einer Applikations-Manager:In",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sicherstellen der Überwachung des laufenden Applikationsbetriebs"
+        },
+        {
+          "label": "B",
+          "text": "Koordinieren und Überwachen von Tätigkeiten, die dazu dienen, Verfügbarkeit, Wiederherstellbarkeit, Leistung und Ressourcenverbrauch der Applikation zu verfolgen"
+        },
+        {
+          "label": "C",
+          "text": "Lösen von Software-Fehlern"
+        },
+        {
+          "label": "D",
+          "text": "Durchführen von Datenbereinigungen und Datenpflege"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Das Lösen von Software-Fehlern gehört eher zum Tätigkeitsprofil einer Applikations-Entwickler:In.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "single",
+      "prompt": "Entsprechend der Informationen im Kurs WinsWin, können Ziele eines Projekts über das magische Dreieck beschrieben werden. Welches der nachfolgenden Ziele ist im magischen Dreieck des Projektmanagements enthalten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strategie"
+        },
+        {
+          "label": "B",
+          "text": "Leistungsumfang"
+        },
+        {
+          "label": "C",
+          "text": "Kapazität"
+        },
+        {
+          "label": "D",
+          "text": "Zusammenarbeit"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Leistungsumfang ist ein Ziel im magischen Dreieck des Projektmanagements.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "single",
+      "prompt": "In der Business Analyse sind verschiedene Bereiche zu adressieren. Welcher Bereich wird hierbei typischerweise **NICHT** adressiert?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nutzen"
+        },
+        {
+          "label": "B",
+          "text": "Kontext"
+        },
+        {
+          "label": "C",
+          "text": "Bedarf"
+        },
+        {
+          "label": "D",
+          "text": "Konkurrenz"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Konkurrenz wird typischerweise nicht in der Business Analyse adressiert.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aussagen ist in Bezug auf die Data Value Chain nach Miller und Mork **FALSCH**?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Datenintegration wird nach der Datenaufbereitung durchgeführt"
+        },
+        {
+          "label": "B",
+          "text": "Sammeln und annotieren von Daten ist der erste Schritt der Data Value Chain"
+        },
+        {
+          "label": "C",
+          "text": "Analysen werden direkt auf annotierten Daten durchgeführt"
+        },
+        {
+          "label": "D",
+          "text": "Entscheidungen sind auf Analysen basiert."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Analysen werden nicht direkt auf annotierten Daten durchgeführt, sondern auf aufbereiteten Daten.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "single",
+      "prompt": "Welche Arten von Informationen werden typischerweise **NICHT** durch Data Mining abgeleitet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assoziationen"
+        },
+        {
+          "label": "B",
+          "text": "Klassifizierungen"
+        },
+        {
+          "label": "C",
+          "text": "Prognosen"
+        },
+        {
+          "label": "D",
+          "text": "Echtdaten"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Echtdaten werden nicht durch Data Mining abgeleitet.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "single",
+      "prompt": "Lesen Sie den folgenden Text und beantworten Sie die Frage auf der nächsten Seite. Investitionsentscheidungen sind immer mit einer gewissen Unsicherheit behaftet - dies gilt insbesondere für IT-Investitionen. Aus der Sicht der Entscheider ist deshalb eine elementare Funktion des Business Case, die Entscheidungsunsicherheit auf ein Minimum zu reduzieren. Projekte sind per Definition einmalige Vorhaben. Per se hat man also keine Basis, um die Auswirkungen, welche das Projekt auf das Unternehmen haben wird, zu erkennen, geschweige denn, diese abschätzen zu können. Durch den Business Case werden diese Auswirkungen den Entscheidern transparent gemacht und quantifiziert. Dies ist in der Praxis von grosser Bedeutung, denn es ist allseits bekannt, zu welcher Konsequenz letztendlich eine Unsicherheit bei den Entscheidern führt: Es wird keine Entscheidung getroffen. Alles bleibt beim Alten, frei nach dem Motto \"Keine Lösung ist auch eine Lösung\". Diese Zurückhaltung von Entscheidungen ist nicht unproblematisch für ein Unternehmen, kann sie doch dazu führen, dass Opportunitäten nicht oder mit Verspätung wahrgenommen werden. Des Weiteren reduziert der Business Case die Entscheidungsunsicherheit durch den Umstand, dass im Rahmen seiner Erstellung unterschiedliche Ausführungsvarianten des Projekts (Szenarios) beleuchtet werden, um sie hinsichtlich ihrer wirtschaftlichen Vorteilhaftigkeit zu vergleichen und so die für die Umsetzung rentabelste Konstellation zu identifizieren. Mit einem Business Case gewinnt man somit Entscheidungssicherheit im Hinblick auf Effektivität (die richtigen Dinge tun) und Effizienz (die Dinge richtig tun). Durch seine primäre Ausrichtung auf nicht-technische Sachverhalte kann der Business Case einen entscheidenden Beitrag leisten, um bereits im Vorfeld konzeptionelle Fehler aufzudecken, die anderweitig erst bei der Realisierung zum Vorschein gekommen wären. Der Business Case verkörpert somit einen zusätzlichen \"Quality-Check\" und wird zu einem Werkzeug für die Optimierung des geplanten Vorhabens. Anhand der zuvor beschriebenen Sachverhalte wird deutlich, dass der Business Case ein wichtiges Instrument zur Unterstützung der Entscheidungsfindung und Investitionsplanung ist. Aus einem Business Case ergeben sich konkrete Anhaltspunkte für eine Investitionsplanung. Durch standardisierte Berechnungsverfahren und Ergebniskennzahlen wird einerseits Vergleichbarkeit hergestellt und andererseits eine objektive Auswahl und Priorisierung von konkurrenzierenden Projekten ermöglicht. Gleichzeitig trägt ein Business Case aber auch zur Verbesserung der Projektplanung bei, da auf seiner Basis Rückschlüsse gewonnen werden können, die die Projektdefinition (\"Project Scoping\") und die Projektkonzeption positiv beeinflussen. Frage zur Aufgabe 22 der vorherigen Seite Welche der nachfolgenden Aussagen ist **KEIN** Vorzug eines Business Cases im Sinne eines Beitrags zur Projektplanung? Ein Business Case...",
+      "options": [
+        {
+          "label": "A",
+          "text": "...ergänzt die technische Planungsbasis mit einer wirtschaftlichen Planungsgrundlage und trägt damit zu einer allgemeinen Verbesserung der Planungsarbeit im unternehmerischen Sinne bei."
+        },
+        {
+          "label": "B",
+          "text": "...kann durch seinen primären Fokus auf \"nicht-technische\" Belange einen Beitrag leisten, um das Vorhaben zu optimieren oder um Fehler im Konzept zu enthüllen."
+        },
+        {
+          "label": "C",
+          "text": "...ermöglicht die kompakte und äusserst übersichtliche Aushandlung der relevanten Service Level Agreements im Rahmen von Merger und Akquisition Projekten."
+        },
+        {
+          "label": "D",
+          "text": "...hilft Risiken frühzeitig zu erkennen und entsprechende Präventivmassnahmen bzw. Risikooptionen einzuplanen."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Ein Business Case ermöglicht nicht die Aushandlung von Service Level Agreements in Merger und Akquisition Projekten.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "single",
+      "prompt": "In der Kleinklasse kamen Sie intensiv mit dem Konzept des aktiven Zuhörens nach Rogers in Verbindung mit den Prinzipien der Achtsamkeit in Kontakt. Die Beherrschung beider Abstraktionen kann eine äusserst wertvolle Fähigkeit sein, wenn es um Networking Circles und das Aufbauen von Beziehungen in beruflichen Kontexten geht. Welches sind vier der sieben Elemente des aktiven Zuhörens nach Rogers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "angemessen - zeitbewusst - ordentlich - teilweise"
+        },
+        {
+          "label": "B",
+          "text": "offen - präsent - angemessen - still"
+        },
+        {
+          "label": "C",
+          "text": "subtil - teilnehmend - angemessen - prozedural"
+        },
+        {
+          "label": "D",
+          "text": "schlank - teilweise - angemessen - powerful"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Offen, präsent, angemessen und still sind vier der sieben Elemente des aktiven Zuhörens nach Rogers.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "single",
+      "prompt": "Sie haben die Studie von Büttner und Dlugosch \"im Reader\" kennengelernt, die sich mit Achtsamkeit im Stresserleben von Studierenden beschäftigt. Diese nimmt eine ressourcenorientierte Sichtweise ein und gibt Hinweise auf die Möglichkeit der Stressreduktion und Stressprävention durch eine Förderung der Achtsamkeit (und der Selbstwirksamkeitsüberzeugung). Studierende, die eine hohe Ausprägung der Achtsamkeit haben, berichten von einer geringeren Stresswahrnehmung. Studierende, die achtsamer sind, erleben erheblich weniger Anspannung. Eine mögliche Erklärung hierfür könnten Entspannung und Emotionsregulation als Wirkmechanismen von Achtsamkeit sein, die in aktuellen Forschungsarbeiten diskutiert werden. Ebenso haben Firmen registriert, dass die gestressten Mitarbeitenden davon profitieren, wenn Achtsamkeits-Sessions angeleitet werden. Die Mitarbeitenden sind danach zufriedener, fokussierter und effizienter. Achtsamkeit beinhaltet nach Jon Kabat Zinn, die Fähigkeit, die Aufmerksamkeit auf das Hier und Jetzt zu fokussieren. Demnach gilt folgender Aspekt **NICHT** als Ziel der Achtsamkeitspraxis:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wohlwollende Präsenz über alle Sinne"
+        },
+        {
+          "label": "B",
+          "text": "Eine Wertung"
+        },
+        {
+          "label": "C",
+          "text": "Gegenwart im Moment"
+        },
+        {
+          "label": "D",
+          "text": "Eine bewusste Herbeiführung eines Geisteszustandes"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Eine Wertung ist kein Ziel der Achtsamkeitspraxis.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "single",
+      "prompt": "Der Problemlösungsprozess nach McKinsey ermöglicht die strukturierte Lösung von Problemen. Im Rahmen der GK und im Reader haben wir diesen Prozess als Kreislauf kennengelernt. Welche der nachfolgenden Aussagen trifft auf diesen Zyklus **NICHT** zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Priorisierung von Massnahmen folgt der Problemstrukturierung"
+        },
+        {
+          "label": "B",
+          "text": "Die Erkenntnissynthese wird für die Empfehlungsentwicklung benötigt"
+        },
+        {
+          "label": "C",
+          "text": "Die Durchführung folgt der Planung von Empfehlungen"
+        },
+        {
+          "label": "D",
+          "text": "Die Problemdefinition ist der erste Schritt der Problemlösung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Die Priorisierung von Massnahmen folgt nicht direkt der Problemstrukturierung.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "single",
+      "prompt": "Das Agile Projektmanagement mit SCRUM enthält welche der nachfolgenden Artefakte **NICHT**?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Product Backlog"
+        },
+        {
+          "label": "B",
+          "text": "Sprint Backlog"
+        },
+        {
+          "label": "C",
+          "text": "Stakeholder Backlog"
+        },
+        {
+          "label": "D",
+          "text": "Burndown Chart"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Ein Stakeholder Backlog ist kein Artefakt im SCRUM.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "single",
+      "prompt": "Mithilfe des ICAP Modells diskutierten wir in der Grossklasse das Lernen im Studium. Das ICAP-Modell betont, dass tiefes Lernen und besseres Verständnis am wahrscheinlichsten auf den konstruktiven und interaktiven Ebenen stattfinden, da hier das kritische Denken und die aktive Auseinandersetzung mit dem Material gefördert werden. Welche Erkenntnis daraus ist **NICHT** erkennbar.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es gibt eine Diskrepanz zwischen gefühltem und eigentlichem Lernen."
+        },
+        {
+          "label": "B",
+          "text": "Aufmerksames Zuhören ist eine Variante des passiven Lernengagements."
+        },
+        {
+          "label": "C",
+          "text": "Der Lerngegenstand fördert die Achtsamkeit im Lernprozess."
+        },
+        {
+          "label": "D",
+          "text": "Aktives Lernen ist anstrengender als inaktiver Lernkonsum."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Der Lerngegenstand fördert nicht direkt die Achtsamkeit im Lernprozess.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "single",
+      "prompt": "Achtsamkeit ist eine Praxis, die auf individueller Ebene, im 1:1, im Team oder auch auf organisatorischer oder systemischer Ebene erfolgreich wirken kann. Das Reiz-Reaktionsmodell beschreibt, wie Menschen auf Reize oder Stimuli (externe oder interne Reize) reagieren. Lesen Sie dazu unterschiedliche Aussagen. 1) Beispielsweise kann eine Person, die sich der Achtsamkeit gewahr ist, in einer stressigen Situation einen Reiz, wie einen unerwarteten Konflikt bei einer Gruppenarbeit im Studium, bemerken, aber anstatt sofort impulsiv zu reagieren, kann sie sich einen Moment Zeit nehmen, um bewusst über die beste Reaktion nachzudenken, basierend auf ihren Werten und Zielen 2) Achtsamkeit benötigt keinerlei Integration in die tatsächliche Arbeitsweise und kann getrennt von den Geschäftszielen der Organisation betrachtet werden. 3) Ein achtsamer Charakterzug kann dazu beitragen, unangemessene oder impulsive Reaktionen mit einem Studienpartner zu vermeiden. 4) Achtsamkeit fügt eine \"Pause\" in das Reiz-Reaktions-Muster ein Welche Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3"
+        },
+        {
+          "label": "B",
+          "text": "3, 1, 4"
+        },
+        {
+          "label": "C",
+          "text": "2, 1, 4"
+        },
+        {
+          "label": "D",
+          "text": "4, 1, 2"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Aussagen 3, 1 und 4 sind korrekt; Achtsamkeit benötigt Integration in die Arbeitsweise.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "single",
+      "prompt": "Networking ist eine wertvolle Fähigkeit, die dazu beitragen kann, berufliche Chancen zu erweitern und langfristige Beziehungen aufzubauen. Das Studium bietet dazu vielerlei Möglichkeiten. Welche Aussagen übten Sie in der Grossklasse zu «Diversity und Networking in IT», um ein Gespräch gezielt aufzubauen und so eine gewisse Grundlage zu schaffen? 1) \"Ich bin...\" 2) \"Wie verlief Ihr beruflicher Karriereweg...\" 3) \"Ich beschäftige mich...\" 4) \"Ich beabsichtige...\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3"
+        },
+        {
+          "label": "B",
+          "text": "3, 1, 4"
+        },
+        {
+          "label": "C",
+          "text": "4, 1, 2"
+        },
+        {
+          "label": "D",
+          "text": "2, 1, 4"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Aussagen 1, 2 und 3 wurden geübt, um ein Gespräch gezielt aufzubauen.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "single",
+      "prompt": "Eine der gängigen Lernmethoden ist die SQ3R-Methode. Für was eignet sich diese Methode?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Für die Steuerung von Gruppenlernprozessen"
+        },
+        {
+          "label": "B",
+          "text": "Für die Erarbeitung der Inhalte längerer Fachtexte"
+        },
+        {
+          "label": "C",
+          "text": "Für die Strukturierung von Diskussionen"
+        },
+        {
+          "label": "D",
+          "text": "Für das Memorisieren umfangreicher Inhalte in kurzer Zeit"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Die SQ3R-Methode eignet sich für die Erarbeitung der Inhalte längerer Fachtexte.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "single",
+      "prompt": "Welches ist ein zentrales Element der Loci-Methode als Lernmethode?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Einen gut bekannten Weg aussuchen"
+        },
+        {
+          "label": "B",
+          "text": "Farbliches Markieren von Kernaussagen"
+        },
+        {
+          "label": "C",
+          "text": "Lernziele priorisieren"
+        },
+        {
+          "label": "D",
+          "text": "Lernerfolge messen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Ein zentrales Element der Loci-Methode ist, einen gut bekannten Weg auszusuchen.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "single",
+      "prompt": "Welches ist **KEINE** zentrale Voraussetzung für die erfolgreiche Umsetzung von selbstgesteuertem Lernen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ziele und Interessen der Lernenden treffen, um Lernmotivation aufzubauen"
+        },
+        {
+          "label": "B",
+          "text": "Lernende müssen über Methoden verfügen zur Erschliessung von Informationen in eigenen Denk- und Handlungsschemata"
+        },
+        {
+          "label": "C",
+          "text": "Lernumgebung muss zwingend auf Lernende angepasst sein"
+        },
+        {
+          "label": "D",
+          "text": "Lernsituation muss Selbstaufmerksamkeit der Lernenden fördern"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Die Lernumgebung muss nicht zwingend auf Lernende angepasst sein.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "single",
+      "prompt": "Welche Aufgaben sind **NICHT** mit oberster Priorität geeignet für die Bearbeitung in Lerngruppen Aufgaben, die...",
+      "options": [
+        {
+          "label": "A",
+          "text": "... ein gemeinsames Arbeiten erfordern, weil nicht eine Person allein über die für die Lösung notwendigen Ressourcen verfügt."
+        },
+        {
+          "label": "B",
+          "text": "... gegenseitiges Beobachten und Rückmeldungen über Lernergebnisse erfordern."
+        },
+        {
+          "label": "C",
+          "text": "... besonders umfangreich sind."
+        },
+        {
+          "label": "D",
+          "text": "... mehrdeutig sind und es somit keine eindeutige Lösung gibt."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Besonders umfangreiche Aufgaben sind nicht unbedingt für die Bearbeitung in Lerngruppen geeignet.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "single",
+      "prompt": "Bei der Arbeit mit der \"Team-Uhr\" wird unterschieden in die Orientierungs-, die Konfrontations-, die Kooperations- und die Arbeitsphase. Welches Verhalten ist dabei typisch für die Orientierungsphase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ideenreich"
+        },
+        {
+          "label": "B",
+          "text": "Vorsichtig"
+        },
+        {
+          "label": "C",
+          "text": "Konfrontation"
+        },
+        {
+          "label": "D",
+          "text": "Konstruktive Kritik"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Vorsichtiges Verhalten ist typisch für die Orientierungsphase.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "single",
+      "prompt": "Was ist **KEINE** typische Massnahme, um bei der Arbeit im Change-Management das \"Tal der Tränen\" zu überwinden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gleiche Sprache aller Führungskräfte, dass diese hinter dem Veränderungsprojekt stehen"
+        },
+        {
+          "label": "B",
+          "text": "Erfolge feiern"
+        },
+        {
+          "label": "C",
+          "text": "Finanzielle Anreize"
+        },
+        {
+          "label": "D",
+          "text": "Projekt Botschafter:innen definieren"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Finanzielle Anreize sind keine typische Massnahme, um das 'Tal der Tränen' zu überwinden.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "single",
+      "prompt": "Im Rahmen des Change Management kommt dem mittleren Management eine zentrale Rolle zu. Welche Beteiligungsintensität des mittleren Managements im Zeitablauf an Change Management Projekten zeigt sich regelmässig in Best Practice Fällen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immer gleichbleibend, über die ganze Zeit"
+        },
+        {
+          "label": "B",
+          "text": "Kontinuierlich abnehmend im Zeitablauf"
+        },
+        {
+          "label": "C",
+          "text": "Erst hoch, dann abnehmend und anschliessend wieder ansteigend"
+        },
+        {
+          "label": "D",
+          "text": "Kontinuierlich steigend im Zeitablauf"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Die Beteiligungsintensität des mittleren Managements ist erst hoch, dann abnehmend und anschliessend wieder ansteigend.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "single",
+      "prompt": "Welche Prozesse gehören **NICHT** zu den Managementprozessen im St. Galler Managementmodell",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normative Orientierungsprozesse"
+        },
+        {
+          "label": "B",
+          "text": "Operative Koordinationsprozesse"
+        },
+        {
+          "label": "C",
+          "text": "Finanzielle Entscheidungsprozesse"
+        },
+        {
+          "label": "D",
+          "text": "Strategische Entwicklungsprozesse"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Finanzielle Entscheidungsprozesse gehören nicht zu den Managementprozessen im St. Galler Managementmodell.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "single",
+      "prompt": "Was versteht man im Modell der Strategieentwicklung von Arvedson unter \"Handlungsfeldern\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aktivitäten für die Umsetzung der Strategie"
+        },
+        {
+          "label": "B",
+          "text": "Voraussetzungen, die geschaffen werden müssen vor dem Start der Strategieumsetzung"
+        },
+        {
+          "label": "C",
+          "text": "Voraussetzungen, die geschaffen werden müssen während der Strategieumsetzung"
+        },
+        {
+          "label": "D",
+          "text": "Bereits geschaffene Voraussetzungen für den Start der Strategieumsetzung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Handlungsfelder sind Aktivitäten für die Umsetzung der Strategie.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "single",
+      "prompt": "Welche drei Bereiche gehören zu den sieben Hauptschritten der Entwicklung einer IT-Strategie nach Johanning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ist-Analyse - Sourcing-Strategie - Cockpit"
+        },
+        {
+          "label": "B",
+          "text": "Herausforderungen - Applikationsstrategie - Kompetenzentwicklungsstrategie"
+        },
+        {
+          "label": "C",
+          "text": "Handlungsfelder - IT-Organisation - Umsetzung"
+        },
+        {
+          "label": "D",
+          "text": "Sourcing-Strategie - Umsetzung - Balanced Score Card"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Herausforderungen, Applikationsstrategie und Kompetenzentwicklungsstrategie gehören zu den sieben Hauptschritten.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "single",
+      "prompt": "Arvedson baut sein Modell zur Strategieentwicklung auf acht Schritten auf. Diese acht Schritte werden vier Kernfragen zugeordnet. Welche Schritte der Strategieentwicklung werden der Kernfrage \"Wie wollen wir dorthin kommen?\" zugeordnet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schritte \"Unternehmensanalyse\" und \"Strategien\""
+        },
+        {
+          "label": "B",
+          "text": "Schritte \"Unternehmensziele\" und \"Strategien\""
+        },
+        {
+          "label": "C",
+          "text": "Schritte \"Unternehmensziele\", \"Unternehmensanalyse\" und \"Strategien\""
+        },
+        {
+          "label": "D",
+          "text": "Schritte \"Strategien\" und \"Handlungsfelder\""
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Die Schritte 'Strategien' und 'Handlungsfelder' werden der Kernfrage 'Wie wollen wir dorthin kommen?' zugeordnet.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "title": "Repetition & Prüfungsstrategie",
+  "week": "SW 14",
+  "tagline": "Effektive Vorbereitung auf die Modulprüfung im Wirtschaftsrecht.",
+  "summary": "In dieser Woche liegt der Fokus auf der Repetition der wesentlichen Themen des Wirtschaftsrechts und der Entwicklung einer effektiven Prüfungsstrategie. Die Studierenden sollen die wichtigsten Artikel des Obligationenrechts verstehen und anwenden können. Zudem wird die Struktur der Modulprüfung erläutert, um eine gezielte Vorbereitung zu ermöglichen.",
+  "learningGoals": [
+    "Verstehen der Struktur und Anforderungen der Modulprüfung.",
+    "Wiederholung der zentralen Themen des Obligationenrechts.",
+    "Anwendung der relevanten Gesetzesartikel in Prüfungssituationen.",
+    "Entwicklung einer effektiven Prüfungsstrategie."
+  ],
+  "blocks": [
+    {
+      "title": "Struktur der Modulprüfung",
+      "body": "Die Modulprüfung besteht aus Multiple-Choice-Fragen, bei denen eine oder mehrere Antworten korrekt sein können. Jede vollständig richtige Antwort gibt 2.5 Punkte, während falsche Antworten zu einem Abzug von 0.5 Punkten führen.",
+      "bullets": [
+        "36 Fragen insgesamt",
+        "90 Punkte maximal erreichbar",
+        "Mindestens eine Antwort pro Frage erforderlich"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Wichtige OR Artikel",
+      "body": "Die Kenntnis der relevanten Artikel des Obligationenrechts ist entscheidend für die Prüfung. Dazu gehören insbesondere die Artikel zur Haftung für Hilfspersonen und die Pflichten der Revisionsstelle.",
+      "bullets": [
+        "Art. 728a OR: Aufgaben der Revisionsstelle",
+        "Art. 55 OR: Deliktische Haftung für Hilfspersonen",
+        "Art. 101 OR: Vertragliche Haftung für Hilfspersonen",
+        "Art. 100 OR: Haftungsausschluss"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 728a OR",
+          "text": "Regelt die Aufgaben der Revisionsstelle."
+        },
+        {
+          "ref": "Art. 55 OR",
+          "text": "Deliktische Haftung des Geschäftsherrn."
+        },
+        {
+          "ref": "Art. 101 OR",
+          "text": "Vertragliche Haftung für Hilfspersonen."
+        },
+        {
+          "ref": "Art. 100 OR",
+          "text": "Regelt den Haftungsausschluss."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Prüfungsstrategie entwickeln",
+      "body": "Eine effektive Prüfungsstrategie ist entscheidend für den Erfolg. Dazu gehört das gezielte Üben von Multiple-Choice-Fragen und das Verstehen der Prüfungsstruktur.",
+      "bullets": [
+        "Gezieltes Üben von Multiple-Choice-Fragen",
+        "Verstehen der Prüfungsstruktur",
+        "Fokus auf häufige Themen und Artikel"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Themengebiete der Prüfung",
+      "body": "Die Prüfung deckt eine Vielzahl von Themen ab, darunter das Obligationenrecht, Kaufrecht, Immaterialgüterrecht und Datenschutzrecht.",
+      "bullets": [
+        "Obligationenrecht, allgemeiner und besonderer Teil",
+        "Kaufrechtliche Mängel und Gewährleistung",
+        "Immaterialgüterrecht (Marken, Design, Urheberrecht, Patent)",
+        "Datenschutzrecht und Informationssicherheit"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Haftung für Hilfspersonen",
+      "body": "Die Haftung für Hilfspersonen ist ein zentrales Thema im Obligationenrecht. Es ist wichtig, die Unterschiede zwischen der deliktischen und vertraglichen Haftung zu verstehen.",
+      "bullets": [
+        "Art. 55 OR: Deliktische Haftung",
+        "Art. 101 OR: Vertragliche Haftung",
+        "Art. 100 OR: Einschränkungen des Haftungsausschlusses"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 55 OR",
+          "text": "Deliktische Haftung des Geschäftsherrn."
+        },
+        {
+          "ref": "Art. 101 OR",
+          "text": "Vertragliche Haftung für Hilfspersonen."
+        },
+        {
+          "ref": "Art. 100 OR",
+          "text": "Regelt den Haftungsausschluss."
+        }
+      ],
+      "type": "law"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Revisionsstelle",
+      "definition": "Unabhängige Prüforganisation in einer Aktiengesellschaft.",
+      "article": "Art. 728a OR"
+    },
+    {
+      "term": "Geschäftsherrenhaftung",
+      "definition": "Haftung des Geschäftsherrn für unerlaubte Handlungen von Hilfspersonen.",
+      "article": "Art. 55 OR"
+    },
+    {
+      "term": "Vertragliche Haftung",
+      "definition": "Haftung des Schuldners für das Fehlverhalten von Hilfspersonen.",
+      "article": "Art. 101 OR"
+    },
+    {
+      "term": "Haftungsausschluss",
+      "definition": "Vertragliche Begrenzung oder Ausschluss der Haftung.",
+      "article": "Art. 100 OR"
+    },
+    {
+      "term": "Interne Kontrollsysteme (IKS)",
+      "definition": "Systeme zur Sicherstellung der Einhaltung gesetzlicher Vorgaben.",
+      "article": "Art. 728a OR"
+    },
+    {
+      "term": "Kausalzusammenhang",
+      "definition": "Verbindung zwischen Handlung und Schaden."
+    },
+    {
+      "term": "Widerrechtlichkeit",
+      "definition": "Verstoss gegen ein geschütztes Rechtsgut."
+    },
+    {
+      "term": "Funktioneller Zusammenhang",
+      "definition": "Zusammenhang zwischen Pflichtverletzung und vertraglicher Aufgabe."
+    },
+    {
+      "term": "Verschulden",
+      "definition": "Fehlverhalten, das zur Haftung führt."
+    },
+    {
+      "term": "Leistungsstörungen",
+      "definition": "Probleme bei der Erfüllung vertraglicher Pflichten."
+    },
+    {
+      "term": "Kaufrechtliche Mängel",
+      "definition": "Fehler oder Defekte in gekauften Waren."
+    },
+    {
+      "term": "Immaterialgüterrecht",
+      "definition": "Rechtsschutz für geistiges Eigentum."
+    },
+    {
+      "term": "Datenschutzrecht",
+      "definition": "Rechtliche Regelungen zum Schutz personenbezogener Daten."
+    },
+    {
+      "term": "Treuepflicht",
+      "definition": "Pflicht des Arbeitnehmers zur Loyalität gegenüber dem Arbeitgeber."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was regelt Art. 728a OR?",
+      "back": "Die Aufgaben und Pflichten der Revisionsstelle in einer Aktiengesellschaft.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist die Geschäftsherrenhaftung?",
+      "back": "Haftung des Geschäftsherrn für unerlaubte Handlungen von Hilfspersonen.",
+      "tag": "law"
+    },
+    {
+      "front": "Was regelt Art. 101 OR?",
+      "back": "Die vertragliche Haftung für das Fehlverhalten von Hilfspersonen.",
+      "tag": "law"
+    },
+    {
+      "front": "Wann ist ein Haftungsausschluss unzulässig?",
+      "back": "Bei absichtlichem oder grobfahrlässigem Verhalten.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist ein internes Kontrollsystem?",
+      "back": "System zur Sicherstellung der Einhaltung gesetzlicher Vorgaben.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Kausalzusammenhang?",
+      "back": "Verbindung zwischen Handlung und Schaden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Widerrechtlichkeit?",
+      "back": "Verstoss gegen ein geschütztes Rechtsgut.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein funktioneller Zusammenhang?",
+      "back": "Zusammenhang zwischen Pflichtverletzung und vertraglicher Aufgabe.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Verschulden im rechtlichen Kontext?",
+      "back": "Fehlverhalten, das zur Haftung führt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Leistungsstörungen?",
+      "back": "Probleme bei der Erfüllung vertraglicher Pflichten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind kaufrechtliche Mängel?",
+      "back": "Fehler oder Defekte in gekauften Waren.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was umfasst das Immaterialgüterrecht?",
+      "back": "Rechtsschutz für geistiges Eigentum.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was regelt das Datenschutzrecht?",
+      "back": "Rechtliche Regelungen zum Schutz personenbezogener Daten.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist die Treuepflicht?",
+      "back": "Pflicht des Arbeitnehmers zur Loyalität gegenüber dem Arbeitgeber.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Aufgaben hat die Revisionsstelle gemäss Art. 728a OR?",
+      "options": [
+        "Prüfung der Jahresrechnung",
+        "Erstellung des Geschäftsberichts",
+        "Prüfung des Vergütungsberichts",
+        "Leitung der Generalversammlung"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Die Revisionsstelle prüft die Jahresrechnung und den Vergütungsbericht.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Merkmal der Geschäftsherrenhaftung nach Art. 55 OR?",
+      "options": [
+        "Verschuldensunabhängig",
+        "Entlastungsbeweis möglich",
+        "Nur bei vertraglichen Beziehungen",
+        "Keine Haftung für Hilfspersonen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der Geschäftsherr kann sich durch den Entlastungsbeweis von der Haftung befreien.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Aussage trifft auf Art. 101 OR zu?",
+      "options": [
+        "Haftung für Hilfspersonen ist verschuldensabhängig",
+        "Haftung kann vertraglich ausgeschlossen werden",
+        "Haftung für Hilfspersonen ist verschuldensunabhängig",
+        "Nur bei absichtlichem Fehlverhalten haftbar"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Art. 101 OR regelt die verschuldensunabhängige Haftung für Hilfspersonen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wann ist ein Haftungsausschluss nach Art. 100 OR unzulässig?",
+      "options": [
+        "Bei leichter Fahrlässigkeit",
+        "Bei grober Fahrlässigkeit",
+        "Bei absichtlichem Verhalten",
+        "Bei vertraglichen Beziehungen"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Haftungsausschlüsse sind bei grober Fahrlässigkeit und Absicht unzulässig.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Themen sind Teil der Modulprüfung?",
+      "options": [
+        "Obligationenrecht",
+        "Strafrecht",
+        "Immaterialgüterrecht",
+        "Verfassungsrecht"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "explanation": "Die Modulprüfung umfasst Obligationenrecht und Immaterialgüterrecht.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein internes Kontrollsystem (IKS)?",
+      "options": [
+        "Ein System zur Überwachung von Mitarbeitern",
+        "Ein System zur Sicherstellung der Einhaltung gesetzlicher Vorgaben",
+        "Ein System zur Verwaltung von Kundendaten",
+        "Ein System zur Optimierung von Geschäftsprozessen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein IKS dient der Sicherstellung der Einhaltung gesetzlicher Vorgaben.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Aussage trifft auf die vertragliche Haftung nach Art. 101 OR zu?",
+      "options": [
+        "Der Schuldner haftet nur bei eigenem Verschulden",
+        "Der Schuldner haftet verschuldensunabhängig für Hilfspersonen",
+        "Die Haftung kann nicht ausgeschlossen werden",
+        "Die Haftung gilt nur bei grober Fahrlässigkeit"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Nach Art. 101 OR haftet der Schuldner verschuldensunabhängig für Hilfspersonen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf Art. 55 OR zu?",
+      "options": [
+        "Regelt die vertragliche Haftung",
+        "Erlaubt den Entlastungsbeweis",
+        "Bezieht sich auf die Haftung für eigene Handlungen",
+        "Gilt nur für Unternehmen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Art. 55 OR erlaubt den Entlastungsbeweis bei der deliktischen Haftung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf Art. 100 OR zu?",
+      "options": [
+        "Erlaubt den Haftungsausschluss bei grober Fahrlässigkeit",
+        "Erlaubt den Haftungsausschluss bei leichter Fahrlässigkeit",
+        "Erlaubt keinen Haftungsausschluss",
+        "Gilt nur für deliktische Haftung"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Art. 100 OR erlaubt den Haftungsausschluss bei leichter Fahrlässigkeit.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf die Prüfungsstrategie zu?",
+      "options": [
+        "Es ist wichtig, alle Themen gleich intensiv zu lernen",
+        "Fokus auf häufige Themen und Artikel ist sinnvoll",
+        "Nur die Gesetzesartikel sind prüfungsrelevant",
+        "Prüfungsstrategie ist nicht notwendig"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Fokus auf häufige Themen und Artikel ist eine effektive Prüfungsstrategie.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw14",
+  "subjectId": "wr"
+}

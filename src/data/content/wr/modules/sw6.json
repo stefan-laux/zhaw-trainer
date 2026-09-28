@@ -1,0 +1,349 @@
+{
+  "title": "Compliance & Informationssicherheit",
+  "week": "SW 6",
+  "tagline": "Sicherstellung der Einhaltung von Regeln im IT-Bereich.",
+  "summary": "Compliance im IT-Bereich ist entscheidend, um Datenverstösse und rechtliche Probleme zu vermeiden. IT-Compliance umfasst die Einhaltung von externen und internen Regeln und ist Teil der Unternehmensführung. Es ist wichtig, Risiken im Zusammenhang mit IT-Prozessen zu managen, um die Vertraulichkeit, Integrität und Verfügbarkeit von Daten zu gewährleisten. Der rechtliche Rahmen basiert auf Gesetzen, Verordnungen und Standards, während Werkzeuge wie COSO und COBIT zur Unterstützung eingesetzt werden.",
+  "learningGoals": [
+    "Verstehen der Bedeutung von IT-Compliance",
+    "Erkennen der Treiber von IT-Compliance",
+    "Kenntnis des rechtlichen Rahmens von IT-Compliance",
+    "Anwendung von Kontrollmodellen wie COSO und COBIT"
+  ],
+  "blocks": [
+    {
+      "title": "Einführung in IT-Compliance",
+      "body": "Compliance bedeutet, sicherzustellen, dass ein Unternehmen sowohl externe als auch interne Regeln und Vorschriften einhält. IT-Compliance ist Teil der gesamten Unternehmensführung und bezieht sich auf das Management von Risiken im Zusammenhang mit IT-Prozessen und -Systemen.",
+      "bullets": [
+        "Vermeidung von Daten- und rechtlichen Verstössen",
+        "Gewährleistung von Datenvertraulichkeit, -integrität und -verfügbarkeit"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Wirkungsmodell und Treiber von IT-Compliance",
+      "body": "IT-Compliance ist wichtig, da IT-Prozesse entscheidend für die Wertschöpfung sind. Die Treiber von IT-Compliance umfassen Gesetze, Regulierung, Corporate Governance, Bedrohungen, Reputation sowie Verträge und Konzessionen.",
+      "bullets": [
+        "Gesetze wie das Datenschutzgesetz",
+        "Regulierung in der Finanzbranche",
+        "Verantwortung des Verwaltungsrats nach Art. 716 OR"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 716 OR",
+          "text": "Verantwortung des Verwaltungsrats für Compliance und Risikomanagement"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Rechtlicher Rahmen von IT-Compliance",
+      "body": "IT-Compliance basiert auf Gesetzen, Verordnungen und Standards. Schutzziele umfassen Rechnungswesen, IT-Sicherheit und Datenschutz.",
+      "bullets": [
+        "Rechnungswesen: Anlegerschutz",
+        "IT-Sicherheit: Schutz kritischer Infrastrukturen",
+        "Datenschutz: Vertraulichkeit personenbezogener Daten"
+      ],
+      "articles": [],
+      "type": "law"
+    },
+    {
+      "title": "Tools und Massnahmen für IT-Compliance",
+      "body": "Kontrollmodelle wie COSO und COBIT sind Grundlagen eines IKS. Sie helfen, IT-Risiken in verschiedenen Unternehmensbereichen zu managen.",
+      "bullets": [
+        "COSO: Management von IT-Risiken",
+        "COBIT: IT-Governance-Ziele"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Risikofelder von Legal Compliance",
+      "body": "Compliance-Risikokategorien umfassen Geldwäsche, Menschenrechte, Korruption, Datensicherheit, Interessenkonflikte, Gesundheit, Sicherheit, Umwelt, Kartell- und Wettbewerbsrecht sowie Exportkontrolle.",
+      "bullets": [
+        "Geldwäsche: Unrechtmässige Verschleierung von Geldquellen",
+        "Datensicherheit: Umgang mit sensiblen Daten",
+        "Kartellrecht: Verstösse gegen Wettbewerbsförderung"
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Compliance",
+      "definition": "Massnahmen zur Einhaltung gesetzlicher und anderer Regeln."
+    },
+    {
+      "term": "IT-Compliance",
+      "definition": "Einhaltung regulatorischer Anforderungen im IT-Bereich."
+    },
+    {
+      "term": "Corporate Governance",
+      "definition": "Ordnungsrahmen für eine gute Unternehmensführung."
+    },
+    {
+      "term": "IT-Governance",
+      "definition": "Führung und Prozesse zur Unterstützung der Unternehmensziele durch IT."
+    },
+    {
+      "term": "IKS",
+      "definition": "Internes Kontrollsystem zur Sicherstellung der Unternehmensziele."
+    },
+    {
+      "term": "COSO",
+      "definition": "Kontrollmodell zur Unterstützung des Risikomanagements."
+    },
+    {
+      "term": "COBIT",
+      "definition": "Framework zur IT-Governance."
+    },
+    {
+      "term": "Vertraulichkeit",
+      "definition": "Nur autorisierte Personen haben Zugriff auf Daten."
+    },
+    {
+      "term": "Integrität",
+      "definition": "Daten müssen korrekt und unverändert bleiben."
+    },
+    {
+      "term": "Verfügbarkeit",
+      "definition": "Systeme müssen jederzeit zugänglich sein."
+    },
+    {
+      "term": "Datenschutzgesetz",
+      "definition": "Gesetz zum Schutz personenbezogener Daten."
+    },
+    {
+      "term": "KRITIS",
+      "definition": "Schutz kritischer Infrastrukturen."
+    },
+    {
+      "term": "Risikomanagement",
+      "definition": "Identifikation und Reduktion strategischer Risiken."
+    },
+    {
+      "term": "Reputation",
+      "definition": "Öffentliche Wahrnehmung eines Unternehmens."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was bedeutet Compliance?",
+      "back": "Massnahmen zur Einhaltung gesetzlicher und anderer Regeln.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist IT-Compliance?",
+      "back": "Einhaltung regulatorischer Anforderungen im IT-Bereich.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was umfasst Corporate Governance?",
+      "back": "Ordnungsrahmen für eine gute Unternehmensführung.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist IT-Governance?",
+      "back": "Führung und Prozesse zur Unterstützung der Unternehmensziele durch IT.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist ein IKS?",
+      "back": "Internes Kontrollsystem zur Sicherstellung der Unternehmensziele.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Wofür steht COSO?",
+      "back": "Kontrollmodell zur Unterstützung des Risikomanagements.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Wofür steht COBIT?",
+      "back": "Framework zur IT-Governance.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Vertraulichkeit?",
+      "back": "Nur autorisierte Personen haben Zugriff auf Daten.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Integrität?",
+      "back": "Daten müssen korrekt und unverändert bleiben.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Verfügbarkeit?",
+      "back": "Systeme müssen jederzeit zugänglich sein.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was regelt das Datenschutzgesetz?",
+      "back": "Schutz personenbezogener Daten.",
+      "tag": "Gesetz"
+    },
+    {
+      "front": "Was ist KRITIS?",
+      "back": "Schutz kritischer Infrastrukturen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist Risikomanagement?",
+      "back": "Identifikation und Reduktion strategischer Risiken.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Warum ist Reputation wichtig?",
+      "back": "Öffentliche Wahrnehmung eines Unternehmens.",
+      "tag": "Konzept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist das Hauptziel von IT-Compliance?",
+      "options": [
+        "Vermeidung von Datenverlusten",
+        "Einhaltung von IT-Sicherheitsstandards",
+        "Optimierung der IT-Kosten",
+        "Erhöhung der IT-Verfügbarkeit"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "IT-Compliance zielt darauf ab, Datenverluste und rechtliche Verstösse zu vermeiden und IT-Sicherheitsstandards einzuhalten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Rolle spielt der Verwaltungsrat in der IT-Compliance?",
+      "options": [
+        "Er ist nicht verantwortlich",
+        "Er trägt die Verantwortung für die Einhaltung",
+        "Er delegiert alle Aufgaben",
+        "Er entscheidet über IT-Investitionen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Nach Art. 716 OR trägt der Verwaltungsrat die Verantwortung für die Einhaltung der Compliance.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden ist keine Kategorie von IT-Compliance-Treibern?",
+      "options": [
+        "Gesetze",
+        "Regulierung",
+        "Marketing",
+        "Reputation"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Marketing ist kein direkter Treiber von IT-Compliance.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Schutzziele sind Teil des rechtlichen Rahmens von IT-Compliance?",
+      "options": [
+        "Rechnungswesen",
+        "IT-Sicherheit",
+        "Marketing",
+        "Datenschutz"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Rechnungswesen, IT-Sicherheit und Datenschutz sind Schutzziele von IT-Compliance.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein IKS?",
+      "options": [
+        "Internes Kontrollsystem",
+        "Internationales Kommunikationssystem",
+        "Integriertes Kontrollsystem",
+        "Interaktives Kommunikationssystem"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "IKS steht für Internes Kontrollsystem.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Funktion hat COSO im Rahmen der IT-Compliance?",
+      "options": [
+        "Es ist ein IT-Sicherheitsstandard",
+        "Es ist ein Kontrollmodell",
+        "Es ist ein Marketinginstrument",
+        "Es ist eine Software"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "COSO ist ein Kontrollmodell zur Unterstützung des Risikomanagements.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was beschreibt IT-Governance?",
+      "options": [
+        "Führung und Prozesse zur Unterstützung der Unternehmensziele durch IT",
+        "Regulierung der IT-Kosten",
+        "Erstellung von IT-Marketingstrategien",
+        "Entwicklung von IT-Produkten"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "IT-Governance beschreibt Führung und Prozesse zur Unterstützung der Unternehmensziele durch IT.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden ist eine Risikokategorie von Legal Compliance?",
+      "options": [
+        "Geldwäsche",
+        "Produktentwicklung",
+        "IT-Marketing",
+        "Vertrieb"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Geldwäsche ist eine Risikokategorie von Legal Compliance.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Organisation ist bekannt für die Erstellung von IT-Governance-Frameworks?",
+      "options": [
+        "ISO",
+        "OECD",
+        "COBIT",
+        "COSO"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "COBIT ist ein bekanntes Framework zur IT-Governance.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet Verfügbarkeit im Kontext der IT-Compliance?",
+      "options": [
+        "Daten müssen korrekt bleiben",
+        "Systeme müssen jederzeit zugänglich sein",
+        "Nur autorisierte Personen haben Zugriff",
+        "Daten müssen verschlüsselt sein"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Verfügbarkeit bedeutet, dass Systeme jederzeit zugänglich sein müssen.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw6",
+  "subjectId": "wr"
+}

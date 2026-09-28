@@ -1,0 +1,394 @@
+{
+  "title": "Wettbewerbsrecht II - Kartellrecht",
+  "week": "SW 8",
+  "tagline": "Verstehen Sie die Grundlagen des Kartellrechts und seine Anwendung in der Schweiz.",
+  "summary": "Das Kartellrecht in der Schweiz zielt darauf ab, den freien Wettbewerb zu schützen und Marktmissbrauch zu verhindern. Es besteht aus drei Hauptpfeilern: Wettbewerbsabreden, Marktmissbrauch und Unternehmenszusammenschlüsse. Wettbewerbsabreden werden in horizontale und vertikale Absprachen unterteilt und können den Wettbewerb erheblich beeinträchtigen oder sogar beseitigen. Marktmissbrauch betrifft das Verhalten marktbeherrschender Unternehmen, während die Kontrolle von Unternehmenszusammenschlüssen präventiv erfolgt, um marktbeherrschende Strukturen zu vermeiden.",
+  "learningGoals": [
+    "Verstehen der Funktionen und Ziele des Wettbewerbs",
+    "Kenntnis der drei Pfeiler des Kartellrechts",
+    "Unterscheidung zwischen horizontalen und vertikalen Wettbewerbsabreden",
+    "Erkennen von Marktmissbrauch und dessen Folgen",
+    "Verständnis der Zusammenschlusskontrolle"
+  ],
+  "blocks": [
+    {
+      "title": "Funktionen und Ziele des Wettbewerbs",
+      "body": "Der freie Wettbewerb hat mehrere Funktionen, darunter die Freiheits-, Kontroll-, Lenkungs- und Verteilungsfunktion. Diese Funktionen tragen dazu bei, dass Märkte effizient funktionieren und Innovationen gefördert werden.",
+      "bullets": [
+        "Freiheitsfunktion: Ermöglicht Marktzugang",
+        "Kontrollfunktion: Überwacht Marktakteure",
+        "Lenkungsfunktion: Steuert Ressourcenallokation",
+        "Verteilungsfunktion: Sorgt für faire Verteilung"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Die drei Pfeiler des Kartellrechts",
+      "body": "Das Kartellrecht basiert auf drei Hauptpfeilern: Wettbewerbsabreden, Marktmissbrauch und Unternehmenszusammenschlüsse. Diese Pfeiler zielen darauf ab, wettbewerbsbeschränkende Praktiken zu kontrollieren und zu verhindern.",
+      "bullets": [
+        "Wettbewerbsabreden: Art. 5 KG",
+        "Marktmissbrauch: Art. 7 KG",
+        "Unternehmenszusammenschlüsse: Art. 9 und 10 KG"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 5 KG",
+          "text": "Kontrolliert wettbewerbsbeschränkende Vereinbarungen."
+        },
+        {
+          "ref": "Art. 7 KG",
+          "text": "Kontrolliert den Missbrauch von Marktmacht."
+        },
+        {
+          "ref": "Art. 9 und 10 KG",
+          "text": "Prävention marktbeherrschender Zusammenschlüsse."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Wettbewerbsabreden",
+      "body": "Wettbewerbsabreden können horizontal oder vertikal sein und den Wettbewerb erheblich beeinträchtigen oder beseitigen. Ein Prüfschema hilft bei der Bewertung solcher Abreden.",
+      "bullets": [
+        "Horizontale Abreden: Zwischen Wettbewerbern",
+        "Vertikale Abreden: Entlang der Lieferkette",
+        "Prüfschema: Vorliegen, Beseitigung, Beeinträchtigung, Rechtfertigung"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 5 Abs. 1 KG",
+          "text": "Erhebliche Beeinträchtigung des Wettbewerbs."
+        },
+        {
+          "ref": "Art. 5 Abs. 3 und 4 KG",
+          "text": "Beseitigung des Wettbewerbs."
+        }
+      ],
+      "type": "process"
+    },
+    {
+      "title": "Marktmissbrauch",
+      "body": "Marktmissbrauch liegt vor, wenn marktbeherrschende Unternehmen ihre Stellung missbrauchen. Solche Praktiken sind kartellrechtlich relevant und können sanktioniert werden.",
+      "bullets": [
+        "Verweigerung von Geschäftsbeziehungen",
+        "Diskriminierung von Handelspartnern",
+        "Unangemessene Bedingungen",
+        "Gezieltes Unterbieten von Preisen"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 7 KG",
+          "text": "Missbrauch marktbeherrschender Stellung."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Unternehmenszusammenschlüsse",
+      "body": "Unternehmenszusammenschlüsse unterliegen einer präventiven Kontrolle, um marktbeherrschende Strukturen zu verhindern. Die Prüfung erfolgt in mehreren Phasen.",
+      "bullets": [
+        "Umsatzkriterien für Zusammenschlüsse",
+        "Phasen der Zusammenschlussprüfung",
+        "Risiken des Informationsaustauschs"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 9 und 10 KG",
+          "text": "Kontrolle von Unternehmenszusammenschlüssen."
+        }
+      ],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Wettbewerbsabrede",
+      "definition": "Vereinbarung, die den Wettbewerb beschränkt.",
+      "article": "Art. 5 KG"
+    },
+    {
+      "term": "Marktmissbrauch",
+      "definition": "Missbrauch einer marktbeherrschenden Stellung.",
+      "article": "Art. 7 KG"
+    },
+    {
+      "term": "Unternehmenszusammenschluss",
+      "definition": "Zusammenschluss von Unternehmen, der kontrolliert wird.",
+      "article": "Art. 9 und 10 KG"
+    },
+    {
+      "term": "Horizontale Abrede",
+      "definition": "Vereinbarung zwischen Wettbewerbern auf gleicher Stufe."
+    },
+    {
+      "term": "Vertikale Abrede",
+      "definition": "Vereinbarung entlang der Lieferkette."
+    },
+    {
+      "term": "Beseitigung des Wettbewerbs",
+      "definition": "Ausschaltung von Wettbewerbsparametern.",
+      "article": "Art. 5 Abs. 3 und 4 KG"
+    },
+    {
+      "term": "Erhebliche Beeinträchtigung",
+      "definition": "Wettbewerbsbeschränkung, die Effizienzsteigerungen rechtfertigen kann.",
+      "article": "Art. 5 Abs. 2 KG"
+    },
+    {
+      "term": "Marktabgrenzung",
+      "definition": "Bestimmung des relevanten Marktes in sachlicher, räumlicher und zeitlicher Hinsicht."
+    },
+    {
+      "term": "Submissionskartell",
+      "definition": "Abrede zur Beschränkung des Submissionswettbewerbs.",
+      "article": "Art. 5 Abs. 3 KG"
+    },
+    {
+      "term": "Primärmarkt",
+      "definition": "Markt für das Hauptprodukt."
+    },
+    {
+      "term": "Sekundärmarkt",
+      "definition": "Markt für komplementäre Güter."
+    },
+    {
+      "term": "WEKO",
+      "definition": "Wettbewerbskommission der Schweiz."
+    },
+    {
+      "term": "Effizienzsteigerung",
+      "definition": "Rechtfertigungsgrund für Wettbewerbsbeschränkungen."
+    },
+    {
+      "term": "Sublizenzierung",
+      "definition": "Weitergabe von Nutzungsrechten."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Wettbewerbsabrede?",
+      "back": "Eine Vereinbarung, die den Wettbewerb beschränkt.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was versteht man unter Marktmissbrauch?",
+      "back": "Den Missbrauch einer marktbeherrschenden Stellung.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Welche Artikel regeln die Unternehmenszusammenschlüsse?",
+      "back": "Art. 9 und 10 KG",
+      "tag": "Artikel"
+    },
+    {
+      "front": "Was ist eine horizontale Abrede?",
+      "back": "Eine Vereinbarung zwischen Wettbewerbern auf gleicher Stufe.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine vertikale Abrede?",
+      "back": "Eine Vereinbarung entlang der Lieferkette.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Wann wird der Wettbewerb beseitigt?",
+      "back": "Wenn Wettbewerbsparameter wie Preis, Menge und Gebiet ausgeschaltet werden.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet erhebliche Beeinträchtigung?",
+      "back": "Eine Wettbewerbsbeschränkung, die Effizienzsteigerungen rechtfertigen kann.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist Marktabgrenzung?",
+      "back": "Die Bestimmung des relevanten Marktes in sachlicher, räumlicher und zeitlicher Hinsicht.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist ein Submissionskartell?",
+      "back": "Eine Abrede zur Beschränkung des Submissionswettbewerbs.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist der Primärmarkt?",
+      "back": "Der Markt für das Hauptprodukt.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist der Sekundärmarkt?",
+      "back": "Der Markt für komplementäre Güter.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist die WEKO?",
+      "back": "Die Wettbewerbskommission der Schweiz.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Effizienzsteigerung?",
+      "back": "Ein Rechtfertigungsgrund für Wettbewerbsbeschränkungen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Sublizenzierung?",
+      "back": "Die Weitergabe von Nutzungsrechten.",
+      "tag": "Definition"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Funktion hat der freie Wettbewerb?",
+      "options": [
+        "Freiheitsfunktion",
+        "Kontrollfunktion",
+        "Lenkungsfunktion",
+        "Verteilungsfunktion"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Der freie Wettbewerb hat mehrere Funktionen, darunter Freiheits-, Kontroll-, Lenkungs- und Verteilungsfunktion.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Artikel des KG betreffen Wettbewerbsabreden?",
+      "options": [
+        "Art. 5 KG",
+        "Art. 7 KG",
+        "Art. 9 KG",
+        "Art. 10 KG"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Wettbewerbsabreden werden in Art. 5 KG geregelt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine horizontale Abrede?",
+      "options": [
+        "Vereinbarung zwischen Wettbewerbern",
+        "Vereinbarung entlang der Lieferkette",
+        "Missbrauch marktbeherrschender Stellung",
+        "Kontrolle von Unternehmenszusammenschlüssen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Horizontale Abreden sind Vereinbarungen zwischen Wettbewerbern auf gleicher Stufe.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wann liegt Marktmissbrauch vor?",
+      "options": [
+        "Bei Verweigerung von Geschäftsbeziehungen",
+        "Bei Diskriminierung von Handelspartnern",
+        "Bei unangemessenen Bedingungen",
+        "Bei Zusammenschlusskontrolle"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Marktmissbrauch liegt vor, wenn marktbeherrschende Unternehmen ihre Stellung missbrauchen, z.B. durch Verweigerung von Geschäftsbeziehungen oder Diskriminierung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Kriterien gelten für die Zusammenschlusskontrolle?",
+      "options": [
+        "Umsatz von 2 Milliarden weltweit",
+        "Umsatz von 500 Millionen in der Schweiz",
+        "Umsatz von 100 Millionen pro Unternehmen in der Schweiz",
+        "Umsatz von 1 Milliarde in Europa"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Die Zusammenschlusskontrolle erfordert bestimmte Umsatzkriterien, darunter 2 Milliarden weltweit und 500 Millionen in der Schweiz.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist ein Submissionskartell?",
+      "options": [
+        "Abrede zur Beschränkung des Submissionswettbewerbs",
+        "Vereinbarung zwischen Wettbewerbern",
+        "Missbrauch marktbeherrschender Stellung",
+        "Kontrolle von Unternehmenszusammenschlüssen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein Submissionskartell ist eine Abrede zur Beschränkung des Submissionswettbewerbs.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Abrede wird als Hardcore-Abrede bezeichnet?",
+      "options": [
+        "Horizontale Abrede",
+        "Vertikale Abrede",
+        "Submissionskartell",
+        "Marktmissbrauch"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Submissionskartelle gelten als Hardcore-Abreden und sind besonders schwerwiegend.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was bedeutet Marktabgrenzung?",
+      "options": [
+        "Bestimmung des relevanten Marktes",
+        "Kontrolle von Unternehmenszusammenschlüssen",
+        "Verweigerung von Geschäftsbeziehungen",
+        "Vereinbarung zwischen Wettbewerbern"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Marktabgrenzung bedeutet die Bestimmung des relevanten Marktes in sachlicher, räumlicher und zeitlicher Hinsicht.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Funktion hat die WEKO?",
+      "options": [
+        "Überwachung des Wettbewerbs",
+        "Kontrolle von Unternehmenszusammenschlüssen",
+        "Verhinderung von Marktmissbrauch",
+        "Regulierung von Submissionskartellen"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Die WEKO überwacht den Wettbewerb, kontrolliert Unternehmenszusammenschlüsse, verhindert Marktmissbrauch und reguliert Submissionskartelle.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Effizienzsteigerung im Kartellrecht?",
+      "options": [
+        "Rechtfertigungsgrund für Wettbewerbsbeschränkungen",
+        "Missbrauch marktbeherrschender Stellung",
+        "Kontrolle von Unternehmenszusammenschlüssen",
+        "Verweigerung von Geschäftsbeziehungen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Effizienzsteigerungen können als Rechtfertigungsgrund für Wettbewerbsbeschränkungen dienen.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw8",
+  "subjectId": "wr"
+}

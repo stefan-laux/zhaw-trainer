@@ -1,0 +1,1237 @@
+{
+  "id": "bwl-25HS",
+  "subjectId": "bwl",
+  "year": "25HS",
+  "label": "MEP 25HS",
+  "minutes": 60,
+  "maxPoints": 40.0,
+  "scoring": "mixed",
+  "questions": [
+    {
+      "number": 1,
+      "type": "truefalse",
+      "prompt": "Die Einführung einer neuen Mobile-Banking-App ist den Geschäftsprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Einführung einer neuen App gehört zu den Geschäftsprozessen, da sie direkt mit der Leistungserstellung verbunden ist.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "truefalse",
+      "prompt": "Die Bearbeitung einer Kundenbeschwerde über die Hotline ist den Unterstützungsprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Kundenbeschwerden werden in der Regel durch Unterstützungsprozesse bearbeitet, da sie nicht direkt zur Leistungserstellung gehören.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "truefalse",
+      "prompt": "Die Definition einer Digitalstrategie ist den Managementprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Entwicklung von Strategien gehört zu den Managementprozessen, da sie die langfristige Ausrichtung des Unternehmens betreffen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "truefalse",
+      "prompt": "Die Verarbeitung einer Überweisung ist den Unterstützungsprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Verarbeitung einer Überweisung ist ein Geschäftsprozess, da sie direkt mit der Leistungserstellung verbunden ist.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "truefalse",
+      "prompt": "Die interne Revision von Compliance-Regeln ist den Managementprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die interne Revision gehört zu den Unterstützungsprozessen, da sie die Einhaltung von Regeln überwacht und nicht direkt zur Leistungserstellung beiträgt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "truefalse",
+      "prompt": "Die Schulung neuer Mitarbeitender im Callcenter ist den Unterstützungsprozessen zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Schulungen sind Unterstützungsprozesse, da sie die Leistungsfähigkeit der Mitarbeitenden verbessern.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "truefalse",
+      "prompt": "Die Uniformen der Callcenter-Mitarbeitenden sind dem Ordnungselement «Struktur» zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Uniformen sind Teil der Kultur, nicht der Struktur, da sie die Identität und das Erscheinungsbild betreffen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "truefalse",
+      "prompt": "Eine externe Softwarefirma für App-Entwicklung ist aus Sicht von PostFinance der Anspruchsgruppe «Lieferanten» zuzuordnen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Externe Dienstleister wie Softwarefirmen zählen zu den Lieferanten, da sie Produkte oder Dienstleistungen bereitstellen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "truefalse",
+      "prompt": "Die Einführung von Echtzeit-Überweisungen gehört zum Entwicklungsmodus «Optimierung».",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Optimierung bezieht sich auf die Verbesserung bestehender Prozesse, wie die Einführung von Echtzeit-Überweisungen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "truefalse",
+      "prompt": "Ein Kundenfeedback in Social Media wird nur dann zu einem Interaktionsthema, wenn die Umweltsphäre «Natur» betroffen ist.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Kundenfeedback kann unabhängig von der Umweltsphäre ein Interaktionsthema sein, da es die Beziehung zum Kunden betrifft.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "truefalse",
+      "prompt": "Da die PostFinance mehrheitlich dem Bund gehört, ist die Umweltsphäre «Wirtschaft» nicht relevant.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Umweltsphäre Wirtschaft ist immer relevant, da sie die wirtschaftlichen Rahmenbedingungen umfasst, unabhängig von der Eigentümerstruktur.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "truefalse",
+      "prompt": "FinTech-Startups mit digitalen Bankdienstleistungen zählen zur Anspruchsgruppe «Konkurrenz».",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "FinTech-Startups, die ähnliche Dienstleistungen anbieten, sind Konkurrenten im Markt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "open",
+      "prompt": "Benennen Sie das «Interaktionsthema», die betroffene «Umweltsphäre» und «Ressource». Beschreiben Sie das «Anliegen», das «Interesse», sowie die «Norm» und den «Wert» aus Sicht der SECO. Erklären Sie überdies zwei «Gefahren», die auf UBER zukommen, und zwei passende «Reaktionsmöglichkeiten» von UBER.",
+      "scenario": "Seco interveniert im Uber-Streit",
+      "options": [],
+      "correct": [],
+      "points": 11.0,
+      "explanation": "",
+      "modelAnswer": "Interaktionsthema: Arbeitsrechtliche Einstufung der Uber-Fahrer. Umweltsphäre: Gesellschaft. Ressource: Arbeitskraft der Fahrer. Anliegen: Sicherstellung der Einhaltung arbeitsrechtlicher Bestimmungen. Interesse: Schutz der Arbeitnehmerrechte. Norm: Bundesgesetz über die Arbeitsvermittlung und den Personalverleih. Wert: Fairness und Gerechtigkeit im Arbeitsmarkt. Gefahren für Uber: 1) Erhöhte Betriebskosten durch Einhaltung von Mindestlöhnen und Sozialabgaben. 2) Reputationsschaden durch negative öffentliche Wahrnehmung. Reaktionsmöglichkeiten: 1) Anpassung des Geschäftsmodells, um die Fahrer als Angestellte zu integrieren. 2) Öffentlichkeitsarbeit zur Verbesserung des Unternehmensimages.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "truefalse",
+      "prompt": "Eine Begrenzung der Vergütung im Management eines Unternehmens zu bestimmen, ist eine Personalmanagementaufgabe auf operativer Ebene.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Begrenzung der Vergütung ist eine strategische Aufgabe, da sie langfristige Auswirkungen auf die Unternehmensführung hat.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "truefalse",
+      "prompt": "Flexible Arbeitszeitmodelle sind eine betriebsexterne Möglichkeit der Personalgewinnung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Flexible Arbeitszeitmodelle sind eine interne Massnahme zur Steigerung der Attraktivität des Unternehmens.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "truefalse",
+      "prompt": "Die bestmögliche Gestaltung des Arbeitsumfeldes für die Mitarbeiter, ist ein wirtschaftliches Ziel des Personalmanagements.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Gestaltung des Arbeitsumfeldes ist ein soziales Ziel, da es das Wohlbefinden der Mitarbeitenden betrifft.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "truefalse",
+      "prompt": "Hohe Rekrutierungskosten sind ein Nachteil bei der betriebsinternen Personalgewinnung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Hohe Rekrutierungskosten sind eher ein Nachteil der externen Personalgewinnung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "truefalse",
+      "prompt": "Eine hohe Arbeitgeberattraktivität führt dauerhaft zu qualifizierteren Bewerbungen für offene Stellen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ein attraktiver Arbeitgeber zieht qualifizierte Bewerber an, was die Qualität der Bewerbungen erhöht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "truefalse",
+      "prompt": "Employer Branding dient der Schaffung eines Gleichgewichts zwischen Mitarbeitergewinnung und Mitarbeiterbindung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Employer Branding zielt darauf ab, sowohl neue Mitarbeitende zu gewinnen als auch bestehende zu halten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "truefalse",
+      "prompt": "Employer Branding ist ein unternehmensstrategischer Ansatz, bei dem Konzepte aus der Personalführung, z.B. die Motivationstheorie nach Herzberg angewandt werden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Employer Branding integriert strategische Ansätze und Theorien der Personalführung, um die Arbeitgebermarke zu stärken.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "truefalse",
+      "prompt": "Der «War for Talents» am Arbeitsmarkt hat zu weniger Investitionen der Unternehmen ins Employer Branding geführt.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der «War for Talents» hat zu mehr Investitionen ins Employer Branding geführt, um im Wettbewerb um Talente zu bestehen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "truefalse",
+      "prompt": "Die Führungsstile im «Managerial Grid» nach Blake & Mouton orientieren sich an den Aufgaben und den Mitarbeitern.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Das Managerial Grid bewertet Führungsstile basierend auf der Ausrichtung auf Aufgaben und Mitarbeiter.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "truefalse",
+      "prompt": "Der Führungsstil im Cirque du Soleil lässt sich als «partizipativ» beschreiben.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Der partizipative Führungsstil fördert die Einbeziehung der Mitarbeitenden in Entscheidungsprozesse, was beim Cirque du Soleil praktiziert wird.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "truefalse",
+      "prompt": "Die Freiheit sich als Mitarbeiter in einem Unternehmen zu entfalten, kann gemäss der Zwei-Faktoren-Theorie von Herzberg Zufriedenheit fördern.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Nach Herzberg fördern Motivatoren wie Entfaltungsmöglichkeiten die Zufriedenheit der Mitarbeitenden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "truefalse",
+      "prompt": "Anreizsysteme sind das Bindeglied zwischen Unternehmenszielen und Mitarbeiterinteressen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Anreizsysteme verbinden Unternehmensziele mit den Interessen der Mitarbeitenden, um Motivation und Leistung zu steigern.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "truefalse",
+      "prompt": "«Überstunden» sind eine beliebte Form interner Personalgewinnung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Überstunden sind keine Form der Personalgewinnung, sondern eine kurzfristige Massnahme zur Kapazitätserhöhung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "truefalse",
+      "prompt": "Das regionale Arbeitsvermittlungszentrum (RAV) stellt eine interne Form der Personalgewinnung dar.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das RAV ist eine externe Institution, die bei der Personalvermittlung unterstützt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "truefalse",
+      "prompt": "Die externe Personalgewinnung fällt kostengünstiger aus als die interne.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Externe Personalgewinnung ist oft teurer, da sie Rekrutierungskosten und Einarbeitungszeiten umfasst.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "truefalse",
+      "prompt": "Die Steigerung der Mitarbeitenden-Qualifikation stellt keine Form der Personalgewinnung dar.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Qualifikationssteigerung ist eine Massnahme zur Personalentwicklung, nicht zur Gewinnung neuer Mitarbeitender.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "truefalse",
+      "prompt": "Marktdurchdringung: Verstärkter Einsatz von Social Media im europäischen Markt.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marktdurchdringung zielt darauf ab, den Marktanteil bestehender Produkte zu erhöhen, z.B. durch intensivere Nutzung von Social Media.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "truefalse",
+      "prompt": "Produktentwicklung: Einführung neuartiger Outdoor-Schuhe aus Recycling-Material.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Produktentwicklung bezieht sich auf die Schaffung neuer Produkte für bestehende Märkte.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "truefalse",
+      "prompt": "Marktentwicklung: Betrieb einer eigenen Online-Plattform in Südostasien.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marktentwicklung umfasst die Erschliessung neuer Märkte für bestehende Produkte.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "truefalse",
+      "prompt": "Diversifikation: Innovative Schuhreparatur-Angebote sollen neu auch in Singapur angeboten werden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Diversifikation bedeutet, neue Produkte in neuen Märkten einzuführen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "truefalse",
+      "prompt": "Vertikale Diversifikation: Übernahme eines Bio-Baumwoll- und Leder-Erzeugers.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Vertikale Diversifikation umfasst die Integration von vor- oder nachgelagerten Produktionsstufen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "truefalse",
+      "prompt": "Horizontale Diversifikation: Beteiligung an einem Ladengeschäft in Zürich.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Horizontale Diversifikation bezieht sich auf die Erweiterung des Produktangebots innerhalb derselben Branche, nicht auf den Vertrieb.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "truefalse",
+      "prompt": "Die Rivalität unter Outdoor-Marken ist hoch, weil auch die Eintrittsbarrieren hoch sind.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Hohe Eintrittsbarrieren führen in der Regel zu weniger Rivalität, da weniger neue Wettbewerber in den Markt eintreten können.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "truefalse",
+      "prompt": "Kunden haben durch Online-Vergleichsportale eine relativ hohe Verhandlungsmacht.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Online-Vergleichsportale erhöhen die Transparenz und damit die Verhandlungsmacht der Kunden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "truefalse",
+      "prompt": "Second-Hand-Kleidung ist ein Substitutionsangebot für neue Produkte.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Second-Hand-Kleidung kann neue Produkte ersetzen und stellt somit ein Substitutionsangebot dar.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "truefalse",
+      "prompt": "Da es immer mehr Lieferanten von Recycling-Material gibt, gewinnen diese an Verhandlungsmacht.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Mehr Lieferanten führen in der Regel zu geringerer Verhandlungsmacht, da die Auswahl für Käufer grösser wird.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "open",
+      "prompt": "Diskutieren Sie die Vor- und Nachteile einer starken Unternehmenskultur.",
+      "scenario": "Internationales Arbeitgeber-Ranking: Top-10 Platzierung für Daimler Financial Services",
+      "options": [],
+      "correct": [],
+      "points": 4.0,
+      "explanation": "",
+      "modelAnswer": "Vorteile: 1) Eine starke Unternehmenskultur kann die Mitarbeiterbindung erhöhen, da sich Mitarbeitende stärker mit dem Unternehmen identifizieren. 2) Sie fördert die Konsistenz im Verhalten der Mitarbeitenden, was zu einer einheitlichen Unternehmensdarstellung nach aussen führt. Nachteile: 1) Eine starke Unternehmenskultur kann zu einer geringen Flexibilität führen, da Veränderungen schwerer umzusetzen sind, wenn sie nicht zur bestehenden Kultur passen. 2) Sie kann zu einer Homogenität führen, die innovative Ideen und Diversität hemmt, da abweichende Meinungen weniger akzeptiert werden.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "truefalse",
+      "prompt": "Der Artikel thematisiert hauptsächlich die Handlungsebene des operativen Managements.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Artikel behandelt strategische Themen wie Nachhaltigkeit und Unternehmensverantwortung, nicht das operative Management.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 42,
+      "type": "truefalse",
+      "prompt": "«Wir schaffen Jobs, wir bauen Infrastrukturen auf, wir helfen lokalen Geschäften.» Nach dem Modell von Schüz wird hier die ökonomische Verantwortung umgesetzt.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Diese Aktivitäten entsprechen der ökonomischen Verantwortung, da sie zur wirtschaftlichen Entwicklung beitragen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 43,
+      "type": "truefalse",
+      "prompt": "Den Interessenskonflikt zwischen Einhaltung der Menschenrechte und Gewinnmaximierung dürfte es nach dem Modell der integrativen Wirtschaftsethik gar nicht geben.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die integrative Wirtschaftsethik strebt danach, ethische und wirtschaftliche Ziele in Einklang zu bringen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 44,
+      "type": "truefalse",
+      "prompt": "Der Aufbau einer Trainingsanlage für Lehrlinge in Sambia lässt sich mit dem Modell der korrektiven Wirtschaftsethik begründen.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Aufbau einer Trainingsanlage ist eine präventive Massnahme zur Förderung der Bildung, nicht korrektiv.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 45,
+      "type": "truefalse",
+      "prompt": "Nichtregierungsorganisationen sind für Glencore Interessensgruppen, wenn das normativ-kritische Anspruchsgruppenkonzept als Basis herangezogen wird.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Nach dem normativ-kritischen Konzept sind NGOs wichtige Anspruchsgruppen, da sie gesellschaftliche Interessen vertreten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 46,
+      "type": "truefalse",
+      "prompt": "Die Macher des Dokumentarfilms «Trading Paradise» übernehmen als Mitarbeitende unternehmenspolitische Mitverantwortung.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Filmemacher sind keine Mitarbeitenden von Glencore und übernehmen daher keine unternehmenspolitische Verantwortung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 47,
+      "type": "truefalse",
+      "prompt": "Die Kritik an der Rohstoffbranche ist bei der SWOT-Analyse aus Sicht von Glencore als Gefahr zu werten.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Externe Kritik stellt eine Bedrohung dar, die in der SWOT-Analyse als Gefahr bewertet wird.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 48,
+      "type": "truefalse",
+      "prompt": "Der Entscheid, den Bereich Nachhaltigkeit bei Glencore zu stärken, lässt sich im St. Galler Management Modell auf Ebene der Geschäftsprozesse verorten.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Nachhaltigkeit betrifft strategische Entscheidungen und ist nicht direkt ein Geschäftsprozess.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 49,
+      "type": "truefalse",
+      "prompt": "Kapitalgeber sind in diesem Beispiel keine strategische Anspruchsgruppe; sie werden im Artikel im Gegensatz zum Kunden oder auch der Bevölkerung nicht erwähnt.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Kapitalgeber sind immer eine strategische Anspruchsgruppe, unabhängig von ihrer Erwähnung im Artikel.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 50,
+      "type": "truefalse",
+      "prompt": "Das Interaktionsthema zwischen dem Filmteam und Glencore ist in der ökonomischen Umweltsphäre angesiedelt.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Thema betrifft eher die gesellschaftliche Umweltsphäre, da es um soziale Verantwortung und Ethik geht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 51,
+      "type": "truefalse",
+      "prompt": "Wenn sich Glencore global für die Einhaltung der Menschenrechte einsetzt, ist dies eine ordnungsethische Massnahme.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ordnungsethik bezieht sich auf die Einhaltung von Normen und Standards, wie Menschenrechte.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 52,
+      "type": "truefalse",
+      "prompt": "Glencore will in den Ländern, in denen sie tätig sind, «positives bewirken». Dies entspricht im Modell von Schüz dem Ansatz der Tugendethik.",
+      "scenario": "GLENCORE: Im Kreuzfeuer der Kritik",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Tugendethik fokussiert auf das Gute und die positiven Auswirkungen von Handlungen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    }
+  ]
+}

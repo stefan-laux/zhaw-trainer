@@ -1,0 +1,355 @@
+{
+  "title": "Haftpflicht & Unternehmensstrafrecht",
+  "week": "SW 13",
+  "tagline": "Verständnis der Haftpflichtarten und des Unternehmensstrafrechts.",
+  "summary": "In dieser Woche werden die Grundlagen der Haftpflicht und des Unternehmensstrafrechts behandelt. Es wird zwischen vertraglicher und ausservertraglicher Haftpflicht unterschieden. Zudem werden die Konzepte der Kausalhaftung und der Produktehaftpflicht erläutert. Abschliessend wird ein Überblick über das Unternehmensstrafrecht gegeben.",
+  "learningGoals": [
+    "Unterscheidung zwischen vertraglicher und ausservertraglicher Haftpflicht.",
+    "Verständnis der Kausalhaftung und ihrer Arten.",
+    "Kenntnis der Grundlagen der Produktehaftpflicht.",
+    "Einführung in das Unternehmensstrafrecht."
+  ],
+  "blocks": [
+    {
+      "title": "Vertragliche vs. Ausservertragliche Haftpflicht",
+      "body": "Die vertragliche Haftpflicht entsteht bei Nicht- oder Schlechterfüllung eines Vertrages. Die ausservertragliche Haftpflicht tritt ein, wenn ein Schaden ohne bestehende vertragliche Beziehung verursacht wird.",
+      "bullets": [
+        "Vertragliche Haftpflicht: Schlechterfüllung, Verzug.",
+        "Ausservertragliche Haftpflicht: Schaden ohne Vertrag."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 41 OR",
+          "text": "Grundlage der ausservertraglichen Haftpflicht."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Kausalhaftung",
+      "body": "Kausalhaftungen sind Ausnahmen von der Verschuldenshaftung. Es gibt milde und scharfe Kausalhaftungen, die in besonderen Gesetzesbestimmungen geregelt sind.",
+      "bullets": [
+        "Milde Kausalhaftung: Verletzung von Aufsichts- oder Sorgfaltspflichten.",
+        "Scharfe Kausalhaftung: Verantwortung für gefährliche Vorrichtungen oder Sachen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Produktehaftpflicht",
+      "body": "Die Produktehaftpflicht ist eine milde Kausalhaftung, die Personenschäden und Sachschäden im privaten Gebrauch abdeckt.",
+      "bullets": [
+        "Haftpflichtige: Hersteller oder Importeur.",
+        "Fehlerhaftes Produkt: Sicherheitserwartungen nicht erfüllt."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 1 PrHG",
+          "text": "Regelung der Produktehaftpflicht."
+        },
+        {
+          "ref": "Art. 2 PrHG",
+          "text": "Haftpflichtige Personen im PrHG."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Natürlicher und Adäquater Kausalzusammenhang",
+      "body": "Der natürliche Kausalzusammenhang ist gegeben, wenn die Ursache nicht weggedacht werden kann, ohne dass der Schaden entfiele. Der adäquate Kausalzusammenhang liegt vor, wenn die Ursache nach allgemeiner Lebenserfahrung geeignet ist, den Schaden herbeizuführen.",
+      "bullets": [
+        "Natürlicher Kausalzusammenhang: conditio sine qua non.",
+        "Adäquater Kausalzusammenhang: allgemeine Lebenserfahrung."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Unternehmensstrafrecht",
+      "body": "Das Unternehmensstrafrecht befasst sich mit der strafrechtlichen Verantwortlichkeit von Unternehmen. Es wird geprüft, ob ein Unternehmen für Straftaten verantwortlich gemacht werden kann.",
+      "bullets": [
+        "Strafrechtliche Verantwortlichkeit von Unternehmen.",
+        "Prüfung der Unternehmenshaftung."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Vertragliche Haftpflicht",
+      "definition": "Haftung bei Nicht- oder Schlechterfüllung eines Vertrages."
+    },
+    {
+      "term": "Ausservertragliche Haftpflicht",
+      "definition": "Haftung bei Schaden ohne bestehende vertragliche Beziehung.",
+      "article": "Art. 41 OR"
+    },
+    {
+      "term": "Milde Kausalhaftung",
+      "definition": "Haftung bei Verletzung von Aufsichts- oder Sorgfaltspflichten."
+    },
+    {
+      "term": "Scharfe Kausalhaftung",
+      "definition": "Haftung für gefährliche Vorrichtungen oder Sachen."
+    },
+    {
+      "term": "Produktehaftpflicht",
+      "definition": "Haftung für Schäden durch fehlerhafte Produkte.",
+      "article": "Art. 1 PrHG"
+    },
+    {
+      "term": "Natürlicher Kausalzusammenhang",
+      "definition": "Ursache kann nicht weggedacht werden, ohne dass der Schaden entfiele."
+    },
+    {
+      "term": "Adäquater Kausalzusammenhang",
+      "definition": "Ursache muss nach allgemeiner Lebenserfahrung geeignet sein, den Schaden herbeizuführen."
+    },
+    {
+      "term": "Widerrechtlichkeit",
+      "definition": "Unerlaubter Eingriff in geschützte Rechtsgüter."
+    },
+    {
+      "term": "Verschulden",
+      "definition": "Subjektive und objektive Seite der Haftung."
+    },
+    {
+      "term": "Unternehmensstrafrecht",
+      "definition": "Strafrechtliche Verantwortlichkeit von Unternehmen."
+    },
+    {
+      "term": "Freistellungsklausel",
+      "definition": "Möglichkeit des Haftungsausschlusses in Verträgen.",
+      "article": "Art. 100 OR"
+    },
+    {
+      "term": "Personenschaden",
+      "definition": "Schaden an einer Person."
+    },
+    {
+      "term": "Sachschaden",
+      "definition": "Schaden an Sachen im privaten Gebrauch."
+    },
+    {
+      "term": "Rechtfertigungsgrund",
+      "definition": "Grund, der einen Eingriff in geschützte Rechtsgüter erlaubt."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist vertragliche Haftpflicht?",
+      "back": "Haftung bei Nicht- oder Schlechterfüllung eines Vertrages.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist ausservertragliche Haftpflicht?",
+      "back": "Haftung bei Schaden ohne bestehende vertragliche Beziehung.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist milde Kausalhaftung?",
+      "back": "Haftung bei Verletzung von Aufsichts- oder Sorgfaltspflichten.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist scharfe Kausalhaftung?",
+      "back": "Haftung für gefährliche Vorrichtungen oder Sachen.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist Produktehaftpflicht?",
+      "back": "Haftung für Schäden durch fehlerhafte Produkte.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist natürlicher Kausalzusammenhang?",
+      "back": "Ursache kann nicht weggedacht werden, ohne dass der Schaden entfiele.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist adäquater Kausalzusammenhang?",
+      "back": "Ursache muss nach allgemeiner Lebenserfahrung geeignet sein, den Schaden herbeizuführen.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist Widerrechtlichkeit?",
+      "back": "Unerlaubter Eingriff in geschützte Rechtsgüter.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist Verschulden?",
+      "back": "Subjektive und objektive Seite der Haftung.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist Unternehmensstrafrecht?",
+      "back": "Strafrechtliche Verantwortlichkeit von Unternehmen.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist eine Freistellungsklausel?",
+      "back": "Möglichkeit des Haftungsausschlusses in Verträgen.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist ein Personenschaden?",
+      "back": "Schaden an einer Person.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist ein Sachschaden?",
+      "back": "Schaden an Sachen im privaten Gebrauch.",
+      "tag": "definition"
+    },
+    {
+      "front": "Was ist ein Rechtfertigungsgrund?",
+      "back": "Grund, der einen Eingriff in geschützte Rechtsgüter erlaubt.",
+      "tag": "definition"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Haftung entsteht bei Schlechterfüllung eines Vertrages?",
+      "options": [
+        "Vertragliche Haftpflicht",
+        "Ausservertragliche Haftpflicht",
+        "Produktehaftpflicht",
+        "Kausalhaftung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Bei Schlechterfüllung eines Vertrages entsteht vertragliche Haftpflicht.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Beispiel für ausservertragliche Haftpflicht?",
+      "options": [
+        "Verletzung eines NDA",
+        "Hackerangriff",
+        "Verzug bei Lieferung",
+        "Fehlerhafte Software"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Hackerangriff ist ein Beispiel für ausservertragliche Haftpflicht.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Kausalhaftung erfordert den Nachweis der Sorgfaltspflichtverletzung?",
+      "options": [
+        "Milde Kausalhaftung",
+        "Scharfe Kausalhaftung",
+        "Vertragliche Haftpflicht",
+        "Produktehaftpflicht"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die milde Kausalhaftung erfordert den Nachweis der Sorgfaltspflichtverletzung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wer haftet bei der Produktehaftpflicht?",
+      "options": [
+        "Verkäufer",
+        "Hersteller",
+        "Konsument",
+        "Transporteur"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei der Produktehaftpflicht haftet der Hersteller oder Importeur.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wann liegt ein natürlicher Kausalzusammenhang vor?",
+      "options": [
+        "Wenn die Ursache nicht weggedacht werden kann",
+        "Wenn die Ursache nach Lebenserfahrung geeignet ist",
+        "Wenn ein Vertrag besteht",
+        "Wenn ein Rechtfertigungsgrund vorliegt"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein natürlicher Kausalzusammenhang liegt vor, wenn die Ursache nicht weggedacht werden kann, ohne dass der Schaden entfiele.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Haftung ist eine Ausnahme von der Verschuldenshaftung?",
+      "options": [
+        "Vertragliche Haftpflicht",
+        "Kausalhaftung",
+        "Produktehaftpflicht",
+        "Unternehmensstrafrecht"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Kausalhaftung ist eine Ausnahme von der Verschuldenshaftung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Rechtfertigungsgrund?",
+      "options": [
+        "Ein Grund für eine Straftat",
+        "Ein Grund für einen Vertragsbruch",
+        "Ein Grund für einen erlaubten Eingriff",
+        "Ein Grund für eine Haftung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Rechtfertigungsgrund erlaubt einen Eingriff in geschützte Rechtsgüter.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Haftung deckt Personenschäden und Sachschäden im privaten Gebrauch?",
+      "options": [
+        "Vertragliche Haftpflicht",
+        "Produktehaftpflicht",
+        "Kausalhaftung",
+        "Unternehmensstrafrecht"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Produktehaftpflicht deckt Personenschäden und Sachschäden im privaten Gebrauch.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was prüft das Unternehmensstrafrecht?",
+      "options": [
+        "Vertragsverletzungen",
+        "Strafrechtliche Verantwortlichkeit von Unternehmen",
+        "Produktefehler",
+        "Kausalzusammenhänge"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Unternehmensstrafrecht prüft die strafrechtliche Verantwortlichkeit von Unternehmen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wann ist ein Eingriff in geschützte Rechtsgüter widerrechtlich?",
+      "options": [
+        "Ohne Rechtfertigungsgrund",
+        "Mit Einwilligung",
+        "Bei Notwehr",
+        "Bei Amtshandlung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein Eingriff ist widerrechtlich, wenn kein Rechtfertigungsgrund vorliegt.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wr-sw13",
+  "subjectId": "wr"
+}

@@ -1,0 +1,323 @@
+{
+  "title": "Zeitmanagement & SMARTe Ziele",
+  "week": "SW 02",
+  "tagline": "Effektive Zielsetzung und Zeitplanung für optimale Produktivität.",
+  "summary": "In dieser Woche lernen die Studierenden, wie sie ihre Zeit effizient managen und SMARTe Ziele formulieren können. Der Fokus liegt auf der Anwendung von Methoden wie GTD und ALPEN, um Aufgaben zu organisieren und Prioritäten zu setzen. Zudem wird die Eisenhower Matrix vorgestellt, um zwischen wichtigen und dringenden Aufgaben zu unterscheiden. Die Studierenden sollen in der Lage sein, ihre Ziele in Sprints aufzuteilen und agile Methoden anzuwenden.",
+  "learningGoals": [
+    "Ziele und Teilziele formulieren",
+    "GTD als ganzheitliche Planungsmethode anwenden",
+    "Aufgabenplanung durchführen",
+    "Aufgaben nach Wichtigkeit und Dringlichkeit beurteilen",
+    "Strategien zur Aufgabenerledigung kennen"
+  ],
+  "blocks": [
+    {
+      "title": "SMARTe Ziele",
+      "body": "SMARTe Ziele sind spezifisch, messbar, attraktiv, realistisch und terminiert. Diese Kriterien helfen, klare und erreichbare Ziele zu setzen.",
+      "bullets": [
+        "Spezifisch: Was genau soll erreicht werden?",
+        "Messbar: Woran kann die Zielerreichung gemessen werden?",
+        "Attraktiv: Wirkt das Ziel motivierend?",
+        "Realistisch: Ist das Ziel machbar?",
+        "Terminiert: Bis wann soll das Ziel erreicht werden?"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Getting Things Done (GTD)",
+      "body": "Die GTD-Methode von David Allen hilft, Klarheit in Aufgaben zu bringen und diese effizient zu organisieren.",
+      "bullets": [
+        "Sammeln: Alle relevanten Informationen erfassen",
+        "Verarbeiten: Entscheiden, ob und was zu tun ist",
+        "Organisieren: Aufgaben und Projekte strukturieren",
+        "Überprüfen: Regelmässige Reviews durchführen",
+        "Erledigen: Aufgaben umsetzen"
+      ],
+      "articles": [
+        {
+          "ref": "GTD",
+          "text": "Getting Things Done ist eine Methode zur Aufgabenorganisation von David Allen."
+        }
+      ],
+      "type": "process"
+    },
+    {
+      "title": "Eisenhower Matrix",
+      "body": "Die Eisenhower Matrix hilft, Aufgaben nach Wichtigkeit und Dringlichkeit zu priorisieren.",
+      "bullets": [
+        "Wichtig und dringend: Sofort erledigen",
+        "Wichtig, aber nicht dringend: Terminieren",
+        "Dringend, aber nicht wichtig: Delegieren",
+        "Weder wichtig noch dringend: Eliminieren"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "ALPEN-Methode",
+      "body": "Die ALPEN-Methode ist ein Planungsinstrument, das hilft, Aufgaben effizient zu organisieren.",
+      "bullets": [
+        "Aufgaben notieren",
+        "Länge schätzen",
+        "Pufferzeiten einplanen",
+        "Entscheidungen treffen",
+        "Nachkontrolle durchführen"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "OKR – Objectives and Key Results",
+      "body": "OKR ist ein Framework zur Zielsetzung und Messung von Ergebnissen.",
+      "bullets": [
+        "Ziele für längeren Zeitraum setzen",
+        "Wichtigste Resultate definieren",
+        "Messgrössen festlegen"
+      ],
+      "articles": [
+        {
+          "ref": "OKR",
+          "text": "Objectives and Key Results ist ein Framework zur Zielsetzung und Messung von Ergebnissen."
+        }
+      ],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "SMARTe Ziele",
+      "definition": "Ziele, die spezifisch, messbar, attraktiv, realistisch und terminiert sind."
+    },
+    {
+      "term": "GTD",
+      "definition": "Getting Things Done, eine Methode zur Aufgabenorganisation von David Allen."
+    },
+    {
+      "term": "Eisenhower Matrix",
+      "definition": "Ein Werkzeug zur Priorisierung von Aufgaben nach Wichtigkeit und Dringlichkeit."
+    },
+    {
+      "term": "ALPEN-Methode",
+      "definition": "Ein Planungsinstrument zur Organisation von Aufgaben."
+    },
+    {
+      "term": "OKR",
+      "definition": "Objectives and Key Results, ein Framework zur Zielsetzung und Messung von Ergebnissen."
+    },
+    {
+      "term": "Prioritäten",
+      "definition": "Die Reihenfolge, in der Aufgaben basierend auf ihrer Wichtigkeit und Dringlichkeit erledigt werden."
+    },
+    {
+      "term": "Zeitmanagement",
+      "definition": "Die Fähigkeit, Zeit effizient zu nutzen und Aufgaben zu organisieren."
+    },
+    {
+      "term": "Sprint",
+      "definition": "Ein kurzer, festgelegter Zeitraum, in dem bestimmte Aufgaben erledigt werden."
+    },
+    {
+      "term": "Retrospektive",
+      "definition": "Eine Rückschau auf abgeschlossene Aufgaben zur Verbesserung zukünftiger Prozesse."
+    },
+    {
+      "term": "Pomodoro Methode",
+      "definition": "Eine Technik zur Zeitplanung, bei der Arbeitsphasen von 25 Minuten durch kurze Pausen unterbrochen werden."
+    },
+    {
+      "term": "Multitasking",
+      "definition": "Das gleichzeitige Ausführen mehrerer Aufgaben, oft ineffizient."
+    },
+    {
+      "term": "Timeblocking",
+      "definition": "Das Einplanen von festen Zeitblöcken für spezifische Aufgaben."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was sind SMARTe Ziele?",
+      "back": "Ziele, die spezifisch, messbar, attraktiv, realistisch und terminiert sind.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die GTD-Methode?",
+      "back": "Eine Methode zur Aufgabenorganisation von David Allen.",
+      "tag": "process"
+    },
+    {
+      "front": "Wie funktioniert die Eisenhower Matrix?",
+      "back": "Priorisiert Aufgaben nach Wichtigkeit und Dringlichkeit.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die ALPEN-Methode?",
+      "back": "Ein Planungsinstrument zur Organisation von Aufgaben.",
+      "tag": "process"
+    },
+    {
+      "front": "Was bedeutet OKR?",
+      "back": "Objectives and Key Results, ein Framework zur Zielsetzung und Messung von Ergebnissen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind A-Prioritäten?",
+      "back": "Aufgaben, die sofort erledigt werden müssen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind B-Prioritäten?",
+      "back": "Aufgaben, die terminiert oder delegiert werden sollten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind C-Prioritäten?",
+      "back": "Routinearbeiten, die weniger wichtig sind.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Sprint?",
+      "back": "Ein kurzer, festgelegter Zeitraum, in dem bestimmte Aufgaben erledigt werden.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist eine Retrospektive?",
+      "back": "Eine Rückschau auf abgeschlossene Aufgaben zur Verbesserung zukünftiger Prozesse.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist die Pomodoro Methode?",
+      "back": "Eine Technik zur Zeitplanung, bei der Arbeitsphasen von 25 Minuten durch kurze Pausen unterbrochen werden.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist Multitasking?",
+      "back": "Das gleichzeitige Ausführen mehrerer Aufgaben, oft ineffizient.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist Timeblocking?",
+      "back": "Das Einplanen von festen Zeitblöcken für spezifische Aufgaben.",
+      "tag": "process"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Kriterien gehören zu SMARTen Zielen?",
+      "options": [
+        "Spezifisch",
+        "Messbar",
+        "Attraktiv",
+        "Realistisch"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "SMARTe Ziele sind spezifisch, messbar, attraktiv, realistisch und terminiert.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der erste Schritt in der GTD-Methode?",
+      "options": [
+        "Organisieren",
+        "Sammeln",
+        "Erledigen",
+        "Überprüfen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der erste Schritt in der GTD-Methode ist das Sammeln aller relevanten Informationen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Aufgaben sollten sofort erledigt werden laut Eisenhower Matrix?",
+      "options": [
+        "Wichtig und dringend",
+        "Wichtig, aber nicht dringend",
+        "Dringend, aber nicht wichtig",
+        "Weder wichtig noch dringend"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Wichtige und dringende Aufgaben sollten sofort erledigt werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein typisches Merkmal der ALPEN-Methode?",
+      "options": [
+        "Prioritäten setzen",
+        "Pufferzeiten einplanen",
+        "Messgrössen festlegen",
+        "Sprintplanung"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die ALPEN-Methode beinhaltet das Einplanen von Pufferzeiten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was beschreibt das OKR-Framework?",
+      "options": [
+        "Eine Methode zur Aufgabenorganisation",
+        "Ein Framework zur Zielsetzung und Messung von Ergebnissen",
+        "Ein Werkzeug zur Priorisierung von Aufgaben",
+        "Eine Technik zur Zeitplanung"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "OKR ist ein Framework zur Zielsetzung und Messung von Ergebnissen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie hilft die Eisenhower Matrix bei der Aufgabenplanung?",
+      "options": [
+        "Durch das Setzen von Zielen",
+        "Durch das Priorisieren nach Wichtigkeit und Dringlichkeit",
+        "Durch das Einplanen von Pufferzeiten",
+        "Durch das Festlegen von Messgrössen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Eisenhower Matrix hilft, Aufgaben nach Wichtigkeit und Dringlichkeit zu priorisieren.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist der Zweck von Timeblocking?",
+      "options": [
+        "Mehrere Aufgaben gleichzeitig erledigen",
+        "Feste Zeitblöcke für spezifische Aufgaben einplanen",
+        "Prioritäten setzen",
+        "Messgrössen festlegen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Timeblocking bedeutet, feste Zeitblöcke für spezifische Aufgaben einzuplanen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Methode hilft, Multitasking zu vermeiden?",
+      "options": [
+        "Pomodoro Methode",
+        "GTD",
+        "Eisenhower Matrix",
+        "OKR"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Pomodoro Methode hilft, den Fokus auf eine Aufgabe zu behalten und Multitasking zu vermeiden.",
+      "difficulty": "schwer"
+    }
+  ],
+  "id": "wins-sw02",
+  "subjectId": "wins"
+}

@@ -1,0 +1,370 @@
+{
+  "title": "Einführung & Vertragsrecht I",
+  "week": "SW 1",
+  "tagline": "Grundlagen des Vertragsrechts und juristische Lösungsfindung.",
+  "summary": "In dieser Woche werden die Grundlagen des Vertragsrechts behandelt. Dazu gehören die Unterscheidung zwischen Privatrecht und öffentlichem Recht, die Grundsätze des Vertragsabschlusses sowie der Aufbau und die Struktur von Verträgen. Zudem wird die Beendigung von Verträgen und die Bedeutung von Vorverträgen und Geheimhaltungsvereinbarungen erläutert. Ein besonderer Fokus liegt auf der Anwendung des Vertrauensprinzips und den Nichtigkeitsgründen.",
+  "learningGoals": [
+    "Verstehen der Unterscheidung zwischen Privatrecht und öffentlichem Recht.",
+    "Kennen der Grundsätze des Vertragsabschlusses.",
+    "Verstehen des Aufbaus und der Struktur von Verträgen.",
+    "Erkennen der Beendigungsarten von Verträgen.",
+    "Anwendung der juristischen Lösungsfindung in praktischen Fällen."
+  ],
+  "blocks": [
+    {
+      "title": "Einführung in das Recht",
+      "body": "Das Recht in der Informatik ist komplex, da es kein spezifisches Informatikgesetz gibt. Neue Technologien erfordern neue gesetzliche Regelungen, die oft international sind.",
+      "bullets": [
+        "Kein spezifisches Informatikgesetz",
+        "Neue Technologien erfordern neue Gesetze",
+        "Internationales Recht spielt eine Rolle"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Unterscheidung zwischen Privatrecht und öffentlichem Recht",
+      "body": "Das Privatrecht regelt das Verhältnis zwischen Privatrechtssubjekten, während das öffentliche Recht das Verhältnis zwischen Staat und Privatrechtssubjekten regelt.",
+      "bullets": [
+        "Privatrecht: Verhältnis zwischen Privatrechtssubjekten",
+        "Öffentliches Recht: Verhältnis zwischen Staat und Privatrechtssubjekten",
+        "Dispositives vs. zwingendes Recht"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Grundsätze des Vertragsabschlusses",
+      "body": "Ein Vertrag kommt durch übereinstimmende Willenserklärungen zustande. Die Rechtsfähigkeit und Handlungsfähigkeit der Parteien sind Voraussetzungen.",
+      "bullets": [
+        "Rechtsfähigkeit und Handlungsfähigkeit",
+        "Konsens und übereinstimmender Wille",
+        "Vertrauensprinzip"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 1 OR",
+          "text": "Übereinstimmende Willenserklärung der Parteien"
+        },
+        {
+          "ref": "Art. 12 ff. ZGB",
+          "text": "Handlungsunfähigkeit"
+        },
+        {
+          "ref": "Art. 11-16 OR",
+          "text": "Formmängel"
+        },
+        {
+          "ref": "Art. 19/20 OR",
+          "text": "Inhaltsmängel"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Vertragsaufbau und Struktur",
+      "body": "Verträge haben einen typischen Aufbau, der von der Einführung bis zu allgemeinen Bestimmungen reicht.",
+      "bullets": [
+        "Einführung, Inhalt der Leistungen, Vertragsdurchführung",
+        "Leistungsstörungen, Allgemeine Bestimmungen",
+        "Mögliche Anlagen: Pflichtenheft, Zeitplan, Testplan"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Beendigung von Verträgen",
+      "body": "Verträge können durch Erfüllung, Rücktritt, Aufhebungsvereinbarung, Novation, Kündigung, Verjährung oder Verwirkung beendet werden.",
+      "bullets": [
+        "Erfüllung, Rücktritt, Aufhebungsvereinbarung",
+        "Novation, Kündigung, Verjährung, Verwirkung",
+        "Rücktritt als Ultima Ratio"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 377 OR",
+          "text": "Rücktritt im Werkvertragsrecht"
+        },
+        {
+          "ref": "Art. 375 OR",
+          "text": "Kostenüberschreitungen"
+        },
+        {
+          "ref": "Art. 366 OR",
+          "text": "Starke Verzögerungen"
+        },
+        {
+          "ref": "Art. 368 OR",
+          "text": "Schwerwiegende Mängel"
+        }
+      ],
+      "type": "law"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Privatrecht",
+      "definition": "Regelt das Verhältnis zwischen Privatrechtssubjekten."
+    },
+    {
+      "term": "Öffentliches Recht",
+      "definition": "Regelt das Verhältnis zwischen Staat und Privatrechtssubjekten."
+    },
+    {
+      "term": "Dispositives Recht",
+      "definition": "Recht, das von den Parteien abgeändert werden kann."
+    },
+    {
+      "term": "Zwingendes Recht",
+      "definition": "Recht, das nicht abgeändert werden darf."
+    },
+    {
+      "term": "Konsens",
+      "definition": "Übereinstimmende Willenserklärung der Parteien.",
+      "article": "Art. 1 OR"
+    },
+    {
+      "term": "Vertrauensprinzip",
+      "definition": "Auslegung der Willenserklärung nach dem Empfängerhorizont.",
+      "article": "Art. 18 OR"
+    },
+    {
+      "term": "Handlungsfähigkeit",
+      "definition": "Fähigkeit, durch eigenes Handeln Rechte und Pflichten zu begründen.",
+      "article": "Art. 12 ff. ZGB"
+    },
+    {
+      "term": "Formmängel",
+      "definition": "Mängel in der vorgeschriebenen Form eines Vertrages.",
+      "article": "Art. 11-16 OR"
+    },
+    {
+      "term": "Inhaltsmängel",
+      "definition": "Mängel im Inhalt eines Vertrages.",
+      "article": "Art. 19/20 OR"
+    },
+    {
+      "term": "Novation",
+      "definition": "Erneuerung eines bestehenden Vertrages."
+    },
+    {
+      "term": "Verjährung",
+      "definition": "Anspruch bleibt bestehen, kann aber nicht eingeklagt werden."
+    },
+    {
+      "term": "Verwirkung",
+      "definition": "Anspruch erlischt vollständig."
+    },
+    {
+      "term": "Culpa in Contrahendo",
+      "definition": "Haftung aus vorvertraglichem Verschulden."
+    },
+    {
+      "term": "Salvatorische Klausel",
+      "definition": "Teilnichtigkeitsklausel in Verträgen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Privatrecht?",
+      "back": "Regelt das Verhältnis zwischen Privatrechtssubjekten.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist öffentliches Recht?",
+      "back": "Regelt das Verhältnis zwischen Staat und Privatrechtssubjekten.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet dispositives Recht?",
+      "back": "Recht, das von den Parteien abgeändert werden kann.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet zwingendes Recht?",
+      "back": "Recht, das nicht abgeändert werden darf.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist Konsens?",
+      "back": "Übereinstimmende Willenserklärung der Parteien.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist das Vertrauensprinzip?",
+      "back": "Auslegung der Willenserklärung nach dem Empfängerhorizont.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Handlungsfähigkeit?",
+      "back": "Fähigkeit, durch eigenes Handeln Rechte und Pflichten zu begründen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was sind Formmängel?",
+      "back": "Mängel in der vorgeschriebenen Form eines Vertrages.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was sind Inhaltsmängel?",
+      "back": "Mängel im Inhalt eines Vertrages.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist Novation?",
+      "back": "Erneuerung eines bestehenden Vertrages.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Verjährung?",
+      "back": "Anspruch bleibt bestehen, kann aber nicht eingeklagt werden.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Verwirkung?",
+      "back": "Anspruch erlischt vollständig.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist Culpa in Contrahendo?",
+      "back": "Haftung aus vorvertraglichem Verschulden.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine salvatorische Klausel?",
+      "back": "Teilnichtigkeitsklausel in Verträgen.",
+      "tag": "Definition"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was regelt das Privatrecht?",
+      "options": [
+        "Das Verhältnis zwischen Privatrechtssubjekten.",
+        "Das Verhältnis zwischen Staat und Privatrechtssubjekten.",
+        "Das Verhältnis innerhalb des Staates.",
+        "Das Verhältnis zwischen internationalen Organisationen."
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Privatrecht regelt das Verhältnis zwischen Privatrechtssubjekten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine Voraussetzung für das Zustandekommen eines Vertrages?",
+      "options": [
+        "Rechtsfähigkeit der Parteien",
+        "Vorliegen eines NDA",
+        "Vorliegen eines Vorvertrages",
+        "Vorliegen eines Letter of Intent"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Rechtsfähigkeit der Parteien ist eine Voraussetzung für das Zustandekommen eines Vertrages.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet das Vertrauensprinzip?",
+      "options": [
+        "Verträge werden nach dem Empfängerhorizont ausgelegt.",
+        "Verträge müssen schriftlich abgeschlossen werden.",
+        "Verträge sind immer bindend.",
+        "Verträge können jederzeit gekündigt werden."
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Vertrauensprinzip besagt, dass Verträge nach dem Empfängerhorizont ausgelegt werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Art von Recht kann von den Parteien abgeändert werden?",
+      "options": [
+        "Zwingendes Recht",
+        "Dispositives Recht",
+        "Öffentliches Recht",
+        "Internationales Recht"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Dispositives Recht kann von den Parteien abgeändert werden.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine salvatorische Klausel?",
+      "options": [
+        "Eine Klausel, die den gesamten Vertrag ungültig macht.",
+        "Eine Klausel, die ungültige Bestimmungen durch den voraussichtlichen Willen der Parteien ersetzt.",
+        "Eine Klausel, die den Vertrag automatisch verlängert.",
+        "Eine Klausel, die den Vertrag kündbar macht."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine salvatorische Klausel ersetzt ungültige Bestimmungen durch den voraussichtlichen Willen der Parteien.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Letter of Intent?",
+      "options": [
+        "Ein bindender Vorvertrag",
+        "Eine unverbindliche Absichtserklärung",
+        "Ein Vertrag über Geheimhaltung",
+        "Ein Vertrag über die Lieferung von Waren"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Letter of Intent ist eine unverbindliche Absichtserklärung.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Beendigungsart führt dazu, dass der Anspruch erlischt?",
+      "options": [
+        "Verjährung",
+        "Verwirkung",
+        "Rücktritt",
+        "Novation"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei der Verwirkung erlischt der Anspruch vollständig.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das öffentliche Recht zu?",
+      "options": [
+        "Es regelt das Verhältnis zwischen Privatrechtssubjekten.",
+        "Es ist in der Regel dispositives Recht.",
+        "Es regelt das Verhältnis zwischen Staat und Privatrechtssubjekten.",
+        "Es ist immer zwingendes Recht."
+      ],
+      "correct": [
+        2,
+        3
+      ],
+      "explanation": "Das öffentliche Recht regelt das Verhältnis zwischen Staat und Privatrechtssubjekten und ist immer zwingendes Recht.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche der folgenden Beendigungsarten ist eine einvernehmliche Lösung?",
+      "options": [
+        "Erfüllung",
+        "Rücktritt",
+        "Aufhebungsvereinbarung",
+        "Kündigung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Eine Aufhebungsvereinbarung ist eine einvernehmliche Lösung zur Beendigung eines Vertrages.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wr-sw1",
+  "subjectId": "wr"
+}

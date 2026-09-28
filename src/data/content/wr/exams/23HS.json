@@ -1,0 +1,1387 @@
+{
+  "id": "wr-23HS",
+  "subjectId": "wr",
+  "year": "23HS",
+  "label": "MEP 23HS",
+  "minutes": 90,
+  "maxPoints": 90,
+  "scoring": "penalty",
+  "questions": [
+    {
+      "number": 1,
+      "type": "multi",
+      "title": "",
+      "scenario": "Zum Abschluss eines Vertrags sind die übereinstimmenden gegenseitigen Willenserklärungen der Parteien erforderlich.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AGBs gelten auch ohne übereinstimmende gegenseitige Willenserklärungen."
+        },
+        {
+          "label": "B",
+          "text": "Willenserklärungen können auch konkludent erfolgen."
+        },
+        {
+          "label": "C",
+          "text": "Willenserklärungen müssen immer ausdrücklich erfolgen."
+        },
+        {
+          "label": "D",
+          "text": "Bei der Auslegung der Willenserklärung ist der Wortlaut das massgebliche Kriterium."
+        },
+        {
+          "label": "E",
+          "text": "Die Auslegung von Verträgen erfolgt nach dem Vertrauensprinzip und wirklichen Willen."
+        }
+      ],
+      "correct": [
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Willenserklärungen können auch konkludent erfolgen (Art. 1 OR). Die Auslegung von Verträgen erfolgt nach dem Vertrauensprinzip und dem wirklichen Willen der Parteien (Art. 18 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welches ist KEINE Erscheinungsform der Vertragsfreiheit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abschlussfreiheit"
+        },
+        {
+          "label": "B",
+          "text": "Inhaltsfreiheit"
+        },
+        {
+          "label": "C",
+          "text": "Wirtschaftsfreiheit"
+        },
+        {
+          "label": "D",
+          "text": "Formfreiheit"
+        },
+        {
+          "label": "E",
+          "text": "Aufhebungsfreiheit"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Wirtschaftsfreiheit ist keine Erscheinungsform der Vertragsfreiheit. Vertragsfreiheit umfasst Abschlussfreiheit, Inhaltsfreiheit, Formfreiheit und Aufhebungsfreiheit.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welches ist KEINE Schranke der Vertragsfreiheit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kontrahierungszwang"
+        },
+        {
+          "label": "B",
+          "text": "Inhaltsschranken"
+        },
+        {
+          "label": "C",
+          "text": "Wirtschaftliches Risiko"
+        },
+        {
+          "label": "D",
+          "text": "Formvorschriften"
+        },
+        {
+          "label": "E",
+          "text": "Kündigungsschutz"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Wirtschaftliches Risiko ist keine Schranke der Vertragsfreiheit. Schranken sind Kontrahierungszwang, Inhaltsschranken, Formvorschriften und Kündigungsschutz.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "multi",
+      "title": "",
+      "scenario": "Frau Alba aus Zürich hat einen Vertrag mit der Firma XYZ abgeschlossen. Gemäss dem Vertrag sollte XYZ eine massgeschneiderte Softwarelösung für Frau Alba entwickeln und innerhalb von sechs Monaten liefern. Nach Ablauf der sechs Monate hat XYZ jedoch immer noch keine Software geliefert. Frau Alba ist unzufrieden und möchte wissen, welche rechtlichen Schritte sie unternehmen kann.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt? Der Verfalltag...",
+      "options": [
+        {
+          "label": "A",
+          "text": "... ist der Tag, an dem XYZ die Lieferung tatsächlich erbringt, und es handelt sich um ein absolutes Fixgeschäft."
+        },
+        {
+          "label": "B",
+          "text": "... ist sechs Monate nach Vertragsabschluss, und es handelt sich um ein relatives Fixgeschäft."
+        },
+        {
+          "label": "C",
+          "text": "... ist der Tag, an dem Frau Alba die Zahlung leistet, und es handelt sich um ein relatives Fixgeschäft."
+        },
+        {
+          "label": "D",
+          "text": "... ist der Tag, an dem der Vertrag unterzeichnet wird, und es handelt sich um ein absolutes Fixgeschäft."
+        },
+        {
+          "label": "E",
+          "text": "... muss explizit im Vertrag geregelt werden."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Der Verfalltag ist sechs Monate nach Vertragsabschluss, und es handelt sich um ein relatives Fixgeschäft, da die Leistung noch erbracht werden kann, aber verspätet ist (Art. 102 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "multi",
+      "title": "(Fortsetzung von Frage 4)",
+      "scenario": "",
+      "prompt": "Was sollte Frau Alba tun? Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Den Vertrag ignorieren und falls die XYZ später doch noch liefert, die Zahlung verweigern."
+        },
+        {
+          "label": "B",
+          "text": "Eine Mahnung an XYZ zusenden und um die Erfüllung des Vertrags innerhalb einer angemessenen Frist bitten."
+        },
+        {
+          "label": "C",
+          "text": "Frau Alba sollte XYZ ohne weiteres verklagen."
+        },
+        {
+          "label": "D",
+          "text": "Frau Alba sollte sich nach dem Grund für die Verspätung erkundigen, da sie diesen kennen muss, um vom Vertrag zurückzutreten zu können."
+        },
+        {
+          "label": "E",
+          "text": "Den Vertrag ohne Ankündigung kündigen."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Frau Alba sollte eine Mahnung an XYZ senden und um Erfüllung innerhalb einer angemessenen Frist bitten (Art. 102 OR). Sie sollte sich nach dem Grund für die Verspätung erkundigen, um ihre Rechte zu wahren.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "multi",
+      "title": "",
+      "scenario": "Verträge bedürfen zu ihrer Gültigkeit nur dann einer besonderen Form, wenn das Gesetz eine solche vorschreibt.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Per E-Mail abgeschlossene Verträge, die mittels eines veränderbaren elektronischen Dokumentes (z.B. Word-Dokument oder Bildschirmtext) abgeschlossen werden, erfüllen die Formerfordernisse der Schriftlichkeit nicht, weil sich hier das Problem der Authentizität der elektronisch übermittelten Willenserklärungen stellt."
+        },
+        {
+          "label": "B",
+          "text": "Wenn Beweise nicht den gesetzlichen Formvorschriften entsprechen, werden sie vom Gericht nicht berücksichtigt."
+        },
+        {
+          "label": "C",
+          "text": "Grundsätzlich können Verträge formlos abgeschlossen werden."
+        },
+        {
+          "label": "D",
+          "text": "Um auch allfällige ausländische Formvorschriften einhalten zu können, ist es empfehlenswert, stets strengere Formvorschriften als diejenigen gemäss Schweizer Recht anzuwenden."
+        },
+        {
+          "label": "E",
+          "text": "Für bestimmte Rechtsgeschäfte wird die Einhaltung von Formvorschriften verlangt, wie zum Beispiel für den Lehrlingsvertrag."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Per E-Mail abgeschlossene Verträge erfüllen die Schriftform nicht, da die Authentizität nicht gewährleistet ist. Grundsätzlich können Verträge formlos abgeschlossen werden (Art. 11 OR). Für bestimmte Rechtsgeschäfte, wie den Lehrlingsvertrag, sind Formvorschriften vorgeschrieben (Art. 344a OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "multi",
+      "title": "",
+      "scenario": "Bei IT-Verträgen handelt es sich oft um Innominatverträge.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgrund der schnellen Entwicklung der Informatikdienstleistungen ist es bei IT-Projekten wichtig, sämtliche möglichen digitalen Entwicklungen bereits im Vertrag aufzuführen."
+        },
+        {
+          "label": "B",
+          "text": "Grundsätzlich kann der Inhalt eines Vertrags innerhalb der Schranken des Rechts frei geregelt werden."
+        },
+        {
+          "label": "C",
+          "text": "Beim IT-Recht handelt es sich um eine Schnittstelle und es sind diverse Spezialrechte, wie z. B. das Immaterialgüterrecht, zu beachten."
+        },
+        {
+          "label": "D",
+          "text": "Das dispositive Recht wirkt gegenüber den Vertragsparteien und das absolute Recht geht zwingend vor."
+        },
+        {
+          "label": "E",
+          "text": "Bei der Regelung von IT-Dienstleistungen sind internationale Aspekte stets zu berücksichtigen."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Inhalt eines Vertrags kann innerhalb der Schranken des Rechts frei geregelt werden (Art. 19 OR). IT-Recht ist eine Schnittstelle mit Spezialrechten wie Immaterialgüterrecht. Internationale Aspekte sind bei IT-Dienstleistungen zu berücksichtigen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "multi",
+      "title": "",
+      "scenario": "Bei welchen der nachfolgenden Verträge handelt es sich um Innominatverträge?",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Werkvertrag"
+        },
+        {
+          "label": "B",
+          "text": "Konzeptvertrag"
+        },
+        {
+          "label": "C",
+          "text": "Auftrag"
+        },
+        {
+          "label": "D",
+          "text": "Realisierungsvertrag"
+        },
+        {
+          "label": "E",
+          "text": "Wartungsvertrag"
+        }
+      ],
+      "correct": [
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Konzeptvertrag, Realisierungsvertrag und Wartungsvertrag sind Innominatverträge, da sie nicht im OR speziell geregelt sind.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welche Merkmale qualifizieren die jeweiligen Verträge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bei einem Werkvertrag ist ein Erfolg geschuldet."
+        },
+        {
+          "label": "B",
+          "text": "Bei einem Auftrag ist ein sorgfältiges Tätigwerden im Interesse des Auftraggebers geschuldet."
+        },
+        {
+          "label": "C",
+          "text": "Bei einem Arbeitsvertrag ist ein Subordinationsverhältnis erforderlich."
+        },
+        {
+          "label": "D",
+          "text": "Ein Arbeitsvertrag muss als solchen bezeichnet werden."
+        },
+        {
+          "label": "E",
+          "text": "Die Miete muss befristet sein."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Bei einem Werkvertrag ist ein Erfolg geschuldet (Art. 363 OR). Bei einem Auftrag ist ein sorgfältiges Tätigwerden geschuldet (Art. 394 OR). Ein Arbeitsvertrag erfordert ein Subordinationsverhältnis (Art. 319 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Das Recht ist von seiner Durchsetzung zu unterscheiden. Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Strafverfolgungsbehörden werden stets von Amtes wegen aktiv, wenn gegen Strafrecht verstossen wird."
+        },
+        {
+          "label": "B",
+          "text": "Ein Strafverfahren sollte grundsätzlich als letztmögliches Mittel dienen."
+        },
+        {
+          "label": "C",
+          "text": "Bei Geldforderungen muss man zwingend ein Betreibungsverfahren einleiten, um die Gerichte zu entlasten."
+        },
+        {
+          "label": "D",
+          "text": "Im digitalen Raum haben Ehrverletzungsdelikte keine rechtlichen Konsequenzen."
+        },
+        {
+          "label": "E",
+          "text": "Die Durchsetzung des Rechts im digitalen Raum ist mit diversen Herausforderungen verbunden."
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die Durchsetzung des Rechts im digitalen Raum ist mit diversen Herausforderungen verbunden, insbesondere bei der Beweissicherung und der internationalen Zuständigkeit.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In Zivilverfahren findet vor dem gerichtlichen Verfahren grundsätzlich ein Schlichtungsverfahren statt."
+        },
+        {
+          "label": "B",
+          "text": "Ziel des Schlichtungsverfahrens ist es, eine Einigung zwischen den Parteien zu erreichen und die Gerichte zu entlasten."
+        },
+        {
+          "label": "C",
+          "text": "Bei der Durchsetzung von Rechtsansprüchen sind stets die Fristen zu beachten."
+        },
+        {
+          "label": "D",
+          "text": "Schlichtungsverfahren sind im gewöhnlichen Zivilverfahren grundsätzlich nicht vorgesehen."
+        },
+        {
+          "label": "E",
+          "text": "Zur Durchführung von Schlichtungsverfahren sind Schiedsgerichte zuständig."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "In Zivilverfahren findet vor dem gerichtlichen Verfahren grundsätzlich ein Schlichtungsverfahren statt (Art. 197 ZPO). Ziel ist eine Einigung und Entlastung der Gerichte. Fristen sind bei der Durchsetzung von Rechtsansprüchen stets zu beachten.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Herr Müller bewirbt sich für eine ausgeschriebene Wohnung. Per Zufall erfährt er, dass ein Kollege sich für die gleiche Wohnung interessiert. Herr Müller kommt er auf die Idee, gegen seinen Kollegen eine Betreibung einzuleiten, um dessen Erfolgschancen zu verringern. Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Betreibung wäre rechtsmissbräuchlich im Sinne von Art. 2 Abs. 2 ZGB."
+        },
+        {
+          "label": "B",
+          "text": "Wohnungsvermieter müssen prüfen, ob eine im Betreibungsregister eingetragene Betreibung gegen den guten Glauben verstösst."
+        },
+        {
+          "label": "C",
+          "text": "Wenn Herr Müller tatsächlich eine offene Forderung gegenüber dem Kollegen hätte, wäre die Betreibung rechtmässig."
+        },
+        {
+          "label": "D",
+          "text": "Der Kollege könnte rechtliche Schritte gegen Herrn Müller einleiten und ihn auf allfälligen Schadenersatz verklagen."
+        },
+        {
+          "label": "E",
+          "text": "Erhielte Herr Müller die Wohnung, wäre der Mietvertrag nichtig."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Die Betreibung wäre rechtsmissbräuchlich (Art. 2 Abs. 2 ZGB). Wenn eine offene Forderung besteht, wäre die Betreibung rechtmässig. Der Kollege könnte rechtliche Schritte einleiten und Schadenersatz verlangen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "multi",
+      "title": "",
+      "scenario": "Arbeitnehmende müssen aufgrund ihrer Unterordnungspflicht den Weisungen des Arbeitgebers folgen. Diese Weisungen werden oft in einer \"Weisung\" festgehalten und können Regelungen zu Pausen, Gleitzeit, Internetnutzung und ähnlichem umfassen. Gleichzeitig legt das Arbeitsrecht aber auch verschiedene Pflichten für den Arbeitgeber fest, die GAV oder gesetzlich geregelt sind.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgrund der Gleichstellung und dem verfassungsrechtlichen Diskriminierungsverbot können auch werdende Väter sich auf die Kündigungsschutzbestimmungen für werdende Mütter berufen."
+        },
+        {
+          "label": "B",
+          "text": "Wurde bei einem Bewerbungsgespräch gelogen, könnte ein Grund für eine fristlose Kündigung vorliegen."
+        },
+        {
+          "label": "C",
+          "text": "Während der Schwangerschaft und nach der Geburt eines Kindes gelten besondere Kündigungsschutzbestimmungen."
+        },
+        {
+          "label": "D",
+          "text": "Im Arbeitsrecht dürfen «relativ zwingende» Normen nicht zuungunsten des Arbeitnehmers abgeändert werden."
+        },
+        {
+          "label": "E",
+          "text": "Das Einholen von Referenzen ist nur mit Zustimmung der sich bewerbenden Person zulässig."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Lügen im Bewerbungsgespräch können Grund für fristlose Kündigung sein. Während Schwangerschaft gelten besondere Kündigungsschutzbestimmungen (Art. 336c OR). Relativ zwingende Normen dürfen nicht zuungunsten des Arbeitnehmers geändert werden. Referenzen dürfen nur mit Zustimmung eingeholt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "multi",
+      "title": "",
+      "scenario": "Im Bereich des Arbeitsrechts besteht eine komplexe rechtliche Beziehung zwischen Arbeitgeber und Arbeitnehmer. Es wäre jedoch nicht korrekt zu sagen, dass der Arbeitnehmer immer recht hat, da dies stark von den spezifischen Umständen und Gesetzen abhängt. Einige wichtige Überlegungen und Prinzipien im Arbeitsrecht sind:",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erscheint ein Arbeitnehmer mehrere Tage ohne Begründung nicht zur Arbeit, gilt dies als formloser Kündigungsgrund."
+        },
+        {
+          "label": "B",
+          "text": "Die Treuepflicht des Arbeitnehmers ist das Pendant zur Fürsorgepflicht des Arbeitgebers."
+        },
+        {
+          "label": "C",
+          "text": "Arbeitgeber haben gegenüber ihren Arbeitnehmern eine Fürsorgepflicht. Diese wirkt auch über das Arbeitsverhältnis hinaus."
+        },
+        {
+          "label": "D",
+          "text": "Arbeitnehmende, die mit einer Kündigung nicht einverstanden sind, sollten bis zum Ablauf der Kündigungsfrist schriftlich Einsprache erheben."
+        },
+        {
+          "label": "E",
+          "text": "Gemäss Schweizer Recht ist eine Kündigung grundsätzlich nicht zu begründen."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Mehrere Tage unentschuldigtes Fehlen kann ein Kündigungsgrund sein. Die Treuepflicht des Arbeitnehmers entspricht der Fürsorgepflicht des Arbeitgebers. Eine Kündigung muss nicht begründet werden (Art. 335 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "multi",
+      "title": "",
+      "scenario": "Ein grundlegendes Element der beruflichen Tätigkeit liegt darin, dass der Arbeitnehmer zur Erbringung einer festgelegten Arbeitsleistung verpflichtet ist, ohne jedoch für ein/en konkretes/n XXX haften zu müssen. Die Verantwortung des Arbeitnehmers erstreckt sich somit nicht darauf sicherzustellen, dass der Arbeitgeber seine/n XXX erreicht, sondern beschränkt sich darauf, die vereinbarte Leistung im Rahmen des Arbeitsvertrags zu erfüllen.",
+      "prompt": "Welche der nachfolgenden Aussagen für XXX ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anerkennung"
+        },
+        {
+          "label": "B",
+          "text": "Ergebnis"
+        },
+        {
+          "label": "C",
+          "text": "Erfolg"
+        },
+        {
+          "label": "D",
+          "text": "Geschäftsziele"
+        },
+        {
+          "label": "E",
+          "text": "Umsatz"
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der Arbeitnehmer haftet nicht für das Ergebnis oder den Erfolg, sondern nur für die Erbringung der vereinbarten Leistung. Geschäftsziele und Umsatz sind nicht seine Verantwortung.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die New-Deal AG ist verantwortlich für eine Auktionsplattform und hat gute geschäftliche Kontakte zu Urs, der etwas Ähnliches macht. Sie nutzen die Gelegenheit eines Abends in der Lobby des «Interkontinium» Hotels, um die Vertrags-Konditionen zu Gunsten von Transparenz in der Branche zu harmonisieren. Dies ist dringend notwendig, da die Betriebe aufgrund der ausländischen Konkurrenz ökonomisch in Bedrängnis kommen würden.",
+      "prompt": "Welche der nachfolgenden Aussage/n ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Konditionen der New-Deal sind keine Preise. Die Abstimmung ist daher unbedenklich, denn das Kartellrecht sanktioniert Abreden zu Preisen, Kundegruppen und Märkten."
+        },
+        {
+          "label": "B",
+          "text": "Das EU-Recht steht über dem Schweizer Recht und die Absprachen sind gemäss beiden Rechtsordnungen zulässig."
+        },
+        {
+          "label": "C",
+          "text": "Auch Konditionen der New-Deal abzusprechen könnte gegen das Kartellgesetz verstossen."
+        },
+        {
+          "label": "D",
+          "text": "Die Lauterkeitskommission wird das sanktionieren."
+        },
+        {
+          "label": "E",
+          "text": "Die WEKO wird bei Hinweisen möglicherweise eine Untersuchung eröffnen."
+        }
+      ],
+      "correct": [
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Absprachen über Konditionen können gegen das Kartellgesetz verstossen. Die WEKO könnte eine Untersuchung einleiten, wenn Hinweise auf solche Absprachen vorliegen (Art. 5 KG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Unternehmung NewDeal Solutions plant eine Modernisierung ihrer IT und beauftragt Z mit der zügigen Durchführung. Der geplante Starttermin für die Arbeiten ist der 1. Juni 2023. Allerdings stolpert Z am Vortag und erleidet einen Fussbruch. Z schlägt vor, seinen Kollegen A als Ersatz einzusetzen. NewDeal Solutions besteht jedoch darauf, dass Z persönlich die Arbeiten durchführt. Kann NewDeal Solutions darauf bestehen, dass Z persönlich erscheint?",
+      "prompt": "Welche der folgenden Aussage/n ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nein, denn Hilfspersonen darf der Schuldner immer einsetzen. Das lässt sich nicht ausschliessen."
+        },
+        {
+          "label": "B",
+          "text": "NewDeal kann verlangen, dass T persönlich leistet, denn die Qualität hängt sehr von der Person ab."
+        },
+        {
+          "label": "C",
+          "text": "T kann nur dann einen Mitarbeiter schicken, wenn sie das vertraglich vorher so ausgemacht haben."
+        },
+        {
+          "label": "D",
+          "text": "Nein, denn regelmässig sind vertragliche Leistungen nicht höchstpersönlich. M kann einen Mitarbeiter schicken und wenn das nicht gewollt ist, müsste man dies vertraglich festlegen."
+        },
+        {
+          "label": "E",
+          "text": "NewDeal kann vom Vertrag zurücktreten und Schadenersatz verlangen."
+        }
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "NewDeal kann verlangen, dass Z persönlich leistet, wenn die Qualität von der Person abhängt. Z kann nur dann einen Mitarbeiter schicken, wenn dies vertraglich vereinbart wurde (Art. 68 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die meisten Schweizer Unternehmen haben sich letztmals 2018 mit dem Datenschutz beschäftigt, als die EU-Datenschutzgrundverordnung (DSGVO) in Kraft trat und damals neue Datenschutzerklärungen erstellt. Seit 1.9.23 gibt es auch im Schweizer DSG hohe und persönliche Bussen und es besteht Handlungsbedarf: Das Schweizer Datenschutzrecht wurde nach dem Vorbild der DSGVO revidiert. Wie hoch ist die maximale Strafsanktion nach neuem Datenschutzrecht?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 Mio. oder bis zu 4 % des weltweiten Jahresumsatzes."
+        },
+        {
+          "label": "B",
+          "text": "Strafverfahren mit bis zu 250.000 CHF (persönliche Haftung des Verantwortlichen)"
+        },
+        {
+          "label": "C",
+          "text": "Strafverfahren mit bis zu 3 Jahren Haft oder Geldstrafe über eine Anzeige, nach dem UWG"
+        },
+        {
+          "label": "D",
+          "text": "10 % des Umsatzes der letzten drei Jahre"
+        },
+        {
+          "label": "E",
+          "text": "Max. 50.000 CHF für das Unternehmen"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Nach dem neuen DSG können persönliche Bussen bis zu 250.000 CHF verhängt werden, wenn gegen Datenschutzpflichten verstossen wird.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "multi",
+      "title": "",
+      "scenario": "Das neue Datenschutzgesetz hat nicht nur den Schutz und die Rechte für die Betroffenen vorgesehen, sondern auch neue Sorgfaltspflichten für die Verantwortlichen eingeführt.",
+      "prompt": "Was schreibt das Datenschutzgesetz bezüglich Sorgfaltspflichten für die Verantwortlichen vor? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organisationen müssen Daten über die Internetnutzung mindestens 5 Jahre lang aufbewahren."
+        },
+        {
+          "label": "B",
+          "text": "(B) Organisationen müssen technische und organisatorische Massnahmen ergreifen, und die Wirksamkeit belegen können."
+        },
+        {
+          "label": "C",
+          "text": "(C) Unternehmen müssen im Interesse der Transparenz alle Nutzerdaten mit kantonalen Behörden teilen."
+        },
+        {
+          "label": "D",
+          "text": "(D) Unternehmen müssen für alle Betroffenen Transparenz über die Datenbearbeitung schaffen und korrekt informieren (zumeist in einer Datenschutzerklärung)."
+        },
+        {
+          "label": "E",
+          "text": "Unternehmen müssen mit Auftragsdatenbearbeitern eine vertragliche Vereinbarung zur Einhaltung des Datenschutzes abschliessen und diese überwachen."
+        }
+      ],
+      "correct": [
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Organisationen müssen technische und organisatorische Massnahmen ergreifen und deren Wirksamkeit belegen können. Transparenz über die Datenbearbeitung muss geschaffen werden. Verträge mit Auftragsdatenbearbeitern sind erforderlich (Art. 7 DSG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "multi",
+      "title": "",
+      "scenario": "Elsa, Lukas und Mia beschliessen gemeinsam die Gründung einer neuen Firma namens \"Innovate Studios\" in der Rechtsform einer GmbH. Im Einvernehmen bestellt Elsa im Namen der künftigen GmbH eine kostspielige Grafik und ERP-Software zum Preis von CHF 9'000. Leider kommt es kurz darauf zu einer erheblichen Auseinandersetzung, in deren Verlauf zunächst Lukas, dann Elsa und Mia aussteigen, da es an Startkapital und Energie mangelt. Der Händler ignoriert die mitgeteilte Auflösung des Kaufvertrages und liefert den Drucker termingerecht an Elsa. Schliesslich fordert er die Bezahlung des Kaufpreises von der finanziell stärkeren Mia. Frage: Wer muss den Kaufpreis bezahlen?",
+      "prompt": "Welche der folgenden Aussagen ist korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lukas, im Aussenverhältnis, denn der Händler kann es sich aussuchen."
+        },
+        {
+          "label": "B",
+          "text": "Elsa, weil sie das Gerät bestellt hat."
+        },
+        {
+          "label": "C",
+          "text": "Niemand, da die GmbH nicht gegründet wurde."
+        },
+        {
+          "label": "D",
+          "text": "Elsa, Lukas und Mia persönlich und solidarisch."
+        },
+        {
+          "label": "E",
+          "text": "Elsa und Mia persönlich und solidarisch, da Lukas ausgeschieden ist."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Niemand muss zahlen, da die GmbH nicht gegründet wurde und somit keine Rechtsfähigkeit erlangt hat (Art. 643 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "multi",
+      "title": "",
+      "scenario": "SAP-gestützte Assistenzsysteme bieten Unternehmen Unterstützung und ermöglichen eine effizientere Bewältigung von Aufgaben. Hersteller setzen dazu verschiedene Ansätze ein, darunter wissensbasierte Verfahren, die das Expertenwissen abbilden, und maschinelles Lernen, bei dem auf grossen Datenmengen relevante Muster erkannt werden. Solche SAP-gestützten Assistenzsysteme können Menschen bei der Durchführung von Aufgaben anleiten oder ihnen Aufgaben abnehmen, die in Quantität und Qualität für den Menschen allein schwer zu bewältigen wären. Die Firma Visionary Solutions erkundet auf einer Trend-Messe verschiedene SAP-basierte Büroprogramme und entscheidet sich vor Ort dafür, ein hochentwickeltes Produkt von der TechnoFuture GmbH zu erwerben. In diesem Kontext überlegt Visionary Solutions, wann der Kaufpreis in Höhe von CHF 23'000'000 eigentlich fällig wird.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es ist stets die gesetzliche Regelung massgeblich, wonach die Erfüllung sogleich gefordert werden kann, die Fälligkeit des Kaufpreises aber immer erst 30 Tage später ist."
+        },
+        {
+          "label": "B",
+          "text": "Der Kaufpreis wird mit dem Übergang des Kaufgegenstandes in den Besitz des Käufers fällig, wenn nichts anderes vertraglich vereinbart worden ist."
+        },
+        {
+          "label": "C",
+          "text": "Es gibt keine gesetzliche Regelung hierzu."
+        },
+        {
+          "label": "D",
+          "text": "Sofern durch Vertrag eine bestimmte Regelung über die Fälligkeit getroffen wurde, gilt diese Regelung."
+        },
+        {
+          "label": "E",
+          "text": "Die gesetzliche Regelung besagt, dass die Erfüllung sogleich gefordert werden kann, Zug um Zug mit der Kaufpreiszahlung."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der Kaufpreis wird mit Übergang des Kaufgegenstandes fällig, wenn nichts anderes vereinbart ist (Art. 184 OR). Eine vertragliche Regelung über die Fälligkeit hat Vorrang.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "multi",
+      "title": "",
+      "scenario": "Hinweise: Nach dem Arbeitsrecht hat die Arbeitnehmerin während der Dauer des Arbeitsverhältnisses alles zu unterlassen, was die Arbeitgeberin konkurrenziert. Dazu zählt jede Art von Handlung, die der Treuepflicht der Arbeitnehmerin gegenüber der Arbeitgeberin entgegensteht und die uneingeschränkte Pflichterfüllung tangiert. Sogar die Freizeit zählt im Extrem dazu. Kann es sein, dass ein externer Unternehmens-Berater darf, was der Arbeitnehmer nicht darf?",
+      "prompt": "Ein in der IT-Branche in Winterthur sehr bekannter Freelancer hat noch Kapazitäten frei und nimmt parallel noch einen Auftrag bei einem konkurrenzierenden Unternehmen zu einem anderen Mandat an. Ist das erlaubt, was muss beachtet werden? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es ist nicht zulässig, da man Aufträge bei einem Konkurrenten nicht parallel annehmen kann."
+        },
+        {
+          "label": "B",
+          "text": "Der Berater unterliegt der Schweigepflicht aus Vertrag und muss daher nicht darauf hinweisen, vielmehr ist Branchenerfahrung gewünscht."
+        },
+        {
+          "label": "C",
+          "text": "Der Berater muss nur wenn es vertraglich vereinbart wurde, darauf hinweisen."
+        },
+        {
+          "label": "D",
+          "text": "Der IT-Consultant unterliegt dem Verbot der Selbstkontrahierung / Doppelvertretung."
+        },
+        {
+          "label": "E",
+          "text": "Der Berater muss aus der Treupflicht des Auftrags darauf hinweisen."
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Berater muss aus der Treuepflicht des Auftrags darauf hinweisen, wenn er parallel für einen Konkurrenten arbeitet, um Interessenkonflikte zu vermeiden (Art. 398 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "multi",
+      "title": "",
+      "scenario": "Erwirbt die öffentliche Hand zur Erfüllung ihrer Aufgaben von privaten Anbietern Bauten, Güter und Dienstleistungen, so müssen häufig Vergabeverfahren und Vergabegrundsätze beachtet werden. Wenn Unternehmen (z.B. IT-Anbieter) die im Wettbewerb stehen, an der Ausschreibung teilnehmen bzw. teilnehmen könnten, sich jedoch vor der Offerteingabe über die Preise oder die Abgabe einer Offerte absprechen, ist das?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine Submissionsabsprache"
+        },
+        {
+          "label": "B",
+          "text": "Eine Kartellabsprache"
+        },
+        {
+          "label": "C",
+          "text": "Ein unzulässiger Unternehmenszusammenschluss"
+        },
+        {
+          "label": "D",
+          "text": "Ist das immer zulässig, da es den Wettbewerb fördert"
+        },
+        {
+          "label": "E",
+          "text": "Ist das eine horizontale Wettbewerbsabrede"
+        }
+      ],
+      "correct": [
+        "A",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Eine Submissionsabsprache ist eine unzulässige Wettbewerbsabrede, die den Wettbewerb verzerrt (Art. 5 KG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "multi",
+      "title": "",
+      "scenario": "Welche Konsequenzen treffen öffentliche Behörden oder Gemeinden, wenn sie bei einer Ausschreibung feststellen, dass die Unternehmen sich vor der Offerteingabe abgesprochen haben.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die öffentlichen Behörden oder Gemeinde können nichts machen, das ist allein der WEKO als zuständige Behörde vorbehalten."
+        },
+        {
+          "label": "B",
+          "text": "Die öffentlichen Behörden oder Gemeinden müssen das Unternehmen von der laufenden Ausschreibung sperren."
+        },
+        {
+          "label": "C",
+          "text": "Die öffentlichen Behörden oder Gemeinden müssen bei erwiesenen Absprachen gemäss kantonalem Vergaberecht die Unternehmen für gewisse Zeit auch von künftigen Ausschreibungen aussperren."
+        },
+        {
+          "label": "D",
+          "text": "Das laufende Verfahren muss gemäss Gesetz aus ökonomischen Gründen noch rasch abgeschlossen werden und das Unternehmen, das Absprachen getroffen hat wird erst später sanktioniert."
+        },
+        {
+          "label": "E",
+          "text": "Die WEKO kann bei öffentlichen Behörden oder Gemeinden gar nicht aktiv werden, da sie nur für die privaten Unternehmen zuständig ist."
+        }
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Öffentliche Behörden müssen Unternehmen von der Ausschreibung sperren und bei erwiesenen Absprachen auch von künftigen Ausschreibungen aussperren (kantonales Vergaberecht).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "multi",
+      "title": "",
+      "scenario": "Das Gesetz gegen unlauteren Wettbewerb soll den fairen und funktionierenden Wettbewerb durch das Verbot gewisser Verhaltensweisen gewährleisten. Unlauter und widerrechtlich ist jedes täuschende oder in anderer Weise gegen den Grundsatz von Treu und Glauben verstossende Verhalten oder Geschäftsgebaren, welches das Verhältnis zwischen Mitbewerbern oder zwischen Anbietern und Abnehmern beeinflusst (Art. 2 UWG).",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neben der in Art. 2 aufgeführten Generalklausel werden bestimmte Sachverhalte im UWG in Art. 3ff besonders geregelt."
+        },
+        {
+          "label": "B",
+          "text": "Die AGB-Kontrolle ist im UWG geregelt."
+        },
+        {
+          "label": "C",
+          "text": "Bei der Prüfung der relevanten Artikel sind vor der Generalklausel die Art. 3ff zu prüfen."
+        },
+        {
+          "label": "D",
+          "text": "Das Marktortprinzip oder Territorialitäts- bzw. das Auswirkungsprinzip von Art. 2 UWG besagt, dass auch ein ausländisches Unternehmen mit Sitz z.B. in Österreich angezeigt oder verklagt werden könnte."
+        },
+        {
+          "label": "E",
+          "text": "Das Territorialitäts- bzw. das Auswirkungsprinzip gibt es nur im Kartellrecht, wie der Fall Weko gegen BMW Deutschland gezeigt hat."
+        }
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Neben der Generalklausel werden bestimmte Sachverhalte im UWG in Art. 3ff besonders geregelt. Bei der Prüfung sind diese vor der Generalklausel zu prüfen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Computer- und Cyberkriminalität wird zunehmend relevanter. Auch ein Ethical Hacker (EH) kann sich strafbar machen, jedoch ist nicht jede unzulässige Handlung strafbar. Es gelten immer die Grundsätze des Strafrechts.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine Behörde kann nach ihrem Ermessen einen Tatbestand auslegen, wenn der wirtschaftliche Schaden oder die Bedrohung gross genug ist."
+        },
+        {
+          "label": "B",
+          "text": "Es werden nur jene Handlungen oder Unterlassungen bestraft, welche im Gesetz ausdrücklich als strafbar umschrieben werden."
+        },
+        {
+          "label": "C",
+          "text": "Nebst natürlichen Personen können sich auch Unternehmen strafbar machen (Art. 102 StGB, Art. 64 DSG z. B.)."
+        },
+        {
+          "label": "D",
+          "text": "Strafbar macht sich, wer tatbestandsmässig, rechtswidrig und schuldhaft handelt. Diese drei Anforderungen müssen kumulativ erfüllt sein."
+        },
+        {
+          "label": "E",
+          "text": "Strafbar macht sich, wer tatbestandsmässig oder rechtswidrig oder schuldhaft handelt. Diese drei Anforderungen müssen daher nicht kumulativ erfüllt sein."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Nur Handlungen, die im Gesetz als strafbar umschrieben sind, werden bestraft. Auch Unternehmen können sich strafbar machen (Art. 102 StGB). Strafbar ist, wer tatbestandsmässig, rechtswidrig und schuldhaft handelt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "multi",
+      "title": "",
+      "scenario": "Das Sanktionssystem im Strafrecht unterscheidet zwischen Freiheitsstrafen, Geldstrafen und gemeinnütziger Arbeit (Art. 34 ff. StGB). Ausserdem können Bussen oder Massnahmen verhängt werden (Art. 106 bzw. 56 ff. StGB). Die unten aufgeführten Gesetze enthalten jeweils auch Straftatbestände.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strafgesetzbuch (StGB)"
+        },
+        {
+          "label": "B",
+          "text": "Datenschutzgesetz (DSG)"
+        },
+        {
+          "label": "C",
+          "text": "Kartellgesetz (KG)"
+        },
+        {
+          "label": "D",
+          "text": "Bundesgesetz gegen den unlauteren Wettbewerb (UWG)"
+        },
+        {
+          "label": "E",
+          "text": "Urheberrechts Gesetz (URG)"
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Alle genannten Gesetze enthalten Straftatbestände. Das StGB, DSG, KG, UWG und URG regeln verschiedene strafbare Handlungen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "multi",
+      "title": "",
+      "scenario": "Unter «Computerdelikten» versteht man Straf-Delikte, bei denen Informatikmittel Ziel der strafbaren Handlungen sind. Diese Delikte sind erst durch die zunehmende Informatik und Digitalisierung möglich geworden. Die ersten Strafbestimmungen sind seit 1. Januar 1995 in Kraft und werden seit dem immer wieder revidiert und angepasst.",
+      "prompt": "Welche der folgenden Aussagen sind richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unbefugte Datenbeschaffung mit Bereicherungsabsicht: Art. 143 StGB, wobei die beschafften Daten gegen unbefugten Zugriff besonders gesichert sind."
+        },
+        {
+          "label": "B",
+          "text": "Unbefugtes Eindringen in ein Datenverarbeitungssystem (Hacken): Art. 143 bis StGB, dieses Datenverarbeitungssystem muss NICHT gegen Zugriff besonders gesichert sein."
+        },
+        {
+          "label": "C",
+          "text": "Datenbeschädigung (Computersabotage): Art. 144 bis StGB ist ein Ergänzungstatbestand zur Sachbeschädigung."
+        },
+        {
+          "label": "D",
+          "text": "Betrügerischer Missbrauch einer Datenverarbeitungsanlage (Computerbetrug): Art. 147 StGB, indem analog zum klassischen Betrugstatbestand die Bereicherungsabsicht und Vermögensverschiebung bestraft wird."
+        },
+        {
+          "label": "E",
+          "text": "Verletzung des Urheberrechts nach Art. 26 URG"
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Unbefugte Datenbeschaffung (Art. 143 StGB), Datenbeschädigung (Art. 144 bis StGB) und Computerbetrug (Art. 147 StGB) sind relevante Computerdelikte.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "multi",
+      "title": "",
+      "scenario": "Es gibt kein Domainnamensrecht betreffend bessere Berechtigungen an Domainnamen im Schweizer Recht. Dennoch bewegen sich Domainnamen nicht in einem rechtsfreien Raum. Um ein Recht oder ein besseres Recht an einem Domainnamen geltend zu machen, wird auf andere Rechtsinstitute zurückgegriffen. Domainnamen schützt man insbesondere durch:",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Internet-Namen Schutzgesetz (INSG)"
+        },
+        {
+          "label": "B",
+          "text": "Datenschutzgesetz (DSG)"
+        },
+        {
+          "label": "C",
+          "text": "UWG dem Bundesgesetz über unlauteren Wettbewerb)"
+        },
+        {
+          "label": "D",
+          "text": "Markenrecht (MarkenG)"
+        },
+        {
+          "label": "E",
+          "text": "Urheberrechts Gesetz (URG)"
+        }
+      ],
+      "correct": [
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Domainnamen können durch das UWG und das Markenrecht geschützt werden, da es kein eigenes Domainnamensrecht gibt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Marke ist ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von solchen anderer Unternehmen zu unterscheiden (Art. 1 MSchG). Die Aufgabe der Marke besteht darin, eine Ware oder eine Dienstleistung des Markeninhabers von gleichartigen Waren oder Dienstleistungen anderer Unternehmen abzuheben und sie damit herkunftsmässig zu individualisieren.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Recht an der Marke ist wie im URG ebenfalls auf 70 Jahre begrenzt."
+        },
+        {
+          "label": "B",
+          "text": "Eine neue Marke ist unzulässig, wenn eine Verwechslungsgefahr möglich ist, die sich aus der Markenähnlichkeit und Dienstleistungsgleichartigkeit ergibt."
+        },
+        {
+          "label": "C",
+          "text": "Eine neue Marke ist unzulässig, wenn eine Verwechslungsgefahr möglich ist, dabei reicht es, wenn entweder Markenähnlichkeit oder Dienstleistungsgleichartigkeit gegeben ist."
+        },
+        {
+          "label": "D",
+          "text": "Bei einem \"Sonderschutz\" einer notorisch bekannten Marke (z.B.: Porsche) genügt bei einem Widerspruch die Markenähnlichkeit, ohne dass Dienstleistungsgleichartigkeit vorliegt."
+        },
+        {
+          "label": "E",
+          "text": "Eine Markeneintragung kann bei markenmässigem Gebrauch immer wieder verlängert werden."
+        }
+      ],
+      "correct": [
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Eine neue Marke ist unzulässig bei Verwechslungsgefahr durch Markenähnlichkeit und Dienstleistungsgleichartigkeit. Notorisch bekannte Marken benötigen nur Markenähnlichkeit. Markeneintragungen können verlängert werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "multi",
+      "title": "",
+      "scenario": "Für den Vertrag im online-Handel kommen die Regeln der Art. 1 bis 10 OR zur Anwendung. Ob die Willensäusserung auf traditionellem Wege oder über das Internet ausgetauscht wird, macht rechtlich gesehen grundsätzlich keinen Unterschied. Auch das „chatten\" könnte dem interaktiven Austausch von Willensäusserungen am Telefon (Art. 4 Abs. 2 OR) gleichgestellt werden. Unklar ist, wie der Homepageauftritt eines Anbieters zu behandeln ist. Ohne klaren Hinweis bleibt für den Kunden nämlich offen, ob es sich bei der Website ...",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Um einen elektronischen Katalog (Art. 7 OR) handelt, welcher nicht als verbindlicher Antrag gilt, sondern nur als Aufforderung zur Offertstellung."
+        },
+        {
+          "label": "B",
+          "text": "Eine Aufforderung zur Offertstellung entspricht der Bestellung des Kunden, welche vom Anbieter angenommen werden kann oder nicht."
+        },
+        {
+          "label": "C",
+          "text": "Es könnte sich aber auch um einen verbindlichen Antrag/Angebot handeln, wenn die Ware im Web-Shop mit der Anzahl «noch verfügbarer Exemplare» angegeben ist. (Art. 7 Abs. 3 OR)."
+        },
+        {
+          "label": "D",
+          "text": "Im Fall des Angebots ist die Bestellung des Kunden ein Akzept und der Vertrag kommt bereits mit der Bestellung zustande."
+        },
+        {
+          "label": "E",
+          "text": "Im Internet gilt in der Schweiz die 14-tägige Bedenkfrist, so dass der Vertrag schwebend wirksam ist."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Ein elektronischer Katalog gilt nicht als verbindlicher Antrag (Art. 7 OR). Ein verbindlicher Antrag liegt vor, wenn die Verfügbarkeit angegeben ist. Die Bestellung des Kunden ist ein Akzept.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "multi",
+      "title": "",
+      "scenario": "Als einseitiges Rechtsgeschäft wird die Vollmacht eingestuft. Sie wird wirksam erteilt, wenn der Vollmachtgeber sie im Innenverhältnis durch Erklärung dem bevollmächtigten Vertreter übergibt (Innenvollmacht). Alternativ kann die Vollmacht auch dem Dritten, also der Vertrags-Partei, gegenüber der die Vertretung stattfinden soll, erklärt werden, beispielsweise durch öffentliche Erklärung (z. B. im Handelsregister oder bilateral durch «Aussenvollmacht»). Ein externer Berater wird beauftragt und ermächtigt, das neue KI-System inklusive Nutzerverwaltung anzupassen und dabei die neueste Infrastruktur zu erwerben. Er erhält \"alle Befugnisse\", die für diese Aufgaben erforderlich sind.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verträge, die das Projekt nicht betreffen, können nachträglich genehmigt werden."
+        },
+        {
+          "label": "B",
+          "text": "Die Vollmachtserteilung ist grundsätzlich formlos möglich."
+        },
+        {
+          "label": "C",
+          "text": "Er kann alle Geschäfte abschliessen da keine Beschränkung dieser Vollmacht möglich ist."
+        },
+        {
+          "label": "D",
+          "text": "Er kann Verträge im Zusammenhang mit dem Projekt rechtswirksam abschliessen."
+        },
+        {
+          "label": "E",
+          "text": "Die Vollmacht, die zur Vornahme eines Grundstückskaufs berechtigt, ist im Gegensatz zum Verkauf eines Grundstücks nicht formbedürftig."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Die Vollmachtserteilung ist grundsätzlich formlos möglich. Der Berater kann Verträge im Zusammenhang mit dem Projekt rechtswirksam abschliessen (Art. 32 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "multi",
+      "title": "",
+      "scenario": "Will der Geschädigte einen Anspruch auf Haftpflicht durchsetzen, so hat er dem Schädiger folgendes zu beweisen:",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schadenshöhe des genauen Schadenbetrages durch Belege, Rechnungen, Buchhaltungsunterlagen etc."
+        },
+        {
+          "label": "B",
+          "text": "Er kann nur bei einer Konventionalstrafe den Schaden der Höhe nach im Voraus bestimmen und muss die Höhe bei Eintritt nicht belegen oder nachweisen."
+        },
+        {
+          "label": "C",
+          "text": "Er muss auch Widerrechtlichkeit, adäquater Kausalzusammenhang beweisen."
+        },
+        {
+          "label": "D",
+          "text": "Er muss kein Verschulden beweisen, bei einer vertraglichen Haftpflicht und auch nicht bei Kausalhaftung"
+        },
+        {
+          "label": "E",
+          "text": "Er muss immer das Verschulden beweisen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Der Geschädigte muss die Schadenshöhe und den adäquaten Kausalzusammenhang beweisen. Verschulden muss bei Kausalhaftung nicht bewiesen werden (Art. 41 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die NewDeal AG hat mit seinem ext. sehr gefragten KI-Berater nach 3 Monaten intensiver Zusammenarbeit noch immer keine Vereinbarung über die Höhe der Beratungskosten vereinbaren können. Man wurde sich nicht einig und hat dem Projekt mehr Wichtigkeit zugesprochen als dem Vertrag. Nach sechs Monaten stellt der Berater erstmals eine Abrechnung und Honorarnote mit einem zugrundeliegenden Stundensatz von 650 CHF/h zzgl. 3% Pauschalspesen. Das Start-Up ist mit seinem knappen Budget völlig schockiert über diese Frechheit und ist bereit lediglich 220 CHF als angemessenen Stundensatz für die rechtliche Beratung des Züricher KI-Experten zu akzeptieren.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann. Es ist jedoch immer der Mittelwert zwischen dem Honorarsatz von A und der Leistungsfähigkeit von B heranzuziehen."
+        },
+        {
+          "label": "B",
+          "text": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann."
+        },
+        {
+          "label": "C",
+          "text": "Der Honorarsatz orientiert sich am Leistungserbringer, seiner Qualifikation und am ortsüblichen Honorar für eine vergleichbare Leistung."
+        },
+        {
+          "label": "D",
+          "text": "Es handelt sich um einen Werkvertrag, der nicht ohne Honorarvereinbarung wirksam geschlossen werden kann, da die Essentialia negotii (Gegenleistung, Preis) fehlen."
+        },
+        {
+          "label": "E",
+          "text": "Es handelt sich um einen Auftrag, der nicht ohne vorherige Honorarvereinbarung wirksam geschlossen werden kann, da die Essentialia negotii (Gegenleistung, Preis) nicht vereinbart wurden."
+        }
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Auftrag kann ohne Honorarvereinbarung wirksam geschlossen werden. Der Honorarsatz orientiert sich am Leistungserbringer und dem ortsüblichen Honorar (Art. 394 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "multi",
+      "title": "",
+      "scenario": "Für die NewDeal AG ist es interessant und effizient, zur Vertragserfüllung externe Hilfspersonen bei Bedarf zum Projekt hinzuziehen, um damit die Rendite und Umsatz rasch zu steigern. Die AG ist sich jedoch unsicher, für welche Handlungen dieser teils ungelernten Hilfspersonen sie als «Schuldner» haftet?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Schuldner haftet (gemäss Art. 101 OR) für jeden Schaden, den die Hilfsperson in Ausübung ihrer Verrichtung verursacht hat, dabei kommt es nicht auf einen funktionellen Zusammenhang an."
+        },
+        {
+          "label": "B",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR grundsätzlich zunächst nicht für Handlungen und Schäden, welche die Hilfsperson verursacht hat."
+        },
+        {
+          "label": "C",
+          "text": "Der Schuldner haftet (gemäss Art. 101 OR) für denjenigen Schaden, den die Hilfsperson „in Ausübung ihrer Verrichtung\" verursacht hat. Ein funktioneller Zusammenhang muss vorliegen."
+        },
+        {
+          "label": "D",
+          "text": "Wie im Vertragsrecht üblich, haftet man gemäss Art. 101 OR grundsätzlich nur dann für Handlungen und Schäden, wenn dies vorab vertraglich vereinbart worden ist."
+        },
+        {
+          "label": "E",
+          "text": "Die vertragliche Haftung für Hilfspersonen ergibt sich stets aus Art. 55 OR."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Der Schuldner haftet für den Schaden, den die Hilfsperson in Ausübung ihrer Verrichtung verursacht hat, wenn ein funktioneller Zusammenhang besteht (Art. 101 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "multi",
+      "title": "",
+      "scenario": "Der Besteller ist dem SW-Ersteller bzw. SW-Anbieter „ausgeliefert\", weil der Anbieter die Software schreibt oder diese zumindest bereits kennt. Der Anbieter ist im Besitz der zur Weiterentwicklung, Anpassung, Fehlerbehebung etc. unbedingt notwendigen Grundlagen wie dem Sourcecode (Quellcode, eine für den Menschen lesbare Version der Software), den technischen Dokumentationen usw. Kommt der Anbieter seinen Leistungspflichten gegenüber dem Anwender nicht oder nur ungenügend nach, so kann nicht ohne Weiteres ein anderer Anbieter aufgeboten werden, der die anstehenden Probleme in nützlicher Frist lösen kann. Ohne genaue Kenntnis der Software und ohne Zugriffsmöglichkeiten auf den Sourcecode kann grundsätzlich nichts bewirkt werden.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der SW-Anbieter muss gemäss IP-Recht den Sourcecode immer auch zur Verfügung stellen."
+        },
+        {
+          "label": "B",
+          "text": "Der SW-Anbieter muss gemäss IP-Recht den Sourcecode immer bei einem Notar hinterlegen."
+        },
+        {
+          "label": "C",
+          "text": "Der Sourcecode muss nur bei vertraglicher Vereinbarung hinterlegt oder übergeben werden."
+        },
+        {
+          "label": "D",
+          "text": "Der Sourcecode muss immer zusammen mit dem Objektcode hinterlegt werden."
+        },
+        {
+          "label": "E",
+          "text": "Nur der Objektcode ist relevant."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Der Sourcecode muss nur bei vertraglicher Vereinbarung hinterlegt oder übergeben werden. Es gibt keine gesetzliche Pflicht zur Herausgabe des Sourcecodes.",
+      "confidence": "hoch",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    }
+  ]
+}

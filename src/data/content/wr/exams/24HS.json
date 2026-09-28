@@ -1,0 +1,1381 @@
+{
+  "id": "wr-24HS",
+  "subjectId": "wr",
+  "year": "24HS",
+  "label": "MEP 24HS",
+  "minutes": 90,
+  "maxPoints": 90,
+  "scoring": "penalty",
+  "questions": [
+    {
+      "number": 1,
+      "type": "multi",
+      "title": "",
+      "scenario": "**Vorbemerkungen zu Frage 1 und 2** Das Start-up-Unternehmen Finovate Solutions gilt als Vorreiter für datengesteuertes Banking in der Schweizer Finanzindustrie. Das Unternehmen plant, eine speziell auf seine Bedürfnisse zugeschnittene Software inklusive einer Website mit einer individuell gestalteten Benutzeroberfläche für seine Kunden entwickeln zu lassen. Für dieses Projekt beauftragt Finovate Solutions die WebTech Studio GmbH (GF Müller), ein Unternehmen, das sich auf die Entwicklung von IT-Lösungen und Websites spezialisiert hat. Beide Parteien vereinbaren die Lieferung der Software sowie den Go-Live der Website für den 3. Februar 20xx. Finovate Solutions stellt jedoch bald fest, dass die Zusammenarbeit mit Herrn Müller aufgrund seiner hohen Arbeitsauslastung problematisch ist, da er kaum freie Kapazitäten für das Projekt hat. Infolge dieser Herausforderungen wird die Website nicht wie geplant am 3. Februar fertiggestellt, und der Go-Live verzögert sich um drei Wochen.",
+      "prompt": "Welche verschiedenen Vertragstypen kommen in diesem Fall zur Anwendung, und was unterscheidet diese voneinander? Welche der nachfolgenden Aussagen ist/sind aus Ihrer Sicht richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Werkvertrag: Die Erstellung der Software und der Website unterliegt den Regeln des Werkvertrags, da ein spezifisches, individuell zugeschnittenes Ergebnis geschuldet ist (Software und Website mit festgelegtem Go-live-Datum)."
+        },
+        {
+          "label": "B",
+          "text": "Auftrag: Die laufende Zusammenarbeit zwischen Herrn Müller und Frau Schmid könnte als Auftrag interpretiert werden, da hier die Tätigkeit und nicht ein konkretes Ergebnis im Vordergrund steht."
+        },
+        {
+          "label": "C",
+          "text": "Kaufvertrag: Der Fall ist nach Kaufrecht zu beurteilen; da die Software und die Website als Ware geliefert werden."
+        },
+        {
+          "label": "D",
+          "text": "Mietvertrag: Die Nutzung der Software könnte als Mietvertrag verstanden werden, da die dauerhafte Überlassung der Software vorgesehen ist."
+        },
+        {
+          "label": "E",
+          "text": "Dienstleistungsvertrag: Der Fall umfasst ausschliesslich Elemente eines Dienstleistungsvertrags, da der Fokus auf der Erbringung von IT-Dienstleistungen liegt."
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da die Erstellung der Software und Website als Werkvertrag gilt, da ein spezifisches Ergebnis geschuldet ist (Art. 363 ff. OR). B ist korrekt, da die laufende Zusammenarbeit auch als Auftrag interpretiert werden kann, wenn die Tätigkeit im Vordergrund steht (Art. 394 ff. OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welche Aussage trifft auf den Verzug von drei Wochen bei der Fertigstellung der Website und Software zu? Welche der nachfolgenden Aussagen ist/sind aus Ihrer Sicht richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die WebTech Studio GmbH ist automatisch im Verzug, da der vereinbarte Go-live-Termin nicht eingehalten wurde, unabhängig von einer Mahnung."
+        },
+        {
+          "label": "B",
+          "text": "Die WebTech Studio GmbH gerät erst in Verzug, wenn Finovate Solutions den Mangel ausdrücklich «mahnt» oder eine angemessene Nachfrist setzt."
+        },
+        {
+          "label": "C",
+          "text": "Die dreiwöchige Verzögerung berechtigt Finovate Solutions automatisch zum Vertragsrücktritt nach Art. 107 OR"
+        },
+        {
+          "label": "D",
+          "text": "Der Verzug hat keine rechtlichen Konsequenzen, da solche Verzögerungen im IT-Bereich üblich sind und im Vertrag keine spezifischen Sanktionen vereinbart wurden."
+        },
+        {
+          "label": "E",
+          "text": "Finovate Solutions kann bei Verzug eine pauschale Entschädigung die Konventionalstrafe verlangen, ohne weitere Voraussetzungen verlangen."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da die WebTech Studio GmbH erst in Verzug gerät, wenn Finovate Solutions den Mangel mahnt oder eine Nachfrist setzt (Art. 102 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die WebTech führt seit Jahren ein erfolgreiches Unternehmen. Nun hat man gemerkt, dass ein Start-Up mit ganz ähnlichem Namen und Logo gegründet wurde. Man überlegt sich nun, ob man rechtlich gegen das Start-Up vorgehen soll oder nicht. Man kommt zum Schluss, dass man lieber noch ein wenig abwartet und möchte rechtlich erst dann gegen das Start-Up vorgehen, wenn das Start-Up grösser ist. Durch diese Vorgehensweise erhofft man sich, dem Start-Up möglichst viel Schaden zuzufügen.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind aus Ihrer Sicht richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Vorgehen entspricht dem Grundsatz von Treu und Glauben im Geschäftsverkehr, da ja auch das Start-Up unredlich handelt."
+        },
+        {
+          "label": "B",
+          "text": "Das Vorgehen stellt eine missbräuchlich späte Rechtsausübung dar und wäre rechtsmissbräuchlich."
+        },
+        {
+          "label": "C",
+          "text": "Das Vorgehen stellt eine missbräuchliche Geltendmachung von Formfehlern dar und wäre rechtsmissbräuchlich."
+        },
+        {
+          "label": "D",
+          "text": "Das Vorgehen stellt eine korrekte Rechtsausübung dar und wäre rechtskonform."
+        },
+        {
+          "label": "E",
+          "text": "Da man sich im guten Glauben befindet, kann die entsprechende Vorgehensweise gewählt werden."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da das Vorgehen eine missbräuchlich späte Rechtsausübung darstellt und somit rechtsmissbräuchlich ist (Art. 2 ZGB).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "multi",
+      "title": "",
+      "scenario": "Klaus ist seit kurzem selbständig und möchte als nächstes einen 34 Zoll Wide-Screen kaufen. Hierzu sucht er die Bigitech-AG auf und lässt sich beraten. Nachdem er sich entschieden hat, lässt er sich ein originalverpacktes Gerät (Karton ist versiegelt und nicht geöffnet) überreichen und bezahlt. Zehn Wochen später öffnet er den Karton und stellt fest, dass der Bildschirm eine Bruchstelle aufweist. Er fragt sich, ob er Ansprüche aus der Gewährleistung für Sachmängel hat. Ein Gewährleistungsausschluss liegt nicht vor.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind aus Ihrer Sicht richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ein Anspruch auf Gewährleistung wegen Sachmangels scheidet aus, da keine rechtzeitige Mängelrüge (nach Art. 201 OR) erfolgt ist."
+        },
+        {
+          "label": "B",
+          "text": "Ein Anspruch auf Gewährleistung wegen Sachmangels scheidet aus, da kein Sachmangel (Art. 197 OR) vorliegt."
+        },
+        {
+          "label": "C",
+          "text": "Ein Anspruch auf Gewährleistung wegen Sachmangels scheidet aus, da im B2B Geschäft IMMER ein Gewährleistungsausschluss vorliegt."
+        },
+        {
+          "label": "D",
+          "text": "Ein Anspruch auf Gewährleistung wegen Werkmangel scheidet aus, da er vom Mangel beim Kauf Kenntnis hätte haben können."
+        },
+        {
+          "label": "E",
+          "text": "Es liegt ein Kaufvertrag vor und es sind keine Unterschiede zwischen B2B und B2C erkennbar."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Klaus die Mängelrüge nicht rechtzeitig erhoben hat, was zum Ausschluss der Gewährleistung führt (Art. 201 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "multi",
+      "title": "",
+      "scenario": "Sie denken, dass sich gewerbliche Schutzrechte (Immaterialgüterrechte) nur für grosse Unternehmen lohnen? Nein. Auch und gerade für kleine und mittlere Unternehmen ist es wertvoll und lohnend, sich damit zu befassen. Lassen Sie sich beraten und nutzen Sie Unterstützungsangebote des IGE.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Für die Immaterialgüterrechte Patent, Marke, Design, Urheberrecht, Sortenschutz und Topografien gibt es jeweils separate Gesetze."
+        },
+        {
+          "label": "B",
+          "text": "Alles, was im Gesetz steht, ist erlaubt."
+        },
+        {
+          "label": "C",
+          "text": "Damit ein Werk urheberrechtlich schützbar ist, müssen drei Voraussetzungen erfüllt sein: 1. Es muss sich um ein Werk der Literatur oder Kunst oder um ein Computerprogramm handeln. 2. Das Werk muss individuellen Charakter haben. 3. Das Werk muss auf einer geistigen Schöpfung beruhen."
+        },
+        {
+          "label": "D",
+          "text": "Die Software muss von Menschen geschaffen werden, um das Kriterium der geistigen Schöpfung zu erfüllen. Heute gibt es aufgrund der Künstlichen Intelligenz bereits Roboter, die dieses Kriterium erfüllen und somit den Menschen gleichgestellt werden."
+        },
+        {
+          "label": "E",
+          "text": "Urheber können eine oder auch mehrere natürliche Personen sein."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da es separate Gesetze für die genannten Immaterialgüterrechte gibt. C ist korrekt, da die drei Voraussetzungen für den urheberrechtlichen Schutz erfüllt sein müssen (Art. 2 URG). E ist korrekt, da Urheber mehrere natürliche Personen sein können (Art. 7 URG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "multi",
+      "title": "",
+      "scenario": "Da der Schutz von geistigem Eigentum in der IT-Branche entscheidend für Ihren Geschäftserfolg ist, ziehen Sie die Expertise einer spezialisierten Rechtsanwältin hinzu, denn sie leiten ein Start-up-Unternehmen, das eine innovative Software entwickelt, und stehen vor der Herausforderung, Ihre Immaterialgüterrechte umfassend und rechtssicher zu schützen.",
+      "prompt": "Im Rahmen der Beratung werden verschiedene rechtliche Aspekte des Schutzes und der Nutzung Ihrer Immaterialgüterrechte erörtert. Welche der folgenden Aussagen treffen in diesem Kontext zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Um die Idee zu schützen, sind mit sämtlichen involvierten Personen Schweigevereinbarungen (Non Disclosure Agreements) abzuschliessen. Mit Mitarbeitenden kann dies bereits im Arbeitsvertrag vereinbart werden."
+        },
+        {
+          "label": "B",
+          "text": "Immaterialgüterrechte sind relative Rechte"
+        },
+        {
+          "label": "C",
+          "text": "Dritte können das Immaterialgüterrecht über die Lizenzvergabe des Inhabers nutzen."
+        },
+        {
+          "label": "D",
+          "text": "Ein für die Europäische Union (EU) geltendes Patent muss in jedem Mitgliedstaat einzeln beantragt werden."
+        },
+        {
+          "label": "E",
+          "text": "Immaterialgüterrechte sind absolute Rechte, daher kann Schadenersatz gegenüber jedermann geltend gemacht werden."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Schweigevereinbarungen (NDAs) sinnvoll sind. C ist korrekt, da Dritte über Lizenzvergabe das Immaterialgüterrecht nutzen können. E ist korrekt, da Immaterialgüterrechte absolute Rechte sind und Schadenersatz gegenüber jedermann geltend gemacht werden kann.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "multi",
+      "title": "",
+      "scenario": "Das Bundesgesetz über Kartelle und andere Wettbewerbsbeschränkungen bildet zusammen mit den zugehörigen Verordnungen die Rechtsquelle des schweizerischen Kartellrechts. Ziel des Gesetzes ist es, volkswirtschaftlich und sozial schädliche Auswirkungen von Kartellen und anderen Wettbewerbsbeschränkungen zu verhindern und damit den Wettbewerb im Interesse einer freiheitlichen marktwirtschaftlichen Ordnung zu fördern. Das Kartellgesetz ist daher wichtig für Fortschritt und Wohlergehen.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das öffentliche Beschaffungsrecht kann Unternehmen von künftigen Angeboten bis zu 5 Jahre «sperren» wenn diese an einem Kartell beteiligt waren."
+        },
+        {
+          "label": "B",
+          "text": "Das Kartellgesetz verbietet sämtliche Absprachen zwischen Unternehmen, die den Wettbewerb beeinträchtigen eine Rechtfertigung kann es nicht geben."
+        },
+        {
+          "label": "C",
+          "text": "Die drei Pfeiler des Kartellrechts sind: Wettbewerbsabreden, Marktmachtmissbrauch und Unternehmenszusammenschlüsse"
+        },
+        {
+          "label": "D",
+          "text": "Bei der Bestimmung des relevanten Markts muss dieser in sachlicher, örtlicher und zeitlicher Hinsicht konkretisiert werden."
+        },
+        {
+          "label": "E",
+          "text": "Gemäss Kartellrecht darf ein Unternehmen nie eine marktbeherrschende Stellung innehaben, da dies den Wettbewerb beeinträchtigen würde."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da das öffentliche Beschaffungsrecht solche Sperren vorsieht. C ist korrekt, da die drei Pfeiler des Kartellrechts Wettbewerbsabreden, Marktmachtmissbrauch und Unternehmenszusammenschlüsse sind. D ist korrekt, da der relevante Markt in sachlicher, örtlicher und zeitlicher Hinsicht konkretisiert werden muss.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "multi",
+      "title": "",
+      "scenario": "Abreden und/oder unzulässiges Verhalten von marktbeherrschenden Unternehmen, welche von der Kartellbehörde bzw. der Wettbewerbskommission als unzulässig erklärt wurden, können angefochten werden.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gegen Verfügungen der Wettbewerbskommission (WEKO) kann ein Schlichtungsverfahren angerufen werden."
+        },
+        {
+          "label": "B",
+          "text": "Gegen Verfügungen der Wettbewerbskommission (WEKO) kann nur beim Bundesverwaltungsgericht"
+        },
+        {
+          "label": "C",
+          "text": "Gegen Verfügungen der Wettbewerbskommission (WEKO) kann beim Bundesverwaltungsgericht und anschliessend beim Bundesgericht Beschwerde erhoben werden."
+        },
+        {
+          "label": "D",
+          "text": "Gegen Verfügungen der Wettbewerbskommission (WEKO) kann keine Beschwerde erhoben werden."
+        },
+        {
+          "label": "E",
+          "text": "Gegen Verfügungen der Wettbewerbskommission (WEKO) kann beim Handelsgericht Beschwerde erhoben werden."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "C ist korrekt, da gegen Verfügungen der WEKO beim Bundesverwaltungsgericht und anschliessend beim Bundesgericht Beschwerde erhoben werden kann.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "multi",
+      "title": "",
+      "scenario": "Das Ziel eines SLA bei einer Softwaremiete ist es, die Güte eines (bestimmten) Services in messbaren Kennzahlen festzuhalten. Dieses Servicelevel muss der Auftragnehmer bei seiner Tätigkeit für den Auftraggeber erreichen und - je nach Vertragsart - eventuell über einen längeren Zeitraum halten. Die AG erstellt für Ihre Service-Leistungen ein generelles allen Kunden zugängliches SLA. Die Bezeichnung SLA oder Dienstleistungs-Güte-Vereinbarung bzw. Dienstleistungsvereinbarung (DLV) ist Teil eines Vertrags. Das Ziel eines SLA ist es, die Güte eines Services in messbaren Kennzahlen festzuhalten. Dieses Servicelevel muss der Auftragnehmer bei seiner Tätigkeit für den Auftraggeber erreichen und - je nach Vertragsart - eventuell über einen längeren Zeitraum halten, sog. «Gebrauchsfähigkeit» von digitalen Geschäftsprozessen.",
+      "prompt": "Wie sind SLAs rechtlich zu qualifizieren? Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ein SLA ist ein eigenständiger Kaufvertrag."
+        },
+        {
+          "label": "B",
+          "text": "In der Regel hat der SLA ergänzende Ausführungen zum Vertrag."
+        },
+        {
+          "label": "C",
+          "text": "Es kann sich bei SLA nur um einen Absichtserklärung handeln"
+        },
+        {
+          "label": "D",
+          "text": "In einem SLA ist nur die Qualität / Güte der zu erbringenden Dienste im Bereich des Outsourcings definiert und kein Preis und keine Menge, daher liegt kein Vertrag vor."
+        },
+        {
+          "label": "E",
+          "text": "Nur wenn auch die Essentialia negotii bestimmt sind (idR. Menge und Preis) ist ein SLA auch ein Vertrag, sonst nur eine Qualitätsmerkmal für den Service."
+        }
+      ],
+      "correct": [
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da SLAs in der Regel ergänzende Ausführungen zum Vertrag sind. E ist korrekt, da ein SLA nur dann ein Vertrag ist, wenn die Essentialia negotii bestimmt sind.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "multi",
+      "title": "",
+      "scenario": "Datensicherheit ist für eine Organisation und gemässe den Vorgaben des Datenschutzrechts (Art. 8 DSG, strafbewehrt) äusserst wichtig, daher gibt es verschiedenste Methoden und Massnahmen, die die Datensicherheit adressieren und umsetzen. Im schweizerischen Datenschutzgesetz ist ungenügende Datensicherheit strafbewehrt, so dass Unternehmen hier ein besonderes Augenmerk drauflegen sollten.",
+      "prompt": "Welche der folgenden Massnahmen trägt zur **Integrität** von Daten bei und welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Einsatz von Hashing-Algorithmen"
+        },
+        {
+          "label": "B",
+          "text": "Datenverschlüsselung"
+        },
+        {
+          "label": "C",
+          "text": "Daten-Checksummen"
+        },
+        {
+          "label": "D",
+          "text": "Änderungsprotokolle"
+        },
+        {
+          "label": "E",
+          "text": "Externe Datensicherung"
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A, C und D sind korrekt, da sie zur Integrität von Daten beitragen, indem sie sicherstellen, dass Daten unverändert und korrekt bleiben.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "multi",
+      "title": "",
+      "scenario": "Datensicherheit des äusserst wichtig.",
+      "prompt": "Welche Massnahmen können die **Vertraulichkeit** von Daten gewährleisten und welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verschlüsselung von Daten"
+        },
+        {
+          "label": "B",
+          "text": "Regelmässige Datenwiederherstellung"
+        },
+        {
+          "label": "C",
+          "text": "Zugangsbeschränkungen"
+        },
+        {
+          "label": "D",
+          "text": "Externe Datensicherung"
+        },
+        {
+          "label": "E",
+          "text": "Offene Netzwerke verwenden"
+        }
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "A und C sind korrekt, da Verschlüsselung und Zugangsbeschränkungen die Vertraulichkeit von Daten gewährleisten.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "multi",
+      "title": "",
+      "scenario": "Datensicherheit des äusserst wichtig.",
+      "prompt": "Welche Bedrohungen gefährden die **Verfügbarkeit** von Daten und IT-Systemen und welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DDoS-Angriffe"
+        },
+        {
+          "label": "B",
+          "text": "Verschlüsselung der Daten"
+        },
+        {
+          "label": "C",
+          "text": "Systemausfälle durch Hardwarefehler"
+        },
+        {
+          "label": "D",
+          "text": "Cyberangriffe"
+        },
+        {
+          "label": "E",
+          "text": "Zugangsbeschränkungen"
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A, C und D sind korrekt, da sie Bedrohungen darstellen, die die Verfügbarkeit von Daten und IT-Systemen gefährden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "multi",
+      "title": "",
+      "scenario": "Ein Mitarbeiter einer Aktiengesellschaft (AG) ist im Handelsregister für die Zweigstelle bzw. Niederlassung in Bern ohne Funktion und ohne Zeichnungsart eingetragen. Beim HReg handelt es sich um eine rechtlich relevante Eintragung, die sowohl den Umfang der Vertretungsmacht des Mitarbeiters als auch die Aussenwirkung gegenüber Dritten beeinflusst.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wenn eine Kollektiv-Unterschrift gewünscht ist, muss diese im HReg zusätzlich vermerkt sein, ansonsten kann der eingetragene allein rechtswirksam handeln."
+        },
+        {
+          "label": "B",
+          "text": "Er kann gar nichts tun, da es immer eine Zweitunterschrift benötigt."
+        },
+        {
+          "label": "C",
+          "text": "Er kann immer alle Geschäfte abschliessen, da im Handelsregister keine Beschränkung möglich ist."
+        },
+        {
+          "label": "D",
+          "text": "Er kann nur für die Niederlassung Bern tätig werden."
+        },
+        {
+          "label": "E",
+          "text": "Eine Belastung der Grundstücke der Niederlassung in Bern sind möglich."
+        }
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da eine Kollektiv-Unterschrift im HReg vermerkt sein muss. D ist korrekt, da er nur für die Niederlassung Bern tätig werden kann.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Was gilt bzgl. dem **Urheberrecht** und der Verwertung der Rechte daraus für Computerprogramme, die ein Arbeitnehmer vollständig im privaten Bereich und in seiner Freizeit erstellt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Urheberrecht bleibt vollständig beim Arbeitnehmer, und der Arbeitgeber hat keinen Anspruch darauf."
+        },
+        {
+          "label": "B",
+          "text": "Das Urheberrecht geht automatisch natürlich auf den Arbeitgeber über, da eine privatrechtliche Anstellung besteht, vgl. dem Verbot der Nebentätigkeitsbeschäftigung."
+        },
+        {
+          "label": "C",
+          "text": "Eine Vereinbarung im Arbeitsvertrag, die das Urheberrecht an solchen Programmen auf den Arbeitgeber überträgt, wäre ungültig."
+        },
+        {
+          "label": "D",
+          "text": "Der Arbeitnehmer kann frei entscheiden, wem er das Urheberrecht an solchen Programmen überträgt."
+        },
+        {
+          "label": "E",
+          "text": "Der Arbeitgeber hat immer ein Vorerwerbsrecht auf solche Computerprogramme."
+        }
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da das Urheberrecht beim Arbeitnehmer bleibt, wenn er es privat erstellt. D ist korrekt, da der Arbeitnehmer frei entscheiden kann, wem er das Urheberrecht überträgt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Sehr häufig werden Werke nicht allein, sondern durch zwei oder mehr Personen geschaffen. Was gilt bei der **Miturheberschaft** eines Werkes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Miturheber können nur einstimmig über das Werk verfügen."
+        },
+        {
+          "label": "B",
+          "text": "Die Miturheberschaft führt immer zu einem eindeutigen Urheberrecht ohne Einschränkungen."
+        },
+        {
+          "label": "C",
+          "text": "Der Gesetzgeber vermutet Miturheberschaft, wenn mehrere Personen gemeinsam an einem Werk mitwirken."
+        },
+        {
+          "label": "D",
+          "text": "Durch Vertrag kann das Urheberrecht einer Person allein zugewiesen werden, um Konflikte zu vermeiden."
+        },
+        {
+          "label": "E",
+          "text": "Miturheberschaft entsteht auch, wenn eine Person eine Idee teilt einer anderen Person mitteilt, ohne am Werk mitzuarbeiten."
+        }
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Miturheber nur einstimmig über das Werk verfügen können. D ist korrekt, da durch Vertrag das Urheberrecht einer Person allein zugewiesen werden kann.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Software wird durch das **Urheberrecht** geschützt Sobald sie einen Werkcharakter haben. Was trifft auf Werke nach dem URG zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sie müssen einen individuellen Charakter aufweisen, der jedoch keine hohen Ansprüche erfüllen muss."
+        },
+        {
+          "label": "B",
+          "text": "Ein Werk ist nur dann geschützt, wenn es ausschliesslich von einer Person erschaffen wurde."
+        },
+        {
+          "label": "C",
+          "text": "Werke sind geistige Schöpfungen"
+        },
+        {
+          "label": "D",
+          "text": "Werke nach dem URG umfassen auch Computerprogramme, die als Werktypen genannt werden."
+        },
+        {
+          "label": "E",
+          "text": "Alle Werke im URG müssen einen kommerziellen Nutzen haben."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A, C und D sind korrekt, da Werke einen individuellen Charakter aufweisen müssen, geistige Schöpfungen sind und Computerprogramme als Werktypen genannt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "multi",
+      "title": "",
+      "scenario": "**Vorbemerkung zu nachfolgenden Fragen** Die Weinhandels AG möchte eine neue Software einführen, verbunden mit einem Webshop für den Verkauf von Wein und Likör. Ebenfalls sollen die Kunden über diesen Webshop Degustationen und Weinseminare buchen können. Sie beauftragen dafür die Y AG und beide vereinbaren u.a., dass: (1) mit dem Kauf der Software wird dem Anwender eine Nutzungsdauer von 5 Jahren eingeräumt. (2) das Computerprogramm als Objektcode installiert wird. Bereits nach etwas über 3 Jahren ist die Weinhandels AG aufgrund ungenügender Performance mit der Software nicht mit mehr zufrieden und beschafft sich ein neues System. Dieses soll in Zukunft auch die betrieblichen Bedürfnisse besser abdecken. Sie verwendet die Software der Y AG jedoch, nachdem das neue System installiert war, auch nach Ablauf der Nutzungsdauer weiter, da sie die »alten« Daten nicht migriert hat. Diese sollen später in das neue System überführt werden.",
+      "prompt": "Welche Aussagen treffen auf den Vertrag zwischen der Weinhandels AG und der Y AG zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Kaufvertrag, da die Weinhandels AG das Eigentum an der Software erwirbt."
+        },
+        {
+          "label": "B",
+          "text": "Der Vertrag enthält Elemente eines Mietvertrags, da eine begrenzte Nutzungsdauer von 5 Jahren vereinbart wurde."
+        },
+        {
+          "label": "C",
+          "text": "Der Vertrag dient ausschliesslich der Überlassung der Software ohne zusätzliche Leistungen."
+        },
+        {
+          "label": "D",
+          "text": "Im Vertrag sollten Zweck, Anforderungen, Dauer, Preis etc. geregelt werden."
+        },
+        {
+          "label": "E",
+          "text": "Der Vertrag ermöglicht der Weinhandels AG, die Software nach Ablauf der Nutzungsdauer beliebig weiterzuverwenden."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da die begrenzte Nutzungsdauer auf einen Mietvertrag hinweist. D ist korrekt, da im Vertrag Zweck, Anforderungen, Dauer, Preis etc. geregelt werden sollten.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "multi",
+      "title": "",
+      "scenario": "Darf die Weinhandels AG die Software der Y AG eigenständig anpassen?",
+      "prompt": "",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ja, die Weinhandels AG darf die Software ohne Einschränkungen anpassen."
+        },
+        {
+          "label": "B",
+          "text": "Nein, da die vertragliche Grundlage für Anpassungen fehlt und die Software im Objektcode geliefert wurde."
+        },
+        {
+          "label": "C",
+          "text": "Ja, wenn Reverse Engineering durchgeführt wird, da dies rechtlich erlaubt ist."
+        },
+        {
+          "label": "D",
+          "text": "Nein, Anpassungen sind nur mit einer zusätzlichen Lizenz für den Sourcecode möglich."
+        },
+        {
+          "label": "E",
+          "text": "Ja, sofern Anpassungen nur notwendige Schnittstellen betreffen."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da die vertragliche Grundlage für Anpassungen fehlt. D ist korrekt, da Anpassungen nur mit einer zusätzlichen Lizenz für den Sourcecode möglich sind.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "multi",
+      "title": "",
+      "scenario": "Bei einem Hackerangriff auf das System der Weinhandels AG werden viele Daten aus dem System entwendet und zum Verkauf im Darknet angeboten. Es handelt sich dabei um Daten wie Passwörter, Adressen und E-Mail-Adressen, Kreditkartendaten, Umsätze und Bestellverläufe.",
+      "prompt": "Wie gehen Sie als Weinhandels AG als nächstes vor gestützt auf das Datenschutzgesetz? Welche Schritte müssen Sie konkret vornehmen, um nach dem Angriff gesetzeskonform vorzugehen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die betroffenen Personen müssen erst nach dem EDÖB über den Datenverlust informiert werden, und nur wenn dies erforderlich ist, bei hohem Risiko, um deren Rechte zu schützen."
+        },
+        {
+          "label": "B",
+          "text": "Der Hackerangriff muss den zuständigen Datenschutzbehörden gemeldet werden, insbesondere bei hohem Risiko für die Rechte und Freiheiten der Betroffenen."
+        },
+        {
+          "label": "C",
+          "text": "Alle betroffenen Daten müssen sofort gelöscht werden, um weiteren Missbrauch zu verhindern."
+        },
+        {
+          "label": "D",
+          "text": "Es sollte eine interne Untersuchung durchgeführt werden, um die Ursache und den Umfang des Angriffs zu ermitteln."
+        },
+        {
+          "label": "E",
+          "text": "Der Verkauf der Daten im Darknet muss durch rechtliche Schritte direkt beim Anbieter gestoppt werden."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da der Hackerangriff den Datenschutzbehörden gemeldet werden muss. D ist korrekt, da eine interne Untersuchung zur Ermittlung der Ursache und des Umfangs des Angriffs durchgeführt werden sollte.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welche präventiven und reaktiven Massnahmen kann die Weinhandels AG ergreifen, um rechtlich korrekt zu handeln und zukünftige Vorfälle zu vermeiden? Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine Sicherheitslücke muss unverzüglich geschlossen werden, um weiteren Zugriff auf das System zu verhindern."
+        },
+        {
+          "label": "B",
+          "text": "Eine Datenschutz-Folgeabschätzung ist immer erst nach dem Angriff durchzuführen, um Risiken zu bewerten und Angriffe zu vermeiden."
+        },
+        {
+          "label": "C",
+          "text": "Die Datenschutzrichtlinien des Unternehmens müssen an die neue Bedrohungslage angepasst werden."
+        },
+        {
+          "label": "D",
+          "text": "Der Vorfall darf nicht öffentlich gemacht werden, um den Ruf des Unternehmens zu schützen."
+        },
+        {
+          "label": "E",
+          "text": "Kreditkartendaten müssen direkt durch Rückbuchungen oder Kontosperrungen der Betroffenen entschädigt werden."
+        }
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Sicherheitslücken unverzüglich geschlossen werden müssen. C ist korrekt, da die Datenschutzrichtlinien an die neue Bedrohungslage angepasst werden müssen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "multi",
+      "title": "",
+      "scenario": "Da **Arbeitnehmende** dem Arbeitgeber hierarchisch untergeordnet sind, sind sie verpflichtet, die Weisungen des Arbeitgebers zu befolgen. Solche Vorgaben werden oft in einer Hausordnung zusammengefasst, die Regelungen zu Themen wie Pausenzeiten, Gleitzeit, Nutzung des Internets und ähnlichen Bereichen enthält. Gleichzeitig auferlegt das Arbeitsrecht dem Arbeitgeber ebenfalls zahlreiche Pflichten.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wurde bei einem Bewerbungsgespräch gelogen, könnte ein Grund für eine fristlose Kündigung vorliegen."
+        },
+        {
+          "label": "B",
+          "text": "Während der Schwangerschaft und nach der Geburt eines Kindes gelten besondere Kündigungsschutzbestimmungen."
+        },
+        {
+          "label": "C",
+          "text": "Im Arbeitsrecht dürfen «relativ zwingende» Normen nicht zuungunsten des Arbeitnehmers abgeändert werden."
+        },
+        {
+          "label": "D",
+          "text": "Das Einholen von Referenzen ist nur mit Zustimmung der sich bewerbenden Person zulässig."
+        },
+        {
+          "label": "E",
+          "text": "Aufgrund der Gleichstellung und dem verfassungsrechtlichen Diskriminierungsverbot können auch werdende Väter sich auf die Kündigungsschutzbestimmungen für werdende Mütter berufen."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Lügen im Bewerbungsgespräch ein Grund für eine fristlose Kündigung sein können. B ist korrekt, da besondere Kündigungsschutzbestimmungen gelten. C ist korrekt, da relativ zwingende Normen nicht zuungunsten des Arbeitnehmers abgeändert werden dürfen. D ist korrekt, da das Einholen von Referenzen nur mit Zustimmung zulässig ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "multi",
+      "title": "",
+      "scenario": "Im Arbeitsrecht hat der Arbeitnehmer immer recht, oder doch nicht?",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arbeitnehmende, die mit einer Kündigung nicht einverstanden sind, sollten bis spätestens zum Ablauf der Kündigungsfrist schriftlich Einsprache erheben."
+        },
+        {
+          "label": "B",
+          "text": "Gemäss Schweizer Recht ist eine ordentliche Kündigung grundsätzlich nicht zu begründen."
+        },
+        {
+          "label": "C",
+          "text": "Erscheint ein Arbeitnehmer mehrere Tage ohne jede Begründung nicht zur Arbeit, kann das als formlose Kündigung verstanden werden."
+        },
+        {
+          "label": "D",
+          "text": "Die Treuepflicht des Arbeitnehmers ist das Pendant zur Fürsorgepflicht des Arbeitgebers."
+        },
+        {
+          "label": "E",
+          "text": "Arbeitgeber haben gegenüber ihren Arbeitnehmern eine Fürsorgepflicht. Diese wirkt auch über das Arbeitsverhältnis hinaus."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Einsprache gegen eine Kündigung bis zum Ablauf der Kündigungsfrist erhoben werden sollte. B ist korrekt, da eine ordentliche Kündigung nicht begründet werden muss. D ist korrekt, da die Treuepflicht des Arbeitnehmers das Pendant zur Fürsorgepflicht des Arbeitgebers ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Maker AG muss ihre IT-Archivsysteme ersetzen lassen und beauftragt den Telematiker T damit, dies rasch zu erledigen. Am 1. Juni 2024 sollte T beginnen, stolpert aber am Vortag und bricht sich den Fuss. T bietet an, seinen Mitarbeiter M zu schicken. Das will Maker aber nicht. Er möchte, dass T persönlich die Arbeit vornimmt. Kann Buyer verlangen, dass T persönlich kommt?",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nein, denn Hilfspersonen darf der Schuldner immer einsetzen. Das lässt sich nicht ausschliessen."
+        },
+        {
+          "label": "B",
+          "text": "Nein, denn regelmässig sind vertragliche Leistungen nicht höchstpersönlich. T kann einen Mitarbeiter schicken."
+        },
+        {
+          "label": "C",
+          "text": "Buyer kann verlangen, dass T persönlich kommt, denn die Qualität hängt sehr von der Person ab."
+        },
+        {
+          "label": "D",
+          "text": "T kann nur dann einen Mitarbeiter schicken, wenn sie das vertraglich vorher so ausgemacht haben."
+        },
+        {
+          "label": "E",
+          "text": "Maker kann vom Vertrag zurücktreten und Schadenersatz verlangen."
+        }
+      ],
+      "correct": [
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "C ist korrekt, da die Qualität von der Person abhängen kann. D ist korrekt, da T nur dann einen Mitarbeiter schicken kann, wenn dies vertraglich vereinbart wurde.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "multi",
+      "title": "",
+      "scenario": "Mit dem Erfolg kommt wie so oft der Neid. Das Konkurrenzunternehmen Neidhart AG, welches Personal aus der Schweiz rekrutiert, verbreitet in den sozialen Medien das Gerücht, die mittels Digijob vermittelten Angestellten können kein Deutsch und ihre Ausbildung sei mangelhaft. Dies entspricht nicht den Tatsachen, da das Personal ein hervorragendes Deutsch-Niveau und eine anerkannte, mit Schweizer Standards gleichwertige Ausbildung vorweisen muss.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digijob kann wegen Persönlichkeitsverletzung auf zivil- und strafrechtlichem Wege gegen die Neidhart AG vorgehen."
+        },
+        {
+          "label": "B",
+          "text": "Da die Neidhart AG die Gerüchte auf Facebook und Twitter verbreitet hat, sollte auch gegen diese Unternehmen gerichtlich vorgegangen werden."
+        },
+        {
+          "label": "C",
+          "text": "Publikationen auf Twitter und Facebook gelten als privat, wenn das Konto der Inhaber:Innen nur für Freund:Innen bzw. Abonnement:Innen sichtbar sind."
+        },
+        {
+          "label": "D",
+          "text": "Aufgrund der im Kartellrecht hohen drohenden Geldbussen, ist Digijob zu empfehlen, eine Beschwerde bei der Wettbewerbskommission einzureichen."
+        },
+        {
+          "label": "E",
+          "text": "Die Neidhart AG könnte gegen das Gesetz gegen den Unlauteren Wettbewerb verstossen."
+        }
+      ],
+      "correct": [
+        "A",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Digijob wegen Persönlichkeitsverletzung vorgehen kann. E ist korrekt, da die Neidhart AG gegen das UWG verstossen könnte.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "multi",
+      "title": "",
+      "scenario": "Wesentliches Merkmal der Arbeit ist, dass der Arbeitnehmer eine Arbeitsleistung, nicht aber einen bestimmten XXX schuldet. Er muss also nicht dafür garantieren, dass der Arbeitgeber seine Ziele erreicht, sondern hat nur die Leistung im vertraglichen Rahmen zu erbringen.",
+      "prompt": "Welche der nachfolgenden Aussagen für das fehlende Wort «XXX» ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ergebnis"
+        },
+        {
+          "label": "B",
+          "text": "Erfolg"
+        },
+        {
+          "label": "C",
+          "text": "Sinngemäss gilt das Gleiche im Werkvertrag"
+        },
+        {
+          "label": "D",
+          "text": "Anerkennung"
+        },
+        {
+          "label": "E",
+          "text": "Sinngemäss gilt das Gleiche im Auftragsrecht"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da der Arbeitnehmer keinen bestimmten Erfolg schuldet, sondern nur die Leistung im vertraglichen Rahmen zu erbringen hat.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Maker24-Trade AG ist Inhaber für einer Auktionsplattform und hat gute geschäftliche Kontakte zu Urs, der eine sehr ähnliche Plattform betreibt. Sie nutzen die Gelegenheit eines Abends in der Lobby des Hotels, um ausführlich die Konditionen zu Gunsten von Transparenz in der Branche nachhaltig zu harmonisieren. Dies ist auch gerechtfertigt und dringend notwendig, da die Betriebe aufgrund der ausländischen Konkurrenz ökonomisch in Bedrängnis kommen und Arbeitsplätze gefährdet sind.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auch die Abstimmung von Konditionen kann einen Verstoss gegen das Kartellgesetz darstellen. Das Schweizer Kartellgesetz sieht vor, dass Absprachen jeglicher Art, die den Wettbewerb verhindern oder einschränken, unzulässig sein können. Dazu gehören nicht nur Preisabsprachen, sondern auch Absprachen über Konditionen, wenn sie wettbewerbswidrige Wirkungen haben."
+        },
+        {
+          "label": "B",
+          "text": "Die Lauterkeitskommission hat in solchen Fällen keine direkte Sanktionsbefugnis. Die Lauterkeitskommission (SLK) befasst sich mit Fragen der unlauteren Werbung und Geschäftspraktiken, jedoch nicht mit kartellrechtlichen Verstössen. Zuständig für die Durchsetzung des Kartellrechts ist die Wettbewerbskommission (WEKO)."
+        },
+        {
+          "label": "C",
+          "text": "Die WEKO erlaubt keine Preisfestsetzung durch die Maker AG für ihre Händler. Nach Schweizer Recht ist es grundsätzlich unzulässig, dass ein Hersteller oder Importeur der nachgelagerten Handelsstufe, den Händlern fixe Preise vorschreibt. Dies würde eine vertikale Preisbindung darstellen, die im Kartellgesetz ausdrücklich verboten ist."
+        },
+        {
+          "label": "D",
+          "text": "Konditionen sind keine Preise, ihre Abstimmung ist unbedenklich."
+        },
+        {
+          "label": "E",
+          "text": "Das EU-Recht hat in der Schweiz keine direkte Geltung. Obwohl die EU über eine strikte Kartellrechtsordnung verfügt, hat sie keine direkte Rechtskraft in der Schweiz. Allerdings orientiert sich das Schweizer Kartellgesetz in einigen Bereichen an den Regelungen der EU, sodass Ähnlichkeiten bestehen können."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da die Abstimmung von Konditionen einen Verstoss gegen das Kartellgesetz darstellen kann. B ist korrekt, da die Lauterkeitskommission keine Sanktionsbefugnis hat. C ist korrekt, da die WEKO keine Preisfestsetzung erlaubt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "multi",
+      "title": "",
+      "scenario": "Subjektive Rechte werden in zwei Gruppen eingeteilt: relative und absolute Rechte. Relative Rechte gelten nur zwischen den beteiligten Parteien eines Rechtsverhältnisses. Ein Beispiel dafür ist eine Obligation, bei der eine Partei etwas von der anderen aus Vertrag die Erfüllung fordern darf. Absolute Rechte wirken gegenüber allen Personen und werden weiter unterteilt: Dingliche Rechte, wie das Eigentum an einer Sache oder Immaterialgüterrechte, wie Patente oder Urheberrechte. Die Service AG hat dazu folgende Frage:",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute Rechte und relative Rechte richten sich beide gegen jedermann."
+        },
+        {
+          "label": "B",
+          "text": "Relative Rechte richten sich gegen jedermann, absolute Rechte richten sich nur gegen staatliche Behörden."
+        },
+        {
+          "label": "C",
+          "text": "Relative Rechte richten sich gegen jedermann, absolute Rechte richten sich nur gegen eine bestimmte Person."
+        },
+        {
+          "label": "D",
+          "text": "Relative Rechte richten sich gegen eine bestimmte Person, absolute Rechte richten sich gegen jedermann."
+        },
+        {
+          "label": "E",
+          "text": "Ein Kaufvertrag ist ein relatives Recht."
+        }
+      ],
+      "correct": [
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "D ist korrekt, da relative Rechte sich gegen eine bestimmte Person richten und absolute Rechte gegen jedermann. E ist korrekt, da ein Kaufvertrag ein relatives Recht ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Maker IT-Services-AG bestellt einen neuen MFP-Drucker für 8500 CHF. Die Bestellung wird von dem zuständigen Mitarbeiter entgegengenommen. Er weist darauf hin, es könne ungefähr eine Woche dauern, bis der MFP eintrifft und abgeholt werden kann. Am selben Abend ist der MFP bei eBay für lediglich 2500 CHF eingestellt. Es wird überlegt, ob man den MFP wirklich abholen bzw. bezahlen muss.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ein Rücktritt kann durch eine einvernehmliche Aufhebungsvereinbarung erfolgen, sofern der Verkäufer zustimmt."
+        },
+        {
+          "label": "B",
+          "text": "Ein Rücktritt vom Vertrag ist nicht möglich; man ist an die getroffenen Vereinbarungen gebunden und muss die vertraglichen Verpflichtungen erfüllen."
+        },
+        {
+          "label": "C",
+          "text": "Ein Vertragsschluss kann verhindert werden, wenn man innerhalb von 24 Stunden telefonisch einen Widerruf seiner Willenserklärung übermittelt."
+        },
+        {
+          "label": "D",
+          "text": "Nach Erhalt der Ware besteht grundsätzlich ein 30-tägiges Rückgaberecht. Ein Widerruf ist daher nicht zwingend erforderlich, da man stattdessen das Rückgaberecht nutzen kann."
+        },
+        {
+          "label": "E",
+          "text": "Ein Vertrag kann nur dann verhindert werden, wenn die Willenserklärung per Einschreiben innerhalb von 72 Stunden widerrufen wird."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da ein Rücktritt durch eine einvernehmliche Aufhebungsvereinbarung erfolgen kann, sofern der Verkäufer zustimmt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Die IT-Maker-AG bestellt bei IT-Benno 200m Lichtfaserkabel für einen Ausbau der Büros? Es ist bekannt, dass es verschiedene Qualitäten (Speed, Sicherheit etc.) gibt. Was muss Benno liefern, wenn nichts im Vertrag vereinbart wurde? Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ohne abweichende Vereinbarung ist stets nur Ware der besten Qualität zu liefern."
+        },
+        {
+          "label": "B",
+          "text": "Ohne abweichende Vereinbarung muss Benno für die ganze Lieferung Ware von mindestens mittlerer Qualität liefern."
+        },
+        {
+          "label": "C",
+          "text": "Ohne abweichende Vereinbarung kann Benno auch mindere Qualität liefern, solange die Ware noch zum Zwecke geeignet ist."
+        },
+        {
+          "label": "D",
+          "text": "Ohne abweichende Vereinbarung gilt jedenfalls für die Hälfte der Lieferung, dass diese von mindestens mittlerer Qualität sein muss."
+        },
+        {
+          "label": "E",
+          "text": "Mangels hinreichender Bestimmung des Kaufgegenstands ist der Vertrag infolge fehlenden Konsenses nicht wirksam zustande gekommen."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da ohne abweichende Vereinbarung Ware von mindestens mittlerer Qualität geliefert werden muss (Art. 197 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Maker AG möchte wissen, wie ein Schaden aus einer Leistungsstörung anhand der Differenztheorie berechnet wird. Die Differenztheorie dient der Berechnung von Schäden im OR, indem der tatsächliche Vermögensstand nach einer Störung mit dem hypothetischen Vermögensstand verglichen wird, der ohne die Leistungsstörung eingetreten wäre.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Schaden bemisst sich nach dem hypothetischen Vermögensstand ohne Berücksichtigung weiterer Posten."
+        },
+        {
+          "label": "B",
+          "text": "Der Schaden liegt immer im aktuellen Vermögensstand ohne Berücksichtigung weiterer Posten."
+        },
+        {
+          "label": "C",
+          "text": "Der hypothetische Vermögensstand wird zum gegenwärtigen Vermögensstand addiert, um den Schaden zu ermitteln."
+        },
+        {
+          "label": "D",
+          "text": "Der hypothetische Vermögensstand wird zum gegenwärtigen Vermögensstand addiert und dann durch zwei geteilt, um den Schaden zu ermitteln."
+        },
+        {
+          "label": "E",
+          "text": "Der hypothetische Vermögensstand wird dem gegenwärtigen Vermögensstand gegenübergestellt. Die Differenz stellt den Schaden dar."
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "E ist korrekt, da der Schaden durch die Differenz zwischen dem hypothetischen und dem gegenwärtigen Vermögensstand ermittelt wird.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "multi",
+      "title": "",
+      "scenario": "Für den Lieferanten und Schuldner ist es lukrativ, zur Vertragserfüllung der Schuld eine günstige Hilfsperson einzusetzen, um damit die Rendite zu steigern. Die Buyer IT-Services-AG ist sich unsicher, für welche Handlungen von Hilfspersonen der Schuldner der Leistung denn haftet.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Schuldner haftet (gemäss Art. 101 OR) für jeden Schaden, den die Hilfsperson in Ausübung ihrer Verrichtung verursacht hat. Ein funktioneller Zusammenhang ist nicht erforderlich."
+        },
+        {
+          "label": "B",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR grundsätzlich zunächst nicht für Handlungen und Schäden, welche die Hilfsperson verursacht hat."
+        },
+        {
+          "label": "C",
+          "text": "Der Schuldner haftet (gemäss Art. 101 OR) für denjenigen Schaden, den die Hilfsperson „in Ausübung ihrer Verrichtung\" verursacht hat. Es muss also ein sog. funktioneller Zusammenhang zwischen der schädigenden Handlung und dem Schaden vorliegen."
+        },
+        {
+          "label": "D",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR grundsätzlich nur dann für Handlungen und Schäden, welche die Hilfspersonen verursacht haben, wenn dies vorab vertraglich vereinbart worden ist."
+        },
+        {
+          "label": "E",
+          "text": "Die vertragliche Haftung für Hilfspersonen ergibt sich stets aus Art. 55 OR."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "C ist korrekt, da der Schuldner für den Schaden haftet, den die Hilfsperson in Ausübung ihrer Verrichtung verursacht hat, wenn ein funktioneller Zusammenhang besteht (Art. 101 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "multi",
+      "title": "",
+      "scenario": "**Vorabinformation zu nachfolgenden zwei Fragen** Die MaxTrade AG ist ein mittelständisches Handelsunternehmen, das in den letzten Jahren stark gewachsen ist. Trotz des Erfolgs hat das Unternehmen wiederholt interne Herausforderungen erlebt: Unzureichende Kontrollen führten zu unerwarteten finanziellen Verlusten, fehlerhaften Berichten und vermehrten Verstössen gegen Compliance-Vorgaben. Ein externer Prüfbericht identifizierte Schwachstellen im Risikomanagement und empfahl die Einrichtung eines Internen Kontrollsystems (IKS). Das Management der MaxTrade AG beschliesst daraufhin, ein IKS aufzubauen, um die Einhaltung gesetzlicher und regulatorischer Vorschriften sicherzustellen, die internen Prozesse zu verbessern und zukünftige Risiken effektiver zu steuern. Dabei werden auch die Vorgaben aus den Artikeln OR 728a und OR 716a berücksichtigt, die einen strukturierten Umgang mit Risiken sowie klare Verantwortlichkeiten fordern. Im Zuge der Einführung des IKS werden zentrale Ziele, wesentliche Elemente und die wichtigsten Aktivitäten definiert. Die Geschäftsleitung möchte sicherstellen, dass das neue System umfassend, praxisnah und rechtskonform ausgestaltet ist, um die nachhaltige Entwicklung der MaxTrade AG zu gewährleisten.",
+      "prompt": "Welche Ziele verfolgt ein Unternehmen mit einem Internen Kontrollsystem (IKS)? Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schutz des Vermögens und Erfüllung von gesetzlichen Vorgaben sowie Corporate Governance-Richtlinien."
+        },
+        {
+          "label": "B",
+          "text": "Maximierung der Gewinne durch Steueroptimierung."
+        },
+        {
+          "label": "C",
+          "text": "Verbesserung der Kundenzufriedenheit durch schnelleren Service."
+        },
+        {
+          "label": "D",
+          "text": "Sicherstellung der Compliance mit OR 728a und anderen Spezialgesetzen."
+        },
+        {
+          "label": "E",
+          "text": "Vereinfachung der Mitarbeiterkommunikation durch weniger Kontrollen."
+        }
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da der Schutz des Vermögens und die Erfüllung gesetzlicher Vorgaben Ziele eines IKS sind. D ist korrekt, da die Sicherstellung der Compliance mit OR 728a ein Ziel ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welche Elemente müssen in einem Internen Kontrollsystem berücksichtigt werden? Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Risikobereiche wie Strategie, Operation, Reporting und Compliance."
+        },
+        {
+          "label": "B",
+          "text": "Unternehmensbereiche wie Konzern, Geschäftsbereiche und Lieferanten."
+        },
+        {
+          "label": "C",
+          "text": "Marktentwicklungen wie Kundenpräferenzen und Konkurrentenverhalten."
+        },
+        {
+          "label": "D",
+          "text": "Aktivitäten des Risiko-Managements wie Assessment, Bewertung, Massnahmen, Monitoring und Sanktion."
+        },
+        {
+          "label": "E",
+          "text": "Ausschliesslich IT-Risiken, da sie die grösste Gefahr darstellen."
+        }
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da Risikobereiche wie Strategie, Operation, Reporting und Compliance berücksichtigt werden müssen. D ist korrekt, da Aktivitäten des Risiko-Managements wie Assessment, Bewertung, Massnahmen, Monitoring und Sanktion berücksichtigt werden müssen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Das neue Datenschutzgesetz hat nicht nur mehr Schutz für die Betroffenen vorgesehen, sondern auch neue Sorgfaltspflichten für die Verantwortlichen eingeführt. Was schreibt das Datenschutzgesetz bezüglich der Sorgfaltspflichten für die Verantwortlichen vor? Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organisationen müssen Daten über Internetnutzer mindestens 5 Jahre lang aufbewahren."
+        },
+        {
+          "label": "B",
+          "text": "Organisationen müssen technische und organisatorische Massnahmen ergreifen, um kontinuierlich einen optimalen Datenschutz zu gewährleisten und dies durch eine entsprechende Dokumentation nachweisen können."
+        },
+        {
+          "label": "C",
+          "text": "Unternehmen müssen im Interesse der Transparenz alle Nutzerdaten mit kantonalen Behörden teilen."
+        },
+        {
+          "label": "D",
+          "text": "Unternehmen müssen im Interesse der Betroffenen Transparent über die Datenbearbeitung informieren."
+        },
+        {
+          "label": "E",
+          "text": "Unternehmen müssen mit Auftragsbearbeitern eine vertragliche Vereinbarung zum Datenschutz schliessen."
+        }
+      ],
+      "correct": [
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da technische und organisatorische Massnahmen ergriffen werden müssen. D ist korrekt, da Transparenz über die Datenbearbeitung gefordert ist. E ist korrekt, da eine vertragliche Vereinbarung mit Auftragsbearbeitern erforderlich ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "multi",
+      "title": "",
+      "scenario": "Evi, Jutta und Max beschliessen die Gründung einer neuen Firma «DAS Lernstudio» in der Rechtsform einer GmbH in den kommenden 3 Monaten. Im Einvernehmen bestellt Evi im Namen der künftigen GmbH bereits jetzt einen teuren Büro-Multifunktionsdrucker (MFP) zum Preis von CHF 4'500. Leider erfolgt schon kurz danach ein Streit über die Strategie im ersten Jahr und eine grosse Auseinandersetzung, bei der erst Jutta und dann Evi und Max aussteigen, da dafür das Startkapital und die Energie fehlt. Der Händler des MFP will von der mitgeteilten Auflösung der Firma und einem Rücktritt vom Kaufvertrages nichts wissen und liefert den Drucker termingerecht an Evi. Er fordert schliesslich die Bezahlung des Kaufpreises aber nur von der kapitalkräftigeren Jutta. Wer muss den Kaufpreis für den MFP von Gesetzes wegen bezahlen?",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jutta, im Aussenverhältnis, denn der Händler kann es sich aussuchen."
+        },
+        {
+          "label": "B",
+          "text": "Evi, weil sie das Gerät bei bestellt hat."
+        },
+        {
+          "label": "C",
+          "text": "Niemand, da die GmbH nicht gegründet wurde."
+        },
+        {
+          "label": "D",
+          "text": "Evi, Jutta und Max persönlich und solidarisch."
+        },
+        {
+          "label": "E",
+          "text": "Evi und Max persönlich und solidarisch, da Jutta ausgeschieden ist."
+        }
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "B ist korrekt, da Evi das Gerät bestellt hat. D ist korrekt, da Evi, Jutta und Max persönlich und solidarisch haften, da die GmbH nicht gegründet wurde.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die X-AG, ein Anbieter von Kreditkarten, stellt fest, dass Herr M seit dem 1. Oktober keine Umsätze mehr mit seiner Kreditkarte tätigt. Gemäss den Vertragsbedingungen wird eine monatliche Nutzungsgebühr von CHF 33.- erhoben, wenn der Mindestumsatz von CHF 500.- pro Monat nicht erreicht wird. Nach drei aufeinanderfolgenden Monaten ohne Nutzung wird zusätzlich die Jahresgebühr in Höhe von 12 x CHF 33.- (CHF 396.-) fällig. Die X-AG möchte sicherstellen, dass sie ihre Ansprüche rechtlich korrekt durchsetzt und Herrn M in Verzug setzt, um die Gebühren einzufordern. Sie prüft die notwendigen Schritte, die sie einleiten muss, um rechtlich einwandfrei vorzugehen.",
+      "prompt": "Welche Schritte muss die X-AG einleiten, um Herrn M rechtlich korrekt in Verzug zu setzen und die Gebühren einzufordern? Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sie kann Herrn M schriftlich mahnen und ihm eine angemessene Nachfrist setzen."
+        },
+        {
+          "label": "B",
+          "text": "Sie kann Herrn M ohne Mahnung direkt die Gebühren in Rechnung stellen, wenn die Vertragsbedingungen dies erlauben."
+        },
+        {
+          "label": "C",
+          "text": "Die X-AG muss Herrn M per Einschreiben über die fälligen Gebühren informieren und ihm eine Frist zur Zahlung setzen."
+        },
+        {
+          "label": "D",
+          "text": "Die Gebühren können nur durch ein gerichtliches Verfahren geltend gemacht werden."
+        },
+        {
+          "label": "E",
+          "text": "Die X-AG kann die Karte von Herrn M ohne Vorwarnung sperren und die Gebühren später fordern. ENDE"
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "A ist korrekt, da eine Mahnung mit Nachfristsetzung erforderlich ist. B ist korrekt, wenn die Vertragsbedingungen dies erlauben, kann direkt in Rechnung gestellt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "Lesetechnik, Exzerpieren & Disposition",
+  "week": "SW 05",
+  "tagline": "Effizientes Lesen und strukturierte Textverarbeitung für wissenschaftliches Arbeiten.",
+  "summary": "In dieser Woche lernen die Studierenden, wie sie wissenschaftliche Texte effizient und effektiv lesen können. Sie erfahren, wie sie durch zielorientiertes Lesen und Exzerpieren die wesentlichen Informationen aus Texten extrahieren. Zudem wird die Erstellung einer Disposition als Grundlage für wissenschaftliche Arbeiten behandelt. Diese Techniken sind entscheidend für den Erfolg im wissenschaftlichen Schreiben und helfen, die Inhalte nachhaltig zu verarbeiten.",
+  "learningGoals": [
+    "Effizientes und effektives Lesen von wissenschaftlichen Texten.",
+    "Exzerpieren von Texten zur Informationsgewinnung.",
+    "Erstellung einer Disposition für wissenschaftliche Arbeiten.",
+    "Zielorientiertes Lesen mit Fokus auf Forschungsfragen."
+  ],
+  "blocks": [
+    {
+      "title": "Zielorientiertes Lesen und Lesetechnik",
+      "body": "Zielorientiertes Lesen ist eine Technik, bei der der Leser bewusst Fragen an den Text stellt, um relevante Informationen zu extrahieren. Diese Methode hilft, den Text effizient zu verstehen und die wesentlichen Inhalte zu behalten.",
+      "bullets": [
+        "Fragen an den Text formulieren.",
+        "Wichtige Informationen markieren.",
+        "Lesegeschwindigkeit anpassen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Exzerpieren von wissenschaftlichen Texten",
+      "body": "Exzerpieren ist das Herausarbeiten der wesentlichen Inhalte eines Textes. Dabei werden zentrale Aussagen und Argumente in eigenen Worten zusammengefasst und kommentiert.",
+      "bullets": [
+        "Wörtliche und freie Exzerpte unterscheiden.",
+        "Kernthesen und zentrale Aussagen festhalten.",
+        "Exzerpte als Grundlage für eigene Texte nutzen."
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Erstellung einer Disposition",
+      "body": "Die Disposition ist ein strukturiertes Dokument, das die Planung und Organisation einer wissenschaftlichen Arbeit unterstützt. Sie umfasst die Einleitung, den Stand der Forschung, die Forschungsfrage und das methodische Vorgehen.",
+      "bullets": [
+        "Einleitung und Forschungsfrage formulieren.",
+        "Stand der Forschung dokumentieren.",
+        "Methodisches Vorgehen planen."
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Lesegeschwindigkeit und -kompetenz",
+      "body": "Die Lesegeschwindigkeit variiert je nach Textart und Lesekompetenz. Geübte Leser können bis zu 500 Wörter pro Minute erfassen, während ungeübte Leser deutlich langsamer sind.",
+      "bullets": [
+        "Lesegeschwindigkeit an Textschwierigkeit anpassen.",
+        "Lesekompetenz durch Übung steigern.",
+        "Effektives Lesen durch Konzentration und Technik."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Kritisches Lesen und Denken",
+      "body": "Kritisches Lesen erfordert das Hinterfragen der Aussagen eines Textes. Dabei werden Annahmen und Methoden geprüft, um die Plausibilität der Ergebnisse zu beurteilen.",
+      "bullets": [
+        "W-Fragen zur Analyse verwenden.",
+        "Methoden und Ergebnisse kritisch hinterfragen.",
+        "Sokratisches Lesen zur Wahrheitsfindung nutzen."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Lesetechnik",
+      "definition": "Methoden zur Verbesserung der Lesegeschwindigkeit und des Textverständnisses."
+    },
+    {
+      "term": "Exzerpieren",
+      "definition": "Das Herausarbeiten und Festhalten von wesentlichen Textinhalten."
+    },
+    {
+      "term": "Disposition",
+      "definition": "Strukturierte Planung einer wissenschaftlichen Arbeit."
+    },
+    {
+      "term": "Zielorientiertes Lesen",
+      "definition": "Lesen mit Fokus auf spezifische Fragen und Ziele."
+    },
+    {
+      "term": "Lesegeschwindigkeit",
+      "definition": "Anzahl der Wörter, die pro Minute gelesen werden können."
+    },
+    {
+      "term": "Lesekompetenz",
+      "definition": "Fähigkeit, Texte effizient und effektiv zu verstehen."
+    },
+    {
+      "term": "Kritisches Lesen",
+      "definition": "Hinterfragen und Analysieren der Textinhalte."
+    },
+    {
+      "term": "W-Fragen",
+      "definition": "Fragen, die mit 'Was', 'Warum', 'Wie' etc. beginnen, um Textinhalte zu analysieren."
+    },
+    {
+      "term": "Makrostrukturplan",
+      "definition": "Gliederung wissenschaftlicher Artikel in Hauptteile."
+    },
+    {
+      "term": "PQ4R",
+      "definition": "Lesemethode mit den Schritten Preview, Question, Read, Reflect, Recite, Review."
+    },
+    {
+      "term": "4-E-Analyse",
+      "definition": "Methode zur Analyse von Texten basierend auf Erkenntnisabsicht, -methode, -angebot und -verwendung."
+    },
+    {
+      "term": "Forschungsfrage",
+      "definition": "Zentrale Frage, die eine wissenschaftliche Arbeit leitet."
+    },
+    {
+      "term": "Hypothese",
+      "definition": "Annahme, die durch Forschung überprüft werden kann."
+    },
+    {
+      "term": "Methodisches Vorgehen",
+      "definition": "Planung der Methoden zur Beantwortung der Forschungsfrage."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Exzerpieren?",
+      "back": "Das Herausarbeiten und Festhalten von wesentlichen Textinhalten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter einer Disposition?",
+      "back": "Eine strukturierte Planung einer wissenschaftlichen Arbeit.",
+      "tag": "process"
+    },
+    {
+      "front": "Wie kann die Lesegeschwindigkeit gesteigert werden?",
+      "back": "Durch Übung und Anpassung der Lesetechnik an den Text.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist kritisches Lesen?",
+      "back": "Das Hinterfragen und Analysieren der Textinhalte.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Fragen helfen beim zielorientierten Lesen?",
+      "back": "W-Fragen wie 'Was', 'Warum', 'Wie'.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Makrostrukturplan?",
+      "back": "Gliederung wissenschaftlicher Artikel in Hauptteile.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist PQ4R?",
+      "back": "Eine Lesemethode mit den Schritten Preview, Question, Read, Reflect, Recite, Review.",
+      "tag": "mnemonic"
+    },
+    {
+      "front": "Was ist die 4-E-Analyse?",
+      "back": "Methode zur Analyse von Texten basierend auf Erkenntnisabsicht, -methode, -angebot und -verwendung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist die Forschungsfrage wichtig?",
+      "back": "Sie leitet die wissenschaftliche Arbeit und fokussiert das Lesen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Hypothese?",
+      "back": "Eine Annahme, die durch Forschung überprüft werden kann.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was umfasst das methodische Vorgehen?",
+      "back": "Die Planung der Methoden zur Beantwortung der Forschungsfrage.",
+      "tag": "process"
+    },
+    {
+      "front": "Was sind wörtliche Exzerpte?",
+      "back": "Direkte Zitate von Kernthesen und zentralen Aussagen.",
+      "tag": "example"
+    },
+    {
+      "front": "Was sind freie Exzerpte?",
+      "back": "Zusammenfassungen mit eigener Interpretation und Kritik.",
+      "tag": "example"
+    },
+    {
+      "front": "Warum ist die Disposition ein 'lebendiges' Dokument?",
+      "back": "Sie dient als Basis für die finale Version der Arbeit und wird kontinuierlich angepasst.",
+      "tag": "process"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Technik hilft, wissenschaftliche Texte effizient zu lesen?",
+      "options": [
+        "Zielorientiertes Lesen",
+        "Schnelles Lesen",
+        "Passives Lesen",
+        "Lautes Lesen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Zielorientiertes Lesen fokussiert auf spezifische Fragen und Ziele, um relevante Informationen zu extrahieren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Exzerpt?",
+      "options": [
+        "Eine Zusammenfassung",
+        "Ein direktes Zitat",
+        "Eine Interpretation",
+        "Eine Randnotiz"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Exzerpte können Zusammenfassungen, direkte Zitate oder Interpretationen von Textinhalten sein.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Methode umfasst die Schritte Preview, Question, Read, Reflect, Recite, Review?",
+      "options": [
+        "PQ4R",
+        "SQ3R",
+        "4-E-Analyse",
+        "Mind Mapping"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "PQ4R ist eine Lesemethode, die diese Schritte umfasst.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist der Zweck einer Disposition?",
+      "options": [
+        "Planung der Arbeit",
+        "Endgültige Version der Arbeit",
+        "Literaturverzeichnis",
+        "Zitierstandard"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Disposition dient der Planung und Strukturierung einer wissenschaftlichen Arbeit.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Fragen sind Teil der W-Fragen?",
+      "options": [
+        "Was",
+        "Warum",
+        "Wo",
+        "Wie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "W-Fragen helfen, Textinhalte zu analysieren und relevante Informationen zu extrahieren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der Unterschied zwischen wörtlichen und freien Exzerpten?",
+      "options": [
+        "Wörtliche Exzerpte sind direkte Zitate",
+        "Freie Exzerpte sind Interpretationen",
+        "Wörtliche Exzerpte sind Zusammenfassungen",
+        "Freie Exzerpte sind Randnotizen"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Wörtliche Exzerpte sind direkte Zitate, während freie Exzerpte Interpretationen und Kritiken enthalten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Warum ist kritisches Lesen wichtig?",
+      "options": [
+        "Um die Plausibilität der Ergebnisse zu prüfen",
+        "Um schneller zu lesen",
+        "Um mehr Informationen zu sammeln",
+        "Um die Lesegeschwindigkeit zu erhöhen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Kritisches Lesen hilft, die Plausibilität der Ergebnisse zu prüfen und Annahmen zu hinterfragen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist die 4-E-Analyse?",
+      "options": [
+        "Eine Lesemethode",
+        "Eine Analysemethode",
+        "Ein Zitierstandard",
+        "Ein Schreibstil"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die 4-E-Analyse ist eine Methode zur Analyse von Texten basierend auf Erkenntnisabsicht, -methode, -angebot und -verwendung.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Rolle spielt die Forschungsfrage in einer wissenschaftlichen Arbeit?",
+      "options": [
+        "Sie leitet die Arbeit",
+        "Sie ist unwichtig",
+        "Sie wird am Ende formuliert",
+        "Sie ist optional"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Forschungsfrage leitet die wissenschaftliche Arbeit und fokussiert das Lesen und die Analyse.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wischr-sw05",
+  "subjectId": "wischr"
+}

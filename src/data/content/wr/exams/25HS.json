@@ -1,0 +1,1426 @@
+{
+  "id": "wr-25HS",
+  "subjectId": "wr",
+  "year": "25HS",
+  "label": "MEP 25HS",
+  "minutes": 90,
+  "maxPoints": 90,
+  "scoring": "penalty",
+  "questions": [
+    {
+      "number": 1,
+      "type": "multi",
+      "title": "- Lieferverzug bei Hardware-Projekt",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die DataCom AG bestellt bei der DigiServe AG 200 Server mit Lieferung „spätestens bis 30. September\". Die Lieferung erfolgt erst am 20. Oktober. Die DataCom AG hatte sich bereits auf einen Grossauftrag mit einem Dritten verpflichtet und kann diesen nicht termingerecht erfüllen. Sie verlangt Schadenersatz für entgangenen Gewinn. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Verfalltag (Art. 102 Abs. 2 OR)."
+        },
+        {
+          "label": "B",
+          "text": "Verzug trat ohne Mahnung am 1. Oktober ein."
+        },
+        {
+          "label": "C",
+          "text": "DataCom AG kann Ersatz des Verspätungsschadens verlangen."
+        },
+        {
+          "label": "D",
+          "text": "Ein Anspruch auf Ersatz des entgangenen Gewinns setzt Verschulden voraus."
+        },
+        {
+          "label": "E",
+          "text": "Der Vertrag gilt automatisch als aufgehoben."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der Verfalltag ist gegeben, da ein konkretes Datum genannt wurde (Art. 102 Abs. 2 OR). Verzug tritt ohne Mahnung ein, da der 30. September ein Verfalltag ist. DataCom AG kann Ersatz des Verspätungsschadens verlangen, und ein Anspruch auf entgangenen Gewinn setzt Verschulden voraus (Art. 103 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "multi",
+      "title": "- Datenschutzverletzung und Verantwortlichkeit",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die SecurePay AG nutzt einen externen Cloud-Dienstleister in den USA zur Verarbeitung von Kundendaten. Nach einem Hackerangriff werden Kreditkartendaten öffentlich. Die Kunden klagen, und der EDÖB eröffnet eine Untersuchung. SecurePay AG behauptet, sie habe vertraglich alles geregelt und könne nichts dafür. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SecurePay AG bleibt als Verantwortliche haftbar."
+        },
+        {
+          "label": "B",
+          "text": "Der Auftragsbearbeiter haftet ausschliesslich."
+        },
+        {
+          "label": "C",
+          "text": "Die Weitergabe in die USA erfordert angemessene Garantien (Art. 16 ff. DSG)."
+        },
+        {
+          "label": "D",
+          "text": "Eine Meldepflicht an den EDÖB besteht bei Risiko für betroffene Personen."
+        },
+        {
+          "label": "E",
+          "text": "Eine Transfer-Impact-Analyse wäre erforderlich gewesen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "SecurePay AG bleibt als Verantwortliche haftbar, da sie die Datenverarbeitung an einen Auftragsbearbeiter überträgt. Die Weitergabe in die USA erfordert angemessene Garantien (Art. 16 ff. DSG). Eine Meldepflicht besteht bei Risiko für betroffene Personen, und eine Transfer-Impact-Analyse wäre erforderlich gewesen, um die Risiken der Datenübermittlung zu bewerten.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "multi",
+      "title": "- Vertragsschluss",
+      "scenario": "",
+      "prompt": "Die WebDesign GmbH sendet der Alpha AG ein schriftliches Angebot zur Erstellung einer neuen Firmenwebsite. Der CEO der Alpha AG ruft an und sagt: „Das Angebot passt, Sie können gleich starten.\" Einen schriftlichen Vertrag gibt es nicht. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Übereinstimmende Willenserklärungen führen zum Vertrag."
+        },
+        {
+          "label": "B",
+          "text": "Schriftform ist immer nötig."
+        },
+        {
+          "label": "C",
+          "text": "Handlungsfähigkeit des Verpflichteten erforderlich."
+        },
+        {
+          "label": "D",
+          "text": "Ohne Konsens kein Vertrag."
+        },
+        {
+          "label": "E",
+          "text": "Mündliche Verträge sind unwirksam."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Übereinstimmende Willenserklärungen führen zum Vertrag (Art. 1 OR). Handlungsfähigkeit des Verpflichteten ist erforderlich, und ohne Konsens kommt kein Vertrag zustande. Schriftform ist nicht immer nötig, und mündliche Verträge sind wirksam, sofern keine Formvorschrift besteht.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "multi",
+      "title": "- Verletzung von Urheber- und Markenrechten",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die DesignSoft AG entwickelt für eine Kundin eine Werbekampagne. Dabei verwendet sie lizenzfreie Fotos aus dem Internet. Einige dieser Bilder enthalten jedoch Markenlogos. Nach Veröffentlichung der Kampagne erhält die Kundin eine Abmahnung wegen Markenverletzung inkl. Schadenersatz von DesignSoft AG. Diese meint, die Verantwortung liege beim Kunden, da dieser die Kampagne freigegeben habe. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Verwenden fremder Markenlogos kann eine Markenverletzung darstellen."
+        },
+        {
+          "label": "B",
+          "text": "DesignSoft AG haftet nicht, da die Kundin die Freigabe erteilt hat."
+        },
+        {
+          "label": "C",
+          "text": "Es besteht ein Regressanspruch der Kundin gegen DesignSoft AG, wenn diese fahrlässig gehandelt hat."
+        },
+        {
+          "label": "D",
+          "text": "Markenverletzungen können auch durch irreführende Darstellungen in Werbematerial entstehen."
+        },
+        {
+          "label": "E",
+          "text": "Urheberrechte sind von Markenrechten zu unterscheiden."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Das Verwenden fremder Markenlogos kann eine Markenverletzung darstellen. Es besteht ein Regressanspruch der Kundin gegen DesignSoft AG, wenn diese fahrlässig gehandelt hat. Markenverletzungen können auch durch irreführende Darstellungen entstehen. Urheberrechte sind von Markenrechten zu unterscheiden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "multi",
+      "title": "- Formvorschriften",
+      "scenario": "",
+      "prompt": "Ausgangslage: Lena Meier vereinbart mit der ITService AG den Kauf einer Softwarelizenz im Wert von CHF 12 000.- per Telefon. Später behauptet die Firma, der Vertrag sei ungültig, weil er nicht schriftlich abgeschlossen wurde. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grundsatz der Formfreiheit."
+        },
+        {
+          "label": "B",
+          "text": "Qualifizierte Schriftlichkeit verlangt Zusätze."
+        },
+        {
+          "label": "C",
+          "text": "Öffentliche Beurkundung nur bei Grundstückkauf."
+        },
+        {
+          "label": "D",
+          "text": "Elektronische Signatur kann Schriftform ersetzen."
+        },
+        {
+          "label": "E",
+          "text": "Form dient Schutz vor Übereilung."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der Grundsatz der Formfreiheit gilt, es sei denn, das Gesetz schreibt eine bestimmte Form vor. Öffentliche Beurkundung ist nur bei Grundstückkauf erforderlich. Eine elektronische Signatur kann die Schriftform ersetzen. Formvorschriften dienen dem Schutz vor Übereilung, sind hier aber nicht relevant.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "multi",
+      "title": "- Vertragsfreiheit und Schranken",
+      "scenario": "",
+      "prompt": "Ein Fitnessstudio lässt alle Neukunden einen Vertrag unterschreiben, der besagt, dass das Studio „für Verletzungen jeglicher Art, auch bei grober Fahrlässigkeit, nicht haftet\". Ein Kunde stürzt wegen eines defekten Laufbands und fordert Schadenersatz. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kein Kontrahierungszwang in der Schweiz."
+        },
+        {
+          "label": "B",
+          "text": "Zwingendes Recht grenzt Vertragsfreiheit ein."
+        },
+        {
+          "label": "C",
+          "text": "Sittenwidrige Verträge sind nichtig."
+        },
+        {
+          "label": "D",
+          "text": "Formvorschriften beschränken Vertragsfreiheit."
+        },
+        {
+          "label": "E",
+          "text": "Persönlichkeitsrechte begrenzen Vertragsinhalte."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Zwingendes Recht grenzt die Vertragsfreiheit ein, und sittenwidrige Verträge sind nichtig. Persönlichkeitsrechte begrenzen Vertragsinhalte. Ein Haftungsausschluss für grobe Fahrlässigkeit ist unzulässig (Art. 100 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "multi",
+      "title": "- Bedingter Vertrag",
+      "scenario": "",
+      "prompt": "Maja Power mietet 30 MacBooks, schreibt aber in den Vertrag, „nur wenn ich das Projekt gewinne\". Sie bekommt eine Absage für das Projekt. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vertrag kam nicht zustande."
+        },
+        {
+          "label": "B",
+          "text": "Anzahlung rückforderbar."
+        },
+        {
+          "label": "C",
+          "text": "Bedingungen sind nicht im OR geregelt."
+        },
+        {
+          "label": "D",
+          "text": "Bedingung nichtig."
+        },
+        {
+          "label": "E",
+          "text": "Klausel = aufschiebende Bedingung."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Vertrag kam nicht zustande, da die Bedingung nicht erfüllt wurde. Die Anzahlung ist rückforderbar, da die Bedingung nicht eingetreten ist. Die Klausel stellt eine aufschiebende Bedingung dar, die im OR geregelt ist (Art. 151 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "multi",
+      "title": "- Leistungsstörungen",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die LogiTech GmbH verpflichtet sich, eine bestellte Spezialmaschine bis zum 1. Juli zu liefern. Wegen eines Streiks bei einem Zulieferer kann die Lieferung erst im August erfolgen, und das Gerät weist zudem mehrere Mängel auf. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unmöglichkeit"
+        },
+        {
+          "label": "B",
+          "text": "Schuldnerverzug"
+        },
+        {
+          "label": "C",
+          "text": "Schlechterfüllung"
+        },
+        {
+          "label": "D",
+          "text": "Gläubigerverzug"
+        },
+        {
+          "label": "E",
+          "text": "Anfechtbarkeit"
+        }
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Es liegt Schuldnerverzug vor, da die Lieferung verspätet erfolgt. Zudem handelt es sich um Schlechterfüllung, da die Maschine Mängel aufweist (Art. 97 OR). Unmöglichkeit liegt nicht vor, da die Lieferung möglich ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "multi",
+      "title": "- Schuldnerverzug",
+      "scenario": "",
+      "prompt": "Die AlphaPrint AG verpflichtet sich, Werbebroschüren bis zum 15. März zu liefern. Trotz mehrfacher Zusagen trifft die Lieferung erst am 25. März ein, ohne dass ein rechtfertigender Grund besteht. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahnung nötig."
+        },
+        {
+          "label": "B",
+          "text": "Bei Verfalltag keine Mahnung."
+        },
+        {
+          "label": "C",
+          "text": "Berechtigte Einrede kann Verzug ausschliessen."
+        },
+        {
+          "label": "D",
+          "text": "Unmöglichkeit = Verzug."
+        },
+        {
+          "label": "E",
+          "text": "Kein Verzug bei Gläubigerverzug."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Bei einem Verfalltag ist keine Mahnung nötig (Art. 102 Abs. 2 OR). Eine berechtigte Einrede kann den Verzug ausschliessen. Kein Verzug liegt bei Gläubigerverzug vor (Art. 91 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "multi",
+      "title": "- Zahlungsverzug",
+      "scenario": "",
+      "prompt": "TechPrint AG: Zahlung bis 20. Mai vereinbart, erfolgt am 27. Mai. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verzug ohne Mahnung."
+        },
+        {
+          "label": "B",
+          "text": "Verzug erst nach Mahnung."
+        },
+        {
+          "label": "C",
+          "text": "Verzugszins geschuldet."
+        },
+        {
+          "label": "D",
+          "text": "Kein Schaden = keine Haftung."
+        },
+        {
+          "label": "E",
+          "text": "Zurückbehaltungsrecht kann Verzug ausschliessen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Verzug tritt ohne Mahnung ein, da ein konkretes Datum vereinbart wurde (Art. 102 Abs. 2 OR). Verzugszins ist geschuldet (Art. 104 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "multi",
+      "title": "- Kündigung eines IT-Servicevertrags",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die CloudSwiss AG erbringt IT-Services für die HealthSecure AG. Aufgrund wiederholter Systemausfälle kündigt die HealthSecure AG den Vertrag mit sofortiger Wirkung. Die CloudSwiss AG verweist auf den Vertrag, der eine Kündigungsfrist von 3 Monaten vorsieht, und verlangt die volle Vergütung für die restliche Laufzeit. HealthSecure AG argumentiert, die wiederholten Ausfälle hätten die Arbeit verunmöglicht und stellen eine schwerwiegende Pflichtverletzung dar. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine ausserordentliche Kündigung ist bei schwerer Vertragsverletzung zulässig."
+        },
+        {
+          "label": "B",
+          "text": "Die vereinbarte Kündigungsfrist ist zwingend einzuhalten."
+        },
+        {
+          "label": "C",
+          "text": "Wiederholte Ausfälle können eine Vertragsverletzung darstellen."
+        },
+        {
+          "label": "D",
+          "text": "Bei begründetem sofortigem Rücktritt schuldet HealthSecure AG keine weitere Vergütung."
+        },
+        {
+          "label": "E",
+          "text": "Eine Abmahnung ist immer zwingende Voraussetzung."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Eine ausserordentliche Kündigung ist bei schwerer Vertragsverletzung zulässig. Wiederholte Ausfälle können eine Vertragsverletzung darstellen. Bei begründetem sofortigem Rücktritt schuldet HealthSecure AG keine weitere Vergütung. Die vereinbarte Kündigungsfrist ist nicht zwingend einzuhalten, wenn eine schwerwiegende Pflichtverletzung vorliegt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "multi",
+      "title": "- PC-Lieferung",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die OfficeTech GmbH bestellt bei der ComTrade AG zehn neue Büro-PCs zum Preis von CHF 12 000.-. Nach der Lieferung stellt sich heraus, dass die Geräte nicht starten, da ein Fehler im Mainboard verbaut wurde. Die ComTrade AG bittet um Geduld und liefert nach vier Wochen Ersatzteile, sodass die Geräte danach einwandfrei funktionieren. Der Geschäftsführer der OfficeTech GmbH überlegt, ob er vom Vertrag zurücktreten oder den Preis mindern kann. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Käufer kann vom Vertrag zurücktreten."
+        },
+        {
+          "label": "B",
+          "text": "Verzug tritt nur nach Mahnung ein."
+        },
+        {
+          "label": "C",
+          "text": "Die Nachbesserung beseitigt den Mangel."
+        },
+        {
+          "label": "D",
+          "text": "Bei geringem Mangel ist nur Minderung zulässig."
+        },
+        {
+          "label": "E",
+          "text": "Wandelung ist immer zulässig."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der Käufer kann vom Vertrag zurücktreten, wenn die Nachbesserung nicht rechtzeitig erfolgt. Die Nachbesserung beseitigt den Mangel, wenn sie erfolgreich ist. Bei geringem Mangel ist nur Minderung zulässig (Art. 205 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "multi",
+      "title": "- Werk / Auftrag / Kauf",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die WebTech Solutions AG erstellt für die MarketingPro GmbH eine neue Website. Vereinbart ist ein fixer Preis für die vollständige Umsetzung inklusive Design und Funktionalität. Parallel beauftragt MarketingPro einen Freelancer, regelmässig Blogbeiträge zu verfassen und zu aktualisieren. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Werkvertrag = Erfolg."
+        },
+        {
+          "label": "B",
+          "text": "Auftrag = Tätigkeit."
+        },
+        {
+          "label": "C",
+          "text": "Arbeitsvertrag = Erfolg."
+        },
+        {
+          "label": "D",
+          "text": "Auftrag jederzeit kündbar."
+        },
+        {
+          "label": "E",
+          "text": "Werkvertrag = Werk geschuldet."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Werkvertrag schuldet einen Erfolg, während ein Auftrag eine Tätigkeit schuldet. Ein Auftrag ist jederzeit kündbar (Art. 404 OR). Beim Werkvertrag ist das Werk geschuldet (Art. 363 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "multi",
+      "title": "- Softwaremangel",
+      "scenario": "",
+      "prompt": "Software zeigt Fehler, Kunde meldet ihn nach 6 Wochen. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rüge ist noch rechtzeitig, wenn dies erst im Betrieb erkennbar war."
+        },
+        {
+          "label": "B",
+          "text": "Rüge nur schriftlich."
+        },
+        {
+          "label": "C",
+          "text": "Unterlassene Rüge = Rechtsverlust."
+        },
+        {
+          "label": "D",
+          "text": "Rügepflicht auch im Werkvertrag."
+        },
+        {
+          "label": "E",
+          "text": "Nachbesserung Pflicht."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Die Rüge ist noch rechtzeitig, wenn der Mangel erst im Betrieb erkennbar war. Unterlassene Rüge führt zum Rechtsverlust (Art. 201 OR). Rügepflicht besteht auch im Werkvertrag (Art. 367 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "multi",
+      "title": "- AGB-Kollision",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die PrintTech AG bestellt über E-Mail neue Server bei der DataPro GmbH. Beide Parteien verweisen in ihren Bestell- bzw. Auftragsbestätigungen auf ihre eigenen Allgemeinen Geschäftsbedingungen (AGB), die sich in mehreren Punkten widersprechen. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Widersprechende AGB heben sich auf."
+        },
+        {
+          "label": "B",
+          "text": "Spätere AGB gelten automatisch als vereinbart."
+        },
+        {
+          "label": "C",
+          "text": "Ungewöhnliche Klauseln sind unwirksam."
+        },
+        {
+          "label": "D",
+          "text": "AGB müssen mitgeliefert oder durch einen klaren und deutlichen Verweis einbezogen werden."
+        },
+        {
+          "label": "E",
+          "text": "AGB haben Vorrang vor zwingendem Recht."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Widersprechende AGB heben sich auf. Ungewöhnliche Klauseln sind unwirksam. AGB müssen mitgeliefert oder durch einen klaren und deutlichen Verweis einbezogen werden. AGB haben keinen Vorrang vor zwingendem Recht.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "multi",
+      "title": "- Pflichtenheft",
+      "scenario": "",
+      "prompt": "Wenn das Pflichtenheft nach Vertragsunterzeichnung geändert wird, was gilt dann? Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teil des Vertrags, wenn vereinbart."
+        },
+        {
+          "label": "B",
+          "text": "Änderung erfordert Zustimmung."
+        },
+        {
+          "label": "C",
+          "text": "Einseitige Änderung unwirksam."
+        },
+        {
+          "label": "D",
+          "text": "Kunde muss beweisen, dass keine Zustimmung vorlag."
+        },
+        {
+          "label": "E",
+          "text": "Änderung kann neues Angebot sein."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Das Pflichtenheft ist Teil des Vertrags, wenn vereinbart. Eine Änderung erfordert Zustimmung. Eine einseitige Änderung ist unwirksam. Die Änderung kann ein neues Angebot darstellen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "multi",
+      "title": "- Sicherheitsstandard",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die BetaSoft AG entwickelt für die SwissBank eine Online-Banking-App. Im Vertrag steht, dass die Software „alle marktüblichen Sicherheitsstandards\" erfüllen muss. Nach der Einführung bemerkt die SwissBank, dass Kundendaten unverschlüsselt übertragen werden und teilweise auf ausländischen Servern ohne Schutzmassnahmen gespeichert sind. BetaSoft AG erklärt, sie habe nach bestem Wissen und Gewissen gearbeitet und verweist auf die unpräzise Vertragsformulierung. Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) wird über den Vorfall informiert. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schlechterfüllung liegt vor."
+        },
+        {
+          "label": "B",
+          "text": "Haftung nur bei grobem Verschulden."
+        },
+        {
+          "label": "C",
+          "text": "EDÖB kann Massnahmen prüfen."
+        },
+        {
+          "label": "D",
+          "text": "Unklare Pflicht -> Haftung evtl. eingeschränkt."
+        },
+        {
+          "label": "E",
+          "text": "Vertrag bleibt bestehen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Schlechterfüllung liegt vor, da die Sicherheitsstandards nicht erfüllt sind. Der EDÖB kann Massnahmen prüfen. Unklare Pflichten können die Haftung einschränken. Der Vertrag bleibt bestehen, es sei denn, er wird gekündigt.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "multi",
+      "title": "- Die Konventionalstrafe",
+      "scenario": "",
+      "prompt": "Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sichert Erfüllung."
+        },
+        {
+          "label": "B",
+          "text": "Immer geschuldet, unabhängig vom Verschulden."
+        },
+        {
+          "label": "C",
+          "text": "Kann reduziert werden."
+        },
+        {
+          "label": "D",
+          "text": "Ohne Hauptpflicht unwirksam."
+        },
+        {
+          "label": "E",
+          "text": "Alternativ oder kumulativ vereinbar."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die Konventionalstrafe sichert die Erfüllung. Sie kann reduziert werden (Art. 163 Abs. 3 OR). Sie kann alternativ oder kumulativ vereinbart werden. Sie ist nicht immer geschuldet, unabhängig vom Verschulden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "multi",
+      "title": "- Hilfspersonenhaftung",
+      "scenario": "Art. 101 OR 1 Wer die Erfüllung einer Schuldpflicht oder die Ausübung eines Rechtes einem Dritten überträgt, haftet für dessen Schaden, den dieser in Ausübung seiner Verrichtung verursacht, wie für eigenen. 2 Die Haftung kann durch Vertrag im Voraus wegbedungen oder beschränkt werden.",
+      "prompt": "Beispiel: Ein Mitarbeiter einer Reinigungsfirma beschädigt beim Putzen den Boden der IT-Fix AG, dem Auftraggeber. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Funktioneller Zusammenhang nötig."
+        },
+        {
+          "label": "B",
+          "text": "Nur bei Vereinbarung."
+        },
+        {
+          "label": "C",
+          "text": "Art. 101 OR dispositiv."
+        },
+        {
+          "label": "D",
+          "text": "Für jedes Verhalten Haftung."
+        },
+        {
+          "label": "E",
+          "text": "Kein Verschulden nötig."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Ein funktioneller Zusammenhang ist nötig. Art. 101 OR ist dispositiv, d.h., die Haftung kann vertraglich beschränkt werden. Kein Verschulden des Auftraggebers ist nötig, da er für das Verhalten der Hilfsperson haftet.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "multi",
+      "title": "- Outsourcingvertrag",
+      "scenario": "",
+      "prompt": "Die AlphaBank lagert ihre IT teilweise an die CloudSwiss AG aus. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "der Vertrag enthält idR gemischte Vertragselemente aus Kauf-, Miet-, Auftrags-, Werkvertragsrecht etc."
+        },
+        {
+          "label": "B",
+          "text": "Einheitlich Kaufrecht."
+        },
+        {
+          "label": "C",
+          "text": "SLA rechtlich unbedeutend."
+        },
+        {
+          "label": "D",
+          "text": "Abnahmeverfahren vertraglich regelbar."
+        },
+        {
+          "label": "E",
+          "text": "Die Vorgaben der FINMA zum Outsourcing sind zu berücksichtigen."
+        }
+      ],
+      "correct": [
+        "A",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Outsourcingvertrag enthält gemischte Vertragselemente. Das Abnahmeverfahren kann vertraglich geregelt werden. Die Vorgaben der FINMA zum Outsourcing sind zu berücksichtigen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "multi",
+      "title": "- Datenschutzpflichten",
+      "scenario": "Art. 8 DSG - Datensicherheit; Abs. 1 Der Verantwortliche und der Auftragsbearbeiter gewährleisten durch geeignete technische und organisatorische Massnahmen eine dem Risiko angemessene Datensicherheit. Art. 9 DSG - Bearbeitung durch Auftragsbearbeiter; Abs. 1 Die Bearbeitung von Personendaten kann vertraglich oder durch die Gesetzgebung einem Auftragsbearbeiter übertragen werden, ... Art. 19 DSG - Informationspflicht bei der Beschaffung von Personendaten; Abs. 1 Der Verantwortliche informiert die betroffene Person angemessen über die Beschaffung von Personendaten...",
+      "prompt": "Ausgangslage: Die CloudData AG betreibt eine Kundendatenplattform. Bei einer internen Revision zeigt sich, dass keine Dokumentation der technischen und organisatorischen Massnahmen (TOMs) vorliegt. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TOMs sind zwingend umzusetzen und zu dokumentieren."
+        },
+        {
+          "label": "B",
+          "text": "Daten müssen jederzeit an Behörden weitergegeben werden."
+        },
+        {
+          "label": "C",
+          "text": "Informationspflicht über die Datenbearbeitung besteht."
+        },
+        {
+          "label": "D",
+          "text": "Auftragsbearbeiter müssen vertraglich verpflichtet werden."
+        },
+        {
+          "label": "E",
+          "text": "Unbegrenzte Datenspeicherung ist zulässig."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "TOMs sind zwingend umzusetzen und zu dokumentieren. Es besteht eine Informationspflicht über die Datenbearbeitung. Auftragsbearbeiter müssen vertraglich verpflichtet werden. Unbegrenzte Datenspeicherung ist nicht zulässig.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "multi",
+      "title": "- Betroffenenrechte (DSG)",
+      "scenario": "",
+      "prompt": "Ausgangslage: Ein Kunde der AlphaBank will wissen, welche seiner Daten bearbeitet werden, und verlangt deren Löschung. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auskunftsrecht besteht."
+        },
+        {
+          "label": "B",
+          "text": "Recht auf Berichtigung."
+        },
+        {
+          "label": "C",
+          "text": "Recht auf Löschung - soweit keine gesetzliche Pflicht entgegensteht."
+        },
+        {
+          "label": "D",
+          "text": "Anspruch auf Schadenersatz möglich."
+        },
+        {
+          "label": "E",
+          "text": "Anspruch auf Gewinnbeteiligung, wenn die Pflichten nicht erfüllt werden."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Auskunftsrecht besteht. Es gibt ein Recht auf Berichtigung und Löschung, soweit keine gesetzliche Pflicht entgegensteht. Ein Anspruch auf Schadenersatz ist möglich, wenn ein Schaden entstanden ist.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "multi",
+      "title": "- Sanktionen (DSG)",
+      "scenario": "",
+      "prompt": "Ausgangslage: Nach einem Datenleck werden Verantwortliche persönlich untersucht. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persönliche Bussen bis CHF 250 000 möglich."
+        },
+        {
+          "label": "B",
+          "text": "Unternehmensbussen bis CHF 50'000, wenn Art. 64 Abs. 2 erfüllt ist."
+        },
+        {
+          "label": "C",
+          "text": "Strafverfahren richtet sich gegen natürliche Personen und nur subsidiär an Unternehmen"
+        },
+        {
+          "label": "D",
+          "text": "Verantwortliche können persönlich belangt werden."
+        },
+        {
+          "label": "E",
+          "text": "Es handelt sich um Verwaltungsbussen gegen Firmen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Persönliche Bussen bis CHF 250 000 sind möglich. Das Strafverfahren richtet sich gegen natürliche Personen und nur subsidiär an Unternehmen. Verantwortliche können persönlich belangt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "multi",
+      "title": "- Whistleblowing-System",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die GreenTech AG richtet für Ihre Zweigstelle in Liechtenstein und Österreich eine interne Meldestelle für Hinweisgeber ein. Es gibt einige formelle Vorgehensweisen zu beachten, die sich aus der Hinweisgeberrichtlinie / Whistleblowing-Richtlinie ergeben. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meldungen müssen innerhalb 7 Tagen bestätigt werden."
+        },
+        {
+          "label": "B",
+          "text": "Nur Unternehmen ab 5'000 Mitarbeitende sind betroffen."
+        },
+        {
+          "label": "C",
+          "text": "Vertraulichkeit und DSGVO-Konformität Pflicht."
+        },
+        {
+          "label": "D",
+          "text": "Dokumentation des Prozesses notwendig."
+        },
+        {
+          "label": "E",
+          "text": "Keine Rückmeldung innerhalb 3 Monate -> Verstoss."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Meldungen müssen innerhalb von 7 Tagen bestätigt werden. Vertraulichkeit und DSGVO-Konformität sind Pflicht. Die Dokumentation des Prozesses ist notwendig. Keine Rückmeldung innerhalb von 3 Monaten stellt einen Verstoss dar.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "multi",
+      "title": "- Smart-Home-Start-Up",
+      "scenario": "",
+      "prompt": "Ausgangslage: Ein Start-Up entwickelt Smart-Building-Lösungen mit Zulieferern im Ausland und Konten auf den Cayman Islands. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relevante Compliance-Risiken: Datenschutz, Im-/Export, GWG."
+        },
+        {
+          "label": "B",
+          "text": "Keine Pflichten unter 50 MA."
+        },
+        {
+          "label": "C",
+          "text": "Dokumentation der Risiken nach z. B. nach COSO oder IKS empfohlen."
+        },
+        {
+          "label": "D",
+          "text": "GWG-Sorgfaltspflichten könnten greifen."
+        },
+        {
+          "label": "E",
+          "text": "IT-Risiken irrelevant für Compliance."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Relevante Compliance-Risiken umfassen Datenschutz, Im-/Export und GWG. Die Dokumentation der Risiken nach COSO oder IKS ist empfohlen. GWG-Sorgfaltspflichten könnten greifen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "multi",
+      "title": "- Arbeitsrecht - Plattformarbeit",
+      "scenario": "",
+      "prompt": "Ausgangslage: Ein Programmierer arbeitet über eine Online-Plattform für verschiedene Kunden. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subordinationsverhältnis entscheidet über Arbeitsvertrag."
+        },
+        {
+          "label": "B",
+          "text": "Mehrere Aufträge für vers. Firmen sind ein Indiz für einen Auftrag und kein Arbeitsverhältnis."
+        },
+        {
+          "label": "C",
+          "text": "Ein Arbeitsvertrag kann formlos entstehen."
+        },
+        {
+          "label": "D",
+          "text": "Fehlende Sozialabgaben = kein Arbeitsvertrag."
+        },
+        {
+          "label": "E",
+          "text": "Weisungsrecht entscheidend für Qualifikation."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Das Subordinationsverhältnis entscheidet über das Vorliegen eines Arbeitsvertrags. Mehrere Aufträge für verschiedene Firmen sind ein Indiz für einen Auftrag. Ein Arbeitsvertrag kann formlos entstehen. Das Weisungsrecht ist entscheidend für die Qualifikation als Arbeitsverhältnis.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "multi",
+      "title": "- Auftrag & Beendigung",
+      "scenario": "",
+      "prompt": "Ausgangslage: Ein Consultant arbeitet auf Mandatsbasis für eine Versicherung und kündigt kurz vor Projektende. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auftrag jederzeit kündbar."
+        },
+        {
+          "label": "B",
+          "text": "Kündigung zur Unzeit -> Schadenersatzpflicht."
+        },
+        {
+          "label": "C",
+          "text": "Kündigungsfrist gesetzlich vorgeschrieben."
+        },
+        {
+          "label": "D",
+          "text": "Auftrag ist erfolgsbezogen."
+        },
+        {
+          "label": "E",
+          "text": "Treuepflicht besteht auch hier."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Auftrag ist jederzeit kündbar (Art. 404 OR). Eine Kündigung zur Unzeit kann eine Schadenersatzpflicht auslösen. Eine Treuepflicht besteht auch hier.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "multi",
+      "title": "- Externe Consultants & Konkurrenz",
+      "scenario": "",
+      "prompt": "Ausgangslage: Ein freier Berater arbeitet parallel für zwei Wettbewerber. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kein gesetzliches Konkurrenzverbot ohne Abrede."
+        },
+        {
+          "label": "B",
+          "text": "Treuepflicht identisch wie Arbeitnehmer."
+        },
+        {
+          "label": "C",
+          "text": "Vertraulichkeit muss gewahrt werden."
+        },
+        {
+          "label": "D",
+          "text": "Konkurrenzverbot vertraglich regelbar."
+        },
+        {
+          "label": "E",
+          "text": "Hinweispflicht bei Interessenkonflikt besteht nicht."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Es gibt kein gesetzliches Konkurrenzverbot ohne Abrede. Vertraulichkeit muss gewahrt werden. Ein Konkurrenzverbot kann vertraglich geregelt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "multi",
+      "title": "- IT-Vertragsdokumente",
+      "scenario": "",
+      "prompt": "Ausgangslage: Beim ERP-Projekt der SupplyNet AG wird eine vollständige Dokumentation gefordert. Was kann erwartet werden? Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pflichtenheft Teil des Vertrags."
+        },
+        {
+          "label": "B",
+          "text": "Test- und Abnahmeplan notwendig."
+        },
+        {
+          "label": "C",
+          "text": "Projektorganisation und Kommunikation regelbar."
+        },
+        {
+          "label": "D",
+          "text": "Schulungs- und Übergabeplan relevant."
+        },
+        {
+          "label": "E",
+          "text": "Der Ablauf des Änderungsprozesses sollte festgelegt sein."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Das Pflichtenheft ist Teil des Vertrags. Ein Test- und Abnahmeplan ist notwendig. Projektorganisation und Kommunikation sind regelbar. Ein Schulungs- und Übergabeplan ist relevant. Der Ablauf des Änderungsprozesses sollte festgelegt sein.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "multi",
+      "title": "- Haftung in der Kantine",
+      "scenario": "",
+      "prompt": "Ein Besucher stürzt auf einer rutschigen Treppe zur Toilette in der Kantine eines Unternehmensgebäudes. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Werkeigentümer haftet nach Art. 58 OR."
+        },
+        {
+          "label": "B",
+          "text": "Betreiber der Kantine kann zusätzlich haften."
+        },
+        {
+          "label": "C",
+          "text": "Mieter des Gebäudes immer haftbar."
+        },
+        {
+          "label": "D",
+          "text": "Haftung setzt Verschulden voraus."
+        },
+        {
+          "label": "E",
+          "text": "Nur die Widerrechtlichkeit und Kausalität müssen vorliegen."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Werkeigentümer haftet nach Art. 58 OR. Der Betreiber der Kantine kann zusätzlich haften. Nur Widerrechtlichkeit und Kausalität müssen vorliegen, Verschulden ist nicht erforderlich.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "multi",
+      "title": "- KI-generierte Inhalte und Urheberrecht",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die CreativeAI GmbH entwickelt ein KI-Tool, das automatisch Marketingtexte und Bilder generiert. Ein Kunde verwendet damit erstellte Inhalte in einer grossen Werbekampagne. Später meldet sich ein Fotograf und behauptet, seine Originalfotos seien als Trainingsdaten verwendet worden, wodurch seine Rechte verletzt wurden. Der Kunde verlangt nun von CreativeAI eine Garantie, dass keine Urheberrechtsverletzungen vorliegen. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KI-generierte Werke ohne menschliche Mitwirkung sind nach Schweizer Recht nicht urheberrechtlich geschützt."
+        },
+        {
+          "label": "B",
+          "text": "Die Nutzung urheberrechtlich geschützter Trainingsdaten kann eine Urheberrechtsverletzung darstellen."
+        },
+        {
+          "label": "C",
+          "text": "Der Kunde trägt die alleinige Verantwortung für die Veröffentlichung."
+        },
+        {
+          "label": "D",
+          "text": "CreativeAI haftet, je nach AGB, wenn die Rechtsverletzung durch unzulässige Trainingsdaten verursacht wurde."
+        },
+        {
+          "label": "E",
+          "text": "Eine vertragliche Freistellungsklausel (Indemnity Clause) kann Haftungsrisiken regeln."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "KI-generierte Werke ohne menschliche Mitwirkung sind nicht urheberrechtlich geschützt. Die Nutzung urheberrechtlich geschützter Trainingsdaten kann eine Urheberrechtsverletzung darstellen. CreativeAI haftet, je nach AGB, wenn die Rechtsverletzung durch unzulässige Trainingsdaten verursacht wurde. Eine vertragliche Freistellungsklausel kann Haftungsrisiken regeln.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "multi",
+      "title": "- Fahrzeugunfall",
+      "scenario": "",
+      "prompt": "Ein Mitarbeiter übersieht das Rotlicht und verursacht eine Kollision. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keine Haftung bei Blendung durch Sonne."
+        },
+        {
+          "label": "B",
+          "text": "Motorfahrzeughalterhaftung greift (SVG 58)."
+        },
+        {
+          "label": "C",
+          "text": "Verschulden ist nicht erforderlich."
+        },
+        {
+          "label": "D",
+          "text": "Fahrer haftet immer nach OR 41."
+        },
+        {
+          "label": "E",
+          "text": "Halter haftet objektiv."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die Motorfahrzeughalterhaftung greift (SVG 58). Verschulden ist nicht erforderlich, da es sich um eine Kausalhaftung handelt. Der Halter haftet objektiv.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "multi",
+      "title": "- Herzinfarkt nach dem Unfall",
+      "scenario": "",
+      "prompt": "Ein Mitarbeiter übersieht das Rotlicht und verursacht eine Kollision mit fremdem Personenschaden, er selbst bleibt unverletzt. Nach Information zum Verkehrsunfall erleidet die Mutter des Verletzten einen Herzinfarkt, als Sie vom Unfall erfährt. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kausalität beim Herzinfarkt gegeben."
+        },
+        {
+          "label": "B",
+          "text": "Adäquater Kausalzusammenhang fehlt."
+        },
+        {
+          "label": "C",
+          "text": "Fahrer haftet für den direkten Unfall."
+        },
+        {
+          "label": "D",
+          "text": "Reflexschaden nicht ersatzfähig."
+        },
+        {
+          "label": "E",
+          "text": "Beide Schadenfälle Fälle sind gleich zu behandeln."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Der adäquate Kausalzusammenhang fehlt beim Herzinfarkt, da dieser nicht vorhersehbar war. Der Fahrer haftet für den direkten Unfall. Reflexschäden sind nicht ersatzfähig.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "multi",
+      "title": "- Cloud-Vertrag und Datenlöschung",
+      "scenario": "",
+      "prompt": "Ausgangslage: Die FinTax AG nutzt seit drei Jahren die Cloud-Dienste der DataHost GmbH für Buchhaltungsdaten. Nach Vertragsbeendigung fordert FinTax die vollständige Löschung aller gespeicherten Personendaten. DataHost bestätigt zwar den Vertragsabschluss, behält jedoch Sicherheitskopien für „technische Zwecke\" und verweigert den Löschnachweis. Einige Monate später stellt FinTax fest, dass noch alte Kundendaten in Backups gespeichert sind. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Verantwortliche bleibt auch nach Vertragsende für die Einhaltung der Datenschutzpflichten zuständig."
+        },
+        {
+          "label": "B",
+          "text": "Der Auftragsbearbeiter darf Daten nach Vertragsende unbegrenzt speichern."
+        },
+        {
+          "label": "C",
+          "text": "Eine dokumentierte Löschungspflicht besteht."
+        },
+        {
+          "label": "D",
+          "text": "Backups mit Personendaten dürfen nur behalten werden, wenn sie zwingend erforderlich und geschützt sind."
+        },
+        {
+          "label": "E",
+          "text": "Die Verletzung der Löschpflicht kann eine Datenschutzverletzung darstellen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Verantwortliche bleibt auch nach Vertragsende für die Einhaltung der Datenschutzpflichten zuständig. Eine dokumentierte Löschungspflicht besteht. Backups dürfen nur behalten werden, wenn sie zwingend erforderlich und geschützt sind. Die Verletzung der Löschpflicht kann eine Datenschutzverletzung darstellen.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "multi",
+      "title": "- Awareness-Kampagne",
+      "scenario": "",
+      "prompt": "Die Trust Treuhand AG verwendet Logos von US-Softwarefirmen in ihren Schulungsfolien. Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UWG nicht anwendbar."
+        },
+        {
+          "label": "B",
+          "text": "Urheberrechte können betroffen sein."
+        },
+        {
+          "label": "C",
+          "text": "Markenrecht kann verletzt sein."
+        },
+        {
+          "label": "D",
+          "text": "Fair-Use gilt automatisch."
+        },
+        {
+          "label": "E",
+          "text": "Unterlassung kann gefordert werden."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Urheberrechte können betroffen sein, wenn Logos ohne Erlaubnis verwendet werden. Das Markenrecht kann verletzt sein. Eine Unterlassung kann gefordert werden, wenn Rechte verletzt werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "multi",
+      "title": "- Used-Software",
+      "scenario": "Ausgangslage: Die AlphaConsult AG hat vor einigen Jahren für 120 Mitarbeitende unbefristete Softwarelizenzen (Enterprise-Suite) eines US-Herstellers erworben. Geliefert wurde rein unkörperlich (Download), mit Lizenzschlüssel und Rechnung; Wartung/Support (SaaS-Updates & Hotline) wurden jeweils jährlich separat verlängert. Nach einer Reorganisation benötigt AlphaConsult nur noch 60 Lizenzen und möchte die übrigen 60 „gebrauchten\" Dauerlizenzen an die BetaSystems GmbH veräussern. Die AGBs des Herstellers enthält Klauseln, wonach ein Weiterverkauf/Übertragen „strikt untersagt\" sei; zudem sei die Nutzung „an den Erstkäufer gebunden\". BetaSystems verlangt eine rechtskonforme Umschreibung/Übertragung der Lizenzschlüssel. Der Hersteller verweigert die Zustimmung unter Hinweis auf die EULA und droht mit lizenzrechtlichen Schritten. AlphaConsult argumentiert mit dem Erschöpfungsgrundsatz (CH/EU) für zeitlich unbefristete Nutzungsrechte und sichert zu, sämtliche Kopien zu deinstallieren und nicht weiter zu verwenden.",
+      "prompt": "Welche der nachfolgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erschöpfungsgrundsatz des URG kann greifen."
+        },
+        {
+          "label": "B",
+          "text": "Weiterverkauf immer verboten."
+        },
+        {
+          "label": "C",
+          "text": "Hersteller kann Weiterverkauf verhindern."
+        },
+        {
+          "label": "D",
+          "text": "Zustimmungsklausel kann unwirksam sein."
+        },
+        {
+          "label": "E",
+          "text": "Nutzung rechtmässig bei Erschöpfung."
+        }
+      ],
+      "correct": [
+        "A",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Erschöpfungsgrundsatz des URG kann greifen, wenn die Software rechtmässig erworben wurde. Eine Zustimmungsklausel kann unwirksam sein, wenn sie den Erschöpfungsgrundsatz verletzt. Die Nutzung ist rechtmässig bei Erschöpfung, wenn alle Kopien deinstalliert werden.",
+      "confidence": "hoch",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    }
+  ]
+}

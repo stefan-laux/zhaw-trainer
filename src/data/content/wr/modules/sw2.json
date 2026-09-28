@@ -1,0 +1,405 @@
+{
+  "title": "Vertragsrecht II - Leistungsstörungen",
+  "week": "SW 2",
+  "tagline": "Analyse und Umgang mit Leistungsstörungen in Verträgen.",
+  "summary": "In dieser Woche werden die verschiedenen Arten von Leistungsstörungen im Vertragsrecht behandelt: Unmöglichkeit, positive Vertragsverletzung und Schuldnerverzug. Wir untersuchen die rechtlichen Grundlagen und Konsequenzen dieser Störungen, sowie die Rechte und Pflichten der Vertragsparteien. Besonderes Augenmerk liegt auf der Abgrenzung von Mängeln und den daraus resultierenden Gewährleistungsrechten.",
+  "learningGoals": [
+    "Verstehen der Konzepte von Unmöglichkeit, positiver Vertragsverletzung und Schuldnerverzug.",
+    "Erkennen der rechtlichen Folgen von Leistungsstörungen.",
+    "Anwendung der relevanten Gesetzesartikel auf praktische Fälle.",
+    "Unterscheidung zwischen verschiedenen Mängelkategorien und deren rechtlichen Implikationen."
+  ],
+  "blocks": [
+    {
+      "title": "Unmöglichkeit",
+      "body": "Die Leistung kann nicht mehr erbracht werden, da sie unmöglich geworden ist.",
+      "bullets": [
+        "Leistungserbringung ist nicht mehr möglich.",
+        "Rechtsfolgen: Schadenersatzanspruch des Gläubigers."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 97 OR",
+          "text": "Schadenersatz bei Nichterfüllung."
+        },
+        {
+          "ref": "Art. 119 OR",
+          "text": "Erlöschen der Forderung bei nachträglicher Unmöglichkeit."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Positive Vertragsverletzung",
+      "body": "Die Leistung wird erbracht, jedoch mit Mängeln oder unter Verletzung von Nebenpflichten.",
+      "bullets": [
+        "Schlechterfüllung oder Verletzung von Nebenpflichten.",
+        "Rechtsfolgen: Gewährleistungsrechte des Gläubigers."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 97 OR",
+          "text": "Schadenersatz bei Schlechterfüllung."
+        },
+        {
+          "ref": "Art. 367 OR",
+          "text": "Pflichten des Bestellers bei Abnahme."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Schuldnerverzug",
+      "body": "Die Leistung wird nicht erbracht, obwohl sie möglich wäre.",
+      "bullets": [
+        "Fälligkeit der Forderung und Mahnung erforderlich.",
+        "Rechtsfolgen: Verzugszins und Schadenersatz."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 102 OR",
+          "text": "Verzug des Schuldners."
+        },
+        {
+          "ref": "Art. 104 OR",
+          "text": "Verzugszins bei Geldforderungen."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Mängelbegriff und Kategorisierung",
+      "body": "Unterscheidung zwischen vorausgesetzten und vereinbarten Eigenschaften.",
+      "bullets": [
+        "Vorausgesetzte Eigenschaften: Technische Einwandfreiheit.",
+        "Vereinbarte Eigenschaften: Vertraglich festgelegt."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 197 OR",
+          "text": "Mängel im Kaufvertrag."
+        },
+        {
+          "ref": "Art. 368 OR",
+          "text": "Mängel im Werkvertrag."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Gewährleistungsrechte",
+      "body": "Rechte des Käufers und Werkbestellers bei Mängeln.",
+      "bullets": [
+        "Wandelung, Minderung, Ersatzlieferung.",
+        "Schadenersatz bei Mangelfolgeschäden."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 205 OR",
+          "text": "Wandelung und Minderung."
+        },
+        {
+          "ref": "Art. 368 OR",
+          "text": "Nachbesserung und Schadenersatz im Werkvertrag."
+        }
+      ],
+      "type": "law"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Unmöglichkeit",
+      "definition": "Die Leistung kann nicht mehr erbracht werden.",
+      "article": "Art. 97 OR"
+    },
+    {
+      "term": "Positive Vertragsverletzung",
+      "definition": "Die Leistung wird erbracht, aber mit Mängeln oder unter Verletzung von Nebenpflichten.",
+      "article": "Art. 97 OR"
+    },
+    {
+      "term": "Schuldnerverzug",
+      "definition": "Die Leistung wird nicht erbracht, obwohl sie möglich wäre.",
+      "article": "Art. 102 OR"
+    },
+    {
+      "term": "Fälligkeit",
+      "definition": "Zeitpunkt, ab dem der Gläubiger die Erfüllung verlangen kann.",
+      "article": "Art. 75 OR"
+    },
+    {
+      "term": "Mahnung",
+      "definition": "Aufforderung an den Schuldner, die Leistung zu erbringen.",
+      "article": "Art. 102 OR"
+    },
+    {
+      "term": "Verzugszins",
+      "definition": "Zins, der bei verspäteter Zahlung anfällt.",
+      "article": "Art. 104 OR"
+    },
+    {
+      "term": "Wandelung",
+      "definition": "Rückabwicklung des Vertrages bei Mängeln.",
+      "article": "Art. 205 OR"
+    },
+    {
+      "term": "Minderung",
+      "definition": "Reduktion des Kaufpreises bei Mängeln.",
+      "article": "Art. 205 OR"
+    },
+    {
+      "term": "Ersatzlieferung",
+      "definition": "Lieferung einer mangelfreien Sache beim Gattungskauf.",
+      "article": "Art. 206 OR"
+    },
+    {
+      "term": "Nachbesserung",
+      "definition": "Behebung von Mängeln im Werkvertrag.",
+      "article": "Art. 368 OR"
+    },
+    {
+      "term": "Verschulden",
+      "definition": "Verantwortlichkeit des Schuldners für die Vertragsverletzung.",
+      "article": "Art. 99 OR"
+    },
+    {
+      "term": "Gewährleistungsfrist",
+      "definition": "Zeitraum, in dem Mängel geltend gemacht werden können.",
+      "article": "Art. 210 OR"
+    },
+    {
+      "term": "Konventionalstrafe",
+      "definition": "Vertragsstrafe bei Nichterfüllung oder Schlechterfüllung.",
+      "article": "Art. 160 OR"
+    },
+    {
+      "term": "Gläubigerverzug",
+      "definition": "Verzögerung der Leistung durch fehlende Mitwirkung des Gläubigers.",
+      "article": "Art. 91 OR"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Unmöglichkeit?",
+      "back": "Die Leistung kann nicht mehr erbracht werden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet positive Vertragsverletzung?",
+      "back": "Die Leistung wird erbracht, aber mit Mängeln oder unter Verletzung von Nebenpflichten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Schuldnerverzug?",
+      "back": "Die Leistung wird nicht erbracht, obwohl sie möglich wäre.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wann tritt Fälligkeit ein?",
+      "back": "Wenn der Gläubiger die Erfüllung verlangen kann.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Mahnung?",
+      "back": "Aufforderung an den Schuldner, die Leistung zu erbringen.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist Verzugszins?",
+      "back": "Zins, der bei verspäteter Zahlung anfällt.",
+      "tag": "law"
+    },
+    {
+      "front": "Was bedeutet Wandelung?",
+      "back": "Rückabwicklung des Vertrages bei Mängeln.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist Minderung?",
+      "back": "Reduktion des Kaufpreises bei Mängeln.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist Ersatzlieferung?",
+      "back": "Lieferung einer mangelfreien Sache beim Gattungskauf.",
+      "tag": "law"
+    },
+    {
+      "front": "Was bedeutet Nachbesserung?",
+      "back": "Behebung von Mängeln im Werkvertrag.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist Verschulden?",
+      "back": "Verantwortlichkeit des Schuldners für die Vertragsverletzung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die Gewährleistungsfrist?",
+      "back": "Zeitraum, in dem Mängel geltend gemacht werden können.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist eine Konventionalstrafe?",
+      "back": "Vertragsstrafe bei Nichterfüllung oder Schlechterfüllung.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist Gläubigerverzug?",
+      "back": "Verzögerung der Leistung durch fehlende Mitwirkung des Gläubigers.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Rechtsfolge tritt bei Unmöglichkeit ein?",
+      "options": [
+        "Schadenersatz",
+        "Wandelung",
+        "Minderung",
+        "Ersatzlieferung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Bei Unmöglichkeit kann der Gläubiger Schadenersatz verlangen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist erforderlich, damit Schuldnerverzug eintritt?",
+      "options": [
+        "Fälligkeit der Forderung",
+        "Mahnung des Schuldners",
+        "Gläubigerverzug",
+        "Unmöglichkeit der Leistung"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Schuldnerverzug setzt Fälligkeit und Mahnung voraus.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Rechte hat der Käufer bei Mängeln?",
+      "options": [
+        "Wandelung",
+        "Minderung",
+        "Ersatzlieferung",
+        "Nachbesserung"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Der Käufer kann Wandelung, Minderung oder Ersatzlieferung verlangen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wann ist eine Mahnung nicht erforderlich?",
+      "options": [
+        "Bei Fälligkeit",
+        "Bei einem einfachen Verfalltag",
+        "Bei einem qualifizierten Verfalltag",
+        "Bei Gläubigerverzug"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Bei einem einfachen oder qualifizierten Verfalltag ist keine Mahnung erforderlich.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet positive Vertragsverletzung?",
+      "options": [
+        "Unmöglichkeit der Leistung",
+        "Schlechterfüllung",
+        "Verletzung einer Nebenpflicht",
+        "Schuldnerverzug"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Positive Vertragsverletzung umfasst Schlechterfüllung und Verletzung von Nebenpflichten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Rechtsfolge tritt bei Schuldnerverzug ein?",
+      "options": [
+        "Verzugszins",
+        "Schadenersatz",
+        "Wandelung",
+        "Ersatzlieferung"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Bei Schuldnerverzug fallen Verzugszins und Schadenersatz an.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Mangel im rechtlichen Sinne?",
+      "options": [
+        "Fehler in der Software",
+        "Abweichung von der Sollbeschaffenheit",
+        "Fehlen einer vereinbarten Eigenschaft",
+        "Technischer Defekt"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "explanation": "Ein Mangel liegt vor bei Abweichung von der Sollbeschaffenheit oder Fehlen einer vereinbarten Eigenschaft.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist die Gewährleistungsfrist?",
+      "options": [
+        "Zeitraum für Mängelrüge",
+        "Zeitraum für Vertragsabschluss",
+        "Zeitraum für Schadenersatzforderung",
+        "Zeitraum für Rücktritt vom Vertrag"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Gewährleistungsfrist ist der Zeitraum, in dem Mängel geltend gemacht werden können.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Eigenschaften muss ein EDV-System aufweisen?",
+      "options": [
+        "Vorausgesetzte Eigenschaften",
+        "Vereinbarte Eigenschaften",
+        "Technische Defekte",
+        "Fehler in der Software"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Ein EDV-System muss vorausgesetzte und vereinbarte Eigenschaften aufweisen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist Gläubigerverzug?",
+      "options": [
+        "Verzögerung der Leistung durch den Schuldner",
+        "Verzögerung der Leistung durch den Gläubiger",
+        "Verzögerung der Leistung durch technische Defekte",
+        "Verzögerung der Leistung durch Unmöglichkeit"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Gläubigerverzug tritt ein, wenn der Gläubiger die Mitwirkung ungerechtfertigterweise verweigert.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wr-sw2",
+  "subjectId": "wr"
+}

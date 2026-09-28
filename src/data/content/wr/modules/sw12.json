@@ -1,0 +1,379 @@
+{
+  "title": "Gesellschaftsrecht",
+  "week": "SW 12",
+  "tagline": "Einführung in die verschiedenen Gesellschaftsformen und ihre rechtlichen Grundlagen.",
+  "summary": "Das Modul Gesellschaftsrecht bietet einen umfassenden Überblick über die verschiedenen Gesellschaftsformen in der Schweiz, ihre Gründung, Struktur und rechtlichen Rahmenbedingungen. Es behandelt Einzelunternehmen, Personengesellschaften wie die Kollektivgesellschaft und Kapitalgesellschaften wie die Aktiengesellschaft und GmbH. Zudem werden Unterschiede zwischen wirtschaftlichen und nicht wirtschaftlichen Zwecken sowie die rechtlichen Konsequenzen von Unternehmenszusammenschlüssen erläutert.",
+  "learningGoals": [
+    "Verstehen der Unterschiede zwischen den Gesellschaftsformen",
+    "Kenntnis der Gründungsanforderungen und Haftungsregelungen",
+    "Unterscheidung zwischen Rechtsgemeinschaften und Körperschaften",
+    "Erkennen der rechtlichen Implikationen von Unternehmenszusammenschlüssen"
+  ],
+  "blocks": [
+    {
+      "title": "Gesellschaftsformen",
+      "body": "Gesellschaften sind vertragliche Verbindungen von Personen zur Erreichung eines gemeinsamen Zwecks. Sie werden in verschiedene Formen unterteilt, die sich in Struktur, Haftung und rechtlicher Persönlichkeit unterscheiden.",
+      "bullets": [
+        "Einzelunternehmen: Eine Person trägt die Verantwortung.",
+        "Personengesellschaften: Fokus auf persönliche Mitarbeit.",
+        "Kapitalgesellschaften: Kapitalbeteiligung im Vordergrund."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 530 OR",
+          "text": "Definition der Gesellschaft als vertragliche Verbindung."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Rechtsgemeinschaften vs. Körperschaften",
+      "body": "Gesellschaften können als Rechtsgemeinschaften oder Körperschaften organisiert sein. Diese unterscheiden sich insbesondere in ihrer rechtlichen Persönlichkeit und Haftung.",
+      "bullets": [
+        "Rechtsgemeinschaften: Keine juristische Persönlichkeit, Haftung bei Gesellschaftern.",
+        "Körperschaften: Juristische Personen mit eigener Rechtspersönlichkeit."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Personen- und Kapitalgesellschaften",
+      "body": "Der Unterschied zwischen Personen- und Kapitalgesellschaften liegt im Fokus auf Kapital oder persönlicher Mitarbeit der Gesellschafter.",
+      "bullets": [
+        "Personengesellschaften: Einfache Gesellschaft, Kollektivgesellschaft.",
+        "Kapitalgesellschaften: AG, GmbH."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Einzelunternehmungen",
+      "body": "Einzelunternehmungen sind einfach zu gründen und unterliegen bestimmten gesetzlichen Anforderungen bezüglich Handelsregistereintrag und Buchführung.",
+      "bullets": [
+        "Eintragspflicht ab CHF 100'000 Umsatz.",
+        "Buchführungspflicht ab CHF 500'000 Umsatz.",
+        "Unbeschränkte Haftung des Unternehmers."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 934 OR",
+          "text": "Eintragungspflicht ins Handelsregister."
+        },
+        {
+          "ref": "Art. 957 OR",
+          "text": "Buchführungspflicht."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Aktiengesellschaft (AG)",
+      "body": "Die Aktiengesellschaft ist eine juristische Person, die durch Organe wie die Generalversammlung und den Verwaltungsrat handelt. Sie bietet klare Haftungstrennung und gute Kapitalbeschaffungsmöglichkeiten.",
+      "bullets": [
+        "Mindestkapital: CHF 100'000.",
+        "Gründung durch Eintrag ins Handelsregister.",
+        "Haftung nur mit Gesellschaftsvermögen."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 620 OR",
+          "text": "Mindestkapitalanforderung."
+        },
+        {
+          "ref": "Art. 680 OR",
+          "text": "Haftung der Aktionäre."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Unternehmenszusammenschlüsse",
+      "body": "Unternehmenszusammenschlüsse können durch Verträge, Fusionen oder finanzielle Beteiligungen erfolgen und haben unterschiedliche rechtliche und wirtschaftliche Auswirkungen.",
+      "bullets": [
+        "Vertrag: Selbstständigkeit bleibt bestehen.",
+        "Fusion: Verschmelzung zu einer Einheit.",
+        "Finanzielle Beteiligung: Bildung einer wirtschaftlichen Einheit."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Einzelunternehmen",
+      "definition": "Unternehmen, das einer Person gehört, die allein haftet."
+    },
+    {
+      "term": "Gesellschaft",
+      "definition": "Vertragliche Verbindung zur Erreichung eines gemeinsamen Zwecks.",
+      "article": "Art. 530 OR"
+    },
+    {
+      "term": "Rechtsgemeinschaft",
+      "definition": "Zusammenschluss ohne juristische Persönlichkeit."
+    },
+    {
+      "term": "Körperschaft",
+      "definition": "Juristische Person mit eigener Rechtspersönlichkeit."
+    },
+    {
+      "term": "Personengesellschaft",
+      "definition": "Gesellschaft, bei der persönliche Mitarbeit im Vordergrund steht."
+    },
+    {
+      "term": "Kapitalgesellschaft",
+      "definition": "Gesellschaft, bei der Kapitalbeteiligung im Vordergrund steht."
+    },
+    {
+      "term": "Aktiengesellschaft (AG)",
+      "definition": "Kapitalgesellschaft mit Mindestkapital von CHF 100'000.",
+      "article": "Art. 620 OR"
+    },
+    {
+      "term": "GmbH",
+      "definition": "Gesellschaft mit beschränkter Haftung, Mindestkapital CHF 20'000."
+    },
+    {
+      "term": "Fusion",
+      "definition": "Verschmelzung von Unternehmen zu einer Einheit."
+    },
+    {
+      "term": "Holding",
+      "definition": "Gesellschaft, die Beteiligungen an anderen Unternehmen hält."
+    },
+    {
+      "term": "Handelsregister",
+      "definition": "Öffentliches Register, in dem Unternehmen eingetragen werden müssen."
+    },
+    {
+      "term": "Haftung",
+      "definition": "Verantwortung für Schulden und Verbindlichkeiten."
+    },
+    {
+      "term": "Generalversammlung (GV)",
+      "definition": "Oberstes Organ der AG, bestehend aus Aktionären.",
+      "article": "Art. 698 OR"
+    },
+    {
+      "term": "Verwaltungsrat (VR)",
+      "definition": "Geschäftsführendes Organ der AG.",
+      "article": "Art. 716b OR"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Gesellschaft?",
+      "back": "Eine vertragliche Verbindung zur Erreichung eines gemeinsamen Zwecks.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Welche Haftung besteht bei einer Einzelunternehmung?",
+      "back": "Unbeschränkte Haftung mit Geschäfts- und Privatvermögen.",
+      "tag": "Haftung"
+    },
+    {
+      "front": "Was ist eine Rechtsgemeinschaft?",
+      "back": "Ein Zusammenschluss ohne juristische Persönlichkeit.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Körperschaft?",
+      "back": "Eine juristische Person mit eigener Rechtspersönlichkeit.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Nenne ein Beispiel für eine Personengesellschaft.",
+      "back": "Kollektivgesellschaft.",
+      "tag": "Beispiel"
+    },
+    {
+      "front": "Nenne ein Beispiel für eine Kapitalgesellschaft.",
+      "back": "Aktiengesellschaft (AG).",
+      "tag": "Beispiel"
+    },
+    {
+      "front": "Was ist eine Fusion?",
+      "back": "Die Verschmelzung von Unternehmen zu einer Einheit.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Holding?",
+      "back": "Eine Gesellschaft, die Beteiligungen an anderen Unternehmen hält.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Welche Funktion hat das Handelsregister?",
+      "back": "Es ist ein öffentliches Register, in dem Unternehmen eingetragen werden müssen.",
+      "tag": "Funktion"
+    },
+    {
+      "front": "Welche Organe hat eine Aktiengesellschaft?",
+      "back": "Generalversammlung, Verwaltungsrat, Revisionsstelle.",
+      "tag": "Struktur"
+    },
+    {
+      "front": "Was ist die Generalversammlung (GV)?",
+      "back": "Das oberste Organ der AG, bestehend aus Aktionären.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist der Verwaltungsrat (VR)?",
+      "back": "Das geschäftsführende Organ der AG.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Welche Haftung besteht bei einer AG?",
+      "back": "Haftung nur mit Gesellschaftsvermögen.",
+      "tag": "Haftung"
+    },
+    {
+      "front": "Was ist das Mindestkapital einer GmbH?",
+      "back": "CHF 20'000.",
+      "tag": "Kapital"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Aussage trifft auf eine Einzelunternehmung zu?",
+      "options": [
+        "Haftung ist beschränkt.",
+        "Eintrag ins Handelsregister ab CHF 100'000 Umsatz obligatorisch.",
+        "Mindestkapital von CHF 20'000 erforderlich.",
+        "Gesellschafter haften solidarisch."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Einzelunternehmungen müssen ab CHF 100'000 Umsatz ins Handelsregister eingetragen werden.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Gesellschaftsform ist eine juristische Person?",
+      "options": [
+        "Einfache Gesellschaft",
+        "Kollektivgesellschaft",
+        "Aktiengesellschaft",
+        "Kommanditgesellschaft"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Aktiengesellschaft ist eine juristische Person mit eigener Rechtspersönlichkeit.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Gesellschaftsform haftet nur mit dem Gesellschaftsvermögen?",
+      "options": [
+        "Einzelunternehmen",
+        "Kollektivgesellschaft",
+        "Aktiengesellschaft",
+        "Einfache Gesellschaft"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Bei der Aktiengesellschaft haftet nur das Gesellschaftsvermögen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Aussage trifft auf eine Kollektivgesellschaft zu?",
+      "options": [
+        "Sie ist eine Kapitalgesellschaft.",
+        "Sie hat eine juristische Persönlichkeit.",
+        "Die Gesellschafter haften unbeschränkt und solidarisch.",
+        "Ein Mindestkapital von CHF 100'000 ist erforderlich."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "In der Kollektivgesellschaft haften die Gesellschafter unbeschränkt und solidarisch.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Gesellschaftsform eignet sich nicht für dauerhafte gewinnorientierte Unternehmen?",
+      "options": [
+        "Aktiengesellschaft",
+        "Einfache Gesellschaft",
+        "GmbH",
+        "Kollektivgesellschaft"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die einfache Gesellschaft ist nicht für dauerhafte gewinnorientierte Unternehmen geeignet.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Aussage trifft auf eine GmbH zu?",
+      "options": [
+        "Mindestkapital von CHF 100'000 erforderlich.",
+        "Gesellschafter haften persönlich.",
+        "Kapital muss vollständig einbezahlt werden.",
+        "Anonymität der Gesellschafter ist gewährleistet."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Bei der GmbH muss das Kapital vollständig einbezahlt werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Gesellschaftsform hat keine Eintragungspflicht ins Handelsregister bei einem Umsatz unter CHF 100'000?",
+      "options": [
+        "Einzelunternehmen",
+        "Kollektivgesellschaft",
+        "Aktiengesellschaft",
+        "GmbH"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Einzelunternehmen haben keine Eintragungspflicht ins Handelsregister bei einem Umsatz unter CHF 100'000.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Aussage trifft auf die Generalversammlung (GV) einer AG zu?",
+      "options": [
+        "Sie ist das geschäftsführende Organ.",
+        "Sie besteht aus allen Aktionären.",
+        "Sie haftet für die Schulden der AG.",
+        "Sie ist nicht für Statutenänderungen zuständig."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Generalversammlung besteht aus allen Aktionären und ist das oberste Organ der AG.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Gesellschaftsform ist für die Haftung der Gesellschafter bekannt?",
+      "options": [
+        "Aktiengesellschaft",
+        "GmbH",
+        "Kollektivgesellschaft",
+        "Genossenschaft"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "In der Kollektivgesellschaft haften die Gesellschafter persönlich und solidarisch.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Gesellschaftsform ermöglicht die Übertragung von Mitgliedschaft durch Übergabe von Aktien?",
+      "options": [
+        "Einzelunternehmen",
+        "Kollektivgesellschaft",
+        "Aktiengesellschaft",
+        "Einfache Gesellschaft"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "In der Aktiengesellschaft kann die Mitgliedschaft durch Übergabe von Inhaberaktien übertragen werden.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wr-sw12",
+  "subjectId": "wr"
+}

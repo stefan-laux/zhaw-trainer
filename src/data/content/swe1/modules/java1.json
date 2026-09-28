@@ -1,0 +1,330 @@
+{
+  "title": "Java Grundlagen",
+  "week": "Woche 1",
+  "tagline": "Einführung in die Grundlagen der Java-Programmierung.",
+  "summary": "In dieser Woche werden die Grundlagen der Java-Programmierung vermittelt. Die Studierenden lernen, wie Java-Programme aufgebaut sind, wie Variablen deklariert und verwendet werden, und wie einfache Ein- und Ausgaben auf der Konsole erfolgen. Zudem werden grundlegende arithmetische Operationen und die Verwendung von Operatoren behandelt. Ein erstes Java-Programm wird erstellt, um das Gelernte praktisch anzuwenden.",
+  "learningGoals": [
+    "Grundlegendes Verständnis der Java-Programmiersprache",
+    "Deklaration und Verwendung von Variablen",
+    "Ein- und Ausgabe von Daten auf der Konsole",
+    "Verwendung von arithmetischen und relationalen Operatoren",
+    "Erstellung eines einfachen Java-Programms"
+  ],
+  "blocks": [
+    {
+      "title": "Ein erstes Java Programm",
+      "body": "Ein Java-Programm besteht aus einer oder mehreren Klassen. Die Ausführung beginnt in der Startmethode 'main'.",
+      "bullets": [
+        "Klassen beginnen mit 'public class' gefolgt vom Klassennamen.",
+        "Die Startmethode 'main' ist der Einstiegspunkt eines Programms.",
+        "Anweisungen enden mit einem Semikolon."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Variablen in Java",
+      "body": "Variablen dienen zur Speicherung von Daten und müssen deklariert werden, bevor sie verwendet werden können.",
+      "bullets": [
+        "Variablen haben einen Namen und einen Typ.",
+        "Der Typ 'int' speichert ganze Zahlen, 'String' speichert Text.",
+        "Zuweisungen überschreiben den Inhalt einer Variablen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Arithmetische Operationen",
+      "body": "Java unterstützt verschiedene arithmetische Operationen wie Addition, Subtraktion, Multiplikation, Division und Modulo.",
+      "bullets": [
+        "Operatoren haben Prioritäten, die die Reihenfolge der Ausführung bestimmen.",
+        "Division von ganzen Zahlen liefert ein ganzzahliges Ergebnis.",
+        "Der Modulo-Operator gibt den Rest einer Division zurück."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Eingabe und Ausgabe",
+      "body": "Java ermöglicht die Ein- und Ausgabe von Daten über die Konsole.",
+      "bullets": [
+        "System.out.println() gibt Daten auf der Konsole aus.",
+        "Eingaben können mit Scanner (bis Java 24) oder IO (ab Java 25) gelesen werden.",
+        "Strings müssen in Anführungszeichen stehen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Kommentare im Code",
+      "body": "Kommentare helfen, den Code zu dokumentieren und zu erklären.",
+      "bullets": [
+        "Zeilenkommentare beginnen mit '//'.",
+        "Blockkommentare beginnen mit '/*' und enden mit '*/'.",
+        "Kommentare werden beim Übersetzen des Programms ignoriert."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Klasse",
+      "definition": "Eine Vorlage für Objekte, die Attribute und Methoden definiert."
+    },
+    {
+      "term": "main-Methode",
+      "definition": "Der Einstiegspunkt eines Java-Programms."
+    },
+    {
+      "term": "Variable",
+      "definition": "Ein Speicherort für Daten mit einem bestimmten Typ."
+    },
+    {
+      "term": "int",
+      "definition": "Ein Datentyp für ganze Zahlen."
+    },
+    {
+      "term": "String",
+      "definition": "Ein Datentyp für Zeichenketten."
+    },
+    {
+      "term": "System.out.println",
+      "definition": "Eine Methode zur Ausgabe von Daten auf der Konsole."
+    },
+    {
+      "term": "Scanner",
+      "definition": "Ein Objekt zur Eingabe von Daten über die Konsole (bis Java 24)."
+    },
+    {
+      "term": "IO",
+      "definition": "Ein Objekt zur Eingabe von Daten über die Konsole (ab Java 25)."
+    },
+    {
+      "term": "Operator",
+      "definition": "Ein Symbol, das eine Operation wie Addition oder Subtraktion darstellt."
+    },
+    {
+      "term": "Modulo",
+      "definition": "Ein Operator, der den Rest einer Division berechnet."
+    },
+    {
+      "term": "Kommentar",
+      "definition": "Ein Text im Code, der zur Erklärung dient und nicht ausgeführt wird."
+    },
+    {
+      "term": "Deklaration",
+      "definition": "Die Einführung einer neuen Variablen mit einem bestimmten Typ."
+    },
+    {
+      "term": "Zuweisung",
+      "definition": "Das Setzen eines Wertes in eine Variable."
+    },
+    {
+      "term": "Semikolon",
+      "definition": "Ein Zeichen, das das Ende einer Anweisung markiert."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Klasse in Java?",
+      "back": "Eine Vorlage für Objekte, die Attribute und Methoden definiert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wofür steht 'public static void main'?",
+      "back": "Es ist die Signatur der Hauptmethode, die den Einstiegspunkt eines Java-Programms darstellt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie deklariert man eine Variable in Java?",
+      "back": "Durch Angabe des Typs und des Namens, z.B. 'int zahl;'.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was macht 'System.out.println'?",
+      "back": "Es gibt Daten auf der Konsole aus.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie liest man Eingaben in Java ein?",
+      "back": "Mit Scanner (bis Java 24) oder IO (ab Java 25).",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Operator?",
+      "back": "Ein Symbol, das eine Operation wie Addition oder Subtraktion darstellt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was macht der Modulo-Operator?",
+      "back": "Er berechnet den Rest einer Division.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie kommentiert man in Java?",
+      "back": "Mit '//' für Zeilenkommentare und '/* ... */' für Blockkommentare.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Zuweisung?",
+      "back": "Das Setzen eines Wertes in eine Variable, z.B. 'zahl = 5;'.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum sind Semikolons wichtig?",
+      "back": "Sie markieren das Ende einer Anweisung in Java.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein String?",
+      "back": "Ein Datentyp für Zeichenketten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet 'int' in Java?",
+      "back": "Ein Datentyp für ganze Zahlen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen 'print' und 'println'?",
+      "back": "'println' fügt einen Zeilenumbruch hinzu, 'print' nicht.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie kann man mehrere Strings verbinden?",
+      "back": "Mit dem '+' Operator.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche der folgenden Aussagen über Java-Klassen ist korrekt?",
+      "options": [
+        "Eine Klasse kann mehrere Startmethoden haben.",
+        "Eine Klasse definiert die Struktur von Objekten.",
+        "Klassen können keine Methoden enthalten.",
+        "Klassen beginnen immer mit 'public static'."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Klasse definiert die Struktur von Objekten und kann Methoden enthalten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der Zweck der 'main'-Methode in einem Java-Programm?",
+      "options": [
+        "Sie ist optional.",
+        "Sie dient zur Deklaration von Variablen.",
+        "Sie ist der Einstiegspunkt des Programms.",
+        "Sie wird verwendet, um Kommentare zu schreiben."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die 'main'-Methode ist der Einstiegspunkt eines Java-Programms.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wie wird eine Variable in Java deklariert?",
+      "options": [
+        "variable int zahl;",
+        "int zahl;",
+        "zahl int;",
+        "declare int zahl;"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Variable wird durch Angabe des Typs und des Namens deklariert, z.B. 'int zahl;'.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Ausgabe erzeugt der folgende Code: System.out.println(\"Hallo Welt\");?",
+      "options": [
+        "Hallo Welt",
+        "Hallo Welt\n",
+        "\"Hallo Welt\"",
+        "HalloWelt"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "System.out.println gibt den Text 'Hallo Welt' auf der Konsole aus.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen über den Modulo-Operator ist korrekt?",
+      "options": [
+        "Er berechnet das Produkt zweier Zahlen.",
+        "Er gibt den Rest einer Division zurück.",
+        "Er ist nur für ganze Zahlen verwendbar.",
+        "Er ist ein logischer Operator."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der Modulo-Operator gibt den Rest einer Division zurück.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie kann man in Java einen Kommentar schreiben?",
+      "options": [
+        "Mit '/*' und '*/' für Blockkommentare.",
+        "Mit '#' für Zeilenkommentare.",
+        "Mit '//' für Blockkommentare.",
+        "Mit '<!--' und '-->' für Zeilenkommentare."
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Blockkommentare werden mit '/*' und '*/' geschrieben, Zeilenkommentare mit '//'.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen über Variablen ist korrekt?",
+      "options": [
+        "Variablen müssen nicht deklariert werden.",
+        "Variablen können nur Zahlen speichern.",
+        "Variablen haben einen Namen und einen Typ.",
+        "Variablen können nicht überschrieben werden."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Variablen haben einen Namen und einen Typ und können verschiedene Datentypen speichern.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was passiert, wenn man 'System.out.print' statt 'System.out.println' verwendet?",
+      "options": [
+        "Es wird kein Text ausgegeben.",
+        "Es wird ein Zeilenumbruch hinzugefügt.",
+        "Es wird kein Zeilenumbruch hinzugefügt.",
+        "Es wird ein Fehler erzeugt."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "'System.out.print' fügt keinen Zeilenumbruch hinzu.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen über Strings ist korrekt?",
+      "options": [
+        "Strings sind primitive Datentypen.",
+        "Strings können mit '+' verbunden werden.",
+        "Strings müssen in einfachen Anführungszeichen stehen.",
+        "Strings können keine Zahlen enthalten."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Strings können mit dem '+' Operator verbunden werden.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "swe1-java1",
+  "subjectId": "swe1"
+}

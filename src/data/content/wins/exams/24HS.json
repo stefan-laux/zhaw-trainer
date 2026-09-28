@@ -1,0 +1,1405 @@
+{
+  "id": "wins-24HS",
+  "subjectId": "wins",
+  "year": "24HS",
+  "label": "MEP 24HS",
+  "minutes": 60,
+  "maxPoints": 60.0,
+  "scoring": "exact",
+  "questions": [
+    {
+      "number": 1,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Modul Einführung ins WI-Studium lernen Sie als Studierende, wie wichtig es ist, verschiedene Lernaktivitäten zu kombinieren, um den Lernerfolg zu maximieren. In den Unterlagen zum Modul lasen sie, dass die Berücksichtigung der drei psychologischen Grundbedürfnisse - Autonomie, Zugehörigkeit und Kompetenz - entscheidend für den Lernerfolg ist. Verschiedene Lernmethoden helfen dabei, den Stoff besser zu behalten. Bei welcher der folgenden Lernaktivitäten ist zu erwarten, dass das Erinnern am höchsten ist?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lesen"
+        },
+        {
+          "label": "B",
+          "text": "Hören"
+        },
+        {
+          "label": "C",
+          "text": "Sehen"
+        },
+        {
+          "label": "D",
+          "text": "Selber tun"
+        },
+        {
+          "label": "E",
+          "text": "Hören und sehen"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Selber tun ist die effektivste Lernmethode, da sie aktives Lernen fördert und das Erinnern verbessert.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Arel, ein ambitionierter Junior IT Consultant, möchte seine Networking-Fähigkeiten verbessern. Er liest über die verschiedenen Phasen des Networking und erkennt, dass ein erfolgreicher Prozess mehrere Schritte umfasst. Arel plant seine Ziele sorgfältig, identifiziert relevante Veranstaltungen und bereitet sich darauf vor, neue Kontakte zu knüpfen. Er nutzt Icebreaker, um Gespräche zu beginnen, und achtet darauf, einen guten ersten Eindruck zu hinterlassen. Nach den Treffen folgt er mit E-Mails auf, um die Beziehungen zu vertiefen. Arel weiss, dass er durch aktives Zuhören und gegenseitigen Nutzen langfristige und wertvolle berufliche Verbindungen aufbauen kann. Welche Kombination von Phasen des Networkings sollte ein Junior IT Consultant durchlaufen, um erfolgreich Beziehungen aufzubauen und zu vertiefen? 1. Vorbereitungsphase 2. Kontaktphase 3. Eisbrecher und Vorstellung 4. Sofortige Zusammenarbeit mit neuen Kontakten",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3"
+        },
+        {
+          "label": "B",
+          "text": "3, 1, 4"
+        },
+        {
+          "label": "C",
+          "text": "4, 1, 2"
+        },
+        {
+          "label": "D",
+          "text": "2, 1, 4"
+        },
+        {
+          "label": "E",
+          "text": "4, 1, 3"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1,
+      "explanation": "Die Phasen 1, 2 und 3 (Vorbereitungsphase, Kontaktphase, Eisbrecher und Vorstellung) sind entscheidend für erfolgreiches Networking.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "single",
+      "prompt": "Das \"Drei-Phasen-Konzept\" von Lewin gilt als das Urkonzept für das Change Management. Welche drei Phasen unterscheidet Lewin hierbei?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Analyzing - Improving - Ongoing"
+        },
+        {
+          "label": "B",
+          "text": "Defining - Measuring - Improving"
+        },
+        {
+          "label": "C",
+          "text": "Analyzing - Measuring - Controlling"
+        },
+        {
+          "label": "D",
+          "text": "Unfreezing - Moving - Refreezing"
+        },
+        {
+          "label": "E",
+          "text": "Defining - Analyzing - Controlling"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Lewins Drei-Phasen-Konzept besteht aus Unfreezing, Moving und Refreezing.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Fabio bereitet sich auf eine wichtige Prüfung vor und möchte sicherstellen, dass er alle Informationen gut behält. Er entscheidet sich für eine Lernmethode, bei der er verschiedene Fakten mit bestimmten Orten in seiner Wohnung verknüpft. Welche der nachfolgenden Methoden wählt er hierfür?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Loci-Methode"
+        },
+        {
+          "label": "B",
+          "text": "Entscheidungsbaum-Methode"
+        },
+        {
+          "label": "C",
+          "text": "Mindmap"
+        },
+        {
+          "label": "D",
+          "text": "Karteikarten"
+        },
+        {
+          "label": "E",
+          "text": "Flussdiagramm"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1,
+      "explanation": "Die Loci-Methode verknüpft Informationen mit Orten, um das Erinnern zu erleichtern.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Joel hat von einem Kommilitonen gehört, dass dieser mit der SQ3-Methode viel Erfolg hat in seinem Studium. Für welchen Kontext eignet sich diese Methode insbesondere?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schnelles Auswendiglernen von Fakten"
+        },
+        {
+          "label": "B",
+          "text": "Logischer Aufbau von Präsentationen"
+        },
+        {
+          "label": "C",
+          "text": "Erfolgreiches Prompting bei der Nutzung von ChatGPT"
+        },
+        {
+          "label": "D",
+          "text": "Verknüpfen von Inhalten aus verschiedenen Vorlesungen"
+        },
+        {
+          "label": "E",
+          "text": "Erarbeitung von Inhalten längerer Fachtexte"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1,
+      "explanation": "Die SQ3-Methode eignet sich besonders zur Erarbeitung von Inhalten längerer Fachtexte.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "single",
+      "prompt": "Welche Methode wird in der Wirtschaftsinformatik typischerweise eingesetzt, um Informationssysteme zu simulieren und deren Entwicklung zu beschleunigen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brainstorming"
+        },
+        {
+          "label": "B",
+          "text": "Prototyping"
+        },
+        {
+          "label": "C",
+          "text": "Benchmarking"
+        },
+        {
+          "label": "D",
+          "text": "Six Sigma"
+        },
+        {
+          "label": "E",
+          "text": "Datenanalyse"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1,
+      "explanation": "Prototyping wird verwendet, um Informationssysteme zu simulieren und deren Entwicklung zu beschleunigen.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "single",
+      "prompt": "«Personal Kanban» ist ein einfaches, visuelles System zur Verwaltung von Aufgaben. Es hilft dabei, Aufgaben zu organisieren und den Überblick über den Fortschritt zu behalten. Welches der folgenden Elemente ist KEIN Kernelement von «Personal Kanban»?",
+      "options": [
+        {
+          "label": "A",
+          "text": "WiP Limit"
+        },
+        {
+          "label": "B",
+          "text": "Spalte für abgeschlossene Aufgaben"
+        },
+        {
+          "label": "C",
+          "text": "Spalte für eingeplante Aufgaben"
+        },
+        {
+          "label": "D",
+          "text": "Kategorisierung nach Dringlichkeit"
+        },
+        {
+          "label": "E",
+          "text": "Spalte für Aufgaben in Bearbeitung"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Kategorisierung nach Dringlichkeit ist kein Kernelement von Personal Kanban.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aktionen muss im Rahmen der «ALPEN»-Methode NICHT konkret durchgeführt werden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgaben notieren"
+        },
+        {
+          "label": "B",
+          "text": "Pufferzeiten einplanen"
+        },
+        {
+          "label": "C",
+          "text": "Länge der Tätigkeiten schätzen"
+        },
+        {
+          "label": "D",
+          "text": "Neue Projekte planen"
+        },
+        {
+          "label": "E",
+          "text": "Nachkontrolle durchführen"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Neue Projekte planen ist kein konkreter Schritt der ALPEN-Methode.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "single",
+      "prompt": "Entsprechend der Informationen im Kurs WinsWin können Ziele eines Projekts über das magische Dreieck beschrieben werden. Welches der nachfolgenden Ziele ist im magischen Dreieck des Projektmanagements enthalten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strategie"
+        },
+        {
+          "label": "B",
+          "text": "Qualität"
+        },
+        {
+          "label": "C",
+          "text": "Kapazität"
+        },
+        {
+          "label": "D",
+          "text": "Zusammenarbeit"
+        },
+        {
+          "label": "E",
+          "text": "Kosten"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1,
+      "explanation": "Kosten sind ein Ziel im magischen Dreieck des Projektmanagements.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "single",
+      "prompt": "Welches der nachfolgenden Artefakte ist NICHT Bestandteil des agilen Projektmanagements mit SCRUM?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Product Backlog"
+        },
+        {
+          "label": "B",
+          "text": "Sprint Backlog"
+        },
+        {
+          "label": "C",
+          "text": "Increment Product"
+        },
+        {
+          "label": "D",
+          "text": "Stakeholder Backlog"
+        },
+        {
+          "label": "E",
+          "text": "Burndown Chart"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Ein Stakeholder Backlog ist kein Bestandteil von SCRUM.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "single",
+      "prompt": "Ein Business Case wird in einem Prozess erstellt. Im Unterricht haben wir diesen Prozess kennengelernt. Welcher der nachfolgenden Aspekte ist hierbei KEIN Hauptschritt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Konzeption"
+        },
+        {
+          "label": "B",
+          "text": "Evaluation"
+        },
+        {
+          "label": "C",
+          "text": "Prüfung"
+        },
+        {
+          "label": "D",
+          "text": "Umsetzung"
+        },
+        {
+          "label": "E",
+          "text": "Initialisierung"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Umsetzung ist kein Hauptschritt bei der Erstellung eines Business Case.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aussagen ist in Bezug auf die Data Value Chain nach Miller und Mork FALSCH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Datenaufbereitung erfolgt vor der Durchführung von Analysen."
+        },
+        {
+          "label": "B",
+          "text": "Die Data Value Chain beginnt mit dem Sammeln und Annotieren von Daten."
+        },
+        {
+          "label": "C",
+          "text": "Die Datenvisualisierung ist der letzte Schritt in der Data Value Chain."
+        },
+        {
+          "label": "D",
+          "text": "Entscheidungen sind auf Analysen basiert."
+        },
+        {
+          "label": "E",
+          "text": "Datenintegration erfolgt nach der Datenaufbereitung."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1,
+      "explanation": "Die Datenvisualisierung ist nicht der letzte Schritt in der Data Value Chain.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "single",
+      "prompt": "Das Ziel einer Datenstrategie ist es einen Prozess zu erstellen, der verschiedenste Datenformate verarbeiten und in ein strukturiertes und orchestrierbares Format überführen kann. Dabei lassen sich die Daten mit welcher der nachfolgenden Eigenschaften NICHT beschreiben:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Volumen"
+        },
+        {
+          "label": "B",
+          "text": "Velocity"
+        },
+        {
+          "label": "C",
+          "text": "Veracity"
+        },
+        {
+          "label": "D",
+          "text": "Variety"
+        },
+        {
+          "label": "E",
+          "text": "Vacidity"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1,
+      "explanation": "Vacidity ist keine Eigenschaft zur Beschreibung von Daten.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Sie sind Teil eines diversen IT Projektteams. Ihr Team hat die Aufgabe, eine App zu entwickeln, die Studierenden hilft, ihre Lernzeit effizienter zu planen. Das IT-Team besteht aus Personen mit unterschiedlichen Hintergründen und Erfahrungen, darunter sie selbst, Programmierer:innen, Designer:innen und Projektmanager:innen. Während des Projekts tritt ein Konflikt auf: Bekim, der als Projektmanager fungiert, möchte den Fokus auf eine schnelle und einfache Implementierung legen, um die Deadline zu halten. Lina, eine talentierte Designerin, hingegen besteht darauf, dass die App ein ansprechendes und intuitives Design benötigt, selbst wenn dies mehr Zeit in Anspruch nimmt. Samir, ein erfahrener Programmierer, argumentiert, dass die Funktionalität der App im Vordergrund stehen sollte und dass einige Designanforderungen die Performance beeinträchtigen könnten. Sie erinnern sich, dass sie in einer Vorlesung die Walt Disney Methode nach Dilts kennenlernten. In diesem verzwickten Sachverhalt wäre diese Methode sicherlich angebracht, leider können sie sich nicht mehr ganz erinnern, was nun wirklich wichtig war. Sie regen also dazu an, dass die Ideenfindung in drei verschiedene Perspektiven getrennt wird, um eine umfassende Lösung zu entwickeln. Ausserdem legen sie den Fokus auf eine schnelle Entscheidungsfindung, indem die festgelegten Rollen unverändert bleiben und strikt eingehalten werden. Welche der folgenden Aspekte ist NICHT Teil der Ziele der Walt Disney Methode nach Dilts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perspektivenwechsel"
+        },
+        {
+          "label": "B",
+          "text": "Reflexion"
+        },
+        {
+          "label": "C",
+          "text": "Empathie"
+        },
+        {
+          "label": "D",
+          "text": "Kreativität"
+        },
+        {
+          "label": "E",
+          "text": "Dogmatismus"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Dogmatismus ist kein Ziel der Walt Disney Methode nach Dilts.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "single",
+      "prompt": "Während ihrer Vorlesung in der Grossklasse lernten Sie, wie wichtig es ist, umfassende Kompetenzen im Bereich der Künstlichen Intelligenz (KI) zu entwickeln. Die Dozierenden stellen dabei eine Definition von KI-Kompetenz auf Grundlage der Forschung von Gimpel, H. et al 2024 vor, die verdeutlicht, welche Fähigkeiten und Einstellungen notwendig sind, um effektiv mit KI-Systemen umzugehen. Lückentext: \"KI-Kompetenz ist die Fähigkeit eines Menschen, auf der Grundlage einer Kombination von ________, ________, ________ und ________ gut mit KI-Systemen umzugehen.\" Welcher der folgenden Begriffe ist NICHT als Teil der Definition von KI-Kompetenz in die Lücken einzufüllen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wissen"
+        },
+        {
+          "label": "B",
+          "text": "Fähigkeiten"
+        },
+        {
+          "label": "C",
+          "text": "Ambiguität"
+        },
+        {
+          "label": "D",
+          "text": "Einstellungen"
+        },
+        {
+          "label": "E",
+          "text": "Werten"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Ambiguität ist nicht Teil der Definition von KI-Kompetenz.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Arjeta, eine Studierende der Wirtschaftsinformatik im ersten Semester, erkennt, dass sie ihr Mindset von einem fixen zu einem dynamischen entwickeln muss, um den Herausforderungen ihres Studiums erfolgreich begegnen zu können. Anfangs vermeidet sie Herausforderungen und gibt schnell auf, wenn sie auf Hürden stösst. Sie empfindet den Aufwand als zwecklos und ignoriert konstruktive Kritik. Doch nach einigen Monaten und durch die Unterstützung ihrer Kommiliton:innen und Dozierenden beginnt sie, Herausforderungen als Chancen zu sehen und nachhaltig Lösungen zu entwickeln. Sie lernt, dass Aufwand notwendig ist, um Meisterschaft zu erreichen, und fordert aktiv konstruktive Kritik ein, um daraus zu lernen. Sie erkennt auch, dass der Erfolg anderer sie motivieren kann, und strebt danach, ihr volles Potenzial zu nutzen. Welche der folgenden kombinierten Eigenschaften charakterisieren Arjetas dynamisches Mindset? 1. Vermeidet Herausforderungen 2. Entwickelt nachhaltig Lösungen 3. Empfindet Aufwand als zwecklos 4. Fordert Kritik und lernt daraus 5. Gibt schnell auf 6. Sieht den Aufwand als Weg zur Könnerschaft",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 2, 3"
+        },
+        {
+          "label": "B",
+          "text": "2, 4, 6"
+        },
+        {
+          "label": "C",
+          "text": "3, 4, 5"
+        },
+        {
+          "label": "D",
+          "text": "1, 4, 6"
+        },
+        {
+          "label": "E",
+          "text": "1, 5, 6"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Die Eigenschaften 2, 4 und 6 charakterisieren ein dynamisches Mindset.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "single",
+      "prompt": "Im Reader der Woche 03 wird in einem Artikel auf die Yerkes-Dodson-Leistungskurve eingegangen. Diese Kurve verdeutlicht die Beziehung zwischen Stressniveau und Leistung und zeigt, dass ein moderates Stressniveau optimal für maximale Leistung ist. In diesem Zusammenhang wird eine wichtige Aufgabe der Teamleitung im Umgang mit Stress und Leistung besonders betont. Welche der folgenden Aufgaben wird in dem Artikel als besonders wichtig für eine Teamleitung im Umgang mit Stress und Leistung hervorgehoben?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stresslevel ignorieren, um sich auf die Produktivität zu konzentrieren"
+        },
+        {
+          "label": "B",
+          "text": "Individuelle optimale Stresspunkte für jedes Teammitglied identifizieren"
+        },
+        {
+          "label": "C",
+          "text": "Alle Formen von Stress reduzieren, um die Leistung zu verbessern"
+        },
+        {
+          "label": "D",
+          "text": "Höheren Stress fördern, um bessere Ergebnisse zu erzielen"
+        },
+        {
+          "label": "E",
+          "text": "Ein einheitliches Stressniveau für das Team festlegen, um ein konsistentes Leistungsniveau zu erreichen"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Individuelle optimale Stresspunkte zu identifizieren ist wichtig für die Teamleitung.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "single",
+      "prompt": "Das Applikationsmanagement ist eines der \"traditionellen\" Rollenbilder in der IT. Welche der nachfolgenden Aussagen zur Begriffsabgrenzung des Applikationsmanagement ist FALSCH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Applikationsmanagement zielt ab auf eine Verzahnung von Anwendungsentwicklung, Anwendungswartung und Anwendungsbetrieb"
+        },
+        {
+          "label": "B",
+          "text": "Die einzelnen Anwendungen werden isoliert geplant und entwickelt"
+        },
+        {
+          "label": "C",
+          "text": "Die einzelnen Anwendungen sind hinsichtlich der funktionalen Abdeckung und der Unterstützung von Prozessen abzustimmen"
+        },
+        {
+          "label": "D",
+          "text": "Die einzelnen Anwendungen sind hinsichtlich der funktionalen Abdeckung und der Unterstützung von Prozessen abzustimmen und auch in die bestehende Infrastruktur zu integrieren"
+        },
+        {
+          "label": "E",
+          "text": "Das Management des Anwendungsportfolios wird in einem weitgefassten Verständnis ebenfalls als ein Bestandteil des Applikationsmanagement betrachtet"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Die isolierte Planung und Entwicklung von Anwendungen widerspricht dem Applikationsmanagement.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: In der Kleinklasse haben Sie sich intensiv mit dem Konzept des aktiven Zuhörens nach Carl Rogers in Verbindung mit den Prinzipien der Achtsamkeit auseinandergesetzt. Die Beherrschung dieser beiden Ansätze wird als äusserst wertvoll angesehen, insbesondere wenn es um Networking Circles und den Aufbau von Beziehungen im beruflichen Kontext geht. Welche der folgenden vier Elemente gehören zu den sieben Elementen des aktiven Zuhörens nach Rogers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "angemessen - zeitbewusst - ordentlich - teilweise"
+        },
+        {
+          "label": "B",
+          "text": "subjektiv - präsent - angemessen - aufmerksam"
+        },
+        {
+          "label": "C",
+          "text": "subtil - teilnehmend - angemessen - prozedural"
+        },
+        {
+          "label": "D",
+          "text": "schlank - teilweise - angemessen - powerful"
+        },
+        {
+          "label": "E",
+          "text": "offen - präsent - angemessen - empathisch"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Offen, präsent, angemessen und empathisch sind Elemente des aktiven Zuhörens nach Rogers.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Ein Artikel in Ihrem Reader der SW09 von Büttner und Dlugosch (2013) untersucht den Zusammenhang zwischen Selbstwirksamkeitserwartung, Achtsamkeit und dem Stresserleben von Studierenden. Im Rahmen der Studie wurden 435 Studierende befragt, um herauszufinden, wie diese beiden Ressourcen das Stresserleben beeinflussen. Die Ergebnisse zeigen, dass sowohl eine höhere Selbstwirksamkeitserwartung als auch eine erhöhte Achtsamkeit mit einer geringeren Stresswahrnehmung verbunden sind. Die Autoren betonen die Notwendigkeit, diese Ressourcen in Massnahmen zur Stressprävention und -reduktion zu integrieren, um die psychische Gesundheit der Studierenden zu fördern. Was raten Büttner und Dlugosch (2013) einem Studierenden in der Prüfungsphase, um den Stress zu reduzieren?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sich vollständig auf das Lernen zu konzentrieren und soziale Aktivitäten zu vermeiden."
+        },
+        {
+          "label": "B",
+          "text": "Leistungssteigernde Substanzen zu verwenden, um den Anforderungen gerecht zu werden."
+        },
+        {
+          "label": "C",
+          "text": "Regelmässige Pausen einzulegen und Techniken der Achtsamkeit zu praktizieren."
+        },
+        {
+          "label": "D",
+          "text": "So viele Prüfungen wie möglich auf einmal abzulegen, um die Prüfungszeit zu verkürzen."
+        },
+        {
+          "label": "E",
+          "text": "Den Stress zu ignorieren und sich auf das Bestehen der Prüfungen zu fokussieren."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Regelmässige Pausen und Achtsamkeitstechniken helfen, Stress zu reduzieren.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Achtsamkeit bedeutet, mit einer Haltung der Freundlichkeit und Offenheit präsent und bewusst zu sein, im gegenwärtigen Moment (vgl. Kabat-Zinn, 2013). Achtsamkeit ist mehr als Aufmerksamkeit: Sie bedeutet, sich der eigenen Gefühle, Gedanken und Handlungen in jedem Augenblick voll bewusst zu sein. Dies meint - etwas vereinfacht gesagt -, dass man statt im Autopiloten im Bewusstsein des aktuellen Daseins ist. Und nicht gedanklich in der Vergangenheit und Zukunft, sondern präsent im Hier und Jetzt. Achtsamkeit ist bereits zu einem Trend geworden und wurde mit vielen Bezeichnungen versehen: Fähigkeit, Technik, Superpower, Haltung, Art des Schauens. Achtsamkeit verschafft einen Zugang zur inneren und äusseren Welt. Es ist zudem eine genuin menschliche Eigenschaft, die man streng genommen nicht erwerben muss, sondern ohnehin schon hat. Man vergisst nur immer wieder, sie zu nutzen, weil man sich im Autopiloten aufhält - was sicherlich auch viele Vorteile mit sich bringt, sonst würde es diesen Zustand nicht geben. Wie kann ein Studierender während einer Prüfungssituation von der Haltung des Autopiloten zur Haltung der Achtsamkeit wechseln?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indem er sich ausschliesslich auf die Fragen konzentriert und versucht, so schnell wie möglich zu antworten, um Zeit zu sparen."
+        },
+        {
+          "label": "B",
+          "text": "Indem er seine Gedanken an vergangene Prüfungen und zukünftige Konsequenzen fokussiert, um Motivation zu gewinnen."
+        },
+        {
+          "label": "C",
+          "text": "Indem er bewusst tief durchatmet, sich der gegenwärtigen Situation und seiner Umgebung voll bewusst wird und mit einer Haltung der Freundlichkeit und Offenheit die Prüfungsfragen angeht."
+        },
+        {
+          "label": "D",
+          "text": "Indem er versucht, die Prüfung so schnell wie möglich abzuschliessen, um den Stress zu minimieren und wieder in den Autopiloten-Modus zurückzukehren."
+        },
+        {
+          "label": "E",
+          "text": "Indem er sich vorstellt, wie er nach der Prüfung feiern wird, um die Nervosität zu mindern und die Prüfung schneller zu beenden."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Bewusstes Atmen und Präsenz im Moment fördern die Haltung der Achtsamkeit.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: In einem Interview mit Petra Martin, Leiterin des Kompetenzzentrums Leadership der Robert Bosch GmbH, fällt folgender Satz: »Achtsamkeit ist bei uns raus aus der Lächel-Ecke und wird für ihre Wirkung auf Innovationsfähigkeit anerkannt.« Petra Martin ist seit 32 Jahren bei der Robert Bosch GmbH und leitet seit 12 Jahren das Kompetenzzentrum Leadership im Geschäftsbereich Automotive Electronics. Die gelernte Wirtschaftswissenschaftlerin entwickelt zahlreiche Weiterbildungsangebote für weltweit 40.000 Mitarbeitende von Bosch/AE mit dem Fokus auf Leadership, Zusammenarbeit und agile Organisationsentwicklung. Petra Martin entwirft mit ihrem Team laufend neue Formate, um Achtsamkeit in den Alltag von Führungskräften integrierbar zu machen. Sie gilt als Pionierin im Bereich Achtsamkeit in Unternehmen und inspiriert auf Kongressen andere Organisationen. Kürzlich entwickelte ihre Abteilung ein Weiterbildungsformat, das von 3.000 Führungskräften durchlaufen wurde. Achtsamkeit hilft nicht nur, empathischer und stressresistenter zu werden, sondern auch die Innovationskraft zu steigern. Petra betont, dass Achtsamkeit in Zukunft an Bedeutung gewinnen wird und nicht nur als Well-Being-Massnahme, sondern auch zur Förderung des Geschäfts gesehen werden sollte. Ein Beispiel aus ihrer Arbeit illustriert dies besonders gut: Ein Topmanager bei Bosch, der ehrgeizig, schlau und sehr angesehen ist, nahm an einer der ersten zehnmonatigen Campus-Veranstaltungen teil. Anfangs war er skeptisch und meinte, dass bewusstes Atmen nichts für ihn sei. Überraschenderweise probierte er es dennoch aus und berichtete, wie sehr ihm Meditation half, mit seiner ständigen Anspannung umzugehen. Nachdem er auch am Mindful@work-Programm teilgenommen hatte, zeigte eine begleitende Studie erstaunliche Ergebnisse: Er war am Ende 15 % produktiver, konnte besser auf Menschen zugehen, ihnen zuhören, Denkmuster erkennen und seine Wahrnehmung schärfen. Diese Erkenntnis war für ihn ein klarer Wettbewerbsvorteil. Lückentextfrage: Füllen Sie die Lücken in den folgenden Aussagen basierend auf den Erkenntnissen des Top-Managers aus: Petra Martin integrierte Achtsamkeit in die Führungskräfteentwicklung bei der Robert Bosch GmbH. Ein Topmanager, der an einem zehnmonatigen Campus-Programm teilnahm, war zunächst skeptisch und meinte, dass ________ nichts für ihn sei. Überraschenderweise probierte er es dennoch aus und stellte fest, dass ihm ________ half, mit seiner ständigen Anspannung umzugehen. Er berichtete, dass er durch das Programm am Ende ________ war. Darüber hinaus konnte er besser auf Menschen zugehen, ihnen zuhören, Denkmuster erkennen und seine ________ schärfen. Diese Erfahrung stellte für ihn einen klaren ________ dar.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mediation; regelmässige Pausen; produktiver; Konzentration; Karrieresprung"
+        },
+        {
+          "label": "B",
+          "text": "bewusstes Atmen; Meditation; produktiver; Wahrnehmung; Wettbewerbsvorteil"
+        },
+        {
+          "label": "C",
+          "text": "Achtsamkeitstraining; Yogaübungen; produktiver; Intuition; Produktivitätsgewinn"
+        },
+        {
+          "label": "D",
+          "text": "Yogaübungen; Meditation; produktiver; emotionale Intelligenz; Lebensqualität"
+        },
+        {
+          "label": "E",
+          "text": "Achtsamkeitsübungen; Mediationstraining; produktiver; Konzentration; Führungserfolge"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Bewusstes Atmen und Meditation halfen dem Manager, produktiver zu werden.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "single",
+      "prompt": "Das Change Management hat in den letzten Jahren in vielen Unternehmen stark an Relevanz gewonnen. Welches ist gemäss Stolzenberg und Heberle einer der zentralen Inhalte des Change Management?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Komplette Erneuerung der Ablauforganisation im Unternehmen"
+        },
+        {
+          "label": "B",
+          "text": "Planung und Durchführung von Aktivitäten zur Anpassung an neue Anforderungen"
+        },
+        {
+          "label": "C",
+          "text": "Reduzierung von Mitarbeiterkosten"
+        },
+        {
+          "label": "D",
+          "text": "Optimierung der Produktionsprozesse"
+        },
+        {
+          "label": "E",
+          "text": "Gewinnung von Neukunden"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Anpassung an neue Anforderungen ist zentral im Change Management.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Nach dem Abschluss des WI-Studiums beginnt Fanny ihre Stelle als Change Management Consultant. In ihrer Firma wird hierbei stark mit dem erfolgserprobtem Neun-Stufen-Modell von Kotter gearbeitet. Mit diesem Wissen im Rucksack beginnt Fanny die Begleitung im Change Management einer IT-Unternehmung. Welchen der nachfolgenden Schritte muss Fanny als erstes unternehmen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bildung einer starken Führungskoalition"
+        },
+        {
+          "label": "B",
+          "text": "Befähigung der Mitarbeiter auf breiter Basis"
+        },
+        {
+          "label": "C",
+          "text": "Dringlichkeit erzeugen («Sense of Urgency»)"
+        },
+        {
+          "label": "D",
+          "text": "Ziele des Managements erfassen"
+        },
+        {
+          "label": "E",
+          "text": "Kultur und Vergangenheit der Organisation verstehen"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Dringlichkeit erzeugen ist der erste Schritt im Kotter-Modell.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Finja ist WI-Studentin im ersten Semester und macht sich einen klaren Spielplan, wie sie ihren Lernerfolg maximieren kann. Hierbei wendet Sie den Ansatz des \"Selbstgesteuertem Lernens\" an. Welches der nachfolgenden Aspekte ist KEINE relevante Voraussetzung für das selbstgesteuerte Lernen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lernsituation muss Ziele von Finja treffen"
+        },
+        {
+          "label": "B",
+          "text": "Lernsituation muss Interesse von Finja treffen"
+        },
+        {
+          "label": "C",
+          "text": "Finja muss Methoden kennen zum Erschliessen von Informationen in die eigenen Denk- und Handlungsschemata"
+        },
+        {
+          "label": "D",
+          "text": "Finja muss mit den von ihren angewendeten Methoden bereits in der Vergangenheit positive Erfahrungen gemacht haben"
+        },
+        {
+          "label": "E",
+          "text": "Lernsituation muss die Selbstaufmerksamkeit von Finja fördern"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Vergangene positive Erfahrungen sind keine Voraussetzung für selbstgesteuertes Lernen.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Quirin ist Mitglied einer Lerngruppe, um sich gezielt auf die Abschlussprüfungen in seinem WI-Studium vorzubereiten. Anfangs funktionierte die Lerngruppe sehr gut, doch im Zeitablauf kamen immer mehr Probleme zutage. Quirin sieht für sich immer häufiger die Herausforderung im Sinne von \"Ja-bin-ich-denn-der-Depp\". Zu was kann der Zustand führen, in welchem sich Quirin gerade befindet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quirin muss immer mehr leisten als die anderen"
+        },
+        {
+          "label": "B",
+          "text": "Quirin verliert die Motivation für die Mitarbeit in der Lerngruppe"
+        },
+        {
+          "label": "C",
+          "text": "Quirin versteht die Lerninhalte weniger gut als die anderen Mitglieder"
+        },
+        {
+          "label": "D",
+          "text": "Quirin spekuliert darauf, dass andere seine Aufgaben erledigen"
+        },
+        {
+          "label": "E",
+          "text": "Quirin übernimmt Mehrarbeiten innerhalb der Lerngruppe"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Quirin verliert die Motivation für die Mitarbeit in der Lerngruppe.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Flora möchte mit vier anderen Mitstudierenden eine Lerngruppe gründen. Um die hierfür eingeplante Zeit optimal nutzen zu können, möchten die fünf klar definieren, welche Arten von Aufgaben Sie in ihrer Lerngruppe behandeln wollen. Welche Art von Aufgaben sind hierfür besonders gut geeignet, da sie in der Gruppe besser gelöst werden können als alleine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgaben, die eindeutig sind und es eine klare Lösung gibt"
+        },
+        {
+          "label": "B",
+          "text": "Aufgaben, die wenig strukturiert sind"
+        },
+        {
+          "label": "C",
+          "text": "Aufgaben, die keinen komplexen Problemlösungsweg erfordern"
+        },
+        {
+          "label": "D",
+          "text": "Aufgaben, die keine Rückmeldungen über Lernergebnisse erfordern"
+        },
+        {
+          "label": "E",
+          "text": "Aufgaben, die sich schnell lösen lassen"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Wenig strukturierte Aufgaben sind gut für die Bearbeitung in Gruppen geeignet.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Inka arbeitet neu als Junior Consultant in einer Unternehmensberatung, welche auf Strategieentwicklung spezialisiert ist. In ihrer Einführungsphase hat sie einen intensiven Austausch mit ihrer Mentorin. Diese erzählt ihr u.a. von zehn Erfolgsfaktoren aus der Praxis für die erfolgreiche Strategieentwicklung. Welcher der nachfolgenden Aspekte ist KEIN Erfolgsfaktor der erfolgreichen Strategieentwicklung?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Klarheit über Vision der Unternehmung"
+        },
+        {
+          "label": "B",
+          "text": "Offenheit für Neues"
+        },
+        {
+          "label": "C",
+          "text": "Bewusst \"Nein\" sagen"
+        },
+        {
+          "label": "D",
+          "text": "Kunden- statt Unternehmensbrille"
+        },
+        {
+          "label": "E",
+          "text": "Wunschbild statt Realität"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Ein Wunschbild statt Realität ist kein Erfolgsfaktor für Strategieentwicklung.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Zora arbeitet als Marketing-Managerin bei einem mittelständischen Unternehmen und möchte die Präsenz des Unternehmens in den sozialen Medien deutlich verbessern. Ihr Chef hat betont, dass die Erhöhung der Followerzahl ein wichtiger Indikator für den Erfolg ihrer Marketingstrategie ist. Zora möchte sicherstellen, dass ihr Unternehmen als führender Akteur in der Branche wahrgenommen wird. Ausserdem sollen durch die gesteigerte Präsenz potenzielle Kunden auf das Unternehmen aufmerksam werden, was zu einem Anstieg der Verkaufszahlen führen könnte. Ihr Ziel lautet: „Ich möchte die Anzahl der Follower auf unserer Unternehmensseite um 25% erhöhen, indem ich regelmässig hochwertige Inhalte poste, um die Markenbekanntheit zu steigern und potenzielle Kunden zu gewinnen.\" Welche Dimension der SMART-Zielsetzung FEHLT in Zoras Zieldefinition vollständig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spezifisch"
+        },
+        {
+          "label": "B",
+          "text": "Messbar"
+        },
+        {
+          "label": "C",
+          "text": "Attraktiv"
+        },
+        {
+          "label": "D",
+          "text": "Realistisch"
+        },
+        {
+          "label": "E",
+          "text": "Terminiert"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Eine Terminierung fehlt in Zoras SMART-Zielsetzung.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im täglichen Sprachgebrauch werden die Begriffe Informationen, Daten und Nachrichten oft synonym verwendet. Es ist jedoch wichtig, ein genaueres Verständnis dieser Begriffe zu entwickeln, da aus der Sicht der Wirtschaftsinformatik zwischen Daten bzw. Nachrichten und Informationen unterschieden werden muss. Nehmen Sie an, dass ein Marketingunternehmen Kundendaten analysiert, um gezielte Werbekampagnen zu entwickeln. Die Qualität der Kampagnen hängt stark von der Qualität der verarbeiteten Daten ab. Das Verständnis des Unterschieds zwischen Daten und Informationen ist entscheidend, um effektive Marketingstrategien zu entwickeln, die auf solidem, zweckorientiertem Wissen basieren. Welcher Prozess ist laut den im Unterricht und Selbststudium bearbeiteten Konzepten entscheidend für die Transformation von Daten zu Informationen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Reduktion der Datenmenge zur Vereinfachung der Analyse."
+        },
+        {
+          "label": "B",
+          "text": "Die Umwandlung von analogen in digitale Formate."
+        },
+        {
+          "label": "C",
+          "text": "Die systematische Analyse und Kontextualisierung der Daten."
+        },
+        {
+          "label": "D",
+          "text": "Die Speicherung von Daten in grossen Datenbanken."
+        },
+        {
+          "label": "E",
+          "text": "Die manuelle Eingabe von Daten durch Mitarbeiter."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Die systematische Analyse und Kontextualisierung der Daten ist entscheidend.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: TechSolutions, ein aufstrebendes Start-up im Technologiesektor, hat mit Herausforderungen in Bezug auf das Zeitmanagement und die Einhaltung von Fristen zu kämpfen. Um die Effizienz und Produktivität zu steigern, entscheidet sich das Management dafür, GTD als moderne Methode zur Organisation von Aufgaben im gesamten Unternehmen einzuführen. Zunächst werden Workshops durchgeführt, um alle Mitarbeiter:innen in den neuen Techniken zu schulen. Die Mitarbeiter:innen werden angeleitet, alle anstehenden Aufgaben in ein zentrales System einzutragen und jede Aufgabe systematisch zu bewerten, um festzustellen, ob sie sofort abgeschlossen, an andere delegiert oder für später geplant werden sollte. Anschliessend werden die Aufgaben in verschiedene Kategorien eingeteilt, wie z. B. \"Aktive Aufgaben\", \"Delegiert\" und \"Zukünftige Aufgaben\". Schliesslich werden die Mitarbeiter:innen dazu angehalten, die Liste der \"Aktiven Aufgaben\" zügig abzuarbeiten. Es wird definiert, dass alle neuen Aufgaben auf die gleiche Weise in das System aufgenommen werden. Einige Monate nach der Implementierung bemerkt Paula, dass komplexe Aufgaben, die zum Zeitpunkt der Aufnahme in das GTD-System eine lange Frist hatten, regelmässig übersehen werden. Welcher wesentliche Schritt wurde bei der Einführung der neuen Zeitmanagement-Methoden GTD bei TechSolutions NICHT verankert, was zu Problemen bei der Bewältigung der Aufgaben führte?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sammeln der Aufgaben"
+        },
+        {
+          "label": "B",
+          "text": "Verarbeiten der Aufgaben"
+        },
+        {
+          "label": "C",
+          "text": "Organisieren der Aufgaben"
+        },
+        {
+          "label": "D",
+          "text": "Überprüfen der Aufgaben"
+        },
+        {
+          "label": "E",
+          "text": "Erledigen der Aufgaben"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Das Überprüfen der Aufgaben wurde bei der GTD-Einführung vernachlässigt.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Ein mittelständisches Unternehmen im Raum Winterthur im Bereich E-Commerce hat Schwierigkeiten, seine Kundenbindung zu verbessern und die Kundenzufriedenheit zu steigern. Um dieses Problem zu lösen, entscheidet sich das Management, ein Team von Wirtschaftsinformatik-Studierenden zu engagieren, die in einem Praxisprojekt innovative Lösungen entwickeln sollen. Das Projektteam besteht aus Studierenden, die sowohl divergentes als auch konvergentes Denken beherrschen. Zunächst nutzen die Studierenden divergentes Denken, um eine breite Palette an Ideen zur Verbesserung der Kundenbindung zu generieren. Sie veranstalten Brainstorming-Sitzungen, in denen sie alle möglichen Ansätze diskutieren, wie beispielsweise die Einführung eines Treueprogramms, die Verbesserung der Website-Nutzererfahrung und die Implementierung personalisierter Marketingstrategien. Nachdem eine Vielzahl von Ideen gesammelt wurde, wenden die Studierenden konvergentes Denken an, um die praktikabelsten und effektivsten Lösungen auszuwählen. Sie analysieren die Machbarkeit und den potenziellen Nutzen jeder Idee, bewerten die erforderlichen Ressourcen und Zeitrahmen und entscheiden sich schliesslich für die Implementierung eines umfassenden Treueprogramms kombiniert mit personalisierten Marketingkampagnen. Lückentext: Die Fähigkeit, divergentes und konvergentes Denken zu kombinieren, ermöglicht es den Studierenden, ________ und ________ Lösungen zu entwickeln und gleichzeitig ________ vorzugehen, um die besten Lösungen ________ und ________. Dies macht sie auf dem Arbeitsmarkt besonders ________. Welche Begriffsabfolge vervollständigt den Lückentext und entspricht der oben dargestellten Ausgangslage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kreative, innovative, analytisch, auszuwählen, umzusetzen, attraktiv"
+        },
+        {
+          "label": "B",
+          "text": "kreative, starre, intuitiv, auszuwählen, zu ignorieren, unattraktiv"
+        },
+        {
+          "label": "C",
+          "text": "einfache, schnelle, kreativ, zu verwerfen, zu testen, wertvoll"
+        },
+        {
+          "label": "D",
+          "text": "kreative, innovative, oberflächlich, zu verwerfen, zu ignorieren, hilfreich"
+        },
+        {
+          "label": "E",
+          "text": "komplexe, komplizierte, intuitiv, zu vermeiden, zu verwerfen, flexibel"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2,
+      "explanation": "Die Begriffsabfolge beschreibt die Kombination von kreativem und analytischem Vorgehen.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Sina ist eine IT-Managerin bei einem führenden Technologieunternehmen. Sie stellte fest, dass sie Hemmungen und Schwierigkeiten hatte, wertvolle berufliche Kontakte zu knüpfen und zu pflegen. Um ihre beruflichen Fähigkeiten zu verbessern, entschied sie sich, an ihren Networkingfähigkeiten zu arbeiten. Entwicklung: Sina begann damit, sich klare und spezifische Ziele für das Networking zu setzen. Sie nahm sich vor, jeden Monat an einer beruflichen Veranstaltungen teilzunehmen, um neue Kontakte zu knüpfen. Zudem entwickelte sie eine Routine, um regelmässig mit bestehenden Kontakten in Verbindung zu bleiben, sei es durch kurze E-Mails, gemeinsame Lunches oder virtuelle Coffee-Meetings. Um ihre Networkingfähigkeiten weiter zu verbessern, besuchte Sina spezielle Workshops und Webinare zum Thema Networking. Sie lernte, wie sie sich selbst und ihre Arbeit effektiv präsentieren kann und wie sie Gespräche auf Veranstaltungen gezielt und professionell führt. Ausserdem erstellte sie eine Liste mit wichtigen Kontakten und setzte sich Erinnerungen, um regelmässig mit ihnen zu kommunizieren. Ein weiterer wichtiger Aspekt ihrer Entwicklung war die Analyse ihrer Networking-Strategien. Nach jedem Event reflektierte sie über ihre Interaktionen und suchte nach Möglichkeiten, sich zu verbessern. Sie visualisierte ihre langfristigen Networking-Ziele durch ein Vision Board und feierte kleine Erfolge, wie das Knüpfen eines neuen wertvollen Kontakts, um ihre Motivation hochzuhalten. Nach zwölf Monaten zeigten sich deutliche Veränderungen in Sinas beruflicher Vernetzung und ihrer Fähigkeit, wertvolle berufliche Beziehungen aufzubauen und zu pflegen. Ihre Kolleg:innen bemerkten ihre positive Veränderung und die gesteigerte Effizienz in ihrer Art, berufliche Netzwerke zu nutzen. Welcher der folgenden Schritte war NICHT Teil von Sinas Strategie zur Verbesserung ihrer Networkingfähigkeiten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teilnahme an Workshops und Webinaren zum Thema Networking"
+        },
+        {
+          "label": "B",
+          "text": "Regelmässiges Dokumentieren ihrer täglichen Erfolge und Herausforderungen"
+        },
+        {
+          "label": "C",
+          "text": "Besuch von beruflichen Veranstaltungen, um neue Kontakte zu knüpfen"
+        },
+        {
+          "label": "D",
+          "text": "Erstellen einer Liste mit wichtigen Kontakten und regelmässige Kommunikation"
+        },
+        {
+          "label": "E",
+          "text": "Nutzung von Social Media, um berufliche Kontakte zu knüpfen"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Regelmässiges Dokumentieren ihrer täglichen Erfolge und Herausforderungen war nicht Teil von Sinas Strategie.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Das Unternehmen, bei dem Nikola als Junior IT Consultant arbeitet, hat kürzlich eine neue Initiative zur Förderung von Geschlechtervielfalt eingeführt. In einer Schulung wird betont, dass Unternehmen, die Geschlechtervielfalt leben, von einer höheren Produktivität und besseren Kundenbeziehungen profitieren. Zudem führt eine diverse Belegschaft zu mehr Resilienz und höherer Lösungskompetenz. Nikola erfährt, dass Frauen und Männer oft unterschiedliche Verhaltensmuster zeigen und dass die Kombination dieser Qualitäten besonders vorteilhaft im Arbeitsumfeld ist. Die Weiterbildung hebt hervor, dass zufriedene Mitarbeitende das Ergebnis einer Unternehmenskultur sind, die Diskriminierung ausschliesst. Welche der folgenden Aussagen beschreibt die Forschungsergebnisse zur Geschlechtervielfalt in IT-Unternehmen und deren Vorteile korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Ausrichtung auf familiäre Verpflichtungen führt zu einer ausgewogenen Work-Life-Balance und flexible Arbeitszeiten steigern die Produktivität und verbessern das Kundenverständnis."
+        },
+        {
+          "label": "B",
+          "text": "Die systematische Exklusion von Diskriminierung führt zu zufriedenen Mitarbeitenden, und die Mischung von Verhaltensmustern erhöht Resilienz und Lösungskompetenz."
+        },
+        {
+          "label": "C",
+          "text": "Die Implementierung technologischer Innovationen optimiert den Arbeitsfluss, und die Isolation von geschlechtsspezifischen Aufgaben steigert die Effizienz und intensiviert den Kundenkontakt."
+        },
+        {
+          "label": "D",
+          "text": "Die Förderung individueller Karrieremöglichkeiten unabhängig vom Geschlecht erhöht die Motivation, und die Segregation von Aufgabenbereichen verbessert die Arbeitsqualität und verstärkt das Kundenfeedback."
+        },
+        {
+          "label": "E",
+          "text": "Die Konzentration auf finanzielle Anreize zur Erhöhung der Produktivität und die getrennte Entwicklung von männlichen und weiblichen Arbeitsgruppen fördert die Spezialisierung und maximiert die Kundenzufriedenheit."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Die systematische Exklusion von Diskriminierung führt zu zufriedenen Mitarbeitenden und erhöht Resilienz.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: TechInnovate, ein mittelständisches Technologieunternehmen, entschied sich, das OKR-Framework (Objectives and Key Results) zu implementieren, um die Ziele des Unternehmens klarer zu definieren und den Fortschritt besser zu messen. Der Geschäftsführer, Herr Müller, führte das OKR-Framework ein, um die Zusammenarbeit im Team zu verbessern und die Leistung des gesamten Unternehmens zu steigern. Das Führungsteam von TechInnovate setzte sich ambitionierte und klare Ziele (Objectives) für das kommende Quartal. Dazu gehörte die Entwicklung eines neuen Softwareprodukts, die Verbesserung der Kundenzufriedenheit und die Steigerung der Marktanteile. Für jedes dieser Ziele wurden messbare Ergebnisse (Key Results) definiert, die zur Erreichung der Ziele beitragen sollten. Zum Beispiel wurde für das Ziel der Verbesserung der Kundenzufriedenheit festgelegt, dass die Kundenzufriedenheitsbewertung um 10% steigen sollte. Diese Unternehmensziele wurden anschliessend auf die Teamebene heruntergebrochen. Jede Abteilung setzte sich spezifische Objectives und Key Results, die auf die übergeordneten Unternehmensziele ausgerichtet waren. Allerdings wurden die Ziele nicht weiter auf die individuelle Ebene heruntergebrochen, sodass einzelne Teammitglieder keine klar definierten persönlichen Objectives und Key Results hatten. Um die Fortschritte regelmässig zu überprüfen, wurden wöchentliche Meetings eingeführt, bei denen das Team den aktuellen Stand der Key Results diskutierte und bei Bedarf Anpassungen vornahm. Diese regelmässige Reflexion half dem Team, auf Kurs zu bleiben und mögliche Hindernisse frühzeitig zu identifizieren und zu überwinden. Allerdings wurden individuelle Beiträge und Fortschritte nicht systematisch nachverfolgt und ausgewertet, was zu einem Mangel an Klarheit über die individuelle Leistung führte. Einige Teammitglieder konzentrierten sich stark auf ihre individuellen Ergebnisse. Sie setzten sich persönliche Ziele, die nicht formalisiert und nicht immer mit den Teamzielen abgestimmt waren. Dieses Verhalten führte zu einer isolierten Arbeitsweise, bei der die Zusammenarbeit und der gemeinsame Fokus auf die Teamziele teilweise vernachlässigt wurden. Dies führte zu Spannungen innerhalb des Teams, da die Teammitglieder unterschiedliche Prioritäten setzten und die Synergien im Team beeinträchtigt wurden. Das regelmässige Überprüfen und Reflektieren der Fortschritte führte insgesamt zu einer verbesserten Zielerreichung auf Teamebene. Das Führungsteam erkannte jedoch, dass die Effizienz und der Zusammenhalt im Team weiter gesteigert werden könnten, indem die OKR-Implementierung angepasst wird, um eine bessere Ausrichtung und Nachverfolgung individueller Ziele zu gewährleisten. Was macht TechInnovate bzw. Mitarbeitende der TechInnovate aktuell noch FALSCH bei der Umsetzung des OKR-Frameworks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Setzen von klaren und ambitionierten Zielen"
+        },
+        {
+          "label": "B",
+          "text": "Definieren von messbaren Ergebnissen"
+        },
+        {
+          "label": "C",
+          "text": "Fortschritte regelmässig überprüfen"
+        },
+        {
+          "label": "D",
+          "text": "Individuelle Konzentration auf unabgestimmte Ziele"
+        },
+        {
+          "label": "E",
+          "text": "Teamziele gehen aus den Unternehmenszielen hervor"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Individuelle Konzentration auf unabgestimmte Ziele ist ein Fehler bei der OKR-Umsetzung.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "single",
+      "prompt": "Sie lasen in Ihrem Reader der SW09 einen Artikel, welcher sich mit den kognitiven Auswirkungen der ständigen Präsenz von Smartphones beschäftigt. Andrew Sullivan wird dort wie folgt zitiert: \"We all understand the joys of our always-wired world - the connections, the validations, the laughs ... the info. ... But we are only beginning to get our minds around the costs.\" Welche der folgenden Aussagen beschreibt NICHT die Bedeutung des Zitats von Andrew Sullivan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die ständige Verbindung in der digitalen Welt bringt viele Vorteile wie Verbindungen, Bestätigungen, Spass und Informationen."
+        },
+        {
+          "label": "B",
+          "text": "Die negativen Auswirkungen der ständigen Vernetzung sind noch nicht vollständig verstanden."
+        },
+        {
+          "label": "C",
+          "text": "Die Vorteile der digitalen Vernetzung sind allgemein anerkannt und geschätzt."
+        },
+        {
+          "label": "D",
+          "text": "Die ständige Nutzung von Smartphones hat keine negativen Auswirkungen auf die kognitive Leistungsfähigkeit."
+        },
+        {
+          "label": "E",
+          "text": "Es wird allmählich erkannt, dass die ständige Verbindung auch unerwartete Kosten mit sich bringen kann."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Die Aussage, dass Smartphones keine negativen Auswirkungen haben, widerspricht dem Zitat.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "single",
+      "prompt": "Im Modell zur Strategieentwicklung von Arvedson werden vier zentrale Zielbereiche unterschieden. Die einzelnen Zielbereiche stehen dabei in einem besonderen Verhältnis zueinander, da sie aufeinander aufbauen. In welcher Reihenfolge bauen diese aufeinander auf?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitarbeitendenzufriedenheit als Basis für Kundenzufriedenheit als Basis für Volumen als Basis für Profitabilität"
+        },
+        {
+          "label": "B",
+          "text": "Kundenzufriedenheit als Basis für Mitarbeitendenzufriedenheit als Basis für Volumen als Basis für Profitabilität"
+        },
+        {
+          "label": "C",
+          "text": "Volumen als Basis für Kundenzufriedenheit als Basis für Mitarbeitendenzufriedenheit als Basis für Profitabilität"
+        },
+        {
+          "label": "D",
+          "text": "Profitabilität als Basis für Volumen als Basis für Mitarbeitendenzufriedenheit als Basis für Kundenzufriedenheit"
+        },
+        {
+          "label": "E",
+          "text": "Volumen als Basis für Profitabilität als Basis für Mitarbeitendenzufriedenheit als Basis für Kundenzufriedenheit"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2,
+      "explanation": "Mitarbeitendenzufriedenheit führt zu Kundenzufriedenheit, was Volumen und dann Profitabilität steigert.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "single",
+      "prompt": "Im Modell zur Strategieentwicklung von Arvedson wird u.a. die Frage \"Wo genau wollen wir hin?\" beantwortet. Welche drei Schritte sind hierfür notwendig, um diese Frage klar beantworten zu können?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strategien, Handlungsfelder, Massnahmen und Projekte"
+        },
+        {
+          "label": "B",
+          "text": "Umfeldanalyse, Branchenstrukturanalyse, Unternehmensziele"
+        },
+        {
+          "label": "C",
+          "text": "Unternehmensziele, Massnahmen und Projekte, Strategieüberprüfung"
+        },
+        {
+          "label": "D",
+          "text": "Handlungsfelder, Umfeldanalyse, Strategieüberprüfung"
+        },
+        {
+          "label": "E",
+          "text": "Umfeldanalyse, Handlungsfelder, Massnahmen und Projekte"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2,
+      "explanation": "Umfeldanalyse, Handlungsfelder, Massnahmen und Projekte sind notwendig, um die Frage zu beantworten.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Anna ist eine Marketing-Managerin bei einem führenden Technologieunternehmen. Sie stellte fest, dass sie ihre beruflichen Ziele oft nicht erreichte und Schwierigkeiten hatte, sich selbst zu motivieren. Um ihre beruflichen Fähigkeiten zu verbessern, entschied sie sich, an ihren Self-Leadership-Fähigkeiten zu arbeiten. Anna begann damit, sich klare und spezifische Ziele zu setzen, um ihre beruflichen Fähigkeiten zu verbessern. Sie entwickelte tägliche Routinen, um ihre Arbeitsweise zu reflektieren und dokumentierte ihre täglichen Erfolge und Herausforderungen. Um ihre mentale Einstellung zu verbessern, führte Anna regelmässig positive Selbstgespräche. Sie gewöhnte sich ausserdem an motivierende Post-its an ihrem Arbeitsplatz aufzuhängen. Ein weiterer wichtiger Aspekt ihrer Entwicklung war die systematische Analyse ihrer Fehler. Nach jedem Projekt reflektierte Anna systematisch über ihre Leistung und suchte nach Möglichkeiten, daraus zu lernen und sich zu verbessern. Zusätzlich visualisierte sie ihre langfristigen Ziele durch ein Vision Board und feierte kleine Erfolge gemeinsam mit ihrem Team, um ihre Motivation hochzuhalten. Auch finanzielle Anreize wurden als Mittel zur Selbstmotivation eingesetzt, um ihre Ziele schneller zu erreichen. Nach sechs Monaten zeigten sich deutliche Verbesserungen in Annas beruflicher Leistung und ihrer Fähigkeit, Projekte erfolgreich abzuschliessen. Ihre Kollegen bemerkten ihre positive Veränderung und die gesteigerte Effizienz in ihrem Arbeitsstil. Welche der folgenden Massnahmen, die Anna zur Verbesserung ihrer Self-Leadership-Fähigkeiten ergriffen hat, ist KEINE verhaltensfokussierte Strategie?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selbstbeobachtung durch Reflexion ihrer täglichen Arbeitsweise"
+        },
+        {
+          "label": "B",
+          "text": "Setzen klarer und spezifischer Ziele"
+        },
+        {
+          "label": "C",
+          "text": "Positive Selbstgespräche zur Stärkung ihrer mentalen Einstellung"
+        },
+        {
+          "label": "D",
+          "text": "Erfolge mit dem Team feiern"
+        },
+        {
+          "label": "E",
+          "text": "Verwendung von Post-Its zur Selbsterinnerung"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2,
+      "explanation": "Positive Selbstgespräche sind keine verhaltensfokussierte Strategie.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Peter arbeitet als Vertriebsmitarbeiter in einem grossen Technologieunternehmen. Sein Vorgesetzter hat beschlossen, die Selbstbestimmungstheorie von Deci und Ryan anzuwenden, um Peters Motivation und Leistung zu verbessern. Peter soll durch verschiedene Massnahmen unterstützt werden, um seine Arbeit autonomer und erfüllender zu gestalten. Peter erhielt die Freiheit, seine eigenen Arbeitszeiten festzulegen und seine Arbeitsmethoden zu wählen, was seine Autonomie stärkte. Sein Vorgesetzter gab ihm regelmässig positives Feedback und Anerkennung, wodurch Peter sich kompetent und wertgeschätzt fühlte. Darüber hinaus wurde Peter ermutigt, regelmässig an Teambesprechungen teilzunehmen, was sein Gefühl der sozialen Eingebundenheit verstärkte. Um sicherzustellen, dass Peters Arbeit mit seinen persönlichen Werten übereinstimmt, wurden ihm Aufgaben zugewiesen, die mit seinen beruflichen Interessen und Zielen im Einklang stehen. Jedoch wurde Peter immer noch durch strenge, externe Belohnungssysteme motiviert, die auf Verkaufszahlen basieren. Diese externen Belohnungen fühlten sich für Peter oft nicht stimmig an und führten dazu, dass er sich unter Druck gesetzt fühlte und häufig Schuldgefühle hatte. Zur Erinnerung: Die fünf Arten der Regulation im Rahmen der Selbstbestimmungstheorie. Intrinsische Regulation bedeutet, dass Handlungen um ihrer selbst willen ausgeführt werden, weil sie Spass machen oder interessant sind. Integrierte Regulation bezieht sich darauf, dass externe Ziele und Belohnungen vollständig mit den eigenen Werten und Überzeugungen integriert sind. Bei der identifizierten Regulation werden Handlungen ausgeführt, weil sie persönlich wichtig und wertvoll sind. Introjizierte Regulation tritt auf, wenn Handlungen aufgrund von innerem Druck oder Verpflichtung ausgeführt werden, oft begleitet von Schuldgefühlen oder Angst vor sozialer Missbilligung. Schliesslich bedeutet externe Regulation, dass Handlungen aufgrund von äusseren Belohnungen oder Bestrafungen ausgeführt werden. Welche der folgenden Arten der Regulation im Rahmen der Selbstbestimmungstheorie wird in Peters Fallstudie NICHT erfüllt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intrinsische Regulation"
+        },
+        {
+          "label": "B",
+          "text": "Integrierte Regulation"
+        },
+        {
+          "label": "C",
+          "text": "Identifizierte Regulation"
+        },
+        {
+          "label": "D",
+          "text": "Introjizierte Regulation"
+        },
+        {
+          "label": "E",
+          "text": "Externe Regulation"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Integrierte Regulation wird in Peters Fallstudie nicht erfüllt.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Microsoft Azure bietet eine Vielzahl von Diensten an, die Entwicklern und IT-Profis helfen, Anwendungen und Dienste in der Cloud zu erstellen, zu verwalten und zu skalieren. Unter den vielen Diensten sticht Azure SQL Database hervor, ein relationaler Datenbankdienst, der vollständig in der Cloud verwaltet wird. Dieser Dienst bietet eine skalierbare und sichere Datenbanklösung, die automatische Updates, Patches und Backups beinhaltet. Kunden müssen sich nicht um die physische Verwaltung von Servern kümmern oder die Datenbanksoftware manuell aktualisieren. Stattdessen ermöglicht Azure die schnelle Einrichtung und das einfache Management der Datenbanken über das Azure-Portal. Entwickler und IT-Administratoren können diese nutzen, um ihre eigenen Anwendungen und Softwarelösungen basierend auf Azure SQL Database zu erstellen. Die Nutzung von Azure SQL Database wird über ein Verbrauchsmodell abgerechnet, bei dem die Kunden je nach genutzter Kapazität und Rechenzeit bezahlen. Basierend auf den im Text gegebenen Informationen ist welche der nachfolgenden Aussagen korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das im Text beschriebene Produkt „Azure SQL Database\" ist ein Beispiel einer IaaS Lösung."
+        },
+        {
+          "label": "B",
+          "text": "Das im Text beschriebene Produkt „Azure SQL Database\" ist ein Beispiel einer FaaS Lösung."
+        },
+        {
+          "label": "C",
+          "text": "Das im Text beschriebene Produkt „Azure SQL Database\" ist ein Beispiel einer SaaS Lösung."
+        },
+        {
+          "label": "D",
+          "text": "Das im Text beschriebene Produkt „Azure SQL Database\" ist ein Beispiel einer PaaS Lösung."
+        },
+        {
+          "label": "E",
+          "text": "Das im Text beschriebene Produkt „Azure SQL Database\" ist ein Beispiel einer CaaS Lösung."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Azure SQL Database ist ein Beispiel einer PaaS Lösung.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    }
+  ]
+}

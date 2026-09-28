@@ -1,0 +1,344 @@
+{
+  "title": "Zitieren nach APA 7",
+  "week": "SW 06",
+  "tagline": "Effektives Zitieren nach APA 7 zur Sicherstellung wissenschaftlicher Integrität.",
+  "summary": "In dieser Woche wird die Zitiertechnik nach APA 7 behandelt. Der Fokus liegt auf der korrekten Kennzeichnung fremder Quellen, um Plagiate zu vermeiden. Es wird erläutert, wann und wie direkte und indirekte Zitate verwendet werden sollten. Zudem wird die Bedeutung eines sorgfältig geführten Literaturverzeichnisses hervorgehoben. Die Studierenden lernen, wie sie Quellenangaben im Text korrekt einfügen und welche Informationen in einem Kurzbeleg enthalten sein müssen.",
+  "learningGoals": [
+    "Verstehen der Bedeutung von Zitieren in wissenschaftlichen Arbeiten.",
+    "Anwendung der APA 7 Zitierregeln für direkte und indirekte Zitate.",
+    "Erstellung eines vollständigen und korrekten Literaturverzeichnisses.",
+    "Vermeidung von Plagiaten durch korrekte Quellenangaben.",
+    "Unterscheidung zwischen zitierfähigen und nicht zitierfähigen Quellen."
+  ],
+  "blocks": [
+    {
+      "title": "Bedeutung des Zitierens",
+      "body": "Zitieren ist essenziell, um die Herkunft von Ideen und Daten kenntlich zu machen. Es zeigt Respekt für das geistige Eigentum anderer und unterstützt die eigene Argumentation.",
+      "bullets": [
+        "Kennzeichnung fremder Ideen",
+        "Unterstützung der eigenen Argumentation",
+        "Vermeidung von Plagiaten"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Direkte und indirekte Zitate",
+      "body": "Direkte Zitate geben den Originaltext wortwörtlich wieder, während indirekte Zitate (Paraphrasen) den Inhalt in eigenen Worten wiedergeben.",
+      "bullets": [
+        "Direkte Zitate: Wortwörtliche Wiedergabe",
+        "Indirekte Zitate: Paraphrasen",
+        "Sparsamer Einsatz von direkten Zitaten"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Literaturverzeichnis nach APA 7",
+      "body": "Das Literaturverzeichnis ist eine zentrale Komponente wissenschaftlicher Arbeiten und muss alle genutzten Quellen korrekt aufführen.",
+      "bullets": [
+        "Alphabetische Ordnung",
+        "Vollständige bibliographische Angaben",
+        "Keine nicht genutzten Quellen"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Kurzbeleg im Text",
+      "body": "Der Kurzbeleg im Text enthält Autor(en), Jahr und Seitenzahl und ermöglicht die Identifikation der Quelle.",
+      "bullets": [
+        "Format: (Autor, Jahr, Seite)",
+        "Positionierung im Text",
+        "Unterschied zwischen aktiver und passiver Nutzung"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Plagiate vermeiden",
+      "body": "Plagiate sind schwerwiegende Verstösse gegen die wissenschaftliche Integrität. Korrektes Zitieren ist der Schlüssel zur Vermeidung.",
+      "bullets": [
+        "Definition von Plagiat",
+        "Konsequenzen bei Plagiaten",
+        "Richtige Zitiertechnik anwenden"
+      ],
+      "articles": [],
+      "type": "pitfall"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Direktes Zitat",
+      "definition": "Wörtliche Wiedergabe eines Textes aus einer Quelle."
+    },
+    {
+      "term": "Indirektes Zitat",
+      "definition": "Inhaltliche Wiedergabe eines Textes in eigenen Worten."
+    },
+    {
+      "term": "Literaturverzeichnis",
+      "definition": "Liste aller in einer Arbeit verwendeten Quellen."
+    },
+    {
+      "term": "Kurzbeleg",
+      "definition": "Kurze Quellenangabe im Text, bestehend aus Autor, Jahr und Seite."
+    },
+    {
+      "term": "Plagiat",
+      "definition": "Unrechtmässige Aneignung fremden geistigen Eigentums."
+    },
+    {
+      "term": "APA 7",
+      "definition": "Aktuelle Version des Zitierstils der American Psychological Association."
+    },
+    {
+      "term": "Paraphrase",
+      "definition": "Umschreibung eines Textes mit eigenen Worten."
+    },
+    {
+      "term": "Quellenangabe",
+      "definition": "Informationen, die zur Identifikation einer Quelle notwendig sind."
+    },
+    {
+      "term": "Sekundärquelle",
+      "definition": "Quelle, die eine andere Quelle zitiert oder interpretiert."
+    },
+    {
+      "term": "Primärquelle",
+      "definition": "Originalquelle, die direkt untersucht oder zitiert wird."
+    },
+    {
+      "term": "Zitiertechnik",
+      "definition": "Methoden und Regeln zur korrekten Angabe von Quellen."
+    },
+    {
+      "term": "Bibliographische Angaben",
+      "definition": "Detaillierte Informationen über eine Quelle, die im Literaturverzeichnis aufgeführt werden."
+    },
+    {
+      "term": "Harvard-Methode",
+      "definition": "Ein Zitierstil, der auf Kurzbelegen im Text basiert."
+    },
+    {
+      "term": "Fussnote",
+      "definition": "Zusätzliche Information am unteren Rand einer Seite, oft für Quellenangaben genutzt."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist ein direktes Zitat?",
+      "back": "Ein direktes Zitat ist die wörtliche Wiedergabe eines Textes aus einer Quelle.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein indirektes Zitat?",
+      "back": "Ein indirektes Zitat ist die inhaltliche Wiedergabe eines Textes in eigenen Worten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was gehört in ein Literaturverzeichnis?",
+      "back": "Alle in der Arbeit verwendeten Quellen mit vollständigen bibliographischen Angaben.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist ein Kurzbeleg?",
+      "back": "Ein Kurzbeleg ist eine kurze Quellenangabe im Text, bestehend aus Autor, Jahr und Seite.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist ein Plagiat?",
+      "back": "Ein Plagiat ist die unrechtmässige Aneignung fremden geistigen Eigentums.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist APA 7?",
+      "back": "APA 7 ist die aktuelle Version des Zitierstils der American Psychological Association.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Paraphrase?",
+      "back": "Eine Paraphrase ist die Umschreibung eines Textes mit eigenen Worten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Sekundärquelle?",
+      "back": "Eine Sekundärquelle ist eine Quelle, die eine andere Quelle zitiert oder interpretiert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Primärquelle?",
+      "back": "Eine Primärquelle ist eine Originalquelle, die direkt untersucht oder zitiert wird.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die Harvard-Methode?",
+      "back": "Die Harvard-Methode ist ein Zitierstil, der auf Kurzbelegen im Text basiert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Fussnote?",
+      "back": "Eine Fussnote ist eine zusätzliche Information am unteren Rand einer Seite, oft für Quellenangaben genutzt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Zitieren wichtig?",
+      "back": "Zitieren ist wichtig, um die Herkunft von Ideen und Daten kenntlich zu machen und Plagiate zu vermeiden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wann sollte man ein direktes Zitat verwenden?",
+      "back": "Ein direktes Zitat sollte verwendet werden, wenn der Original-Wortlaut wichtig ist.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen direktem und indirektem Zitat?",
+      "back": "Ein direktes Zitat ist wörtlich, ein indirektes Zitat ist eine sinngemässe Wiedergabe.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist ein direktes Zitat?",
+      "options": [
+        "Eine wörtliche Wiedergabe eines Textes",
+        "Eine sinngemässe Wiedergabe eines Textes",
+        "Eine Zusammenfassung eines Textes",
+        "Eine Interpretation eines Textes"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein direktes Zitat ist die wörtliche Wiedergabe eines Textes aus einer Quelle.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein indirektes Zitat?",
+      "options": [
+        "Eine wörtliche Wiedergabe eines Textes",
+        "Eine sinngemässe Wiedergabe eines Textes",
+        "Eine Zusammenfassung eines Textes",
+        "Eine Interpretation eines Textes"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein indirektes Zitat ist die inhaltliche Wiedergabe eines Textes in eigenen Worten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Information gehört nicht in ein Literaturverzeichnis?",
+      "options": [
+        "Titel der Quelle",
+        "Seitenzahl der Quelle",
+        "Verlagsort",
+        "Autor der Quelle"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Der Verlagsort ist nach APA 7 nicht mehr erforderlich.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Plagiat?",
+      "options": [
+        "Die korrekte Angabe einer Quelle",
+        "Die unrechtmässige Aneignung fremden geistigen Eigentums",
+        "Die Verwendung von Sekundärquellen",
+        "Die Erstellung eines Literaturverzeichnisses"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Plagiat ist die unrechtmässige Aneignung fremden geistigen Eigentums.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Zitierweise basiert auf Kurzbelegen im Text?",
+      "options": [
+        "APA",
+        "MLA",
+        "Harvard",
+        "Chicago"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Harvard-Methode basiert auf Kurzbelegen im Text.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wann ist ein direktes Zitat angebracht?",
+      "options": [
+        "Wenn der Original-Wortlaut wichtig ist",
+        "Wenn man den Text zusammenfassen möchte",
+        "Wenn man die Quelle nicht gelesen hat",
+        "Wenn man eine Quelle paraphrasieren möchte"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein direktes Zitat sollte verwendet werden, wenn der Original-Wortlaut wichtig ist.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Primärquelle?",
+      "options": [
+        "Eine Quelle, die eine andere Quelle zitiert",
+        "Eine Originalquelle, die direkt untersucht wird",
+        "Eine Quelle, die interpretiert wird",
+        "Eine Quelle, die zusammengefasst wird"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Primärquelle ist eine Originalquelle, die direkt untersucht oder zitiert wird.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Sekundärquelle?",
+      "options": [
+        "Eine Quelle, die eine andere Quelle zitiert oder interpretiert",
+        "Eine Originalquelle",
+        "Eine Quelle, die direkt untersucht wird",
+        "Eine Quelle, die zusammengefasst wird"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Eine Sekundärquelle ist eine Quelle, die eine andere Quelle zitiert oder interpretiert.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen ist korrekt?",
+      "options": [
+        "Ein Literaturverzeichnis kann nicht alphabetisch geordnet sein",
+        "Ein Literaturverzeichnis enthält nur genutzte Quellen",
+        "Ein Literaturverzeichnis enthält alle jemals gelesenen Quellen",
+        "Ein Literaturverzeichnis ist optional"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Literaturverzeichnis enthält alle in der Arbeit genutzten Quellen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der Vorteil der aktiven Form des Kurzbelegs?",
+      "options": [
+        "Sie ist einfacher zu erstellen",
+        "Sie verdeutlicht, dass ein Gedanke von jemand anderem stammt",
+        "Sie ist kürzer",
+        "Sie benötigt keine Seitenangabe"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die aktive Form des Kurzbelegs verdeutlicht, dass ein Gedanke von jemand anderem stammt.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wischr-sw06",
+  "subjectId": "wischr"
+}

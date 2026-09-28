@@ -1,0 +1,330 @@
+{
+  "title": "Auftrittskompetenz & Storytelling",
+  "week": "SW 07-08",
+  "tagline": "Kommunikation auf allen Ebenen meistern und Geschichten wirkungsvoll erzählen.",
+  "summary": "Auftrittskompetenz umfasst die Fähigkeit, ein Publikum durch verbale, paraverbale und nonverbale Kommunikation zu überzeugen. Storytelling ist ein Werkzeug, um komplexe Informationen verständlich und emotional ansprechend zu präsentieren. Beide Fähigkeiten sind entscheidend für erfolgreiche Präsentationen, sowohl analog als auch digital. Übung und Authentizität sind Schlüssel zur Verbesserung der Auftrittskompetenz.",
+  "learningGoals": [
+    "Verstehen der drei Ebenen der Kommunikation: verbal, paraverbal und nonverbal.",
+    "Erlernen von Techniken zur Verbesserung der Auftrittskompetenz.",
+    "Anwendung von Storytelling-Techniken in wissenschaftlichen und geschäftlichen Kontexten.",
+    "Erkennen der Bedeutung von Kongruenz in der Kommunikation.",
+    "Entwicklung von Storylines für Präsentationen."
+  ],
+  "blocks": [
+    {
+      "title": "Drei Gestaltungsebenen der Kommunikation",
+      "body": "Kommunikation erfolgt auf verbaler, paraverbaler und nonverbaler Ebene. Die paraverbale Ebene umfasst Stimmführung und Sprechgeschwindigkeit, während die nonverbale Ebene Gestik und Mimik beinhaltet. Alle Ebenen müssen kongruent sein, um glaubwürdig zu wirken.",
+      "bullets": [
+        "Paraverbal: Stimmführung, Betonung, Sprechgeschwindigkeit.",
+        "Nonverbal: Gestik, Mimik, Körperhaltung.",
+        "Verbal: Satzbau, Wortwahl, Sprachnormen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Auftrittskompetenz – digital und analog",
+      "body": "Auftrittskompetenz ist entscheidend für die Überzeugungskraft eines Redners. Übung hilft, individuelle Stärken und Schwächen zu erkennen. Digitale Präsentationen erfordern besondere Aufmerksamkeit auf Technik und Hintergrund.",
+      "bullets": [
+        "Übung verbessert Präsenz und Ausstrahlung.",
+        "Technik und Hintergrund beeinflussen digitale Präsentationen.",
+        "Kongruenz der Kommunikationsmittel ist entscheidend."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Storytelling in der Wissenschaft",
+      "body": "Storytelling macht wissenschaftliche Informationen verständlicher und emotionaler. Es ergänzt die traditionelle wissenschaftliche Kommunikation durch Spannung und Bedeutung.",
+      "bullets": [
+        "Verbindung von Präzision und Emotion.",
+        "Spannungsbogen durch Anfang, Herausforderung und Auflösung.",
+        "Aktivierung des limbischen Systems und motorischen Kortex."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Storyline-Modelle im Überblick",
+      "body": "Es gibt verschiedene Modelle, um eine Storyline zu gestalten, wie die 3-Akt-Struktur, ABT und Pixar Pitch. Jedes Modell hat spezifische Vorteile und Grenzen.",
+      "bullets": [
+        "3-Akt-Struktur: Setup, Konflikt, Auflösung.",
+        "ABT: Ausgangslage, Widerspruch, Lösung.",
+        "Pixar Pitch: Emotionaler Fluss und Ursache-Wirkung."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Emotion, Bedeutung und Struktur im Storytelling",
+      "body": "Eine wirkungsvolle Geschichte verbindet Emotion, Bedeutung und Struktur, um komplexe Inhalte zugänglich und menschlich zu machen.",
+      "bullets": [
+        "Emotion spricht an, was Menschen fühlen.",
+        "Bedeutung erklärt die Relevanz des Themas.",
+        "Struktur ordnet Informationen nachvollziehbar."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Paraverbal",
+      "definition": "Kommunikationselemente wie Stimmführung und Betonung."
+    },
+    {
+      "term": "Nonverbal",
+      "definition": "Kommunikationselemente wie Gestik und Mimik."
+    },
+    {
+      "term": "Kongruenz",
+      "definition": "Übereinstimmung der verbalen, paraverbalen und nonverbalen Kommunikation."
+    },
+    {
+      "term": "Auftrittskompetenz",
+      "definition": "Fähigkeit, ein Publikum durch Kommunikation zu überzeugen."
+    },
+    {
+      "term": "Storytelling",
+      "definition": "Erzählerische Struktur zur Vermittlung von Informationen."
+    },
+    {
+      "term": "3-Akt-Struktur",
+      "definition": "Modell mit Setup, Konflikt und Auflösung."
+    },
+    {
+      "term": "ABT",
+      "definition": "Modell mit Ausgangslage, Widerspruch und Lösung."
+    },
+    {
+      "term": "Pixar Pitch",
+      "definition": "Erzählmodell mit emotionalem Fluss und Ursache-Wirkung."
+    },
+    {
+      "term": "Science Slam",
+      "definition": "Kurze, unterhaltsame Präsentation wissenschaftlicher Themen."
+    },
+    {
+      "term": "Limbisches System",
+      "definition": "Teil des Gehirns, das Emotionen verarbeitet."
+    },
+    {
+      "term": "Motorischer Kortex",
+      "definition": "Teil des Gehirns, der Bewegungen und Handlungen vorstellt."
+    },
+    {
+      "term": "Hook",
+      "definition": "Einstieg, der sofortiges Interesse weckt."
+    },
+    {
+      "term": "High-Power-Posen",
+      "definition": "Körperhaltungen, die Selbstsicherheit ausstrahlen."
+    },
+    {
+      "term": "Low-Power-Posen",
+      "definition": "Körperhaltungen, die Unsicherheit ausstrahlen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was sind die drei Ebenen der Kommunikation?",
+      "back": "Verbal, paraverbal und nonverbal.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Kongruenz in der Kommunikation?",
+      "back": "Übereinstimmung der verbalen, paraverbalen und nonverbalen Kommunikation.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Auftrittskompetenz wichtig?",
+      "back": "Sie ermöglicht es, ein Publikum durch Persönlichkeit und Kommunikation zu überzeugen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Storytelling?",
+      "back": "Die Verwendung einer erzählerischen Struktur zur Vermittlung von Informationen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Vorteile hat die 3-Akt-Struktur?",
+      "back": "Sie bietet einen klaren Spannungsbogen und ist logisch und vertraut.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Science Slam?",
+      "back": "Eine kurze, unterhaltsame Präsentationsform wissenschaftlicher Themen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie funktioniert Storytelling im Gehirn?",
+      "back": "Es aktiviert das limbische System und den motorischen Kortex, wodurch Informationen besser erinnert werden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Hook?",
+      "back": "Ein Einstieg, der sofortiges Interesse weckt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind High-Power-Posen?",
+      "back": "Körperhaltungen, die Selbstsicherheit ausstrahlen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Low-Power-Posen?",
+      "back": "Körperhaltungen, die Unsicherheit ausstrahlen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist die Kongruenz der Kommunikationsmittel wichtig?",
+      "back": "Sie sorgt für Glaubwürdigkeit und verstärkt die Wirkung des Gesagten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Rolle spielt Storytelling in der Wirtschaftsinformatik?",
+      "back": "Es wird eingesetzt, um Projekte zu präsentieren und Veränderungen zu kommunizieren.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der motorische Kortex?",
+      "back": "Teil des Gehirns, der Bewegungen und Handlungen vorstellt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist das limbische System?",
+      "back": "Teil des Gehirns, das Emotionen verarbeitet.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Ebenen der Kommunikation gibt es?",
+      "options": [
+        "Verbal",
+        "Paraverbal",
+        "Nonverbal",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Kommunikation erfolgt auf verbaler, paraverbaler und nonverbaler Ebene.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist das Ziel von Storytelling?",
+      "options": [
+        "Informationen präzise zu vermitteln",
+        "Informationen emotional und verständlich zu präsentieren",
+        "Nur Fakten zu präsentieren",
+        "Nur Emotionen zu vermitteln"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Storytelling macht Informationen verständlicher und emotionaler.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Struktur hat die 3-Akt-Struktur?",
+      "options": [
+        "Setup, Konflikt, Auflösung",
+        "Ausgangslage, Widerspruch, Lösung",
+        "Hook, Problem, Aha, Schluss",
+        "Alltag, Ruf, Prüfung, Rückkehr"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die 3-Akt-Struktur besteht aus Setup, Konflikt und Auflösung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was aktiviert das limbische System?",
+      "options": [
+        "Fakten",
+        "Geschichten",
+        "Daten",
+        "Diagramme"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Geschichten aktivieren das limbische System, das Emotionen verarbeitet.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Körperhaltung strahlt Selbstsicherheit aus?",
+      "options": [
+        "High-Power-Posen",
+        "Low-Power-Posen",
+        "Gebückter Oberkörper",
+        "Arme verschränkt"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "High-Power-Posen strahlen Selbstsicherheit aus.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Science Slam?",
+      "options": [
+        "Eine wissenschaftliche Konferenz",
+        "Ein kurzer, unterhaltsamer Vortrag",
+        "Ein technischer Bericht",
+        "Eine wissenschaftliche Publikation"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Science Slam ist eine kurze, unterhaltsame Präsentation wissenschaftlicher Themen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Warum ist Kongruenz in der Kommunikation wichtig?",
+      "options": [
+        "Sie verstärkt die Wirkung des Gesagten",
+        "Sie macht die Rede länger",
+        "Sie reduziert die Glaubwürdigkeit",
+        "Sie verkompliziert die Kommunikation"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Kongruenz sorgt für Glaubwürdigkeit und verstärkt die Wirkung des Gesagten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Rolle spielt Storytelling in der Wirtschaftsinformatik?",
+      "options": [
+        "Es wird nicht verwendet",
+        "Es hilft, Projekte zu präsentieren",
+        "Es ist nur für technische Berichte",
+        "Es ist irrelevant"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Storytelling wird eingesetzt, um Projekte zu präsentieren und Veränderungen zu kommunizieren.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Hook?",
+      "options": [
+        "Ein technisches Detail",
+        "Ein Einstieg, der Interesse weckt",
+        "Eine Schlussfolgerung",
+        "Ein Diagramm"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Hook ist ein Einstieg, der sofortiges Interesse weckt.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wischr-sw07",
+  "subjectId": "wischr"
+}

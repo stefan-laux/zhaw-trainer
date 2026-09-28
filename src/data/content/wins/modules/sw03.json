@@ -1,0 +1,321 @@
+{
+  "title": "KI-Kompetenzen & KI-Nutzung",
+  "week": "SW 03",
+  "tagline": "Verstehen und Anwenden von KI-Kompetenzen in der Praxis.",
+  "summary": "In dieser Woche lernen die Studierenden, wie sie KI-Kompetenzen effektiv nutzen können. Sie erfahren, wie generative KI funktioniert und wo ihre Grenzen liegen. Zudem wird die Bedeutung von ethischer KI-Nutzung und die Anwendung von strukturiertem Prompt Engineering vermittelt. Die Studierenden reflektieren über die soziotechnischen Aspekte der KI-Nutzung und entwickeln Strategien zur kritischen Evaluierung von KI-Outputs.",
+  "learningGoals": [
+    "Erklären, was Temperatur in generativen KI-Modellen bewirkt.",
+    "Schwächen generativer KI benennen.",
+    "Prompts nach SCOPE oder CIDI aufbauen.",
+    "KI-Outputs kritisch prüfen.",
+    "Ethische KI-Nutzung im Team klären."
+  ],
+  "blocks": [
+    {
+      "title": "Grundlagen der KI-Nutzung",
+      "body": "Die Studierenden lernen, wie generative KI-Modelle funktionieren und welche Rolle die Temperatur bei der Generierung von Texten spielt.",
+      "bullets": [
+        "Verständnis der Transformer-Architektur.",
+        "Einfluss der Temperatur auf Textgenerierung."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Schwächen generativer KI",
+      "body": "Die Studierenden identifizieren systematische Schwächen von generativen KI-Modellen und lernen, diese kritisch zu hinterfragen.",
+      "bullets": [
+        "Begrenzte Fähigkeit zur Problemlösung.",
+        "Fehleranfälligkeit bei komplexen Aufgaben."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Prompt Engineering",
+      "body": "Die Studierenden lernen, wie sie strukturierte Prompts mit den Frameworks SCOPE und CIDI erstellen können.",
+      "bullets": [
+        "Spezifische Anweisungen formulieren.",
+        "Kontext und Details einbeziehen."
+      ],
+      "articles": [
+        {
+          "ref": "SCOPE",
+          "text": "Framework zur Erstellung strukturierter Prompts."
+        },
+        {
+          "ref": "CIDI",
+          "text": "Framework zur Erstellung strukturierter Prompts."
+        }
+      ],
+      "type": "process"
+    },
+    {
+      "title": "Ethische KI-Nutzung",
+      "body": "Die Studierenden reflektieren über die ethischen Implikationen der KI-Nutzung und lernen, wie sie diese im Team umsetzen können.",
+      "bullets": [
+        "Verantwortung für KI-Outputs übernehmen.",
+        "Transparenz in der KI-Nutzung sicherstellen."
+      ],
+      "articles": [
+        {
+          "ref": "ETHICAL",
+          "text": "Framework zur ethischen Nutzung von KI."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Kritische Prüfung von KI-Outputs",
+      "body": "Die Studierenden lernen, wie sie KI-Outputs kritisch evaluieren und Halluzinationen erkennen können.",
+      "bullets": [
+        "Vergleich mit verlässlichen Quellen.",
+        "Erkennen von Fehlern ohne externe Hilfe."
+      ],
+      "articles": [],
+      "type": "pitfall"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Transformer",
+      "definition": "Ein Modell zur Verarbeitung von Sprache, das auf der Self-Attention-Mechanik basiert."
+    },
+    {
+      "term": "Temperatur",
+      "definition": "Ein Parameter, der die Kreativität der Textgenerierung in KI-Modellen beeinflusst."
+    },
+    {
+      "term": "Prompt Engineering",
+      "definition": "Die Kunst, effektive Eingaben für KI-Modelle zu formulieren."
+    },
+    {
+      "term": "SCOPE",
+      "definition": "Ein Framework zur Erstellung strukturierter Prompts."
+    },
+    {
+      "term": "CIDI",
+      "definition": "Ein Framework zur Erstellung strukturierter Prompts."
+    },
+    {
+      "term": "Ethische KI-Nutzung",
+      "definition": "Die verantwortungsvolle und transparente Anwendung von KI-Technologien."
+    },
+    {
+      "term": "Halluzination",
+      "definition": "Fehlerhafte oder erfundene Informationen, die von KI-Modellen generiert werden."
+    },
+    {
+      "term": "Soziotechnische Kompetenz",
+      "definition": "Die Fähigkeit, technische und soziale Aspekte der KI-Nutzung zu integrieren."
+    },
+    {
+      "term": "LLM",
+      "definition": "Abkürzung für Large Language Model, ein KI-Modell zur Verarbeitung natürlicher Sprache."
+    },
+    {
+      "term": "Self-Attention",
+      "definition": "Ein Mechanismus, der es einem Modell ermöglicht, relevante Teile eines Inputs zu fokussieren."
+    },
+    {
+      "term": "ETHICAL",
+      "definition": "Ein Framework zur Sicherstellung ethischer KI-Nutzung."
+    },
+    {
+      "term": "GrowthTime-Ziel",
+      "definition": "Ein persönliches Entwicklungsziel, das im Rahmen der Vorlesung verfolgt wird."
+    },
+    {
+      "term": "KI-Output",
+      "definition": "Das Ergebnis, das von einem KI-Modell generiert wird."
+    },
+    {
+      "term": "Generative KI",
+      "definition": "KI-Modelle, die neue Inhalte basierend auf Eingaben erzeugen können."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist ein Transformer?",
+      "back": "Ein Modell zur Verarbeitung von Sprache, das auf der Self-Attention-Mechanik basiert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bewirkt die Temperatur in einem KI-Modell?",
+      "back": "Sie beeinflusst die Kreativität der Textgenerierung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Prompt Engineering?",
+      "back": "Die Kunst, effektive Eingaben für KI-Modelle zu formulieren.",
+      "tag": "process"
+    },
+    {
+      "front": "Was bedeutet SCOPE?",
+      "back": "Ein Framework zur Erstellung strukturierter Prompts.",
+      "tag": "process"
+    },
+    {
+      "front": "Was bedeutet CIDI?",
+      "back": "Ein Framework zur Erstellung strukturierter Prompts.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist eine Halluzination in der KI?",
+      "back": "Fehlerhafte oder erfundene Informationen, die von KI-Modellen generiert werden.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist ein LLM?",
+      "back": "Abkürzung für Large Language Model, ein KI-Modell zur Verarbeitung natürlicher Sprache.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Self-Attention?",
+      "back": "Ein Mechanismus, der es einem Modell ermöglicht, relevante Teile eines Inputs zu fokussieren.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist das ETHICAL-Framework?",
+      "back": "Ein Framework zur Sicherstellung ethischer KI-Nutzung.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist ein GrowthTime-Ziel?",
+      "back": "Ein persönliches Entwicklungsziel, das im Rahmen der Vorlesung verfolgt wird.",
+      "tag": "mnemonic"
+    },
+    {
+      "front": "Was ist ein KI-Output?",
+      "back": "Das Ergebnis, das von einem KI-Modell generiert wird.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist generative KI?",
+      "back": "KI-Modelle, die neue Inhalte basierend auf Eingaben erzeugen können.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind soziotechnische Kompetenzen?",
+      "back": "Die Fähigkeit, technische und soziale Aspekte der KI-Nutzung zu integrieren.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Rolle spielt die Temperatur in einem KI-Modell?",
+      "options": [
+        "Beeinflusst die Kreativität",
+        "Bestimmt die Genauigkeit",
+        "Erhöht die Geschwindigkeit",
+        "Reduziert die Kosten"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Temperatur beeinflusst, wie kreativ oder konservativ ein KI-Modell bei der Textgenerierung ist.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine Halluzination in der KI?",
+      "options": [
+        "Ein realistisches Bild",
+        "Ein fehlerhafter Output",
+        "Ein schneller Algorithmus",
+        "Ein ethisches Dilemma"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Halluzinationen sind fehlerhafte oder erfundene Informationen, die von KI-Modellen generiert werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welches Framework wird für strukturiertes Prompt Engineering verwendet?",
+      "options": [
+        "SCOPE",
+        "CIDI",
+        "BERT",
+        "RNN"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "SCOPE und CIDI sind Frameworks zur Erstellung strukturierter Prompts.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist das Ziel des ETHICAL-Frameworks?",
+      "options": [
+        "Kostenreduktion",
+        "Ethische KI-Nutzung",
+        "Schnellere Verarbeitung",
+        "Bessere Genauigkeit"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das ETHICAL-Framework stellt sicher, dass KI auf ethische Weise genutzt wird.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein LLM?",
+      "options": [
+        "Ein kleines Modell",
+        "Ein neuronales Netz",
+        "Ein Large Language Model",
+        "Ein Hardware-Teil"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "LLM steht für Large Language Model, ein KI-Modell zur Verarbeitung natürlicher Sprache.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Aufgabe hat Self-Attention in einem KI-Modell?",
+      "options": [
+        "Daten speichern",
+        "Relevante Teile eines Inputs fokussieren",
+        "Die Ausgabe formatieren",
+        "Die Geschwindigkeit erhöhen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Self-Attention ermöglicht es einem Modell, relevante Teile eines Inputs zu fokussieren.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist generative KI?",
+      "options": [
+        "KI, die neue Inhalte erzeugt",
+        "KI, die Daten analysiert",
+        "KI, die Hardware steuert",
+        "KI, die Netzwerke verwaltet"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Generative KI-Modelle erzeugen neue Inhalte basierend auf Eingaben.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Warum ist ethische KI-Nutzung wichtig?",
+      "options": [
+        "Um Kosten zu sparen",
+        "Um die Genauigkeit zu erhöhen",
+        "Um Verantwortung zu übernehmen",
+        "Um die Geschwindigkeit zu erhöhen"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ethische KI-Nutzung ist wichtig, um Verantwortung für die Auswirkungen der KI zu übernehmen.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wins-sw03",
+  "subjectId": "wins"
+}

@@ -1,0 +1,1263 @@
+{
+  "id": "bwl-24HS",
+  "subjectId": "bwl",
+  "year": "24HS",
+  "label": "MEP 24HS",
+  "minutes": 60,
+  "maxPoints": 40.0,
+  "scoring": "mixed",
+  "questions": [
+    {
+      "number": 1,
+      "type": "truefalse",
+      "prompt": "Der Einsatz des neuen ERP-Systems fällt unter die „Geschäftsprozesse“ der ElecCar AG.",
+      "scenario": "Die Automobilfirma \"ElecCar AG\" hat ein internes Projekt gestartet, um ihre Produktionsprozesse zu digitalisieren und unabhängiger von Zulieferern zu werden. Sie setzen eine neue ERP-Software (Ressourcenplanung) ein, die speziell für die Elektromobilität entwickelt wurde. Dieses ERP-System wird aktuell in 75 % der Produktionsstätten genutzt.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Geschäftsprozesse umfassen alle Aktivitäten, die direkt mit der Wertschöpfung zu tun haben, wie z.B. die Produktion.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "truefalse",
+      "prompt": "Die Entscheidung, unabhängiger von Zulieferern zu werden, betrifft die „Umweltsphäre Gesellschaft“.",
+      "scenario": "Die Automobilfirma \"ElecCar AG\" hat ein internes Projekt gestartet, um ihre Produktionsprozesse zu digitalisieren und unabhängiger von Zulieferern zu werden. Sie setzen eine neue ERP-Software (Ressourcenplanung) ein, die speziell für die Elektromobilität entwickelt wurde. Dieses ERP-System wird aktuell in 75 % der Produktionsstätten genutzt.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Entscheidung betrifft die Umweltsphäre Wirtschaft, da es um die Beziehungen zu Zulieferern geht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "truefalse",
+      "prompt": "Die Nutzung des ERP-Systems kann als „Erneuerung“ bezeichnet werden.",
+      "scenario": "Die Automobilfirma \"ElecCar AG\" hat ein internes Projekt gestartet, um ihre Produktionsprozesse zu digitalisieren und unabhängiger von Zulieferern zu werden. Sie setzen eine neue ERP-Software (Ressourcenplanung) ein, die speziell für die Elektromobilität entwickelt wurde. Dieses ERP-System wird aktuell in 75 % der Produktionsstätten genutzt.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Erneuerung bezieht sich auf die Einführung neuer Technologien oder Prozesse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "truefalse",
+      "prompt": "Die Entwicklung des ERP-Systems fiel unter die „Managementprozesse“.",
+      "scenario": "Die Automobilfirma \"ElecCar AG\" hat ein internes Projekt gestartet, um ihre Produktionsprozesse zu digitalisieren und unabhängiger von Zulieferern zu werden. Sie setzen eine neue ERP-Software (Ressourcenplanung) ein, die speziell für die Elektromobilität entwickelt wurde. Dieses ERP-System wird aktuell in 75 % der Produktionsstätten genutzt.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Managementprozesse betreffen die Steuerung und Kontrolle, nicht die Entwicklung von Systemen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "truefalse",
+      "prompt": "Die Personalbedarfsplanung ist Ausgangspunkt und Voraussetzung des personalwirtschaftlichen Handelns.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Personalbedarfsplanung bestimmt, wie viele und welche Art von Mitarbeitenden benötigt werden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "truefalse",
+      "prompt": "Die Personalführung bezieht sich auch (oder «u.a.») auf die Entlohnung der Mitarbeitenden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Entlohnung ist ein Teil der Personalführung, da sie die Motivation und Zufriedenheit beeinflusst.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "truefalse",
+      "prompt": "Der Zweck der Personalentwicklung besteht darin, personelle Überdeckung zu vermeiden.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Personalentwicklung zielt auf die Qualifikation und Weiterentwicklung der Mitarbeitenden ab.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "truefalse",
+      "prompt": "Die externe Personalgewinnung ist günstiger als die interne Personalgewinnung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Externe Personalgewinnung ist oft teurer, da sie Rekrutierungskosten und Einarbeitungszeiten beinhaltet.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "truefalse",
+      "prompt": "Die Achsenbeschriftungen des Modells lauten «Aufgabenorientierung» und «Beziehungsorientierung».",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Das Blake & Mouton Modell beschreibt Führungsstile entlang dieser beiden Dimensionen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "truefalse",
+      "prompt": "Eine schwache Einflussnahme der Führungskraft trotz minimaler Arbeitsleistung wird auch als «Clubhausführung» bezeichnet.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Clubhausführung (1,9) legt Wert auf gute Beziehungen, nicht auf Leistung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "truefalse",
+      "prompt": "Der anzustrebende Führungsstil ist durch Vertrauen und Respekt sowie leistungsorientierte und motivierte Mitarbeitende gekennzeichnet.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Der 9,9-Führungsstil gilt als ideal, da er sowohl Aufgaben- als auch Beziehungsorientierung maximiert.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "truefalse",
+      "prompt": "Beim 1,9-Führungsstil steht das Erfüllen der Aufgaben im Vordergrund und spielen die Bedürfnisse der Mitarbeitenden und das Arbeitklima eine untergeordnete Rolle.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "1,9-Führungsstil legt den Fokus auf Beziehungen, nicht auf Aufgaben.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "truefalse",
+      "prompt": "Wenn mit dem Verzehr einer Torte der Hunger gestillt wird, dann wird ein physiologisches Bedürfnis befriedigt.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Physiologische Bedürfnisse sind die grundlegendsten Bedürfnisse in Maslows Hierarchie.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "truefalse",
+      "prompt": "Wenn die Torte gekauft wird, um auf einer Geburtstagsfeier anerkennende Blicke zu ernten, dann wird das Selbstverwirklichungsbedürfnis gestillt.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Anerkennung durch andere gehört zur Bedürfnisstufe der Wertschätzung, nicht zur Selbstverwirklichung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "truefalse",
+      "prompt": "Wenn eine laktosefreie Torte gekauft wird, um keine allergische Reaktion hervorzurufen, dann wird das Sicherheitsbedürfnis befriedigt.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Sicherheitsbedürfnisse umfassen Schutz vor gesundheitlichen Risiken.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "truefalse",
+      "prompt": "Wenn die Torte als Höhepunkt für eine gesellige Geburtstagsfeier gekauft wird, dann wird damit ein soziales Bedürfnis gestillt.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Soziale Bedürfnisse beziehen sich auf Zugehörigkeit und Gemeinschaft.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "truefalse",
+      "prompt": "Je grösser der Kundenstamm von «Tolle Torte» und damit die Nachfrage, desto besser ist die Verhandlungsposition dieser Konsumenten.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Eine grössere Nachfrage stärkt die Position des Anbieters, nicht der Konsumenten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "truefalse",
+      "prompt": "Wenn drei Zuckerlieferanten von «Tolle Torte» fusionieren, verschlechtert sich die Verhandlungsposition dieser Zulieferer.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Eine Fusion von Lieferanten stärkt deren Verhandlungsposition.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "truefalse",
+      "prompt": "Je weniger Konkurrenten sich im Markt befinden und neue dazukommen, desto besser ist das für «Tolle Torte».",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Weniger Konkurrenz bedeutet weniger Preisdruck und mehr Marktanteil.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "truefalse",
+      "prompt": "Der Markt wird für «Tolle Torte» unattraktiver, wenn die Umstellungskosten auf Ersatzprodukte für Konsumenten tief sind.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Geringe Umstellungskosten erhöhen die Bedrohung durch Ersatzprodukte.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "truefalse",
+      "prompt": "Gemäss Kundenrezensionen schmecken die Cupcakes einfach lecker. Dies stellt für «Tolle Torte» eine Chance dar.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Ein gutes Produkt ist eine Stärke, keine externe Chance.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "truefalse",
+      "prompt": "Der Trend zur gesünderen Ernährung mit weniger Zucker stellt für «Tolle Torte» eine Gefahr dar.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ein Trend zu weniger Zucker kann die Nachfrage nach süssen Produkten reduzieren.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "truefalse",
+      "prompt": "Einen Heimlieferservice für Torten bieten nur ganz wenige Anbieter an. Dies ist aus Sicht von «Tolle Torte» eine Chance.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ein einzigartiger Service kann einen Wettbewerbsvorteil darstellen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "truefalse",
+      "prompt": "Hohe Rohstoffpreise reduzieren die Rentabilität von «Tolle Torte». Dies ist als Schwäche zu werten.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Hohe Rohstoffpreise sind eine externe Bedrohung, keine interne Schwäche.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "truefalse",
+      "prompt": "«Tolle Torte» führt eine Kundenkarte ein. Jede fünfte Torte gibt es zum halben Preis. Dies stellt eine Marktdurchdringungsstrategie dar.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Marktdurchdringung zielt darauf ab, bestehende Kunden zu mehr Käufen zu bewegen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "truefalse",
+      "prompt": "«Tolle Torte» bietet neu auch vegane und laktosefreie Torten an. Das ist eine Marktentwicklungsstrategie.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Anbieten neuer Produkte für bestehende Märkte ist Produktentwicklung, nicht Marktentwicklung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "truefalse",
+      "prompt": "«Tolle Torte» eröffnet ein neues Ladengeschäft in Wil. Das ist eine horizontale Diversifikation.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Eröffnung eines neuen Geschäfts ist geografische Expansion, keine Diversifikation.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "truefalse",
+      "prompt": "Marie heiratet einen Landwirt und verkauft neu die eigens hergestellte Butter und Sahne bei «Tolle Torte». Das ist eine vertikale Diversifikation.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Vertikale Diversifikation umfasst die Integration von Lieferkettenstufen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "open",
+      "prompt": "Welche Wettbewerbsstrategie nach Porter verfolgt „Tolle Torte“? Begründen Sie in einem Satz.",
+      "scenario": "«Tolle Torte» ist ein Unternehmen, das von Marie und Juana vor zwei Jahren gegründet wurde. Das Geschäftsmodell: Sie backen aufwendig gestaltete Torten aus hochwertigen regionalen Zutaten.",
+      "options": [],
+      "correct": [],
+      "points": 2.0,
+      "explanation": "",
+      "modelAnswer": "Tolle Torte verfolgt eine Differenzierungsstrategie, da sie sich durch individuell gestaltete, hochwertige Torten von der Konkurrenz abheben und so einen Mehrwert für ihre Kunden schaffen.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "truefalse",
+      "prompt": "Das Store Layout von IKEA, das die Kunden durch verschiedene Themenwelten führt, zählt zu den Kernprozessen des Verkaufs.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Kernprozesse sind direkt mit der Wertschöpfung verbunden, wie das Store Layout, das den Verkauf unterstützt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "truefalse",
+      "prompt": "Die Möglichkeit, Produkte im Laden über mobile Endgeräte zu scannen und Informationen abzurufen, gehört zu den Managementprozessen gemäss St. Galler Managementmodell.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Scannen von Produkten gehört zu den Unterstützungsprozessen, da es den Verkauf unterstützt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "truefalse",
+      "prompt": "Die Beratung durch IKEA-Mitarbeiter in den Filialen kann als Teil der Unterstützungsprozesse betrachtet werden.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Unterstützungsprozesse umfassen Aktivitäten, die den Kernprozessen dienen, wie Beratung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "truefalse",
+      "prompt": "Die Self-Checkout-Systeme in den IKEA-Filialen sind ein Beispiel für die Optimierung von Geschäftsprozessen, die auf Effizienz und Kostensenkung abzielt.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Self-Checkout-Systeme reduzieren Personalbedarf und beschleunigen den Kaufprozess.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "truefalse",
+      "prompt": "Der Kaufprozess bei IKEA wird durch eine nahtlose Integration von Lagerlogistik und Kassensystemen unterstützt, was zur Verbesserung der Kundenerfahrung beiträgt.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Eine effiziente Integration von Logistik und Kassensystemen verbessert den Kundenservice.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "truefalse",
+      "prompt": "Die individuelle Küchenplanung, die im IKEA-Laden angeboten wird, ist Teil der strategischen Unternehmensführung, da sie langfristige Kundenbindung fördert.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Individuelle Küchenplanung ist ein Unterstützungsprozess, nicht Teil der strategischen Führung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "open",
+      "prompt": "Nennen Sie gemäss der Wertkette von Porter 2 «Unterstützungsaktivitäten», die im obigen Beispiel einen positiven Einfluss auf 2 «Primäraktivitäten» im Verkaufsprozess bei IKEA haben. Begründen Sie, wie diese Aktivitäten zu einer Erhöhung der Gewinnmarge für IKEA beitragen.",
+      "scenario": "IKEA hat den Verkaufsprozess in seinen Filialen in den letzten Jahren neu gestaltet, um die Kundenerfahrung zu verbessern und den Kaufprozess effizienter zu gestalten.",
+      "options": [],
+      "correct": [],
+      "points": 6.0,
+      "explanation": "",
+      "modelAnswer": "Unterstützende Aktivität: Technologieentwicklung (z.B. mobile Endgeräte zur Produktinformation). Primäre Aktivität: Marketing und Vertrieb. Begründung: Durch den Einsatz mobiler Endgeräte können Kunden besser informiert werden, was zu höheren Verkaufszahlen und einer besseren Kundenzufriedenheit führt, was letztlich die Gewinnmarge erhöht.\nUnterstützende Aktivität: Personalmanagement (z.B. Schulung der Berater). Primäre Aktivität: Kundenservice. Begründung: Gut geschulte Berater können den Kunden besser helfen, was die Kundenzufriedenheit und die Wahrscheinlichkeit von Wiederholungskäufen erhöht, was die Gewinnmarge steigert.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "open",
+      "prompt": "Füllen Sie die folgende SWOT-Analyse für IKEA bezüglich der Einführung der neuen Produktlinie nachhaltiger, modularer Möbel aus. Jede Kategorie muss zwei relevante Punkte enthalten.",
+      "scenario": "IKEA möchte seine Marktposition weiter stärken und plant, eine neue Produktlinie für nachhaltige, modulare Möbel auf den Markt zu bringen. Diese Möbelstücke sollen aus recycelten Materialien bestehen und dem Kunden eine hohe Flexibilität in der Konfiguration bieten, um sie individuell an verschiedene Wohnsituationen anzupassen.",
+      "options": [],
+      "correct": [],
+      "points": 4.0,
+      "explanation": "",
+      "modelAnswer": "Stärken: 1. Starke Marke und globales Vertriebsnetz. 2. Erfahrung in der Massenproduktion und Logistik.\nSchwächen: 1. Höhere Produktionskosten für nachhaltige Materialien. 2. Potenziell höhere Preise für Kunden.\nChancen: 1. Steigendes Umweltbewusstsein der Konsumenten. 2. Möglichkeit, sich als Vorreiter im Bereich nachhaltiger Möbel zu positionieren.\nGefahren: 1. Starke Konkurrenz durch andere Anbieter nachhaltiger Möbel. 2. Risiko, dass höhere Preise die Nachfrage senken.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "open",
+      "prompt": "Welchen strategischen Ansatz hat IKEA verfolgt? Begründen Sie Ihre Antwort.",
+      "scenario": "IKEA möchte seine Marktposition weiter stärken und plant, eine neue Produktlinie für nachhaltige, modulare Möbel auf den Markt zu bringen. Diese Möbelstücke sollen aus recycelten Materialien bestehen und dem Kunden eine hohe Flexibilität in der Konfiguration bieten, um sie individuell an verschiedene Wohnsituationen anzupassen.",
+      "options": [],
+      "correct": [],
+      "points": 3.0,
+      "explanation": "",
+      "modelAnswer": "IKEA verfolgt eine Differenzierungsstrategie, indem es sich auf nachhaltige, modulare Möbel konzentriert, die aus recycelten Materialien bestehen und den Kunden eine hohe Flexibilität bieten. Dies entspricht dem steigenden Umweltbewusstsein der Kunden und hebt IKEA von Wettbewerbern ab.",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "truefalse",
+      "prompt": "Die Spartenorganisation kann zu weitgehend unabhängigen Abteilungen führen.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Spartenorganisationen sind oft dezentralisiert, was zu unabhängigen Abteilungen führt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "truefalse",
+      "prompt": "Die funktionale Organisationsform erlaubt eine starke Arbeitsteilung und Spezialisierung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Funktionale Organisationen sind nach Funktionen gegliedert, was Spezialisierung fördert.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "truefalse",
+      "prompt": "In der Matrixorganisation haben Mitarbeitende oft zwei Vorgesetzte.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Matrixorganisationen kombinieren funktionale und projektbezogene Strukturen, was zu mehreren Vorgesetzten führen kann.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 42,
+      "type": "truefalse",
+      "prompt": "Die divisionale Gliederung einer Organisation erlaubt eine hohe Marktorientierung.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Divisionale Strukturen sind oft nach Märkten oder Produkten gegliedert, was Marktorientierung fördert.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 43,
+      "type": "truefalse",
+      "prompt": "Artefakte/Symbole sind sichtbare und schwer zu interpretierende Elemente einer Unternehmenskultur.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Artefakte sind die sichtbaren, aber oft schwer zu interpretierenden Elemente der Kultur.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 44,
+      "type": "truefalse",
+      "prompt": "Normen und Standards bilden die mittlere Ebene des Kulturmodells nach Schein.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Normen und Standards sind die mittlere Ebene und beeinflussen das Verhalten der Mitglieder.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 45,
+      "type": "truefalse",
+      "prompt": "Die grundlegenden Basis-Annahmen sind oft unbewusst und schwer zu verändern.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Basis-Annahmen sind tief verwurzelt und beeinflussen die Kultur grundlegend.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 46,
+      "type": "truefalse",
+      "prompt": "Zu den Artefakten gehören auch Rituale und Traditionen, die in der Organisation gelebt werden, obwohl ihre tiefere Bedeutung oft unklar bleibt.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Rituale und Traditionen sind sichtbare Elemente der Kultur, deren Bedeutung nicht immer klar ist.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 47,
+      "type": "truefalse",
+      "prompt": "CSR ist mit Compliance gleichzusetzen und bezieht sich ausschliesslich auf die gesetzlichen Verpflichtungen eines Unternehmens.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "CSR geht über gesetzliche Verpflichtungen hinaus und umfasst freiwillige soziale und ökologische Verantwortung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 48,
+      "type": "truefalse",
+      "prompt": "Unternehmen, die CSR praktizieren, berücksichtigen neben ökonomischen auch ökologische und soziale Aspekte.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "CSR umfasst die Berücksichtigung von ökonomischen, ökologischen und sozialen Aspekten.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 49,
+      "type": "truefalse",
+      "prompt": "Unternehmen, die sich der CSR verpflichten, müssen alle Gewinne für wohltätige Zwecke spenden muss.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "CSR bedeutet nicht, alle Gewinne zu spenden, sondern verantwortungsvolles Handeln in allen Geschäftsbereichen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 50,
+      "type": "truefalse",
+      "prompt": "CSR kann zur langfristigen Steigerung des Unternehmenswerts beitragen, indem es das Vertrauen von Stakeholdern stärkt.",
+      "scenario": "",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "CSR stärkt das Vertrauen und die Reputation, was langfristig den Unternehmenswert steigern kann.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 51,
+      "type": "truefalse",
+      "prompt": "Die Identifizierung von Hebeln im systemischen Management zielt darauf ab, kleine Veränderungen mit grosser Wirkung im Gesamtsystem zu erkennen.",
+      "scenario": "Das Unternehmen „EcoCars“ produziert Elektrofahrzeuge und steht vor mehreren Herausforderungen. Obwohl die Nachfrage nach umweltfreundlichen Fahrzeugen wächst, kämpft EcoCars mit steigenden Produktionskosten und längeren Lieferzeiten für kritische Bauteile wie Batterien.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Hebel im systemischen Management sind Punkte, an denen kleine Änderungen grosse Auswirkungen haben können.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 52,
+      "type": "truefalse",
+      "prompt": "Ein zentraler Indikator im systemischen Management von EcoCars könnte die CO₂-Bilanz pro produziertem Fahrzeug sein.",
+      "scenario": "Das Unternehmen „EcoCars“ produziert Elektrofahrzeuge und steht vor mehreren Herausforderungen. Obwohl die Nachfrage nach umweltfreundlichen Fahrzeugen wächst, kämpft EcoCars mit steigenden Produktionskosten und längeren Lieferzeiten für kritische Bauteile wie Batterien.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die CO₂-Bilanz ist ein wichtiger Indikator für die Umweltfreundlichkeit der Produktion.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 53,
+      "type": "truefalse",
+      "prompt": "Die staatlichen Förderprogramme stellen Hebel dar und haben einen positiven Effekt auf die Innovationskraft der Branche.",
+      "scenario": "Das Unternehmen „EcoCars“ produziert Elektrofahrzeuge und steht vor mehreren Herausforderungen. Obwohl die Nachfrage nach umweltfreundlichen Fahrzeugen wächst, kämpft EcoCars mit steigenden Produktionskosten und längeren Lieferzeiten für kritische Bauteile wie Batterien.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Förderprogramme können Innovationen fördern und sind daher wichtige Hebel.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 54,
+      "type": "truefalse",
+      "prompt": "Die zunehmende Investitionen in nachhaltige Innovationen führt zu höheren Margen und zu mehr Investitionsspielraum und bildet damit eine negative Rückkopplung, auch Teufelskreis genannt.",
+      "scenario": "Das Unternehmen „EcoCars“ produziert Elektrofahrzeuge und steht vor mehreren Herausforderungen. Obwohl die Nachfrage nach umweltfreundlichen Fahrzeugen wächst, kämpft EcoCars mit steigenden Produktionskosten und längeren Lieferzeiten für kritische Bauteile wie Batterien.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Positive Rückkopplungen führen zu einer Verstärkung von Effekten, nicht zu einem Teufelskreis.",
+      "modelAnswer": "",
+      "source": "Altprüfung 24HS",
+      "aiGenerated": true
+    }
+  ]
+}

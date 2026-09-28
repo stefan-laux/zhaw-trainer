@@ -1,0 +1,339 @@
+{
+  "title": "Recherche",
+  "week": "SW 04",
+  "tagline": "Effektive Recherche ist der Schlüssel zu fundierten wissenschaftlichen Arbeiten.",
+  "summary": "In dieser Woche lernen die Studierenden die Grundlagen der Literaturrecherche kennen. Der Fokus liegt auf der Entwicklung einer Suchstrategie, der Identifikation relevanter Suchbegriffe und der effektiven Nutzung von Recherchetools. Die Studierenden erfahren, wie sie Quellen bewerten und auswählen, um die Qualität ihrer wissenschaftlichen Arbeiten zu sichern. Zudem wird die Bedeutung der Themenreflexion und der zielgerichteten Fragestellung hervorgehoben.",
+  "learningGoals": [
+    "Entwicklung einer effektiven Suchstrategie",
+    "Identifikation und Nutzung relevanter Suchbegriffe",
+    "Bewertung und Auswahl geeigneter Quellen",
+    "Verständnis der Phasen der Literaturrecherche",
+    "Anwendung von Booleschen Operatoren in der Recherche"
+  ],
+  "blocks": [
+    {
+      "title": "Phasen der Literaturrecherche",
+      "body": "Die Literaturrecherche gliedert sich in sieben Phasen: Themenreflexion, Suchbegriff-basierte Literatursuche, Ausselektion ungeeigneter Quellen, Abstract-Analyse, Quellenbeschaffung, zielorientiertes Lesen und Exzerpt-Erstellung.",
+      "bullets": [
+        "Themenreflexion und Identifikation der Suchbegriffe",
+        "Suchbegriff-basierte Literatursuche",
+        "Ausselektion ungeeigneter Quellen",
+        "Abstract-Analyse",
+        "Quellenbeschaffung",
+        "Fragen- und zielorientiertes Lesen",
+        "Exzerpt-Erstellung"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Suchstrategie",
+      "body": "Eine durchdachte Suchstrategie ist entscheidend für die Qualität der Rechercheergebnisse. Sie umfasst die Planung der Suche, die Auswahl der richtigen Suchbegriffe und die Anwendung von Techniken wie Booleschen Operatoren.",
+      "bullets": [
+        "Planung der Suche",
+        "Auswahl der Suchbegriffe",
+        "Anwendung von Booleschen Operatoren"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Themenreflexion",
+      "body": "Die Themenreflexion ist der erste Schritt der Recherche. Sie hilft, das Thema einzugrenzen und die relevanten Suchbegriffe zu identifizieren. Fragen an das Thema helfen, den Forschungsfokus zu schärfen.",
+      "bullets": [
+        "Einengung des Themas",
+        "Identifikation relevanter Suchbegriffe",
+        "Fragen an das Thema stellen"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Boolesche Operatoren",
+      "body": "Boolesche Operatoren wie AND, OR und NOT helfen, die Suche in Datenbanken zu verfeinern und relevante Ergebnisse zu erzielen.",
+      "bullets": [
+        "AND: Schnittmenge der Suchbegriffe",
+        "OR: Vereinigungsmenge der Suchbegriffe",
+        "NOT: Ausschluss bestimmter Begriffe"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Bewertung von Quellen",
+      "body": "Die Qualität der Quellen ist entscheidend für die wissenschaftliche Arbeit. Kriterien wie Autorität, Relevanz und Aktualität spielen eine wichtige Rolle bei der Bewertung.",
+      "bullets": [
+        "Autorität der Quelle",
+        "Relevanz für die Forschungsfrage",
+        "Aktualität der Informationen"
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Literaturrecherche",
+      "definition": "Der Prozess des systematischen Suchens und Sammelns von Informationen zu einem bestimmten Thema."
+    },
+    {
+      "term": "Suchstrategie",
+      "definition": "Ein Plan zur effektiven und effizienten Suche nach Informationen."
+    },
+    {
+      "term": "Themenreflexion",
+      "definition": "Der Prozess der kritischen Auseinandersetzung mit einem Thema zur Eingrenzung und Fokussierung."
+    },
+    {
+      "term": "Boolesche Operatoren",
+      "definition": "Logische Operatoren (AND, OR, NOT), die bei der Suche in Datenbanken verwendet werden."
+    },
+    {
+      "term": "Abstract",
+      "definition": "Eine kurze Zusammenfassung eines wissenschaftlichen Artikels, die die Hauptpunkte und Ergebnisse darstellt."
+    },
+    {
+      "term": "Quellenbewertung",
+      "definition": "Der Prozess der Beurteilung der Qualität und Relevanz von Informationsquellen."
+    },
+    {
+      "term": "Exzerpt",
+      "definition": "Eine Zusammenfassung oder ein Auszug aus einem Text, der die wesentlichen Informationen enthält."
+    },
+    {
+      "term": "Zielorientiertes Lesen",
+      "definition": "Ein Leseansatz, bei dem gezielt nach Informationen gesucht wird, die für die Forschungsfrage relevant sind."
+    },
+    {
+      "term": "Recherchekompetenz",
+      "definition": "Die Fähigkeit, effektiv und effizient nach Informationen zu suchen und diese zu bewerten."
+    },
+    {
+      "term": "Suchbegriffsdiagramm",
+      "definition": "Ein Diagramm, das hilft, relevante Suchbegriffe zu einem Thema zu identifizieren."
+    },
+    {
+      "term": "Selektion",
+      "definition": "Der Prozess der Auswahl geeigneter Quellen aus einer Vielzahl von Suchergebnissen."
+    },
+    {
+      "term": "Quellenbeschaffung",
+      "definition": "Der Prozess des Zugriffs auf und der Beschaffung von Informationsquellen."
+    },
+    {
+      "term": "Fragenorientiertes Lesen",
+      "definition": "Ein Leseansatz, bei dem Fragen an den Text gestellt werden, um relevante Informationen zu extrahieren."
+    },
+    {
+      "term": "Makrostrukturplan",
+      "definition": "Die grobe Struktur eines wissenschaftlichen Artikels, die den Leser durch den Text führt."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Suchstrategie?",
+      "back": "Ein Plan zur effektiven und effizienten Suche nach Informationen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne die Phasen der Literaturrecherche.",
+      "back": "Themenreflexion, Suchbegriff-basierte Literatursuche, Ausselektion ungeeigneter Quellen, Abstract-Analyse, Quellenbeschaffung, zielorientiertes Lesen, Exzerpt-Erstellung.",
+      "tag": "process"
+    },
+    {
+      "front": "Welche Funktion haben Boolesche Operatoren?",
+      "back": "Sie helfen, die Suche in Datenbanken zu verfeinern und relevante Ergebnisse zu erzielen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter Abstract-Analyse?",
+      "back": "Die Analyse der Kurzzusammenfassung eines Artikels, um dessen Relevanz zu beurteilen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist die Themenreflexion wichtig?",
+      "back": "Sie hilft, das Thema einzugrenzen und relevante Suchbegriffe zu identifizieren.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Exzerpt?",
+      "back": "Eine Zusammenfassung oder ein Auszug aus einem Text, der die wesentlichen Informationen enthält.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie bewertet man die Qualität einer Quelle?",
+      "back": "Anhand von Kriterien wie Autorität, Relevanz und Aktualität.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet zielorientiertes Lesen?",
+      "back": "Ein Leseansatz, bei dem gezielt nach Informationen gesucht wird, die für die Forschungsfrage relevant sind.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Suchbegriffsdiagramm?",
+      "back": "Ein Diagramm, das hilft, relevante Suchbegriffe zu einem Thema zu identifizieren.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Rolle spielt die Quellenbeschaffung?",
+      "back": "Sie ermöglicht den Zugriff auf und die Beschaffung von Informationsquellen.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist der Makrostrukturplan eines Artikels?",
+      "back": "Die grobe Struktur eines wissenschaftlichen Artikels, die den Leser durch den Text führt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen Effektivität und Effizienz in der Recherche?",
+      "back": "Effektivität bedeutet, das Richtige zu finden, Effizienz bedeutet, es schnell zu finden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist die Selektion von Quellen wichtig?",
+      "back": "Um aus einer Vielzahl von Suchergebnissen die geeigneten Quellen auszuwählen.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist das Ziel der Abstract-Analyse?",
+      "back": "Zu beurteilen, ob ein Artikel geeignet ist, eine Antwort auf die Forschungsfrage zu geben.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Phase gehört nicht zur Literaturrecherche?",
+      "options": [
+        "Themenreflexion",
+        "Abstract-Analyse",
+        "Datenanalyse",
+        "Quellenbeschaffung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Datenanalyse ist nicht Teil der Literaturrecherche, sondern der Datenverarbeitung.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der Zweck der Themenreflexion?",
+      "options": [
+        "Thema einzugrenzen",
+        "Suchbegriffe zu identifizieren",
+        "Quellen zu beschaffen",
+        "Abstracts zu analysieren"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Die Themenreflexion dient der Eingrenzung des Themas und der Identifikation relevanter Suchbegriffe.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Booleschen Operatoren werden in der Recherche verwendet?",
+      "options": [
+        "AND",
+        "OR",
+        "NOT",
+        "ALL"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "AND, OR und NOT sind die gängigen Booleschen Operatoren zur Verknüpfung von Suchbegriffen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Warum ist die Abstract-Analyse wichtig?",
+      "options": [
+        "Um den Artikel zu verstehen",
+        "Um die Relevanz des Artikels zu beurteilen",
+        "Um den Artikel zu zitieren",
+        "Um den Artikel zu veröffentlichen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Abstract-Analyse hilft, die Relevanz eines Artikels für die eigene Forschungsfrage zu beurteilen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Kriterien sind wichtig bei der Bewertung von Quellen?",
+      "options": [
+        "Autorität",
+        "Relevanz",
+        "Aktualität",
+        "Länge"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Autorität, Relevanz und Aktualität sind entscheidende Kriterien für die Bewertung von Quellen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Exzerpt?",
+      "options": [
+        "Eine vollständige Kopie eines Textes",
+        "Eine Zusammenfassung eines Textes",
+        "Ein Kommentar zu einem Text",
+        "Eine Kritik eines Textes"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Exzerpt ist eine Zusammenfassung oder ein Auszug aus einem Text.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Rolle spielt die Suchstrategie in der Recherche?",
+      "options": [
+        "Sie bestimmt die Effizienz der Suche",
+        "Sie ist irrelevant",
+        "Sie ersetzt die Themenreflexion",
+        "Sie ist nur für Anfänger wichtig"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Eine durchdachte Suchstrategie ist entscheidend für die Effizienz und Effektivität der Recherche.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet zielorientiertes Lesen?",
+      "options": [
+        "Lesen ohne Ziel",
+        "Lesen mit Fokus auf die Forschungsfrage",
+        "Lesen von Belletristik",
+        "Lesen von Zeitschriften"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Zielorientiertes Lesen bedeutet, mit Fokus auf die Forschungsfrage relevante Informationen zu suchen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Funktion hat das Suchbegriffsdiagramm?",
+      "options": [
+        "Es hilft, Suchbegriffe zu identifizieren",
+        "Es visualisiert die Rechercheergebnisse",
+        "Es ersetzt die Abstract-Analyse",
+        "Es ist ein Teil der Quellenbeschaffung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Suchbegriffsdiagramm hilft, relevante Suchbegriffe zu einem Thema zu identifizieren.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wischr-sw04",
+  "subjectId": "wischr"
+}

@@ -1,0 +1,1202 @@
+{
+  "id": "bwl-23HS",
+  "subjectId": "bwl",
+  "year": "23HS",
+  "label": "MEP 23HS",
+  "minutes": 60,
+  "maxPoints": 40.0,
+  "scoring": "mixed",
+  "questions": [
+    {
+      "number": 1,
+      "type": "truefalse",
+      "prompt": "Der Einsatz und die Nutzung von «MetaERP» spielt sich in den «Managementprozessen» der Firma Huawei ab.",
+      "scenario": "Der chinesische Informatik- und Telekommunikationskonzern Huawei hat intern ein neues, hauseigenes Management-Informations-System namens MetaERP eingeführt.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Managementprozesse umfassen die Gestaltung, Steuerung und Entwicklung von Unternehmensprozessen, zu denen auch die Einführung eines neuen ERP-Systems gehört.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "truefalse",
+      "prompt": "Die Entscheidung, nicht länger von US-amerikanischen Anbietern abhängig sein zu wollen, spielte sich in den «Geschäftsprozessen» der Firma Huawei ab.",
+      "scenario": "Huawei hat ein neues ERP-System eingeführt, um die Abhängigkeit von externen Anbietern zu verringern.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Entscheidung über die Abhängigkeit von Anbietern ist eine strategische Entscheidung und gehört zu den Managementprozessen, nicht zu den operativen Geschäftsprozessen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "truefalse",
+      "prompt": "Würde «MetaERP» auch kommerziell angeboten, wären die «Geschäftsprozesse» der Firma Huawei betroffen.",
+      "scenario": "Huawei könnte das neue ERP-System kommerziell anbieten.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Das Anbieten eines Produkts auf dem Markt betrifft die Geschäftsprozesse, da es den operativen Ablauf und die Wertschöpfungskette beeinflusst.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "truefalse",
+      "prompt": "Die von Tao Jingwen in seiner Rede erwähnte «Herausforderung» für Huawei, hat sich in der «ökonomischen Umweltsphäre» gezeigt.",
+      "scenario": "Huawei feierte die Einführung des neuen ERP-Systems als Sieg gegen Handelsbeschränkungen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Herausforderung durch Handelsbeschränkungen ist ein wirtschaftliches Problem und gehört zur ökonomischen Umweltsphäre.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "truefalse",
+      "prompt": "Die Entwicklung von «MetaERP» kann als Entwicklungsmodus «Optimierung» für die Firma Huawei bezeichnet werden.",
+      "scenario": "Huawei hat ein neues ERP-System entwickelt, um unabhängiger zu werden.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Entwicklung eines komplett neuen Systems stellt eine Erneuerung dar, nicht eine Optimierung bestehender Prozesse.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "truefalse",
+      "prompt": "Die «Aushandlung besserer Konditionen für fremdbezogene ERP-Software», wäre für die Firma Huawei der Entwicklungsmodus «Erneuerung» gewesen.",
+      "scenario": "Huawei hat ein neues ERP-System eingeführt, um unabhängiger zu werden.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Aushandeln besserer Konditionen ist eine Optimierung bestehender Prozesse, nicht eine Erneuerung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "truefalse",
+      "prompt": "Der europäische Markteintritt von Google entspricht einer «Produktentwicklung».",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Markteintritt in Europa ist eine Marktentwicklung, nicht eine Produktentwicklung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "truefalse",
+      "prompt": "Der Eintritt in Märkte wie «Internet-Suche» oder «Onlinewerbung» von OpenAI entspricht einer «Diversifikation».",
+      "scenario": "OpenAI versucht mit ChatGPT in Märkte wie Internet-Suche und Online-Werbung vorzudringen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Das Eindringen in neue Märkte mit neuen Produkten oder Dienstleistungen stellt eine Diversifikation dar.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "truefalse",
+      "prompt": "Der Eintritt in den «Softwaremarkt» von Google entspricht einer «Marktdurchdringung».",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Eintritt in einen neuen Markt ist eine Marktentwicklung, nicht eine Marktdurchdringung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "truefalse",
+      "prompt": "Die Aktivität im «Softwaremarkt» von Microsoft entspricht einer «Marktdurchdringung».",
+      "scenario": "Microsoft unterstützt OpenAI, um seine Vormachtstellung im Softwaremarkt zu sichern.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Microsoft versucht, seine Position im bestehenden Markt zu stärken, was einer Marktdurchdringung entspricht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "truefalse",
+      "prompt": "Googles Einfluss im KI-Textrobotermarkt ist in der Kraft: «potentielle Wettbewerber» zu verorten.",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Google ist bereits im Markt aktiv, daher ist es ein aktueller Wettbewerber, nicht nur ein potenzieller.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "truefalse",
+      "prompt": "Der von Google entwickelte KI-Textroboter «Bard» soll Google den Zugang zu zwei bis drei Märkten eröffnen.",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Bard soll Google den Zugang zu mehreren Märkten wie Internet-Suche und Online-Werbung eröffnen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "truefalse",
+      "prompt": "Der Textroboter «Bard» stellt eine Gefahr als «Substitut» für die KI-Textbranche dar.",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Bard ist ein direkter Wettbewerber in der KI-Textbranche, kein Substitut.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "truefalse",
+      "prompt": "In der KI-Textroboterbranche stellt das «Kapital» eine «Eintrittsbarriere» dar.",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Hohe Investitionen in Technologie und Entwicklung stellen eine Eintrittsbarriere dar.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "truefalse",
+      "prompt": "Die Bestimmungen der «europäischen Datenschutzgesetzes DSGVO» stärken die «Kraft der Lieferanten».",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die DSGVO betrifft den rechtlichen Rahmen und hat keinen direkten Einfluss auf die Lieferantenmacht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "truefalse",
+      "prompt": "Die «Wettbewerbsintensität» in der Textroboterbranche, war vor Googles Markteintritt weniger stark ausgeprägt.",
+      "scenario": "Google hat seinen KI-Chatroboter „Bard\" in Europa gestartet.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Googles Eintritt erhöht die Wettbewerbsintensität in der Branche.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "truefalse",
+      "prompt": "Das Organigramm der Coop Gruppe ist als «Matrixorganisation» gestaltet.",
+      "scenario": "Im Jahr 2022 hatte die Coop Gruppe ein bestimmtes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Organigramm zeigt eine divisional gegliederte Struktur, keine Matrixorganisation.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "truefalse",
+      "prompt": "Der Grosshandel der Coop Gruppe ist divisional «geografisch» gegliedert.",
+      "scenario": "Im Jahr 2022 hatte die Coop Gruppe ein bestimmtes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Der Grosshandel ist nach geografischen Regionen gegliedert, wie die verschiedenen Länder zeigen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "truefalse",
+      "prompt": "Der Detailhandel der Coop Gruppe ist eine Mischung aus «funktional» und «produkt-orientiert» gegliedert.",
+      "scenario": "Im Jahr 2022 hatte die Coop Gruppe ein bestimmtes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Der Detailhandel ist primär produktorientiert gegliedert, nicht funktional.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "truefalse",
+      "prompt": "Die Produktion der Coop Gruppe ist mehrheitlich divisional «nach Sparten» gegliedert.",
+      "scenario": "Im Jahr 2022 hatte die Coop Gruppe ein bestimmtes Organigramm.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Produktion ist nach verschiedenen Sparten wie Bell, Hilcona und Hügli gegliedert.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "open",
+      "prompt": "Benennen Sie die Ebenen des Kulturmodells von Schein (1984) bottom-up oder top-down und nennen Sie pro Ebene max. zwei Kulturelementbeispiele, die auf die vorgestellte Coop-Gruppe zutreffen.",
+      "scenario": "Für die Coop-Gruppe arbeiten im Detailhandel, im Grosshandel und in der Produktion über 95'000 Mitarbeiterinnen und Mitarbeiter.",
+      "options": [],
+      "correct": [],
+      "points": 9.0,
+      "explanation": "",
+      "modelAnswer": "1. Artefakte: Coop Campus, rot-oranges Logo\n2. Werte: Marktgerechte Löhne, gleiche Karrierechancen\n3. Grundannahmen: Förderung der Arbeitsmarktfähigkeit, Talentmanagement",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "truefalse",
+      "prompt": "Bei der Arbeit von Swissport handelt es sich aus Sicht des Flughafens Zürich um einen Managementprozess.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Swissport führt operative Tätigkeiten aus, die zu den Geschäftsprozessen gehören, nicht zu den Managementprozessen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "truefalse",
+      "prompt": "Die Einführung eines Gesichtserkennungssystems am Flughafen Zürich entspräche einer evolutionären «Prozessoptimierung» bei der «SwissPort».",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Einführung eines neuen Systems zur Verbesserung bestehender Prozesse ist eine Prozessoptimierung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "truefalse",
+      "prompt": "Die Sicherheitskontrolle ist ein Teilbereich des Kundenprozesses „Marketing & Vertrieb\" des Flughafens Zürich.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Sicherheitskontrolle gehört zu den operativen Prozessen, nicht zu Marketing & Vertrieb.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "truefalse",
+      "prompt": "Die Rekrutierung von neuen Mitarbeitenden stellt ein Unterstützungsprozess des HR der Swissport dar.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Rekrutierung ist ein typischer Unterstützungsprozess im Bereich Human Resources.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "truefalse",
+      "prompt": "Gemäss Porters Wertkette wird die Arbeit von Swissport am Flughafen Zürich als «Primäraktivität» verstanden.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Swissport führt primäre Aktivitäten im Bereich der Logistik und des Flugbetriebs durch.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "truefalse",
+      "prompt": "Könnte durch automatische Gesichtserkennung auf den Einsatz von Boardkarten verzichtet werden, würde die Gewinnspanne bei Swissport gemäss Porters Wertkette steigen.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Effizienzsteigerungen und Kostensenkungen durch Technologie können die Gewinnspanne erhöhen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "truefalse",
+      "prompt": "Der Einsatz von Gesichtserkennungssystemen ist der Unterstützungsaktivität «Technologieentwicklung» gemäss Porters Wertkette zuzuordnen.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Technologieentwicklung ist eine Unterstützungsaktivität, die Innovationen wie Gesichtserkennung umfasst.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "truefalse",
+      "prompt": "Die Arbeit, die bei der Swissport im Rahmen der Sicherheitskontrolle anfällt, fällt in die Aktivitäten der «Eingangslogistik», gemäss Porters Wertkette.",
+      "scenario": "Der Luftverkehr platzt aus allen Nähten. Die operative Schaltzentrale der Swiss ist täglich gefordert, einen reibungslosen Flugbetrieb sicherzustellen.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Sicherheitskontrollen sind Teil der operativen Aktivitäten, nicht der Eingangslogistik.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "truefalse",
+      "prompt": "Die Mehrheit der befragten Führungskräfte wünscht sich Mitarbeitende des Typs «X» gemäss der Menschenbilder nach McGregor.",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Mehrheit der Führungskräfte bevorzugt einen partizipativen Führungsstil, der eher dem Typ Y entspricht.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "truefalse",
+      "prompt": "Die Mehrheit der befragten Führungskräfte führt am liebsten «demokratisch» gemäss dem Modell von «Tannenbaum & Schmidt».",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Die Mehrheit bevorzugt einen konsultativen oder partizipativen Führungsstil, nicht unbedingt demokratisch.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "truefalse",
+      "prompt": "Die Mehrheit der befragten Führungskräfte führt am liebsten nach dem Prinzip «Erfüllen von Aufgaben» gemäss dem Managerial-Grid-Modell von «Blake & Mouton».",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Das Managerial-Grid-Modell fokussiert auf die Balance zwischen Aufgaben- und Mitarbeiterorientierung, nicht nur auf Aufgaben.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "truefalse",
+      "prompt": "Der in der Grafik erwähnte Führungsstil «Die Führungskraft setzt nur Ziele, Mitarbeiter handeln eigenverantwortlich» entspricht dem «partizipativen» Führungsstil gemäss «Tannenbaum & Schmidt».",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Dieser Führungsstil entspricht eher dem Laissez-faire-Stil, nicht dem partizipativen Stil.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "truefalse",
+      "prompt": "Der in der Grafik erwähnte Führungsstil «Die Führungskraft lässt Entscheidungen demokratisch abstimmen» entspricht dem Führungsstil «Verkaufen» im situativen Führungsmodell von «Hersey & Blanchard».",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Demokratische Abstimmung entspricht nicht dem Verkaufen-Stil, sondern eher einem partizipativen Ansatz.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "truefalse",
+      "prompt": "Der in der Grafik erwähnte Führungsstil «die Führungskraft trifft Entscheidungen, überzeugt Mitarbeiter von der Richtigkeit» entspricht dem «informierenden» Führungsstil nach «Tannenbaum & Schmidt».",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Dieser Stil entspricht dem informierenden Führungsstil, bei dem die Führungskraft die Entscheidungen erklärt.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "truefalse",
+      "prompt": "Australien und Kanada haben eine höhere Akzeptanz des autoritären Führungsstils unter den Führungskräften als in den anderen untersuchten Staaten.",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Die Umfrage zeigt, dass Australien und Kanada eine höhere Akzeptanz für autoritäre Führungsstile haben.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "truefalse",
+      "prompt": "Die «eigenständige Entwicklung von Lösungen mit Entscheidungsgewalt» stellt für die Mitarbeitenden ein «Hygienefaktor» gemäss «Herzberg» dar.",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Eigenständige Entwicklung von Lösungen ist ein Motivator, kein Hygienefaktor.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "truefalse",
+      "prompt": "Wenn Mitarbeitende «Lösungen entwickeln» dürfen, könnten sich dahinter «Selbstverwirklichungsbedürfnisse» gemäss «Maslow» verbergen.",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Selbstverwirklichung ist das höchste Bedürfnis in Maslows Hierarchie und wird durch eigenständige Arbeit gefördert.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "truefalse",
+      "prompt": "«Eigene Entscheidungsgewalt» dürfte ein Argument sein, welches das «Employer Branding» eines Unternehmens steigern.",
+      "scenario": "Die Führungskultur hat sich in den letzten Jahrzehnten gewandelt. Während Vorgesetzte früher über die Köpfe ihrer Angestellten hinweg bestimmten, fliesst bei modernem Leadership die Meinung der Mitarbeitenden in die Entscheidungsprozesse mit ein.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Eigenverantwortung und Entscheidungsfreiheit sind attraktive Merkmale für Arbeitnehmer und stärken das Employer Branding.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "truefalse",
+      "prompt": "«CO2-Emissionen» sind Output-Bestandteil des «ökonomischen Systems».",
+      "scenario": "Die CO2-Emissionen von Benzin- und Dieselfahrzeugen sind im vergangenen Jahr gesunken.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "CO2-Emissionen sind ein Umweltfaktor und gehören zum ökologischen System, nicht zum ökonomischen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "truefalse",
+      "prompt": "Die gemessene Reduktion der Treibstoffe des «Bafu» verbessert die «Ökobilanz».",
+      "scenario": "Die CO2-Emissionen von Benzin- und Dieselfahrzeugen sind im vergangenen Jahr gesunken.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Eine Reduktion der Treibstoffe führt zu einer besseren Ökobilanz, da weniger Schadstoffe ausgestossen werden.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 42,
+      "type": "truefalse",
+      "prompt": "Die erwähnte «Veränderung des Mobilitätsverhaltens» hat positive Effekte auf den «Umweltverbrauch».",
+      "scenario": "Die CO2-Emissionen von Benzin- und Dieselfahrzeugen sind im vergangenen Jahr gesunken.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Weniger Geschäftsreisen und mehr Homeoffice reduzieren den Umweltverbrauch durch geringere Emissionen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 43,
+      "type": "truefalse",
+      "prompt": "Das «Heizen» mit Gas oder Öl hat negative Effekte auf die «Umweltbelastung».",
+      "scenario": "Die CO2-Emissionen von Benzin- und Dieselfahrzeugen sind im vergangenen Jahr gesunken.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Heizen mit fossilen Brennstoffen erhöht die Umweltbelastung durch CO2-Emissionen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 44,
+      "type": "open",
+      "prompt": "Begründen Sie mit Hilfe der drei Grundmodelle der Ethik, wie sich mit je einem Argument der weitere CO2-Emissionssausstoss aus Sicht der Schweizer Politik ethisch legitimieren und begründen liesse.",
+      "scenario": "Die CO2-Emissionen von Benzin- und Dieselfahrzeugen sind im vergangenen Jahr gesunken.",
+      "options": [],
+      "correct": [],
+      "points": 3.0,
+      "explanation": "",
+      "modelAnswer": "Tugendethik: Förderung von Innovationen und Technologien zur Reduktion von CO2-Emissionen als Ausdruck einer tugendhaften Gesellschaft.\nUtilitaristische Ethik: Reduktion der CO2-Emissionen maximiert das Wohl der Gesellschaft durch Verbesserung der Umweltqualität.\nPflichtenethik (Deontologie): Verpflichtung zur Einhaltung internationaler Klimaziele und Reduktion von CO2-Emissionen als moralische Pflicht.",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 45,
+      "type": "open",
+      "prompt": "Sehen Sie sich das nachfolgende Netzwerk zum E-Bike-Markt an und ergänzen Sie die runden Kästchen mit einem Vorzeichen (+ = Zunahme, - = Abnahme oder 0 = keine Veränderung; 0.5 Punkte pro richtige Einschätzung).",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [],
+      "correct": [],
+      "points": 4.0,
+      "explanation": "",
+      "modelAnswer": "G -> B: +\nOE -> B: +\nB -> OE: -\nB -> K: -\nK -> OE: +\nK -> G: +\nT -> U: +\nB -> U: +",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 46,
+      "type": "truefalse",
+      "prompt": "«Umwelt-Gesetze Bussen/Strafen» sind als «Hebel» zu verstehen.",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Gesetze und Strafen sind Instrumente, die gezielt eingesetzt werden können, um Verhalten zu beeinflussen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 47,
+      "type": "truefalse",
+      "prompt": "Der «rücksichtlose/illegale Konsum» ist eine «Rahmenbedingung».",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Rücksichtsloser Konsum ist eine Verhaltensweise, keine Rahmenbedingung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 48,
+      "type": "truefalse",
+      "prompt": "Der «ökologische Schaden» ist ein «Indikator».",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "R"
+      ],
+      "points": 0.5,
+      "explanation": "Ökologischer Schaden zeigt die Auswirkungen von Handlungen auf die Umwelt und dient als Indikator.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 49,
+      "type": "truefalse",
+      "prompt": "Der «technologische Fortschritt» ist als «Rahmenbedingung» zu verstehen.",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Technologischer Fortschritt ist ein dynamischer Prozess, keine statische Rahmenbedingung.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 50,
+      "type": "truefalse",
+      "prompt": "Das «Umweltbewusstsein» hat keinen Effekt auf den «ökologischen Schaden».",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Höheres Umweltbewusstsein kann zu umweltfreundlicherem Verhalten und somit zu weniger ökologischem Schaden führen.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 51,
+      "type": "truefalse",
+      "prompt": "Der Kreislauf (Motor) in der Mitte zeigt einen «Teufelskreislauf».",
+      "scenario": "Ein Ursache-Wirkung-Netzwerk im E-Bike-Markt zeigt verschiedene Einflussfaktoren.",
+      "options": [
+        {
+          "label": "R",
+          "text": "Richtig"
+        },
+        {
+          "label": "F",
+          "text": "Falsch"
+        }
+      ],
+      "correct": [
+        "F"
+      ],
+      "points": 0.5,
+      "explanation": "Ein Teufelskreislauf ist ein sich selbst verstärkender negativer Prozess, was hier nicht zwingend der Fall ist.",
+      "modelAnswer": "",
+      "source": "Altprüfung 23HS",
+      "aiGenerated": true
+    }
+  ]
+}

@@ -1,0 +1,1368 @@
+{
+  "id": "wr-22HS",
+  "subjectId": "wr",
+  "year": "22HS",
+  "label": "MEP 22HS",
+  "minutes": 90,
+  "maxPoints": 90,
+  "scoring": "penalty",
+  "questions": [
+    {
+      "number": 1,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Sie führen ein Start-Up und entwickeln eine Software. Um Ihre Immaterialgüterrechte zu schützen, lassen Sie sich von einer Rechtsanwältin beraten. Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immaterialgüterrechte sind absolute Rechte."
+        },
+        {
+          "label": "B",
+          "text": "Dritte können das Immaterialgüterrecht über die Lizenzvergabe des Inhabers nutzen."
+        },
+        {
+          "label": "C",
+          "text": "Ein für die Europäische Union (EU) geltendes Patent muss in jedem Mitgliedstaat einzeln beantragt werden."
+        },
+        {
+          "label": "D",
+          "text": "Um die Idee zu schützen, sind mit sämtlichen involvierten Personen Schweigevereinbarungen (Non Disclosure Agreements) abzuschliessen. Mit Mitarbeitenden kann dies bereits im Arbeitsvertrag vereinbart werden."
+        },
+        {
+          "label": "E",
+          "text": "Immaterialgüterrechte sind relative Rechte."
+        }
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Immaterialgüterrechte sind absolute Rechte, die gegenüber jedermann gelten (Art. 1 URG). Dritte können durch Lizenzvergabe des Inhabers diese Rechte nutzen (Art. 13 URG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "In Sachen Immaterialgüterrechte: Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Für die Immaterialgüterrechte Patent, Marke, Design, Urheberrecht, Sortenschutz und Topografien gibt es jeweils separate Gesetze."
+        },
+        {
+          "label": "B",
+          "text": "Alles, was im Gesetz steht, ist erlaubt."
+        },
+        {
+          "label": "C",
+          "text": "Damit ein Werk urheberrechtlich schützbar ist, müssen drei Voraussetzungen erfüllt sein: 1. Es muss sich um ein Werk der Literatur oder Kunst oder um ein Computerprogramm handeln. 2. Das Werk muss individuellen Charakter haben. 3. Das Werk muss auf einer geistigen Schöpfung beruhen."
+        },
+        {
+          "label": "D",
+          "text": "Die Software muss von Menschen geschaffen werden, um das Kriterium der geistigen Schöpfung zu erfüllen. Heute gibt es aufgrund der Künstlichen Intelligenz bereits Roboter, die dieses Kriterium erfüllen und somit den Menschen gleichgestellt werden."
+        },
+        {
+          "label": "E",
+          "text": "Urheber können eine oder auch mehrere natürliche Personen sein."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Es gibt separate Gesetze für die verschiedenen Immaterialgüterrechte (z.B. PatG, MSchG, DesG, URG). Ein Werk muss die genannten Voraussetzungen erfüllen, um urheberrechtlich geschützt zu sein (Art. 2 URG). Urheber können mehrere natürliche Personen sein (Art. 7 URG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Zum Immaterialgüterrechte stellen sich weitere Fragen: Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ein Gemeingut ist ein Zeichen, dem die zur Individualisierung erforderliche \"markenspezifische\" Unterscheidungskraft fehlt und solche, die für einen funktionierenden Wirtschaftsverkehr freizuhalten sind."
+        },
+        {
+          "label": "B",
+          "text": "Unternehmen können den Gebrauch von ähnlichen Marken in sogenannten \"Abgrenzungsvereinbarungen\" regeln."
+        },
+        {
+          "label": "C",
+          "text": "Software ist durch das Urheberrecht geschützt, wenn sie ein gewisses Mass an Individualität erreicht."
+        },
+        {
+          "label": "D",
+          "text": "Das Designrecht schützt auch das Design der Marke (Bild- oder Wortmarke)."
+        },
+        {
+          "label": "E",
+          "text": "Immaterialgüterrecht bremst die Innovation von Unternehmen."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Gemeingut ist ein Zeichen ohne markenspezifische Unterscheidungskraft (Art. 2 MSchG). Unternehmen können den Gebrauch von ähnlichen Marken in Abgrenzungsvereinbarungen regeln. Software ist durch das Urheberrecht geschützt, wenn sie Individualität aufweist (Art. 2 URG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "multi",
+      "title": "",
+      "scenario": "Werbung ist in der Wirtschaft wichtig, aber nicht alles ist möglich oder doch?",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Preisbekanntgabeverordnung (PBV) verfolgt drei Ziele: Preisklarheit, Vergleichbarkeit der Preise, Verhinderung irreführender Preisangaben"
+        },
+        {
+          "label": "B",
+          "text": "Die PBV ist als Verordnung nicht bindend, sondern nur Hinweisgeber."
+        },
+        {
+          "label": "C",
+          "text": "Die Verletzung von Geschäftsgeheimnissen kann gegen das Strafrecht, das Lauterkeitsrechts und gegen das Vertragsrecht verstossen."
+        },
+        {
+          "label": "D",
+          "text": "Vergleichende Werbung ist unter bestimmten Voraussetzungen erlaubt."
+        },
+        {
+          "label": "E",
+          "text": "Das Lauterkeitsrecht kann auch gegen nicht am Wettbewerb direkt Beteiligte geltend gemacht werden, wenn diese den Wettbewerb beeinflussen."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die PBV verfolgt die genannten Ziele (Art. 16-20 UWG). Verletzung von Geschäftsgeheimnissen kann gegen mehrere Rechtsbereiche verstossen (Art. 4 UWG). Vergleichende Werbung ist unter bestimmten Voraussetzungen erlaubt (Art. 3e UWG). Lauterkeitsrecht kann auch gegen nicht direkt Beteiligte geltend gemacht werden (Art. 2 UWG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Das Kartellgesetz ist wichtig für die Freiheit des Wettbewerbs. Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Kartellgesetz verbietet sämtliche Absprachen zwischen Unternehmen, die den Wettbewerb beeinträchtigen."
+        },
+        {
+          "label": "B",
+          "text": "Die drei Pfeiler des Kartellrechts sind folgende: Wettbewerbsabreden, Marktmachtmissbrauch und Unternehmenszusammenschlüsse"
+        },
+        {
+          "label": "C",
+          "text": "Bei der Bestimmung des relevanten Markts muss dieser in sachlicher, örtlicher und zeitlicher Hinsicht konkretisiert werden."
+        },
+        {
+          "label": "D",
+          "text": "Gemäss Kartellrecht darf ein Unternehmen keine marktbeherrschende Stellung innehaben, da dies den Wettbewerb beeinträchtigen würde."
+        },
+        {
+          "label": "E",
+          "text": "Das öffentliche Beschaffungsrecht enthält besondere Bestimmung zum Kartellrecht."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die drei Pfeiler des Kartellrechts sind Wettbewerbsabreden, Marktmachtmissbrauch und Unternehmenszusammenschlüsse (Art. 5-10 KG). Der relevante Markt muss konkretisiert werden (Art. 11 KG). Das öffentliche Beschaffungsrecht enthält besondere Bestimmungen zum Kartellrecht (Art. 5 KG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Das Arbeitsrecht enthält viele Pflichten. Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Im Arbeitsrecht dürfen «relativ zwingende» Normen nicht zuungunsten des Arbeitnehmers abgeändert werden."
+        },
+        {
+          "label": "B",
+          "text": "Das Einholen von Referenzen ist nur mit Zustimmung der sich bewerbenden Person zulässig."
+        },
+        {
+          "label": "C",
+          "text": "Wurde bei einem Bewerbungsgespräch gelogen, könnte ein Grund für eine fristlose Kündigung vorliegen."
+        },
+        {
+          "label": "D",
+          "text": "Während der Schwangerschaft und nach der Geburt eines Kindes gelten besondere Kündigungsschutzbestimmungen."
+        },
+        {
+          "label": "E",
+          "text": "Aufgrund der Gleichstellung und dem verfassungsrechtlichen Diskriminierungsverbot können auch werdende Väter sich auf die Kündigungsschutzbestimmungen für werdende Mütter berufen."
+        }
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Relativ zwingende Normen dürfen nicht zuungunsten des Arbeitnehmers abgeändert werden (Art. 361 OR). Referenzen dürfen nur mit Zustimmung eingeholt werden (Art. 328b OR). Lügen im Bewerbungsgespräch können eine fristlose Kündigung rechtfertigen (Art. 337 OR). Besondere Kündigungsschutzbestimmungen gelten während der Schwangerschaft und nach der Geburt (Art. 336c OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "multi",
+      "title": "",
+      "scenario": "Im Arbeitsrecht hat der Arbeitnehmer immer recht, oder doch nicht?",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arbeitnehmende, die mit einer Kündigung nicht einverstanden sind, sollten bis Ablauf der Kündigungsfrist schriftlich Einsprache erheben."
+        },
+        {
+          "label": "B",
+          "text": "Arbeitgeber haben gegenüber ihren Arbeitnehmern eine Fürsorgepflicht. Diese wirkt auch über das Arbeitsverhältnis hinaus."
+        },
+        {
+          "label": "C",
+          "text": "Gemäss Schweizer Recht ist eine Kündigung grundsätzlich nicht zu begründen."
+        },
+        {
+          "label": "D",
+          "text": "Erscheint ein Arbeitnehmer mehrere Tage ohne Begründung nicht zur Arbeit, gilt dies als formlose Kündigung."
+        },
+        {
+          "label": "E",
+          "text": "Die Treuepflicht des Arbeitnehmers ist das Pendant zur Fürsorgepflicht des Arbeitgebers."
+        }
+      ],
+      "correct": [
+        "B",
+        "C",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Arbeitgeber haben eine Fürsorgepflicht, die auch über das Arbeitsverhältnis hinaus wirkt (Art. 328 OR). Eine Kündigung muss nicht begründet werden (Art. 335 OR). Die Treuepflicht des Arbeitnehmers ist das Pendant zur Fürsorgepflicht des Arbeitgebers (Art. 321a OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "multi",
+      "title": "",
+      "scenario": "Urs und Gerda kennen sich schon seit Schulzeiten. In der Zwischenzeit sind sie beide erfolgreich im Geschäft. Gerda ist verantwortlich für eine digitale Jobvermittlungsplattform (Digijob) und Urs hat geschäftliche Kontakte nach Polen, von wo aus er Personal in die Schweiz rekrutiert. Sie treffen sich regelmässig mit ihren Familien und nutzen diese Gelegenheit, um gleichzeitig die aktuelle Preispolitik von solchen Vermittlungsplattformen zu besprechen. Dies ist auch notwendig, da die Betriebe aufgrund der ausländischen günstigeren Konkurrenz ökonomisch in Bedrängnis kommen würden.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Urs und Gerda könnten gegen das Kartellgesetz verstossen."
+        },
+        {
+          "label": "B",
+          "text": "Die Löhne für die vermittelten Arbeitskräfte können frei festgesetzt werden, da wir in der Schweiz kein System des Mindestlohns kennen."
+        },
+        {
+          "label": "C",
+          "text": "Das EU-Recht ist nicht zu berücksichtigen, da die Arbeit ja nicht in der EU, sondern in der Schweiz stattfinden soll."
+        },
+        {
+          "label": "D",
+          "text": "Die Lauterkeitskommission ist zuständig, falls die in die Schweiz vermittelten Arbeitskräfte unlauter behandelt würden."
+        },
+        {
+          "label": "E",
+          "text": "Zur Beurteilung der Frage, welches Recht anwendbar ist, sind die internationalen Übereinkommen sowie das internationale Privatrecht zu konsultieren."
+        }
+      ],
+      "correct": [
+        "A",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Urs und Gerda könnten gegen das Kartellgesetz verstossen, wenn sie Preisabsprachen treffen (Art. 5 KG). Internationale Übereinkommen und das internationale Privatrecht sind zur Beurteilung des anwendbaren Rechts zu konsultieren (Art. 1 IPRG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "multi",
+      "title": "",
+      "scenario": "Digijob rekrutiert mit der Hilfe von Urs erfolgreich Arbeitskräfte. Olga aus Polen freut sich, nachdem sie ihr Deutsch perfektioniert hat, endlich als Springerin auf Abruf bei verschiedenen Pflegeheimen zu arbeiten. Ihr Einsatz wird sehr geschätzt und die Vermittlungsplattform kann ihr für mehrere Monate ein 100-Prozent Pensum ermöglichen. Eines Tages bricht sie sich auf dem Weg zur Arbeit den Knöchel und ist demzufolge für mehrere Monate arbeitsunfähig.",
+      "prompt": "Welche der folgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgrund der Tatsache, dass Olga als Springerin für mehrere Betriebe tätig war und nicht in einem einzigen Betrieb, ist sie nicht als Arbeitnehmerin zu qualifizieren. Es liegt auch kein Subordinationsverhältnis vor, da sie den Vertrag mit der Vermittlungsplattform abgeschlossen hat."
+        },
+        {
+          "label": "B",
+          "text": "Ein Subordinationsverhältnis kann auch vorliegen, wenn Olga den Vertrag nicht mit dem Pflegeheim abgeschlossen hat, da dieses Weisungen erteilen kann."
+        },
+        {
+          "label": "C",
+          "text": "Olga wurde zwar angekündigt, dass sie viel arbeiten können wird, aber es wurde ihr nicht versprochen. Da sie die unternehmerischen Risiken mitträgt und sich bewusst ist, dass sie dieses Risiko eingeht, liegt kein Arbeitsverhältnis, sondern ein Auftrag vor. Olga ist als Selbstständige und nicht als Arbeitnehmerin zu qualifizieren."
+        },
+        {
+          "label": "D",
+          "text": "Wenn ein Unternehmen keine Sozialversicherungsabgaben entrichtet, liegt kein Arbeitsvertrag vor."
+        },
+        {
+          "label": "E",
+          "text": "Ein Arbeitsvertrag kann auch formlos vereinbart werden."
+        }
+      ],
+      "correct": [
+        "B",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Subordinationsverhältnis kann auch vorliegen, wenn Weisungen erteilt werden (Art. 319 OR). Ein Arbeitsvertrag kann auch formlos vereinbart werden (Art. 320 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "multi",
+      "title": "",
+      "scenario": "Mit dem Erfolg kommt wie so oft der Neid. Das Konkurrenzunternehmen Neidhart AG, welches Personal aus der Schweiz rekrutiert, verbreitet in den sozialen Medien das Gerücht, die mittels Digijob vermittelten Angestellten können kein Deutsch und ihre Ausbildung sei mangelhaft. Dies entspricht nicht den Tatsachen, da das Personal ein hervorragendes Deutsch-Niveau und eine anerkannte, mit Schweizer Standards gleichwertige Ausbildung vorweisen muss.",
+      "prompt": "Welche der nachfolgenden Aussagen ist/sind korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aufgrund der im Kartellrecht hohen drohenden Geldbussen, ist Digijob zu empfehlen, eine Beschwerde bei der Wettbewerbskommission einzureichen."
+        },
+        {
+          "label": "B",
+          "text": "Die Neidhart AG könnte gegen das Gesetz gegen den Unlauteren Wettbewerb verstossen."
+        },
+        {
+          "label": "C",
+          "text": "Digijob kann wegen Persönlichkeitsverletzung auf zivil- und strafrechtlichem Wege gegen die Neidhart AG vorgehen."
+        },
+        {
+          "label": "D",
+          "text": "Da die Neidhart AG die Gerüchte auf Facebook und Twitter verbreitet hat, sollte auch gegen diese Unternehmen gerichtlich vorgegangen werden."
+        },
+        {
+          "label": "E",
+          "text": "Publikationen auf Twitter und Facebook gelten als privat, wenn das Konto der Inhaber:Innen nur für Freund:Innen bzw. Abonnement:Innen sichtbar sind."
+        }
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Die Neidhart AG könnte gegen das UWG verstossen, indem sie falsche Informationen verbreitet (Art. 3 UWG). Digijob kann wegen Persönlichkeitsverletzung zivil- und strafrechtlich vorgehen (Art. 28 ZGB, Art. 173 StGB).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer IT-Services-AG fragt Sie Folgendes: «Worin liegt der Unterschied zwischen absoluten und relativen Rechten?»",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute Rechte und relative Rechte richten sich beide gegen jedermann."
+        },
+        {
+          "label": "B",
+          "text": "Relative Rechte richten sich gegen jedermann, absolute Rechte richten sich nur gegen staatliche Behörden."
+        },
+        {
+          "label": "C",
+          "text": "Relative Rechte richten sich gegen jedermann, absolute Rechte richten sich nur gegen eine bestimmte Person."
+        },
+        {
+          "label": "D",
+          "text": "Relative Rechte richten sich gegen eine bestimmte Person, absolute Rechte richten sich gegen jedermann."
+        },
+        {
+          "label": "E",
+          "text": "Ein Kaufvertrag ist ein relatives Recht."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Relative Rechte richten sich gegen eine bestimmte Person, absolute Rechte richten sich gegen jedermann (Art. 641 ZGB, Art. 1 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer IT-Services-AG bestellt einen neuen MFP-Drucker für 4500 CHF. Die Bestellung wird von dem zuständigen Mitarbeiter entgegengenommen. Er weist darauf hin, es könne ungefähr eine Woche dauern, bis er eintrifft und dieser abgeholt werden kann. Am selben Abend ist der MFP bei eBay für lediglich 500 CHF eingestellt. Es wird überlegt, ob man den MFP abholen bzw. bezahlen muss.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Man kann den Vertragsschluss noch verhindern, wenn man rechtzeitig einen Widerruf seiner Willenserklärung zukommen lässt."
+        },
+        {
+          "label": "B",
+          "text": "Man kann den Vertragsschluss nur verhindern, indem man seine Erklärung innerhalb von 72 Stunden zurückzieht."
+        },
+        {
+          "label": "C",
+          "text": "Man kann nach Erhalt die Ware immer innerhalb von 30 Tagen zurückgeben, wenn es nicht gefällt, sodass man einfach von seinem Rückgaberecht Gebrauch machen kann."
+        },
+        {
+          "label": "D",
+          "text": "Man ist an den Vertrag gebunden, man kann nicht zurücktreten, sondern muss seine vertraglichen Pflichten erfüllen."
+        },
+        {
+          "label": "E",
+          "text": "Man kann eine gegenseitige Aufhebungsvereinbarung schliessen, wenn der Verkäufer einverstanden ist."
+        }
+      ],
+      "correct": [
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Man ist an den Vertrag gebunden und muss die vertraglichen Pflichten erfüllen (Art. 1 OR). Eine gegenseitige Aufhebungsvereinbarung ist möglich, wenn der Verkäufer einverstanden ist (Art. 115 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "multi",
+      "title": "",
+      "scenario": "Um während der Arbeit im Büro entspannen zu können, überlegt Paul sich bei Media Markt ein Fernsehgerät zu kaufen, damit dort stets die aktuellen Fussball-Übertragungen verfolgen kann. Zu diesem Zweck vergleicht er mehrere Geräte im Prospekt von Media Markt. Während Paul über die technischen Komponenten der unterschiedlichen Geräte nachdenkt, stellt er sich die Frage, wie das Abbilden der TV-Geräte im Prospekt eigentlich rechtlich zu würdigen ist.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die jeweilige Abbildung eines TV-Geräts im Prospekt ist als Angebot im Rechtssinn an die Leser und potenziellen Käufer zu verstehen. Der Abschluss des Vertrages hängt von der Zustimmung des jeweiligen Lesers ab."
+        },
+        {
+          "label": "B",
+          "text": "Die jeweilige Abbildung eines TV-Geräts kann als Angebot im Rechtssinn gewertet werden, wenn die AGBs nichts Gegenteiliges enthalten."
+        },
+        {
+          "label": "C",
+          "text": "Die jeweilige Abbildung eines TV-Geräts im Prospekt ist als Einladung zur Abgabe eines Angebots / Offertstellung zu verstehen, da es am Bindungswillen seitens der Firma Media Markt fehlt."
+        },
+        {
+          "label": "D",
+          "text": "Die jeweilige Abbildung eines TV-Geräts im Prospekt ist nicht als Einladung zur Offertstellung zu verstehen, da ein mutmasslicher Bindungswillen seitens der Firma Media Markt vorliegt."
+        },
+        {
+          "label": "E",
+          "text": "Die jeweilige Abbildung eines TV-Geräts im Prospekt ist der Auslage von Waren mit Angabe des Preises gleichzustellen."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Die Abbildung eines TV-Geräts im Prospekt ist als Einladung zur Offertstellung zu verstehen, da es am Bindungswillen seitens Media Markt fehlt (Art. 7 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Die Buyer IT-Services-AG bestellt bei IT-Benno 500 USB 30 GB Sticks für ein? Marketingaktion. Es ist bekannt, dass es verschiedene Qualitäten (Speed, Sicherheit etc.) gibt. Was muss Benno liefern, wenn nichts vereinbart wurde? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ohne abweichende Vereinbarung ist stets nur Ware der oberen Qualität zu liefern."
+        },
+        {
+          "label": "B",
+          "text": "Ohne abweichende Vereinbarung kann Benno auch mindere Qualität liefern, solange die Ware noch zum Zwecke geeignet ist."
+        },
+        {
+          "label": "C",
+          "text": "Ohne abweichende Vereinbarung gilt jedenfalls für die Hälfte der Lieferung, dass diese von mindestens mittlerer Qualität sein muss."
+        },
+        {
+          "label": "D",
+          "text": "Ohne abweichende Vereinbarung muss Benno für die ganze Lieferung Ware von mindestens mittlerer Qualität liefern."
+        },
+        {
+          "label": "E",
+          "text": "Mangels hinreichender Bestimmung des Kaufgegenstands ist der Vertrag infolge fehlenden Konsenses nicht wirksam zustande gekommen."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Ohne abweichende Vereinbarung muss Ware von mindestens mittlerer Qualität geliefert werden (Art. 197 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer AG fragt sich, wie die Berechnung eines Schadens aus einer Leistungsstörung nach der Differenztheorie erfolgt.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Schaden bemisst sich nach dem hypothetischen Vermögensstand ohne Berücksichtigung weiterer Posten."
+        },
+        {
+          "label": "B",
+          "text": "Der Schaden liegt immer im aktuellen Vermögensstand ohne Berücksichtigung weiterer Posten."
+        },
+        {
+          "label": "C",
+          "text": "Der hypothetische Vermögensstand wird zum gegenwärtigen Vermögensstand addiert, um den Schaden zu ermitteln."
+        },
+        {
+          "label": "D",
+          "text": "Der hypothetische Vermögensstand wird zum gegenwärtigen Vermögensstand addiert und dann durch zwei geteilt, um den Schaden zu ermitteln."
+        },
+        {
+          "label": "E",
+          "text": "Der hypothetische Vermögensstand wird dem gegenwärtigen Vermögensstand gegenübergestellt. Die Differenz stellt den Schaden dar."
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der hypothetische Vermögensstand wird dem gegenwärtigen Vermögensstand gegenübergestellt. Die Differenz stellt den Schaden dar (Art. 97 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer AG fragt sich, ob die Lieferung einer anderen Sache als der vertraglich geschuldeten Sache, einen Schadensersatzanspruch nach Art. 97 Abs. 1 OR auslösen kann oder welche sonstige Rechtsfolge eintritt.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Lieferung einer anderen Sache als der geschuldeten führt dazu, dass eine Schlechterfüllung vorliegt und ein Schadensersatzanspruch nach Art. 97 Abs. 1 OR besteht."
+        },
+        {
+          "label": "B",
+          "text": "Die Lieferung einer anderen Sache als der geschuldeten führt nie zu Ansprüchen aus dem OR."
+        },
+        {
+          "label": "C",
+          "text": "Die Lieferung einer anderen Sache als der geschuldeten führt dazu, dass Unmöglichkeit vorliegt."
+        },
+        {
+          "label": "D",
+          "text": "Die Lieferung einer anderen Sache als der geschuldeten führt dazu, dass der Erfüllungsanspruch fortbesteht und ab Fälligkeit und Mahnung zum Verzug."
+        },
+        {
+          "label": "E",
+          "text": "Die Lieferung einer anderen Sache als der Geschuldeten führt dazu, dass neben dem Anspruch auf Schadensersatz wegen Schlechterfüllung auch der Erfüllungsanspruch wegen Nichterfüllung weiter fortbesteht."
+        }
+      ],
+      "correct": [
+        "A",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Die Lieferung einer anderen Sache als der geschuldeten führt zu Schlechterfüllung und einem Schadensersatzanspruch nach Art. 97 Abs. 1 OR. Der Erfüllungsanspruch wegen Nichterfüllung besteht weiter (Art. 102 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer IT-Services-AG ist sich nun unsicher, für welche Handlungen von Hilfspersonen der Schuldner haftet.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR für denjenigen Schaden, den die Hilfsperson \"in Ausübung ihrer Verrichtung\" verursacht hat. Es muss also ein sog. funktioneller Zusammenhang zwischen der schädigenden Handlung und dem Schaden vorliegen."
+        },
+        {
+          "label": "B",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR für jeden Schaden, den die Hilfsperson in Ausübung ihrer Verrichtung\" verursacht hat. Ein funktioneller Zusammenhang ist nicht erforderlich."
+        },
+        {
+          "label": "C",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR grundsätzlich zunächst nicht für Handlungen und Schäden, welche die Hilfsperson verursacht hat."
+        },
+        {
+          "label": "D",
+          "text": "Der Schuldner haftet gemäss Art. 101 OR grundsätzlich nur dann für Handlungen und Schäden, welche die Hilfspersonen verursacht haben, wenn dies vorab vertraglich vereinbart worden ist."
+        },
+        {
+          "label": "E",
+          "text": "Die vertragliche Haftung für Hilfspersonen ergibt sich stets aus Art. 55 OR."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "Der Schuldner haftet gemäss Art. 101 OR für den Schaden, den die Hilfsperson \"in Ausübung ihrer Verrichtung\" verursacht hat, wenn ein funktioneller Zusammenhang besteht.",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Das neue Datenschutzgesetz hat nicht nur Schutz und Rechte für die Betroffenen vorgesehen, sondern auch einige Sorgfaltspflichten für die Verantwortlichen. Was schreibt das Datenschutzgesetz bezüglich der Sorgfaltspflichten für die Verantwortlichen vor? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organisationen müssen Daten über Internetnutzer mindestens 5 Jahre lang aufbewahren."
+        },
+        {
+          "label": "B",
+          "text": "Organisationen müssen technische und organisatorische Massnahmen ergreifen, um kontinuierlich einen optimalen Datenschutz zu gewährleisten und dies durch eine entsprechende Dokumentation nachweisen können."
+        },
+        {
+          "label": "C",
+          "text": "Unternehmen müssen im Interesse der Transparenz alle Nutzerdaten mit den Behörden teilen."
+        },
+        {
+          "label": "D",
+          "text": "Unternehmen müssen im Interesse der Transparenz über die Datenbearbeitung informieren."
+        },
+        {
+          "label": "E",
+          "text": "Unternehmen müssen mit Auftragsbearbeitern eine Vereinbarung zum Datenschutz schliessen."
+        }
+      ],
+      "correct": [
+        "B",
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Organisationen müssen technische und organisatorische Massnahmen ergreifen, um optimalen Datenschutz zu gewährleisten (Art. 7 DSG). Unternehmen müssen über die Datenbearbeitung informieren (Art. 19 DSG). Unternehmen müssen mit Auftragsbearbeitern eine Vereinbarung zum Datenschutz schliessen (Art. 9 DSG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "multi",
+      "title": "",
+      "scenario": "Wie hoch ist die maximale Strafsanktion nach neuem DSG?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 Mio. oder bis zu 4 % des weltweiten Jahresumsatzes."
+        },
+        {
+          "label": "B",
+          "text": "10 % des Umsatzes der letzten drei Jahre"
+        },
+        {
+          "label": "C",
+          "text": "Max. 250.000 CHF für das Unternehmen"
+        },
+        {
+          "label": "D",
+          "text": "Strafverfahren mit bis zu 250.000 CHF (persönliche Haftung des Verantwortlichen)"
+        },
+        {
+          "label": "E",
+          "text": "Strafverfahren mit bis zu 2 Jahren Haft über eine UWG Anzeige"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Die maximale Strafsanktion nach neuem DSG beträgt bis zu 250.000 CHF persönliche Haftung des Verantwortlichen (Art. 60 DSG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "multi",
+      "title": "",
+      "scenario": "Herr Buyer ist im Januar 2023 der «IT-Services Müller und Partner» als Gesellschafter beigetreten. Erstaunt stellt er bei einem Einblick in die Geschäftsbücher der Gesellschaft fest, dass diese vor drei Jahren einen grossen Kredit bei der UBS aufgenommen hat. Davon hat er nichts gewusst und es wurde ihm auch nicht mitgeteilt. Haftet er den Gläubigern als neu hinzugetretener Gesellschafter von Gesetzes wegen auch für diese (alt) Schulden gegenüber der Bank?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ja, er ist mit dem Beitritt Gesellschafter und damit Schuldner der Bank geworden."
+        },
+        {
+          "label": "B",
+          "text": "Ja, aber nur wenn die anderen Gesellschafter in Konkurs geraten oder erfolglos gepfändet worden sind."
+        },
+        {
+          "label": "C",
+          "text": "Nein, da die Forderung vor seinem Eintritt begründet wurde."
+        },
+        {
+          "label": "D",
+          "text": "Nein, weil er die Schuld beim Eintritt nicht übernommen hat."
+        },
+        {
+          "label": "E",
+          "text": "Ja, denn die übrigen Gesellschafter haben ihn nicht von der Forderung befreit."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Herr Buyer haftet nicht für Schulden, die vor seinem Eintritt begründet wurden (Art. 568 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyers, Evi, Jutta und Max beschliessen die Gründung eines Lernstudios in der Rechtsform einer Aktiengesellschaft. Im Einvernehmen mit Jutta und Max bestellt Evi auf Rechnung und im Namen der künftigen Aktiengesellschaft beim Händler einen Multifunktionsdrucker zum Preis von CHF 5'000. Noch vor der Lieferung des Gerätes kommen sie wegen grosser Meinungsverschiedenheiten überein, dass Jutta aus dem Projekt ausscheide. Evi und Max versuchen zuerst, allein weiterzumachen. Dann müssen sie aber einsehen, dass ihnen das notwendige Startkapital fehlt. Der Händler will von einer Auflösung des Kaufvertrages aber nichts wissen und liefert den Drucker termingerecht an Evi. Er fordert schliesslich die Bezahlung des Kaufpreises von der kapitalkräftigen Jutta. Frage: Wer muss den Kaufpreis von Gesetzes wegen bezahlen?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evi, weil sie das Gerät bei Gerold bestellt hat."
+        },
+        {
+          "label": "B",
+          "text": "Niemand, da die AG gar nicht gegründet wurde."
+        },
+        {
+          "label": "C",
+          "text": "Evi und Max persönlich und solidarisch, da Jutta ausgeschieden ist."
+        },
+        {
+          "label": "D",
+          "text": "Jutta, da sie die kapitalkräftigste Gesellschafterin ist."
+        },
+        {
+          "label": "E",
+          "text": "Evi, Jutta und Max persönlich und solidarisch."
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Evi, Jutta und Max müssen persönlich und solidarisch den Kaufpreis bezahlen, da die AG nicht gegründet wurde und sie als Privatpersonen gehandelt haben (Art. 32 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "multi",
+      "title": "",
+      "scenario": "Herr Buyer schaut sich auf der IT-Trends Messe nach unterschiedlichen KI-basierten Büroprogrammen um und entscheidet sich sodann für den Kauf eines hoch entwickelten Produktes der PAS AG. In diesem Zusammenhang überlegt er sich, wann der Kaufpreis eigentlich fällig wird.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sofern durch Vertrag eine bestimmte Regelung über die Fälligkeit getroffen wurde, gilt diese. Ansonsten ist die gesetzliche Regelung massgeblich, wonach die Erfüllung sogleich gefordert werden kann, die Fälligkeit betreffend den Kaufpreis also mit Abschluss des Kaufvertrags eintritt."
+        },
+        {
+          "label": "B",
+          "text": "Es ist stets die gesetzliche Regelung massgeblich, wonach die Erfüllung sogleich gefordert werden kann, die Fälligkeit betreffend den Kaufpreis also mit Abschluss des Kaufvertrags eintritt."
+        },
+        {
+          "label": "C",
+          "text": "Sofern durch Vertrag eine bestimmte Regelung über die Fälligkeit getroffen wurde, gilt diese. Ansonsten ist die gesetzliche Regelung massgeblich, wonach die Erfüllung dreissig Tage nach Vertragsschluss gefordert werden kann und die Fälligkeit betreffend den Kaufpreis dreissig Tage nach Abschluss des Kaufvertrags eintritt."
+        },
+        {
+          "label": "D",
+          "text": "Es ist stets die vertragliche Regelung massgeblich, die als Regelung enthalten muss, dass die Erfüllung sogleich gefordert werden kann und die Fälligkeit betreffend den Kaufpreis mit Abschluss des Kaufvertrags eintritt."
+        },
+        {
+          "label": "E",
+          "text": "Es ist stets die vertragliche Regelung massgeblich, die als Regelung enthalten muss, dass die Erfüllung innerhalb von dreissig Tagen gefordert werden kann und die Fälligkeit betreffend den Kaufpreis innerhalb von dreissig Tagen nach Abschluss des Kaufvertrags eintritt."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "Sofern durch Vertrag eine bestimmte Regelung über die Fälligkeit getroffen wurde, gilt diese. Ansonsten ist die gesetzliche Regelung massgeblich, wonach die Erfüllung sogleich gefordert werden kann (Art. 75 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "multi",
+      "title": "",
+      "scenario": "Weiterhin fragt sich Buyer, wann ein sog. Gläubigerverzug vorliegt.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ein Gläubigerverzug liegt vor, wenn der Gläubiger bei fehlender Leistungsbereitschaft des Schuldners bei der Erfüllung gehörig mitwirkt."
+        },
+        {
+          "label": "B",
+          "text": "Ein Gläubigerverzug liegt vor, wenn der Gläubiger trotz Leistungsbereitschaft des Schuldners bei der Erfüllung nicht oder nicht gehörig mitwirkt."
+        },
+        {
+          "label": "C",
+          "text": "Ein Gläubigerverzug liegt vor, wenn der Gläubiger trotz Leistungsbereitschaft des Schuldners bei der Erfüllung gehörig mitwirkt."
+        },
+        {
+          "label": "D",
+          "text": "Ein Gläubigerverzug liegt vor, wenn der Gläubiger bei Leistungsbereitschaft des Schuldners bei der Erfüllung nicht gehörig mitwirkt."
+        },
+        {
+          "label": "E",
+          "text": "Wenn ein Schuldnerverzug vorliegt, ist stets auch ein Gläubigerverzug zu bejahen."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Gläubigerverzug liegt vor, wenn der Gläubiger trotz Leistungsbereitschaft des Schuldners bei der Erfüllung nicht oder nicht gehörig mitwirkt (Art. 91 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "multi",
+      "title": "",
+      "scenario": "Schliesslich will Buyer gerne noch wissen, wie ein Auftrag beendet werden kann und ob es hierbei bestimmte Kündigungsfristen gibt.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Auftrag kann von jedem Teil innert vierzehn Tagen widerrufen oder gekündigt werden."
+        },
+        {
+          "label": "B",
+          "text": "Der Auftrag kann von jedem Teil nur bei Vorliegen eines wichtigen Grundes mit einer Frist von sieben Tagen widerrufen oder gekündigt werden."
+        },
+        {
+          "label": "C",
+          "text": "Der Auftrag kann von jedem Teil nur bei Vorliegen eines wichtigen Grundes mit einer Frist von vierzehn Tagen widerrufen oder gekündigt werden."
+        },
+        {
+          "label": "D",
+          "text": "Der Auftrag kann von jedem Teil jederzeit widerrufen oder gekündigt werden."
+        },
+        {
+          "label": "E",
+          "text": "Wird der Auftrag zur Unzeit gekündigt, ist man für diesen Schaden haftbar."
+        }
+      ],
+      "correct": [
+        "D",
+        "E"
+      ],
+      "points": 2.5,
+      "explanation": "Der Auftrag kann von jedem Teil jederzeit widerrufen oder gekündigt werden (Art. 404 OR). Wird der Auftrag zur Unzeit gekündigt, ist man für diesen Schaden haftbar (Art. 404 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die IT-Services-AG hat den wiederholten Verdacht eines Diebstahls im Unternehmen und lässt durch den Detektiv (einen ausgewiesenen Experten auf diesem Gebiet) Nachforschungen über diesen Vorfall anstellen über einen fest vereinbarten Zeitraum von 12 Wochen. Er wird sich nach Kräften bemühen, einen allfälligen betriebsinternen Fall aufzudecken. Zudem wird er ein kurzes Memo und eine Präsentation bis zum Ende des Folgemonats erstellen.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Werkvertrag."
+        },
+        {
+          "label": "B",
+          "text": "Es handelt sich um einen Werkvertrag mit auftragsrechtlichen Komponenten."
+        },
+        {
+          "label": "C",
+          "text": "Es handelt sich um einen Auftrag mit werkvertraglichen Nebenleistungen."
+        },
+        {
+          "label": "D",
+          "text": "Es handelt sich um einen Arbeitsvertrag mit Erfolgscharakter."
+        },
+        {
+          "label": "E",
+          "text": "Es handelt sich um einen Auftrag."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Es handelt sich um einen Auftrag mit werkvertraglichen Nebenleistungen, da der Detektiv sich nach Kräften bemüht und ein Ergebnis schuldet (Art. 394 OR, Art. 363 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die IT-Services-AG hat nach 2 Wochen selbst den Täter gestellt und beendet die Vereinbarung mit dem Detektiv. Dieser verlangt jedoch das vereinbarte Honorar für die gesamte Laufzeit von zwölf (wie vertragliche vereinbart) und nicht nur 2 Wochen - er sagt: «Ein Vertrag ist ein Vertrag!».",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Er kann gesetzlich das Honorar für die Hälfte der vereinbarten Rest-Zeit und 100 % für die tatsächlich geleistete Zeit verlangen."
+        },
+        {
+          "label": "B",
+          "text": "Es handelt sich um einen Kaufvertrag, bei dem keine Kündigung möglich ist."
+        },
+        {
+          "label": "C",
+          "text": "Angemessen ist nur eine Reduktion von 20 %."
+        },
+        {
+          "label": "D",
+          "text": "Vorliegend handelt es sich um einen Auftrag, der jederzeit gekündigt werden kann."
+        },
+        {
+          "label": "E",
+          "text": "Vorliegend haben die Parteien einen Vertrag vereinbart, an welchen man sich halten muss. Eine Kündigung ist aufgrund der kurzen Vertragsdauer von nur zwölf Wochen vorzeitig nicht zulässig."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Vorliegend handelt es sich um einen Auftrag, der jederzeit gekündigt werden kann (Art. 404 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "multi",
+      "title": "",
+      "scenario": "Buyer hat mit dem Zürcher Berater noch keine Vereinbarung auf die Schnelle über die Höhe der Beratungskosten abgesprochen. Nach der Beratung stellt er die Honorarnote mit einem zugrundeliegenden Stundensatz von 350 CHF zzgl. 3% Pauschalspesen. Das Start-Up ist mit seinem knappen Budget schockiert, über diese Frechheit und ist bereit lediglich 180 CHF als angemessen Stundensatz zu akzeptieren.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Auftrag, der nicht ohne Honorarvereinbarung wirksam geschlossen werden kann, da die Essentialia negotii (Gegenleistung, Preis) fehlen."
+        },
+        {
+          "label": "B",
+          "text": "Es handelt sich um einen Werkvertrag, der nicht ohne Honorarvereinbarung wirksam geschlossen werden kann, da die Essentialia negotii (Gegenleistung, Preis) fehlen."
+        },
+        {
+          "label": "C",
+          "text": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann. Der Honorarsatz muss aber, da nichts vereinbart wurde, an der Leistungsfähigkeit von B ausgerichtet werden. Daher sind 180 CHF massgeblich."
+        },
+        {
+          "label": "D",
+          "text": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann. Der Honorarsatz orientiert sich am Leistungserbringer und am ortsüblichen für eine vergleichbare Leistung."
+        },
+        {
+          "label": "E",
+          "text": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann. Es ist der Mittelwert zwischen dem Honorarsatz von A und der Leistungsfähigkeit von B heranzuziehen."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Es handelt sich um einen Auftrag, der ohne Honorarvereinbarung wirksam geschlossen werden kann. Der Honorarsatz orientiert sich am Leistungserbringer und am ortsüblichen für eine vergleichbare Leistung (Art. 394 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "multi",
+      "title": "",
+      "scenario": "",
+      "prompt": "Welches allgemeine Prinzip herrscht im OR bezüglich der Form der Verträge? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vertragszwang"
+        },
+        {
+          "label": "B",
+          "text": "Vertragsfreiheit"
+        },
+        {
+          "label": "C",
+          "text": "Verfassungskonformität"
+        },
+        {
+          "label": "D",
+          "text": "Schriftlichkeitszwang"
+        },
+        {
+          "label": "E",
+          "text": "Beweispflicht"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Im OR herrscht das Prinzip der Vertragsfreiheit, das die Parteien in der Gestaltung ihrer Verträge frei lässt (Art. 19 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "multi",
+      "title": "",
+      "scenario": "> AUFTRAG > > Frau Petra Döbeli wird beauftragt, als Mechanikerin in der Abteilung SW-Entwicklung zu arbeiten. > Sie beginnt am 1. Juli 2022. > Hierfür erhält Sie Fr. 8200 pro Monat. > Bezüglich aller übrigen Punkte gilt das jeweils gültige Reglement in der Beilage, zu welchem sie durch Unterzeichnung des aktuellen Exemplars ihr ausdrückliches Einverständnis erklärt. > Unterschrift............",
+      "prompt": "Die Buyer AG wird grösser und braucht mehr «Human-Power» und erstellt nachfolgende Vereinbarung mit zwei Mitarbeitenden. Welche Aussagen sind richtig? Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es handelt sich um einen Gesellschaftsvertrag zwischen den Partnern und Döbeli."
+        },
+        {
+          "label": "B",
+          "text": "Es ist ein unbefristeter Auftrag."
+        },
+        {
+          "label": "C",
+          "text": "Es ist ein Werkvertrag."
+        },
+        {
+          "label": "D",
+          "text": "Es ist ein Einzelarbeitsvertrag."
+        },
+        {
+          "label": "E",
+          "text": "Es ist ein Werkvertrag."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Es handelt sich um einen Einzelarbeitsvertrag, da Frau Döbeli als Mechanikerin angestellt wird und ein monatliches Gehalt erhält (Art. 319 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "multi",
+      "title": "",
+      "scenario": "Ein externer Senior IT-Consultant wird bzgl. Kapazitäten von der Buyer AG angefragt diese zu unterstützen, da sie erfahren hat, dass er aktuell bei einem Konkurrenzunternehmen erfolgreich berät und aushilft. Er hat noch Kapazitäten und nimmt den Auftrag an. Darf er das? Nach dem Arbeitsrecht hat die Arbeitnehmerin während der Dauer des Arbeitsverhältnisses alles zu unterlassen, was die Arbeitgeberin konkurrenziert. Dazu zählt jede Art von Handlung, die der Treuepflicht der Arbeitnehmerin gegenüber der Arbeitgeberin entgegensteht und die uneingeschränkte Pflichterfüllung tangiert. Sogar die Freizeit zählt im Extrem dazu. Wie kann es sein, dass ein externer Consultant das darf?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es ist nicht zulässig, da man Aufträge bei einem Konkurrenten nicht annehmen kann."
+        },
+        {
+          "label": "B",
+          "text": "Es ist Ausdruck der Vertragsfreiheit, und muss bei Bedarf vertraglich geregelt werden."
+        },
+        {
+          "label": "C",
+          "text": "Wenn die Buyer AG es nicht gewusst hätte, müsste der IT-Consultant sie darauf hinweisen."
+        },
+        {
+          "label": "D",
+          "text": "Der IT-Consultant unterliegt der Schweigepflicht aus Vertrag und muss daher nicht darauf hinweisen."
+        },
+        {
+          "label": "E",
+          "text": "Der IT-Consultant unterliegt nicht per se eine Schweigepflicht, sondern nur bzgl. Personendaten und Geschäftsgeheimnissen."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Es ist Ausdruck der Vertragsfreiheit, und muss bei Bedarf vertraglich geregelt werden (Art. 19 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die Buyer AG erstellt für Ihre Service-Leistungen ein generelles allen Kunden zugängliches SLAs. Die Bezeichnung SLA oder zu Deutsch Dienstleistungsvereinbarung (DLV) ist Teil eines Vertrags. SLA beschreiben das Vorgehen zwischen Auftraggeberin und Dienstleisterin zur Erfüllung oder zum Erhalt der «Gebrauchsfähigkeiten» von digitalen Geschäftsprozessen. Wie sind SLAs rechtlich zu qualifizieren?",
+      "prompt": "",
+      "options": [
+        {
+          "label": "A",
+          "text": "Je nach Inhalt handelt es sich aber in der Regel bei einem SLA um ergänzende Ausführungen zu Wartungsvereinbarungen oder um die Definition der zu erbringenden Dienste / Services insb. im Bereich des Outsourcings."
+        },
+        {
+          "label": "B",
+          "text": "Es kann sich bei SLA nur um Wartungsvereinbarungen, insb. Im Bereich des Outsourcings handeln."
+        },
+        {
+          "label": "C",
+          "text": "Es kann sich bei SLA nur um die Definition der zu erbringenden Dienste im Bereich des Outsourcings handeln."
+        },
+        {
+          "label": "D",
+          "text": "Nur wenn auch die Essentialia negotii bestimmt sind (idR. Menge und Preis) ist ein SLA auch ein Vertrag, sonst nur eine Anlage."
+        },
+        {
+          "label": "E",
+          "text": "Ein SLA ist ein eigenständiger Kaufvertrag."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "Je nach Inhalt handelt es sich bei einem SLA um ergänzende Ausführungen zu Wartungsvereinbarungen oder um die Definition der zu erbringenden Dienste im Bereich des Outsourcings.",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "multi",
+      "title": "",
+      "scenario": "In einem Informatikprojekt oder einem Austausch von Waren haben in der Regel beide Parteien (also Anbieter und Abnehmer) Pflichten, gemäss welchen sie rechtzeitig eine Leistung in genügender Qualität zu erbringen haben. Erbringt eine Partei ihre (korrekte) Leistung zu spät, spricht man von?",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Schlechtleistung"
+        },
+        {
+          "label": "B",
+          "text": "Fehler"
+        },
+        {
+          "label": "C",
+          "text": "Verzug"
+        },
+        {
+          "label": "D",
+          "text": "Verjährung"
+        },
+        {
+          "label": "E",
+          "text": "Verwirkung"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.5,
+      "explanation": "Erbringt eine Partei ihre Leistung zu spät, spricht man von Verzug (Art. 102 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "multi",
+      "title": "",
+      "scenario": "Es brennt bei der Buyer AG, weil ein Festplatten Rack heiss gelaufen ist. An den umliegenden Geräten und der Einrichtung entsteht ein Schaden von CHF 30.000.-. Mit dem Produktehaftpflichtgesetz (PrHG) hat die Schweiz die Produktehaftungsrichtlinie der EU vom 25. Juli 1985 übernommen und ein modernes Haftungsgesetz geschaffen. Die Produktehaftung ist von grosser Bedeutung, weil die Verkäuferin, die selbst die Ware nicht herstellt, für Mangelfolgeschäden grundsätzlich nicht haftet, ausser es wird ein Verschulden nachgewiesen. Kann die Buyer AG den Schaden am Gerät und an der Einrichtung beim Händler und Importeur des Druckers geltend machen?",
+      "prompt": "",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ja aber nur wenn sie beweisen kann, dass den Hersteller ein Verschulden trifft."
+        },
+        {
+          "label": "B",
+          "text": "Nur für das Gerät, da die Einrichtung nicht von der Garantie erfasst ist."
+        },
+        {
+          "label": "C",
+          "text": "Nur für die Einrichtung, da der Drucker keine Garantie mehr hat."
+        },
+        {
+          "label": "D",
+          "text": "Nein, weder für das Gerät noch für die Einrichtung."
+        },
+        {
+          "label": "E",
+          "text": "Nur, wenn sie eine passende Versicherung abgeschlossen hat."
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.5,
+      "explanation": "Die Buyer AG kann den Schaden geltend machen, wenn sie beweisen kann, dass den Hersteller ein Verschulden trifft (Art. 1 PrHG).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "multi",
+      "title": "",
+      "scenario": "Ein Mitarbeiter einer AG ist im Handelsregister als Handlungsbevollmächtigter (ohne Zusatz) für die Zweigstelle/ Niederlassung Bern eingetragen.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine Kollektiv-Unterschrift muss im HReg eingetragen sein, ansonsten kann er allein unterschreiben."
+        },
+        {
+          "label": "B",
+          "text": "Er kann gar nichts tun, da es immer eine Zweitunterschrift benötigt."
+        },
+        {
+          "label": "C",
+          "text": "Er kann alle Geschäfte abschliessen, da keine Beschränkung möglich ist."
+        },
+        {
+          "label": "D",
+          "text": "Er kann nur für die Niederlassung Bern tätig werden."
+        },
+        {
+          "label": "E",
+          "text": "Eine Belastung des Grundstücks in Bern ist möglich."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Ein Handlungsbevollmächtigter kann nur für die Niederlassung tätig werden, für die er eingetragen ist (Art. 462 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "multi",
+      "title": "",
+      "scenario": "Ein externer IT-Leiter wird beauftragt und bevollmächtigt, das neue ERP-System inkl. Lager anzupassen und neueste Infrastruktur einzusetzen. Er bekommt «alle Befugnisse», die es hierfür benötigt.",
+      "prompt": "Welche der folgenden Aussagen ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Er kann alle Geschäfte abschliessen da keine Beschränkung der Vollmacht möglich ist."
+        },
+        {
+          "label": "B",
+          "text": "Er kann Verträge im Zusammenhang mit dem Projekt rechtswirksam beauftragen."
+        },
+        {
+          "label": "C",
+          "text": "Verträge, die das Bauprojekt nicht betreffen, kann die Buyer AG nachträglich genehmigen."
+        },
+        {
+          "label": "D",
+          "text": "Er kann nur für Bern tätig werden."
+        },
+        {
+          "label": "E",
+          "text": "Eine Belastung des Grundstücks in Bern ist möglich."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.5,
+      "explanation": "Er kann Verträge im Zusammenhang mit dem Projekt rechtswirksam beauftragen, da ihm alle Befugnisse erteilt wurden (Art. 32 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "multi",
+      "title": "",
+      "scenario": "Die GmbH ist eine Verbindung von Personen zur Verfolgung eines wirtschaftlichen Zwecks unter einer Firma. Die Gründung einer Einpersonen-GmbH ist möglich (OR 772). Die Wahl der «Firma» ist nicht so einfach und beschränkt durch Grundsätze zur Freiheit der Firmenwahl und -übertragbarkeit.",
+      "prompt": "Was ist richtig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die GmbH kann unter Wahrung der allgemeinen Grundsätze der Firmenbildung ihre Firma frei wählen."
+        },
+        {
+          "label": "B",
+          "text": "Die GmbH darf keinen Personennamen enthalten."
+        },
+        {
+          "label": "C",
+          "text": "Eine Sach- oder auch Phantasiebezeichnungen ist möglich."
+        },
+        {
+          "label": "D",
+          "text": "Die Bezeichnung der Rechtsform (GmbH) muss der Firma beigefügt werden."
+        },
+        {
+          "label": "E",
+          "text": "Die Bezeichnung der Rechtsform (GmbH) muss der Firma nicht beigefügt werden."
+        }
+      ],
+      "correct": [
+        "A",
+        "C",
+        "D"
+      ],
+      "points": 2.5,
+      "explanation": "Die GmbH kann ihre Firma frei wählen unter Wahrung der allgemeinen Grundsätze der Firmenbildung (Art. 944 OR). Eine Sach- oder Phantasiebezeichnung ist möglich. Die Bezeichnung der Rechtsform (GmbH) muss der Firma beigefügt werden (Art. 950 OR).",
+      "confidence": "hoch",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    }
+  ]
+}

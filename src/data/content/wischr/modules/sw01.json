@@ -1,0 +1,328 @@
+{
+  "title": "Einführung in wissenschaftliches Arbeiten",
+  "week": "SW 01",
+  "tagline": "Grundlagen des wissenschaftlichen Arbeitens und der Kommunikation.",
+  "summary": "In dieser Woche werden die Grundlagen des wissenschaftlichen Arbeitens und der Kommunikation behandelt. Die Studierenden lernen, wie wichtig überfachliche Kompetenzen sind und wie sie diese im Studium entwickeln können. Es wird ein Überblick über das Semesterprogramm gegeben und die Bedeutung von wissenschaftlichem Schreiben hervorgehoben. Zudem werden die Anforderungen an wissenschaftliches Arbeiten und die Rolle der Problemlösekompetenz diskutiert.",
+  "learningGoals": [
+    "Verstehen der Grundlagen wissenschaftlichen Arbeitens.",
+    "Erkennen der Bedeutung von überfachlichen Kompetenzen.",
+    "Einführung in die Kommunikation und deren Vielschichtigkeit.",
+    "Erlernen der Anforderungen an wissenschaftliches Arbeiten.",
+    "Entwicklung von Problemlösekompetenzen."
+  ],
+  "blocks": [
+    {
+      "title": "Einführung in die Kommunikation",
+      "body": "Die Studierenden lernen die Aspekte der mündlichen Kommunikation kennen und setzen sich mit diesen auseinander.",
+      "bullets": [
+        "Unterschiede zwischen mündlicher und schriftlicher Kommunikation.",
+        "Analyse von Kommunikationssituationen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Pflichtliteratur",
+      "body": "Vorgestellte Literatur zur Vertiefung des wissenschaftlichen Schreibens.",
+      "bullets": [
+        "Esselborn-Krumbiegel, H. (2022). Richtig wissenschaftlich schreiben.",
+        "Voss, R. (2020). Wissenschaftliches Arbeiten ... leicht verständlich.",
+        "Philipp, J. & Stadler, C. (2023). Kommunikation im Kontext verstehen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Leistungsnachweise",
+      "body": "Übersicht der zu erbringenden Leistungen im Modul.",
+      "bullets": [
+        "Wissenschaftliches Schreiben: Einzelleistung, pass/fail.",
+        "Science Slam: Gruppenleistung, 35% der Modulendnote.",
+        "Schriftliche Arbeit: 65% der Modulendnote."
+      ],
+      "articles": [],
+      "type": "law"
+    },
+    {
+      "title": "Grundlagen des wissenschaftlichen Arbeitens",
+      "body": "Wissenschaftliches Arbeiten basiert auf Ehrlichkeit und der Fähigkeit, Informationen kritisch zu prüfen.",
+      "bullets": [
+        "Ehrlichkeit als Grundprinzip.",
+        "Erkenntnisgewinn als zentrales Merkmal.",
+        "Objektivität und Nachprüfbarkeit."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Problemlösekompetenz",
+      "body": "Die Fähigkeit, Probleme zu erkennen und zu lösen, ist zentral für wissenschaftliches Arbeiten.",
+      "bullets": [
+        "Problemerkennung als erster Schritt.",
+        "Nutzung geeigneter Instrumente zur Problemlösung."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Wissenschaftliches Arbeiten",
+      "definition": "Systematisches und methodisches Vorgehen zur Beantwortung von Fragestellungen."
+    },
+    {
+      "term": "Kommunikation",
+      "definition": "Austausch von Informationen zwischen Personen."
+    },
+    {
+      "term": "Ehrlichkeit",
+      "definition": "Grundprinzip wissenschaftlichen Arbeitens, das Vertrauen in die Ergebnisse schafft."
+    },
+    {
+      "term": "Erkenntnisgewinn",
+      "definition": "Zentrales Ziel der Wissenschaft, neues Wissen zu schaffen."
+    },
+    {
+      "term": "Problemlösekompetenz",
+      "definition": "Fähigkeit, Probleme zu erkennen und zu lösen."
+    },
+    {
+      "term": "Pflichtliteratur",
+      "definition": "Vorgeschriebene Literatur zur Vertiefung des Themas."
+    },
+    {
+      "term": "Leistungsnachweis",
+      "definition": "Bewertung der erbrachten Leistungen im Studium."
+    },
+    {
+      "term": "Soft Skills",
+      "definition": "Persönliche, soziale und methodische Kompetenzen."
+    },
+    {
+      "term": "Hard Skills",
+      "definition": "Berufstypische Qualifikationen, die objektiv nachweisbar sind."
+    },
+    {
+      "term": "Nonverbale Kommunikation",
+      "definition": "Kommunikation ohne Worte, z.B. durch Mimik und Gestik."
+    },
+    {
+      "term": "Paraverbale Kommunikation",
+      "definition": "Begleitmusik des Sprechens, wie Stimme und Sprechtempo."
+    },
+    {
+      "term": "Objektivität",
+      "definition": "Unvoreingenommenheit und Sachlichkeit in der Wissenschaft."
+    },
+    {
+      "term": "Metakompetenzen",
+      "definition": "Übergeordnete Kompetenzen, die den Unterbau für das Studium darstellen."
+    },
+    {
+      "term": "Selbststudium",
+      "definition": "Eigenverantwortliches Lernen ausserhalb des Unterrichts."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist wissenschaftliches Arbeiten?",
+      "back": "Systematisches und methodisches Vorgehen zur Beantwortung von Fragestellungen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne ein Grundprinzip wissenschaftlichen Arbeitens.",
+      "back": "Ehrlichkeit.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter Problemlösekompetenz?",
+      "back": "Die Fähigkeit, Probleme zu erkennen und zu lösen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen Hard Skills und Soft Skills?",
+      "back": "Hard Skills sind objektiv nachweisbare berufstypische Qualifikationen, Soft Skills betreffen persönliche, soziale und methodische Kompetenzen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was umfasst nonverbale Kommunikation?",
+      "back": "Kommunikation ohne Worte, z.B. durch Mimik und Gestik.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist paraverbale Kommunikation?",
+      "back": "Die Begleitmusik des Sprechens, wie Stimme und Sprechtempo.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist wissenschaftliches Schreiben wichtig?",
+      "back": "Es fördert kritisches Denken und ermöglicht es, Fachkompetenzen schriftlich auszudrücken.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Pflichtliteratur?",
+      "back": "Vorgeschriebene Literatur zur Vertiefung des Themas.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist das Ziel von Wissenschaft?",
+      "back": "Erkenntnisgewinn.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Objektivität in der Wissenschaft?",
+      "back": "Unvoreingenommenheit und Sachlichkeit.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Metakompetenzen?",
+      "back": "Übergeordnete Kompetenzen, die den Unterbau für das Studium darstellen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Selbststudium?",
+      "back": "Eigenverantwortliches Lernen ausserhalb des Unterrichts.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Leistungsnachweis?",
+      "back": "Bewertung der erbrachten Leistungen im Studium.",
+      "tag": "law"
+    },
+    {
+      "front": "Warum ist Ehrlichkeit wichtig in der Wissenschaft?",
+      "back": "Sie schafft Vertrauen in die Ergebnisse und ermöglicht deren Weiterverwendung.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist ein Grundprinzip des wissenschaftlichen Arbeitens?",
+      "options": [
+        "Ehrlichkeit",
+        "Kreativität",
+        "Flexibilität",
+        "Intuition"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ehrlichkeit ist ein Grundprinzip, das Vertrauen in wissenschaftliche Ergebnisse schafft.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Art von Kommunikation umfasst Mimik und Gestik?",
+      "options": [
+        "Verbale",
+        "Nonverbale",
+        "Paraverbale",
+        "Schriftliche"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Nonverbale Kommunikation umfasst Mimik und Gestik.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist das Ziel von wissenschaftlichem Arbeiten?",
+      "options": [
+        "Unterhaltung",
+        "Erkenntnisgewinn",
+        "Profit",
+        "Networking"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Ziel ist der Erkenntnisgewinn.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Kompetenzen sind schwerer zu erlernen und zu überprüfen?",
+      "options": [
+        "Hard Skills",
+        "Soft Skills",
+        "Technische Skills",
+        "Künstlerische Skills"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Soft Skills sind schwerer zu erlernen und zu überprüfen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Leistungsnachweis?",
+      "options": [
+        "Ein Beweis für Ehrlichkeit",
+        "Eine Bewertung der erbrachten Leistungen",
+        "Ein wissenschaftlicher Artikel",
+        "Ein Kommunikationsmittel"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Leistungsnachweis bewertet die erbrachten Leistungen im Studium.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Art von Kommunikation beinhaltet die Stimme und das Sprechtempo?",
+      "options": [
+        "Verbale",
+        "Nonverbale",
+        "Paraverbale",
+        "Schriftliche"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Paraverbale Kommunikation beinhaltet die Stimme und das Sprechtempo.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Warum ist wissenschaftliches Schreiben wichtig?",
+      "options": [
+        "Es ist unterhaltsam",
+        "Es fördert kritisches Denken",
+        "Es ist einfach",
+        "Es ist schnell"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Wissenschaftliches Schreiben fördert kritisches Denken.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was sind Metakompetenzen?",
+      "options": [
+        "Spezifische Fachkenntnisse",
+        "Übergeordnete Kompetenzen",
+        "Technische Fähigkeiten",
+        "Künstlerische Talente"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Metakompetenzen sind übergeordnete Kompetenzen, die den Unterbau für das Studium darstellen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist der erste Schritt der Problemlösung?",
+      "options": [
+        "Lösung finden",
+        "Problem ignorieren",
+        "Problem identifizieren",
+        "Problem delegieren"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Problemidentifikation ist der erste Schritt der Problemlösung.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wischr-sw01",
+  "subjectId": "wischr"
+}

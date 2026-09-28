@@ -1,0 +1,1405 @@
+{
+  "id": "wins-25HS",
+  "subjectId": "wins",
+  "year": "25HS",
+  "label": "MEP 25HS",
+  "minutes": 60,
+  "maxPoints": 60.0,
+  "scoring": "exact",
+  "questions": [
+    {
+      "number": 1,
+      "type": "single",
+      "prompt": "Was beschreibt das 'WHY' im Golden Circle nach Simon Sinek im Kontext des Studiums?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die konkreten Tätigkeiten im Studium"
+        },
+        {
+          "label": "B",
+          "text": "Die Methodik des Lernens"
+        },
+        {
+          "label": "C",
+          "text": "Die Motivation und den Sinn hinter dem Studium"
+        },
+        {
+          "label": "D",
+          "text": "Die Prüfungsstrategie"
+        },
+        {
+          "label": "E",
+          "text": "Die Kommunikationsweise mit Dozierenden"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1,
+      "explanation": "Das 'WHY' im Golden Circle nach Simon Sinek beschreibt die Motivation und den Sinn hinter dem Studium.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "single",
+      "prompt": "Welcher der folgenden Schritte gehört NICHT zur ALPEN-Methode des Zeitmanagements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Länge der einzelnen Aufgaben einschätzen"
+        },
+        {
+          "label": "B",
+          "text": "Pufferzeit für Unvorhergesehenes reservieren"
+        },
+        {
+          "label": "C",
+          "text": "Nachträgliche Kontrolle der Tagesplanung vornehmen"
+        },
+        {
+          "label": "D",
+          "text": "Neue Projekte und Vorhaben initiieren"
+        },
+        {
+          "label": "E",
+          "text": "Aufgabenliste für den Tag erstellen"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Die ALPEN-Methode umfasst keine Initiierung neuer Projekte und Vorhaben.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "single",
+      "prompt": "Daniel erhält in einem Projekt eine schlechte Bewertung von seiner Vorgesetzten. Wie würde er mit Growth Mindset reagieren?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Er zieht sich zurück und zweifelt an seinen Fähigkeiten"
+        },
+        {
+          "label": "B",
+          "text": "Er sucht aktiv nach Feedback, um daraus zu lernen"
+        },
+        {
+          "label": "C",
+          "text": "Er ignoriert das Feedback, um sein Selbstwertgefühl zu schützen"
+        },
+        {
+          "label": "D",
+          "text": "Er macht die Vorgesetzte verantwortlich"
+        },
+        {
+          "label": "E",
+          "text": "Er gibt das Projekt auf"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1,
+      "explanation": "Mit einem Growth Mindset sucht Daniel aktiv nach Feedback, um daraus zu lernen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Rahmen der Grossklasse zu Self-Leadership haben Sie sich mit dem Konzept der Selbstführung befasst. In verschiedenen Übungen wurde reflektiert, wie Studierende ihren Studien- und Berufsalltag eigenständig strukturieren und welche Rolle Selbstverantwortung dabei spielt. Einige Teilnehmende beschrieben, dass sie ihre Ziele aktiv planen, Prioritäten setzen und Ablenkungen bewusst steuern, während andere feststellten, dass sie eher auf äussere Vorgaben reagieren. Immer wieder wurde deutlich, dass erfolgreiche Selbstführung auf der Fähigkeit beruht, Entscheidungen bewusst zu treffen, anstatt sich von Zufällen oder äusseren Umständen leiten zu lassen. Die Aussage „Wer sich nicht selbst führt, wird vom Zufall geführt\" betont...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Bedeutung von Glück"
+        },
+        {
+          "label": "B",
+          "text": "Externe Kontrolle"
+        },
+        {
+          "label": "C",
+          "text": "Selbstverantwortung und Zielklarheit"
+        },
+        {
+          "label": "D",
+          "text": "Hierarchie und Macht"
+        },
+        {
+          "label": "E",
+          "text": "Teamarbeit"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1,
+      "explanation": "Die Aussage betont die Bedeutung von Selbstverantwortung und Zielklarheit.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Rahmen der Grossklasse zu Self-Leadership haben Sie sich mit den Big-Five-Persönlichkeitseigenschaften befasst. Wir diskutierten unter anderem, wie sich unterschiedliche Persönlichkeitsmerkmale auf die Zusammenarbeit und den Lernerfolg auswirken. Dabei fiel auf, dass gewisse Teammitglieder Aufgaben stets pünktlich und strukturiert erledigen, während andere eher spontan und flexibel arbeiten. Besonders in Gruppenprojekten zeigte sich, dass eine verlässliche Arbeitsweise Vertrauen schafft und die Teamleistung stabilisiert. Welche Big-Five-Eigenschaft beschreibt eine Person, die zuverlässig und planvoll arbeitet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Offenheit"
+        },
+        {
+          "label": "B",
+          "text": "Extraversion"
+        },
+        {
+          "label": "C",
+          "text": "Gewissenhaftigkeit"
+        },
+        {
+          "label": "D",
+          "text": "Neurotizismus"
+        },
+        {
+          "label": "E",
+          "text": "Verträglichkeit"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1,
+      "explanation": "Gewissenhaftigkeit beschreibt eine Person, die zuverlässig und planvoll arbeitet.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Quirin bereitet sich auf eine wichtige Prüfung in seinem Wirtschaftsinformatikstudium vor und möchte sicherstellen, dass er alle Informationen gut behält. Er entscheidet sich aus diesem Grund für eine Lernmethode, bei der er verschiedene Fakten mit bestimmten Orten in seiner Wohnung verknüpft. Welche der nachfolgenden Methoden wählt er hierfür?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eselbrücke"
+        },
+        {
+          "label": "B",
+          "text": "Entscheidungsbaum-Methode"
+        },
+        {
+          "label": "C",
+          "text": "Mindmap"
+        },
+        {
+          "label": "D",
+          "text": "Karteikarten"
+        },
+        {
+          "label": "E",
+          "text": "Loci-Methode"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1,
+      "explanation": "Die Loci-Methode verknüpft Informationen mit bestimmten Orten, um sie besser zu behalten.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "single",
+      "prompt": "Welche Triade beschreibt \"selbstgesteuertes Lernen\" am besten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wollen-Wissen-Können"
+        },
+        {
+          "label": "B",
+          "text": "Plan-Do-Check"
+        },
+        {
+          "label": "C",
+          "text": "Input-Throughput-Output"
+        },
+        {
+          "label": "D",
+          "text": "Hören-Sehen-Fühlen"
+        },
+        {
+          "label": "E",
+          "text": "Planen-Wollen-Prüfen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1,
+      "explanation": "Selbstgesteuertes Lernen wird durch die Triade Wollen-Wissen-Können beschrieben.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Remo ein Student in Wirtschaftsinformatik, nimmt an einem Workshop zu Networking-Kompetenzen teil. Während der Übung reflektiert er, wie er auf andere wirkt, welche Themen ihn authentisch repräsentieren und wie er langfristig Kontakte aufbauen kann. Ihm wird klar, dass Networking nicht nur vom Austausch von Nummern lebt, sondern von Vertrauen, gegenseitigem Interesse und der Fähigkeit, als Person in Erinnerung zu bleiben. Was zeichnet eine interessante und nachhaltige Netzwerkperson im beruflichen Kontext besonders aus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sie spricht über ihre Erfolge, um Kompetenz zu signalisieren, und achtet dabei auf die Relevanz für das Gegenüber"
+        },
+        {
+          "label": "B",
+          "text": "Sie konzentriert sich auf eine möglichst grosse Anzahl von Kontakten, um viele Optionen offen zu halten"
+        },
+        {
+          "label": "C",
+          "text": "Sie bleibt in Gesprächen vor allem bei fachlichen Themen, um Professionalität zu wahren"
+        },
+        {
+          "label": "D",
+          "text": "Sie positioniert sich zurückhaltend, um nicht den Eindruck von Selbstpromotion zu erwecken"
+        },
+        {
+          "label": "E",
+          "text": "Sie verbindet fachliche Expertise mit echtem Interesse an anderen und schafft dadurch beidseitigen Mehrwert"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1,
+      "explanation": "Eine interessante Netzwerkperson verbindet fachliche Expertise mit echtem Interesse an anderen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Fatma arbeitet als Junior IT-Consultant und begleitet Kund:innen bei der Einführung neuer ERP-Systeme. Sie erkennt, dass ihr Erfolg stark von ihrer Fähigkeit abhängt, komplexe Kundenbedürfnisse zu verstehen und daraus Anforderungen abzuleiten. Welche Aufgabe gehört typischerweise NICHT zum Tätigkeitsprofil eines IT-Consultants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erstellung von Pflichtenheften und technischen Konzepten"
+        },
+        {
+          "label": "B",
+          "text": "Beratung bei der Entwicklung von ICT-Strategien"
+        },
+        {
+          "label": "C",
+          "text": "Durchführung von Evaluationen komplexer Systeme"
+        },
+        {
+          "label": "D",
+          "text": "Design und Programmierung von Quellcode für Produktfeatures"
+        },
+        {
+          "label": "E",
+          "text": "Unterstützung bei der Formulierung von Anforderungen und Richtlinien"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Design und Programmierung von Quellcode gehören typischerweise nicht zum Tätigkeitsprofil eines IT-Consultants.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Die IT-Projektleiterin Aylin bemerkt, dass ihr Team in Online-Meetings oft abgelenkt wirkt. Viele beantworten parallel Mails oder schauen aufs Smartphone. Nach einem Training zu Digital Mindfulness überlegt sie, wie sie digitale Reizüberflutung verringern kann, ohne die Erreichbarkeit einzuschränken. Welche Massnahme stärkt laut dem Konzept der Digital Mindfulness langfristig Fokus und Produktivität im Team?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Einführung regelmässiger „Deep-Work\"-Phasen ohne digitale Unterbrechung"
+        },
+        {
+          "label": "B",
+          "text": "Förderung von Multitasking, um mehr Aufgaben gleichzeitig zu erledigen"
+        },
+        {
+          "label": "C",
+          "text": "Permanente Erreichbarkeit, um Entscheidungen zu beschleunigen"
+        },
+        {
+          "label": "D",
+          "text": "Nutzung zusätzlicher Kommunikationskanäle zur Erhöhung der Transparenz"
+        },
+        {
+          "label": "E",
+          "text": "Delegation aller Konzentrationsaufgaben an KI-Tools"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1,
+      "explanation": "Regelmässige „Deep-Work“-Phasen ohne digitale Unterbrechung stärken Fokus und Produktivität.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "single",
+      "prompt": "Das ETHICAL-Framework dient zur ethischen Reflexion bei der Nutzung von KI-Tools. Welche der folgenden Komponenten gehört NICHT zum ETHICAL-Framework?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evaluate"
+        },
+        {
+          "label": "B",
+          "text": "Transparency"
+        },
+        {
+          "label": "C",
+          "text": "Human oversight"
+        },
+        {
+          "label": "D",
+          "text": "Innovation"
+        },
+        {
+          "label": "E",
+          "text": "Critical thinking"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Innovation gehört nicht zum ETHICAL-Framework.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "single",
+      "prompt": "Das \"Drei-Phasen-Konzept\" von Lewin ist ein Klassiker des Change Management und kommt auch heute noch in vielen Unternehmen im Einsatz. Welche drei konkreten Phasen unterscheidet Lewin hierbei in seinem Konzept?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unfreezing - Improving - Ongoing"
+        },
+        {
+          "label": "B",
+          "text": "Defining - Measuring - Improving"
+        },
+        {
+          "label": "C",
+          "text": "Analyzing - Measuring - Controlling"
+        },
+        {
+          "label": "D",
+          "text": "Unfreezing - Moving - Refreezing"
+        },
+        {
+          "label": "E",
+          "text": "Defining - Moving - Controlling"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1,
+      "explanation": "Lewins Drei-Phasen-Konzept besteht aus Unfreezing, Moving und Refreezing.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "single",
+      "prompt": "Ein erfolgreiches Change Management ist eine der zentralen Voraussetzungen, um Projekte erfolgreich in die Umsetzung zu bringen. Welche der nachfolgenden Kernaussage zum Change Management ist korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Change Management bringt spontanes Reagieren ohne konkrete Vorgaben mit sich"
+        },
+        {
+          "label": "B",
+          "text": "Change Management bereitet Betroffene auf neue Anforderungen vor"
+        },
+        {
+          "label": "C",
+          "text": "Change Management ist insbesondere in der IT sehr wichtig"
+        },
+        {
+          "label": "D",
+          "text": "Change Management definiert eine einzige mögliche Vorgehensrichtung"
+        },
+        {
+          "label": "E",
+          "text": "Change Management ist eine interne Marketing-Massnahme"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1,
+      "explanation": "Change Management bereitet Betroffene auf neue Anforderungen vor.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "single",
+      "prompt": "Das ABC der Motivation (Deci et al., 1991) beschreibt drei Grundbedürfnisse. Welche Kombination bildet das Fundament für ein förderliches Lernklima?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autonomie, Balance, Konzentration"
+        },
+        {
+          "label": "B",
+          "text": "Autonomie, Zugehörigkeit, Kompetenz"
+        },
+        {
+          "label": "C",
+          "text": "Anpassung, Beziehung, Kontrolle"
+        },
+        {
+          "label": "D",
+          "text": "Aufmerksamkeit, Belohnung, Kommunikation"
+        },
+        {
+          "label": "E",
+          "text": "Arbeit, Beziehung, Charakter"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Autonomie, Zugehörigkeit und Kompetenz bilden das Fundament für ein förderliches Lernklima.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Leon ist als Vertriebsleiter in einem IT-Unternehmen tätig und hat sich zum Ziel gesetzt, die Kundenbindung nachhaltig zu verbessern. Seine Vorgesetzte hat ihm mitgeteilt, dass die Steigerung der Kundenzufriedenheit ein zentraler Erfolgsfaktor für das Unternehmenswachstum darstellt. Leon möchte erreichen, dass sein Unternehmen als zuverlässiger Partner in der Branche gilt. Durch die verbesserte Kundenbindung erhofft er sich zudem, dass bestehende Kunden das Unternehmen weiterempfehlen und dadurch neue Geschäftsbeziehungen entstehen. Sein Ziel formuliert er wie folgt: „Ich möchte die Kundenzufriedenheit um 30% steigern, indem ich monatliche Feedback-Gespräche einführe und auf individuelle Kundenwünsche eingehe, um langfristige Geschäftsbeziehungen aufzubauen und Empfehlungen zu fördern.\" Welche Dimension der SMART-Zielsetzung fehlt in Leons Zieldefinition vollständig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spezifisch"
+        },
+        {
+          "label": "B",
+          "text": "Messbar"
+        },
+        {
+          "label": "C",
+          "text": "Attraktiv"
+        },
+        {
+          "label": "D",
+          "text": "Realistisch"
+        },
+        {
+          "label": "E",
+          "text": "Terminiert"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Leons Zieldefinition fehlt die Dimension 'Terminiert'.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "single",
+      "prompt": "Im Rahmen der GTD-Methode müssen alle relevanten Themen verarbeitet werden. Welche der nachfolgenden Aussagen ist im Rahmen dieser Verarbeitung korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relevante Themen, die mehr als einen Schritt beinhalten, können delegiert werden"
+        },
+        {
+          "label": "B",
+          "text": "Relevante Themen, die weniger als 2 Minuten dauern, können sofort erledigt werden"
+        },
+        {
+          "label": "C",
+          "text": "Relevante Themen werden in der Inbox abgelegt"
+        },
+        {
+          "label": "D",
+          "text": "Relevante Themen, für die es aktuell nichts zu tun gibt, kommen auf einen Projektplan"
+        },
+        {
+          "label": "E",
+          "text": "Relevante Themen werden in GTD nicht bearbeitet"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Relevante Themen, die weniger als 2 Minuten dauern, können sofort erledigt werden.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "single",
+      "prompt": "Die Walt-Disney-Methode nach Robert B. Dilts zielt darauf ab, Probleme aus verschiedenen Perspektiven zu betrachten. Welche Aussage trifft dabei am besten zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der Realist bewertet Ideen emotional"
+        },
+        {
+          "label": "B",
+          "text": "Der Kritiker prüft Ideen auf Umsetzbarkeit"
+        },
+        {
+          "label": "C",
+          "text": "Der Träumer entwickelt visionäre Ansätze, der Realist plant die Umsetzung, der Kritiker identifiziert Schwächen"
+        },
+        {
+          "label": "D",
+          "text": "Alle Rollen arbeiten gleichzeitig, um schnell zu Entscheidungen zu kommen"
+        },
+        {
+          "label": "E",
+          "text": "Die Methode fördert ausschliesslich kreative Ideenfindung"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Der Träumer entwickelt visionäre Ansätze, der Realist plant die Umsetzung, der Kritiker identifiziert Schwächen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "single",
+      "prompt": "Was fördert laut Furtner und Baldegger aktive und effektive Führung?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Externe Motivation"
+        },
+        {
+          "label": "B",
+          "text": "Selbststeuerung und intrinsische Motivation"
+        },
+        {
+          "label": "C",
+          "text": "Strikte Kontrolle durch Vorgesetzte"
+        },
+        {
+          "label": "D",
+          "text": "Routinearbeiten ohne Ziel"
+        },
+        {
+          "label": "E",
+          "text": "Passives Verhalten"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Selbststeuerung und intrinsische Motivation fördern aktive und effektive Führung.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "single",
+      "prompt": "Was beschreibt eine konstruktive Gedankenmusterstrategie?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negative Selbstgespräche"
+        },
+        {
+          "label": "B",
+          "text": "Visualisierung erfolgreicher Leistungen"
+        },
+        {
+          "label": "C",
+          "text": "Selbstbestrafung"
+        },
+        {
+          "label": "D",
+          "text": "Vermeidung von Feedback"
+        },
+        {
+          "label": "E",
+          "text": "Delegation an andere"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Visualisierung erfolgreicher Leistungen ist eine konstruktive Gedankenmusterstrategie.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "single",
+      "prompt": "Welche Bedingung gehört NICHT zu den drei zentralen Voraussetzungen für selbstgesteuertes Lernen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Passung zu Zielen und Interessen des Lernenden"
+        },
+        {
+          "label": "B",
+          "text": "Methoden zum Strukturieren"
+        },
+        {
+          "label": "C",
+          "text": "Förderung von Selbstaufmerksamkeit"
+        },
+        {
+          "label": "D",
+          "text": "Externer Leistungsdruck"
+        },
+        {
+          "label": "E",
+          "text": "Bedürfnis nach Autonomie und Kompetenz"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Externer Leistungsdruck gehört nicht zu den zentralen Voraussetzungen für selbstgesteuertes Lernen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "single",
+      "prompt": "Wofür steht im Rahmen des Lernens die Formel L = V x B x A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lesen = Verstehen x Bearbeiten x Anwenden"
+        },
+        {
+          "label": "B",
+          "text": "Leistung = Verhalten x Bewertung x Aufwand"
+        },
+        {
+          "label": "C",
+          "text": "Lernziel = Vorwissen x Bedarf x Arbeit"
+        },
+        {
+          "label": "D",
+          "text": "Lernprozess = Vorgehen x Bereitschaft x Aktion"
+        },
+        {
+          "label": "E",
+          "text": "Lernerfolg = Verstehen x Behalten x Abrufen"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Lernerfolg = Verstehen x Behalten x Abrufen beschreibt die Formel L = V x B x A.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Strello arbeitet in seiner Funktion als Applikationsmanager in einem Team, welches ein neues CRM-System für einen Onlinehändler für Pferde- und Eselnahrung entwickelt. Hierbei wird mit agilen Methoden gearbeitet. Da das Projekt von entscheidender Bedeutung für den Zukunftserfolg der Unternehmung ist, werden regelmässig Feedback und Anforderungen von Schlüsselpersonen eingeholt. So bringt die Geschäftsleitung regelmässig Inputs ein über die Strategie der Gesamtunternehmung und das das CRM-System hierzu einen Beitrag leisten muss. Der Projektleiter führt das Team sehr eng und überwacht konsequent den Projektfortschritt. Stakeholder wie z.B. der Lieferant für die Hardware möchte jeweils zeitnah Informationen haben, ob die angedachte Hardware die Anforderungen des CRM-Systems erfüllt. Auch interne Kunden wie z.B.: das Marketing möchten wissen, wie das CRM-System mit anderen Marketingapplikationen zusammenspielt. Und auch das Team für die Entwicklung des neuen CRM-Systems haben Informationserwartungen, um zu sehen, ob sie als Team auf Zielkurs sind. Wer nimmt ihm Rahmen eines Reviews im agilen Arbeiten am Daily Standup teil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nur das Team"
+        },
+        {
+          "label": "B",
+          "text": "Team und Stakeholder"
+        },
+        {
+          "label": "C",
+          "text": "Stakeholder und Geschäftsleitung"
+        },
+        {
+          "label": "D",
+          "text": "Team und interne Kunden"
+        },
+        {
+          "label": "E",
+          "text": "Projektleiter und Geschäftsleitung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Am Daily Standup nimmt nur das Team teil.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Rahmen des Moduls und innerhalb der Semesterwoche zu Diversity & Networking haben Sie den sogenannten Snowflake-Ansatz nach Gardenswartz & Rowe kennengelernt, der Vielfalt auf vier Ebenen beschreibt. In einem Workshop mit einer Gruppe reflektieren Sie Ihre eigenen Erfahrungen mit Diversität im Studienalltag. Dabei fällt Ihnen auf, dass sich bestimmte Eigenschaften, wie Alter, Herkunft oder Geschlecht, kaum oder gar nicht verändern lassen, während andere Merkmale - beispielsweise Berufserfahrung, Einkommen oder die Position innerhalb einer Organisation - sich im Laufe des Lebens entwickeln können. In Ihrer Gruppe diskutieren Sie, warum es wichtig ist, diese Unterschiede zu kennen, um Diskriminierungen vorzubeugen und Inklusion bewusst zu gestalten. Jemand merkt an, dass eine inklusive Haltung nur entstehen kann, wenn man versteht, welche Merkmale in Diskussionen über Vielfalt angeboren oder stabil sind und welche sich durch persönliche Entscheidungen oder Lebensumstände verändern lassen. Welche der folgenden Dimensionen des Snowflake-Ansatzes umfasst Merkmale, die kaum oder gar nicht veränderbar sind?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Äussere Dimension"
+        },
+        {
+          "label": "B",
+          "text": "Organisationale Dimension"
+        },
+        {
+          "label": "C",
+          "text": "Innere Dimension"
+        },
+        {
+          "label": "D",
+          "text": "Berufliche Erfahrung"
+        },
+        {
+          "label": "E",
+          "text": "Soziale Rolle"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Die innere Dimension umfasst Merkmale, die kaum oder gar nicht veränderbar sind.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Rahmen der Semesterwoche zu Diversity & Networking analysieren Sie aktuelle Forschungsergebnisse zu Diversity in der IT-Branche. Ihre Studiengruppe untersucht dabei mehrere Metastudien (u. a. Turban et al., 2019) zu Produktivität und Innovationskraft in Organisationen mit unterschiedlichen Diversity-Strategien. Die Resultate zeigen, dass Unternehmen, die Vielfalt aktiv leben, deutlich bessere Teamleistungen erzielen - insbesondere, wenn inklusive Werte, respektvolle Kommunikation und faire Entscheidungsprozesse fest in der Unternehmenskultur verankert sind. Ein Diskussionspunkt im Plenum lautet, dass „Diversität allein\" nicht genügt, sondern erst durch eine inklusive Kultur ihr Potenzial entfaltet. Ihr Dozent betont, dass neben Kreativität und Innovation auch Mitarbeiterzufriedenheit und langfristige Wettbewerbsfähigkeit durch gelebte Vielfalt steigen. Welcher Zusammenhang wird in der aktuellen Forschung zu Diversity in IT besonders hervorgehoben?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unternehmen mit gelebter Vielfalt profitieren von höherer Produktivität, Innovationskraft und Zufriedenheit der Mitarbeitenden"
+        },
+        {
+          "label": "B",
+          "text": "Geschlechtergemischte Teams verursachen erhöhte Koordinationskosten und sinkende Effizienz"
+        },
+        {
+          "label": "C",
+          "text": "Diversität wirkt sich ausschliesslich positiv auf die interne Kommunikation aus, nicht aber auf die Leistung"
+        },
+        {
+          "label": "D",
+          "text": "Homogene Teams sind kreativer, weil sie weniger Konfliktpotenzial aufweisen"
+        },
+        {
+          "label": "E",
+          "text": "Die Innovationskraft von Unternehmen bleibt unabhängig vom Grad ihrer Diversität stabil"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 1.5,
+      "explanation": "Unternehmen mit gelebter Vielfalt profitieren von höherer Produktivität, Innovationskraft und Zufriedenheit der Mitarbeitenden.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Die Firma TechWave Solutions nutzt beim Aufbau einer neuen CRM-Plattform das klassische Wasserfallmodell. Nach Projektende bemerkt das Team, dass Änderungen in späten Phasen kaum möglich waren. In einer Retrospektive diskutiert die Leitung, welche strukturellen Ursachen dazu führten. Welche strukturelle Eigenschaft des Wasserfallmodells erklärt die geringe Anpassungsfähigkeit bei späteren Projektänderungen am besten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die flexible Parallelbearbeitung von Entwicklungsphasen"
+        },
+        {
+          "label": "B",
+          "text": "Die sequentielle Abfolge von Phasen mit starker Dokumentationsabhängigkeit"
+        },
+        {
+          "label": "C",
+          "text": "Die iterative Rückkopplung nach jedem Sprint"
+        },
+        {
+          "label": "D",
+          "text": "Die Integration von Feedback in Echtzeit durch Daily Meetings"
+        },
+        {
+          "label": "E",
+          "text": "Die dynamische Priorisierung des Product Backlogs"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Die sequentielle Abfolge von Phasen mit starker Dokumentationsabhängigkeit erklärt die geringe Anpassungsfähigkeit des Wasserfallmodells.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Vivian arbeitet in einem interdisziplinären Projektteam der InnoTech Solutions AG im Raum Winterthur, das zum ersten Mal agile Methoden wie Scrum testet. Während der ersten Sprints bemerkt sie, dass Meetings, Feedback-Schleifen und Priorisierung nur dann produktiv verlaufen, wenn die Teammitglieder bereit sind, ihr eigenes Kommunikationsverhalten und ihre Arbeitsweise regelmässig zu reflektieren. Das Unternehmen befindet sich in einer Wachstumsphase und möchte durch Agilität die Zusammenarbeit zwischen Entwicklung, Vertrieb und Support effizienter gestalten. In den ersten Retrospektiven wird jedoch deutlich, dass technische Expertise allein nicht ausreicht - Offenheit, Feedbackfähigkeit und gegenseitiges Vertrauen spielen eine ebenso zentrale Rolle. Zudem zeigt sich, dass unterschiedliche Persönlichkeiten unterschiedlich gut mit Selbstorganisation umgehen können, was zu intensiven Diskussionen über Verantwortung und Eigeninitiative führt. Welcher Zusammenhang besteht zwischen Selbstreflexion und der erfolgreichen Umsetzung agiler Methoden im Teamkontext?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selbstreflexion kann den agilen Prozess verlangsamen, da sie kurzfristiges Handeln erschwert"
+        },
+        {
+          "label": "B",
+          "text": "In agilen Teams ersetzt das kollektive Feedback die individuelle Selbstreflexion weitgehend"
+        },
+        {
+          "label": "C",
+          "text": "Der Erfolg agiler Methoden hängt primär von klaren Tools und Rollen ab, weniger von persönlicher Anpassungsfähigkeit"
+        },
+        {
+          "label": "D",
+          "text": "Selbstreflexion ist vor allem in hierarchischen Organisationen relevant, nicht jedoch in selbstorganisierten Teams"
+        },
+        {
+          "label": "E",
+          "text": "Nur wer regelmässig über eigene Stärken, Kommunikationsmuster und Lernprozesse nachdenkt, kann Agilität im Sinne kontinuierlicher Verbesserung leben"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 1.5,
+      "explanation": "Nur wer regelmässig über eigene Stärken, Kommunikationsmuster und Lernprozesse nachdenkt, kann Agilität im Sinne kontinuierlicher Verbesserung leben.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Florina ist gerade in Ihrem Bewerbungsprozess für eine neue Anstellung in einer IT-Unternehmung. Dort ist eine spannende Stelle im Bereich Data Science ausgeschrieben und Florina überlegt sich, sich auf diese Stelle zu bewerben. Welche Tätigkeit gehört zur Data Science Praxis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vergangenheitsberichte erstellen ohne Prognosen"
+        },
+        {
+          "label": "B",
+          "text": "Reine Datensammlung"
+        },
+        {
+          "label": "C",
+          "text": "Ausschliessliche Bereitstellung von Daten für das Marketing"
+        },
+        {
+          "label": "D",
+          "text": "Vorhersage künftiger Ereignisse"
+        },
+        {
+          "label": "E",
+          "text": "Datenstammbereinigung"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Vorhersage künftiger Ereignisse gehört zur Data Science Praxis.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Florina ist gerade in Ihrem Bewerbungsprozess für eine neue Anstellung in einer IT-Unternehmung. Jetzt ist sie noch auf eine zweite interessante Stelle gestossen als Business Analyst:in, welche sie als valable Alternative sieht für ihre künftige Berufstätigkeit. Welches ist eine zentrale Tätigkeit bei der Arbeit als Business Analyst:in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Programmierung von Businessanwendungen"
+        },
+        {
+          "label": "B",
+          "text": "Zuhören, Hinterfragen und Dokumentieren"
+        },
+        {
+          "label": "C",
+          "text": "Übernahme von Aufgaben im HR und Marketing"
+        },
+        {
+          "label": "D",
+          "text": "Extraktion von Daten"
+        },
+        {
+          "label": "E",
+          "text": "Datenstammbereinigung"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 1.5,
+      "explanation": "Zuhören, Hinterfragen und Dokumentieren sind zentrale Tätigkeiten eines Business Analysten.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Die CodeNova AG, ein wachsendes IT-Unternehmen, verzeichnet in den letzten Quartalen eine Zunahme stressbedingter Ausfälle, insbesondere bei Mitarbeitenden im hybriden Arbeitsmodell. Viele berichten von Technostress, ständiger Erreichbarkeit und emotionaler Erschöpfung trotz moderner Tools für Zeitmanagement und Teamkommunikation. Das HR-Team entwickelt daher ein Programm, das Achtsamkeit, emotionale Regulation und Selbstwirksamkeit kombiniert. Ziel ist es, die Mitarbeitenden zu befähigen, digitale Reize bewusst zu steuern, Emotionen wahrzunehmen und konstruktiv mit Belastungen umzugehen. In einer Diskussionsrunde sollen die Teilnehmenden bewerten, welche Aussage diesen Ansatz nicht korrekt beschreibt. Welche der folgenden Aussagen spiegelt die Forschungsergebnisse zur Rolle von Achtsamkeit und Emotionen in der Stressbewältigung NICHT korrekt wider?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Achtsamkeit stärkt die metakognitive Wahrnehmung von Emotionen und wirkt so als präventiver Faktor gegen reaktiven Stress"
+        },
+        {
+          "label": "B",
+          "text": "Eine ausgeprägte Selbstwirksamkeit fördert resilientes Verhalten und reduziert die physiologische Stressreaktion"
+        },
+        {
+          "label": "C",
+          "text": "Emotionale Regulation wird primär durch den Einsatz digitaler Technologien automatisiert und erfordert keine bewusste Selbstreflexion"
+        },
+        {
+          "label": "D",
+          "text": "Achtsamkeitsbasierte Interventionen verbessern nachweislich die emotionale Stabilität und senken die Burnout-Anfälligkeit"
+        },
+        {
+          "label": "E",
+          "text": "Die Kombination aus Achtsamkeit und Selbstwirksamkeit gilt in der Forschung als protektiver Faktor gegen chronische Belastung"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Emotionale Regulation wird nicht primär durch digitale Technologien automatisiert.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Sarah arbeitet in der IT-Abteilung eines Unternehmens und soll ihren Kolleg:innen die grundlegende Funktionsweise von Large Language Models (LLMs) erklären. Sie bereitet eine Präsentation über die Transformer-Architektur vor. Dabei beschreibt sie den Verarbeitungsprozess eines Textes wie folgt: „Wenn wir den Text ,Der Hund ...' eingeben, durchläuft dieser mehrere Verarbeitungsschritte. Zuerst wird der Text durch Tokenisierung in kleinere Einheiten zerlegt. Dann analysiert die Self-Attention die Beziehungen zwischen den Wörtern. Anschliessend erfolgt die Verarbeitung durch ein Neuronales Netz, bevor die Output-Schicht die Wahrscheinlichkeiten für das nächste Wort berechnet. Diese Schritte werden mehrfach wiederholt.\" Welcher zentrale Verarbeitungsschritt der Transformer-Architektur wurde von Sarah in ihrer Erklärung NICHT korrekt benannt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tokenisierung"
+        },
+        {
+          "label": "B",
+          "text": "Self-Attention"
+        },
+        {
+          "label": "C",
+          "text": "Embedding"
+        },
+        {
+          "label": "D",
+          "text": "Neuronales Netz"
+        },
+        {
+          "label": "E",
+          "text": "Output-Schicht"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 1.5,
+      "explanation": "Sarah hat den Schritt 'Embedding' nicht korrekt benannt.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 31,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Fridolin arbeitet seit kurzem als Wirtschaftsinformatiker in einer Grossbank. Um seinen gut gefüllten Wissensrucksack mit IT-Wissen weiter zu füllen, ist er Mitglied eines Projektteams, welches sich mit dem Change Management beschäftigt. Hierbei wird sowohl die Aufbau- als auch die Ablauforganisation der Grossbank näher betrachtet. Für beide Bereiche gibt es hierbei klar unterschiedliche Veränderungsbereiche. Welche der nachfolgenden Veränderungen im Change Management innerhalb von Organisationen betreffen die Aufbauorganisation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prozesse"
+        },
+        {
+          "label": "B",
+          "text": "Führungsinstrumente"
+        },
+        {
+          "label": "C",
+          "text": "Rollen und Zuständigkeiten"
+        },
+        {
+          "label": "D",
+          "text": "Strukturen"
+        },
+        {
+          "label": "E",
+          "text": "Aufgaben"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 1.5,
+      "explanation": "Veränderungen in der Aufbauorganisation betreffen die Strukturen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 32,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Während des laufenden Semesters arbeiten mehrere Studierende gemeinsam an einer anspruchsvollen Projektarbeit. Nach einer kritischen Zwischenbewertung reagiert ein Teil der Gruppe frustriert und zieht sich zurück, weil die Rückmeldungen als persönliche Kritik empfunden werden. Andere Teammitglieder sehen die Kommentare als Chance, ihre Analyse zu verbessern, und beginnen aktiv, gezielt Feedback von Kommiliton:innen einzuholen. Im Verlauf des Projekts zeigt sich, dass die unterschiedliche Haltung gegenüber Fehlern und Lernen einen deutlichen Einfluss auf Motivation, Zusammenarbeit und Ergebnisqualität hat. Diese Beobachtung führt zu einer Diskussion darüber, wie stark Denkhaltungen darüber entscheiden, ob Menschen Herausforderungen als Risiko oder als Entwicklungsmöglichkeit wahrnehmen. Welche Kombination von Verhaltensweisen zeigt am deutlichsten den Unterschied zwischen einem Fixed Mindset und einem Growth Mindset im Studium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fixed Mindset: Vermeidung von Herausforderungen - Growth Mindset: Suche nach Feedback"
+        },
+        {
+          "label": "B",
+          "text": "Fixed Mindset: Freude an Kritik - Growth Mindset: Angst vor Fehlern"
+        },
+        {
+          "label": "C",
+          "text": "Fixed Mindset: Offenheit für Lernen - Growth Mindset: Glaube an feste Begabung"
+        },
+        {
+          "label": "D",
+          "text": "Fixed Mindset: Durchhaltevermögen - Growth Mindset: Aufgabenflucht"
+        },
+        {
+          "label": "E",
+          "text": "Fixed Mindset: Lernorientierung - Growth Mindset: Leistungsflucht"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2,
+      "explanation": "Fixed Mindset: Vermeidung von Herausforderungen - Growth Mindset: Suche nach Feedback zeigt den Unterschied zwischen den Mindsets.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 33,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Das Studierendenteam „Tech4Future\" arbeitet an einer Idee für eine digitale Plattform. Die Gruppe wendet die Walt-Disney-Methode an, allerdings diskutieren alle gleichzeitig in ihren eigenen Rollen: einige träumen, andere kritisieren, wieder andere planen schon konkrete Schritte. Nach kurzer Zeit herrscht Chaos, niemand hört richtig zu, und die Diskussion dreht sich im Kreis. Alle wundern sich, dass diese Methodik doch nicht funktioniert. Welches zentrale Prinzip der Walt-Disney-Methode wurde hier missachtet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Der kreative Umgang mit Visionen"
+        },
+        {
+          "label": "B",
+          "text": "Die Anwendung der Methode in Gruppen"
+        },
+        {
+          "label": "C",
+          "text": "Der Fokus auf Innovation und Veränderung"
+        },
+        {
+          "label": "D",
+          "text": "Die klare Trennung und Reihenfolge der Rollen"
+        },
+        {
+          "label": "E",
+          "text": "Die kritische Beurteilung von Ideen"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Die klare Trennung und Reihenfolge der Rollen wurde missachtet.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 34,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Giorgia ist eine Verkauf-Managerin in einer renommierten Unternehmensberatung mit Fokus auf IT. Sie stellte fest, dass sie ihre beruflichen Ziele oft nicht erreichte und Schwierigkeiten hatte, sich selbst zu motivieren. Um ihre beruflichen Fähigkeiten zu verbessern, entschied sie sich, an ihren Self-Leadership-Fähigkeiten zu arbeiten. Giorgia begann damit, sich klare und spezifische Ziele zu setzen, um ihre beruflichen Fähigkeiten zu verbessern. Sie entwickelte tägliche Routinen, um ihre Arbeitsweise zu reflektieren und dokumentierte ihre täglichen Erfolge und Herausforderungen. Um ihre mentale Einstellung zu verbessern, führte Anna sie positive Selbstgespräche. Sie gewöhnte sich ausserdem an motivierende Post-ist an ihrem Arbeitsplatz aufzuhängen. Ein weiterer wichtiger Aspekt ihrer Entwicklung war die systematische Analyse ihrer Fehler. Nach jedem Projekt reflektierte Giorgia systematisch über ihre Leistung und suchte nach Möglichkeiten, daraus zu lernen und sich zu verbessern. Zusätzlich visualisierte sie ihre langfristigen Ziele durch ein Vision Board und feierte kleine Erfolge gemeinsam mit ihrem Team, um ihre Motivation hochzuhalten. Auch finanzielle Anreize wurden als Mittel zur Selbstmotivation eingesetzt, um ihre Ziele schneller zu erreichen. Nach sechs Monaten zeigten sich deutliche Verbesserungen in Annas beruflicher Leistung und ihrer Fähigkeit, Projekte erfolgreich abzuschliessen. Ihre Kolleg:innen bemerkten ihre positive Veränderung und die gesteigerte Effizienz in ihrem Arbeitsstil. Welche der folgenden Massnahmen, die Giorgia zur Verbesserung ihrer Self-Leadership-Fähigkeiten ergriffen hat, ist KEINE verhaltensfokussierte Strategie?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selbstbeobachtung durch Reflexion ihrer täglichen Arbeitsweise"
+        },
+        {
+          "label": "B",
+          "text": "Setzen klarer und spezifischer Ziele"
+        },
+        {
+          "label": "C",
+          "text": "Positive Selbstgespräche zur Stärkung ihrer mentalen Einstellung"
+        },
+        {
+          "label": "D",
+          "text": "Erfolge mit dem Team feiern"
+        },
+        {
+          "label": "E",
+          "text": "Verwendung von Post-Its zur Selbsterinnerung"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Erfolge mit dem Team zu feiern ist keine verhaltensfokussierte Strategie.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 35,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: In der Grossklasse zu Self-Leadership haben Sie das Beispiel der Studentin Anna kennengelernt. Anna engagiert sich stark in ihrem Projektteam und zeigt durch ihr Verhalten, wie Selbstführung im Studien- und Arbeitsalltag konkret gelebt werden kann. Sie setzt sich klare, messbare Ziele, reflektiert regelmässig ihre Fortschritte und feiert gemeinsam mit ihrem Team kleine Meilensteine. Durch positive Selbstgespräche stärkt sie ihre Motivation und ihr Vertrauen in die eigene Wirksamkeit. Annas Verhalten einer Studentin - etwa das Feiern von Meilensteinen und positive Selbstgespräche - illustriert ...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Konstruktive Gedankenkontrolle"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsische Motivation durch Selbstführung"
+        },
+        {
+          "label": "C",
+          "text": "Externe Motivation durch Lob"
+        },
+        {
+          "label": "D",
+          "text": "Zeitmanagementmethoden"
+        },
+        {
+          "label": "E",
+          "text": "Hierarchische Kontrolle"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Annas Verhalten illustriert intrinsische Motivation durch Selbstführung.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 36,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Hubert arbeitet gemeinsam mit seinem Team am Projekt \"Nutzung von digitalen Instrumenten im Projektmanagement\". Hierbei nutzt das Team agile Methoden und führt regelmässig eine Retrospektive durch. Wozu dient die Retrospektive in erster Linie?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Produktabnahme"
+        },
+        {
+          "label": "B",
+          "text": "Verbesserung der Zusammenarbeit"
+        },
+        {
+          "label": "C",
+          "text": "Austausch über den täglichen Status-Quo"
+        },
+        {
+          "label": "D",
+          "text": "Budgetfreigabe"
+        },
+        {
+          "label": "E",
+          "text": "Ressourcenplanung"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Die Retrospektive dient in erster Linie der Verbesserung der Zusammenarbeit.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 37,
+      "type": "single",
+      "prompt": "Wodurch können im Rahmen der digitalen Arbeit \"kognitive Wechselkosten\" entstehen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eine Aufgabe fokussiert bearbeiten"
+        },
+        {
+          "label": "B",
+          "text": "Ständiges Kanal-/Kontext-Switchen"
+        },
+        {
+          "label": "C",
+          "text": "Hohe inhaltliche Anforderungen in Meetings"
+        },
+        {
+          "label": "D",
+          "text": "Prozesswechsel"
+        },
+        {
+          "label": "E",
+          "text": "Nichtfunktionieren von IT-Anwendungen in Meetings"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Kognitive Wechselkosten entstehen durch ständiges Kanal-/Kontext-Switchen.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 38,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Im Rahmen Ihres Praxisprojekts beraten Sie ein mittelgrosses Softwareunternehmen, das den Frauenanteil in seinen Entwicklungsteams erhöhen möchte. Die Geschäftsleitung verweist auf die hohe Fluktuation weiblicher Mitarbeitender und bittet Ihr Studierendenteam um eine Analyse der Ursachen und mögliche Lösungsansätze. Bei der Datenauswertung fällt auf, dass Frauen das Unternehmen häufig innerhalb der ersten drei Jahre verlassen - obwohl sie gute Leistungen zeigen und objektiv ähnliche Karrierechancen besitzen wie ihre männlichen Kollegen. In Gesprächen nennen viele ehemalige Mitarbeiterinnen Gründe wie fehlende Vorbilder, mangelnde Anerkennung in Projektteams und eine Kultur, die unbewusst männliche Kommunikations- und Führungsstile bevorzugt. Ihre Gruppe bezieht sich in der Diskussion auf Forschungsergebnisse von Ashcraft et al. (2016) und Botella et al. (2019), die betonen, dass nicht individuelle, sondern strukturelle Faktoren die zentrale Rolle spielen. Welche der folgenden Handlungsempfehlungen leitet sich aus der aktuellen Forschung zu Gender Diversity in IT am schlüssigsten ab?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fokus auf individuelle Resilienztrainings für Frauen, um persönliche Durchhaltefähigkeit zu stärken"
+        },
+        {
+          "label": "B",
+          "text": "Einführung verpflichtender Teilzeitmodelle, um weibliche Mitarbeitende länger zu halten"
+        },
+        {
+          "label": "C",
+          "text": "Verstärkte Selektion technikaffiner Frauen durch standardisierte Eignungstests"
+        },
+        {
+          "label": "D",
+          "text": "Trennung von gemischten Teams, um Konflikte zwischen Geschlechtern zu reduzieren"
+        },
+        {
+          "label": "E",
+          "text": "Aufbau einer inklusiven Unternehmenskultur mit Mentoring, Vorbildern und gezielter Bias-Sensibilisierung in Führungsprozessen"
+        }
+      ],
+      "correct": [
+        "E"
+      ],
+      "points": 2,
+      "explanation": "Der Aufbau einer inklusiven Unternehmenskultur mit Mentoring und Vorbildern ist eine schlüssige Handlungsempfehlung.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 39,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Leandro, Business Developer bei der CodeSphere AG, soll das internationale Partnernetzwerk des Unternehmens strategisch erweitern. Bei der Analyse seiner bisherigen Kontakte bemerkt er, dass über 80 % seiner beruflichen Verbindungen aus dem deutschsprachigen Raum stammen und ähnliche Bildungswege, Branchen und Karrierepfade aufweisen. Im Diversity-Workshop wird deutlich, dass unbewusste Vorurteile (Biases), wie der Ähnlichkeits- oder Bestätigungsfehler, Networking-Verhalten stark beeinflussen können. Personen neigen dazu, mit Menschen in Kontakt zu treten, die ihnen in Sprache, Denken und Auftreten ähneln. Dadurch bleiben Netzwerke homogen - Vielfalt, Innovation und Perspektivenvielfalt bleiben eher aus. Die Geschäftsleitung fordert Leandro auf, sein Netzwerk gezielt diverser zu gestalten, um neue Marktsegmente zu erschliessen und die Innovationskraft zu erhöhen. Welche Aussage beschreibt den Zusammenhang zwischen Diversity und Networking im IT-Business-Alltag NICHT korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wer sich seiner unbewussten Vorurteile bewusst wird und Kontakte ausserhalb der eigenen Komfortzone sucht, erweitert sein Netzwerk um neue Perspektiven"
+        },
+        {
+          "label": "B",
+          "text": "Ohne bewusste Reflexion über Biases besteht die Gefahr, dass Netzwerkstrukturen ungewollt homogen bleiben"
+        },
+        {
+          "label": "C",
+          "text": "Eine hohe Diversität im Netzwerk stärkt nachweislich Kreativität, Problemlösefähigkeit und Innovationskraft"
+        },
+        {
+          "label": "D",
+          "text": "Der Aufbau vielfältiger Netzwerke gelingt auch ohne Selbstreflexion, da fachliche Kompetenz automatisch zu Offenheit führt"
+        },
+        {
+          "label": "E",
+          "text": "Vorurteile wirken oft subtil und können den Aufbau von Vielfalt im Business-Networking behindern, wenn sie nicht erkannt und adressiert werden"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Der Aufbau vielfältiger Netzwerke gelingt nicht automatisch ohne Selbstreflexion.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 40,
+      "type": "single",
+      "prompt": "Welcher Aspekt beschreibt den zentralen Wirkmechanismus von Mindfulness im Umgang mit komplexen Stresssituationen am treffendsten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Die bewusste Unterdrückung automatischer Gedankenketten zur Steigerung der mentalen Kontrolle"
+        },
+        {
+          "label": "B",
+          "text": "Die Fähigkeit, zwischen Reiz und Reaktion bewusst innezuhalten und die Situation aus einer beobachtenden Perspektive wahrzunehmen"
+        },
+        {
+          "label": "C",
+          "text": "Das Training kognitiver Geschwindigkeit, um in Belastungssituationen rascher zu entscheiden"
+        },
+        {
+          "label": "D",
+          "text": "Die vollständige Distanzierung von Emotionen, um rationale Entscheidungen zu begünstigen"
+        },
+        {
+          "label": "E",
+          "text": "Die systematische Bewertung von Gefühlen, um daraus Handlungsoptionen abzuleiten"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2,
+      "explanation": "Mindfulness fördert die Fähigkeit, zwischen Reiz und Reaktion bewusst innezuhalten.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 41,
+      "type": "single",
+      "prompt": "Diese Aufgabe enthält im ersten Teil die Ausgangslage, auf welche sich die korrekte Lösung der Frage im zweiten Teil der Aufgabe bezieht. Ausgangslage: Marcus ist Student der Wirtschaftsinformatik und möchte ein KI-Tool nutzen, um einen Businessplan für ein Start-up zu erstellen. Er hat in der Vorlesung die SCOPE-Methode für strukturiertes Prompt Engineering gelernt. Seinen Prompt formuliert er wie folgt: „Ich benötige einen professionellen Businessplan für ein Start-up im Bereich nachhaltige Mode. Das Start-up richtet sich an umweltbewusste Konsument:innen zwischen 20-35 Jahren und soll in der Schweiz starten. Der Businessplan sollte als strukturiertes Dokument mit Executive Summary, Marktanalyse, Finanzplan und Marketingstrategie ausgegeben werden. Berücksichtige dabei erfolgreiche Beispiele wie Patagonia oder Veja.\" Welches Element der SCOPE-Methode fehlt in Marcus' Prompt vollständig?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spezifisch - Klare, eindeutige Anweisungen"
+        },
+        {
+          "label": "B",
+          "text": "Context - Relevante Hintergrundinformationen"
+        },
+        {
+          "label": "C",
+          "text": "Output - Gewünschtes Format definieren"
+        },
+        {
+          "label": "D",
+          "text": "Persona - Rolle der KI festlegen"
+        },
+        {
+          "label": "E",
+          "text": "Examples - Konkrete Beispiele geben"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2,
+      "explanation": "Marcus' Prompt fehlt das Element 'Persona' der SCOPE-Methode.",
+      "source": "Altprüfung 25HS",
+      "aiGenerated": true
+    }
+  ]
+}

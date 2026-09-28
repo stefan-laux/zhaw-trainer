@@ -1,0 +1,20 @@
+node_modules
+dist
+dist-ssr
+.env
+.env.local
+.env.*.local
+*.local
+
+# extracted course text / intermediate build artefacts
+scripts/context
+scripts/parsed
+scripts/modules
+scripts/build
+scripts/*.log
+
+tsconfig.tsbuildinfo
+.vite
+.vercel
+.DS_Store
+*.tmp

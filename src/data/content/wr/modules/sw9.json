@@ -1,0 +1,418 @@
+{
+  "title": "Datenschutz (revDSG)",
+  "week": "SW 9",
+  "tagline": "Datenschutz ist Persönlichkeitsschutz.",
+  "summary": "Das revidierte Datenschutzgesetz (revDSG) der Schweiz legt den Schutz von Personendaten fest, die sich auf bestimmte oder bestimmbare Personen beziehen. Es umfasst Grundsätze wie Rechtmässigkeit, Zweckbindung und Datenminimierung. Verantwortliche müssen zahlreiche Pflichten erfüllen, um den Schutz der Daten zu gewährleisten. Bei Verstössen gegen das DSG können persönliche Bussgelder verhängt werden. Eine Einwilligung zur Datenbearbeitung ist nicht immer erforderlich, sofern keine widerrechtliche Persönlichkeitsverletzung vorliegt.",
+  "learningGoals": [
+    "Verstehen der Grundsätze des Datenschutzes nach revDSG",
+    "Kenntnis der Pflichten des Verantwortlichen im Datenschutz",
+    "Unterscheidung zwischen Personendaten und besonders schützenswerten Personendaten",
+    "Erkennen der Sanktionen bei Datenschutzverstössen"
+  ],
+  "blocks": [
+    {
+      "title": "Abgrenzung Geheimhaltungsvereinbarung",
+      "body": "Eine Geheimhaltungsvereinbarung (NDA) schützt vertrauliche Informationen zwischen Vertragsparteien. Sie wird häufig bei Unternehmensübernahmen und zur Sicherung von Geschäftsgeheimnissen eingesetzt.",
+      "bullets": [
+        "Schriftlicher Vertrag",
+        "Parteien und Präambel",
+        "Pflichten der Parteien",
+        "Eigentum und Immaterialgüterrechte",
+        "Konventionalstrafe und Vertragsdauer"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Einführung Datenschutz",
+      "body": "Datenschutz ist der Schutz von Personendaten, die sich auf eine bestimmte oder bestimmbare Person beziehen. Es ist ein absolutes Recht, das auch Datensicherheit umfasst.",
+      "bullets": [
+        "Persönlichkeitsschutz",
+        "Vertraulichkeit, Integrität und Verfügbarkeit",
+        "Absolutes Recht"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 1 DSG",
+          "text": "Zweck des Datenschutzes"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Wichtige Begriffe im Datenschutz",
+      "body": "Das DSG definiert elf zentrale Begriffe, die für das Verständnis des Datenschutzes wesentlich sind.",
+      "bullets": [
+        "Betroffener",
+        "Verantwortlicher",
+        "Auftragsbearbeiter",
+        "Datenschutzberater",
+        "Personendaten"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 5 DSG",
+          "text": "Definitionen im Datenschutz"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Grundsätze des Datenschutzes",
+      "body": "Die sieben Grundsätze des Datenschutzes legen fest, wie Personendaten rechtmässig verarbeitet werden sollen.",
+      "bullets": [
+        "Rechtmässigkeit",
+        "Treu und Glauben",
+        "Verhältnismässigkeit",
+        "Zweckbindung",
+        "Speicherdauer"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 6 DSG",
+          "text": "Grundsätze der Datenbearbeitung"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Pflichten des Verantwortlichen",
+      "body": "Verantwortliche müssen zahlreiche Pflichten erfüllen, um den Schutz der Personendaten sicherzustellen.",
+      "bullets": [
+        "Datenschutz durch Technik",
+        "Datensicherheit",
+        "Bearbeitung durch Auftragsbearbeiter",
+        "Verzeichnis der Bearbeitungen",
+        "Auslandsübermittlung"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 7 DSG",
+          "text": "Datenschutz durch Technik"
+        },
+        {
+          "ref": "Art. 8 DSG",
+          "text": "Datensicherheit"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Sanktionen bei Datenschutzverstössen",
+      "body": "Seit der Revision des DSG sind persönliche Bussgelder bis zu 250.000 CHF möglich, wenn gegen zentrale Datenschutzpflichten verstossen wird.",
+      "bullets": [
+        "Persönliche Bussgelder",
+        "Vorsätzliche Verstösse"
+      ],
+      "articles": [],
+      "type": "law"
+    },
+    {
+      "title": "Bearbeitung von Personendaten ohne Einwilligung",
+      "body": "Die Bearbeitung von Personendaten ist erlaubt, wenn keine widerrechtliche Persönlichkeitsverletzung vorliegt und Rechtfertigungsgründe bestehen.",
+      "bullets": [
+        "Keine Einwilligung erforderlich",
+        "Rechtfertigungsgründe"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 30 DSG",
+          "text": "Bearbeitung ohne Einwilligung"
+        },
+        {
+          "ref": "Art. 31 DSG",
+          "text": "Rechtfertigungsgründe"
+        }
+      ],
+      "type": "law"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Betroffener",
+      "definition": "Person, über die Personendaten bearbeitet werden.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Verantwortlicher",
+      "definition": "Entität, die über den Zweck und die Mittel der Datenverarbeitung entscheidet.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Auftragsbearbeiter",
+      "definition": "Bearbeitet Personendaten im Auftrag des Verantwortlichen.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Datenschutzberater",
+      "definition": "Unternehmen können optional einen Datenschutzberater ernennen.",
+      "article": "Art. 10 DSG"
+    },
+    {
+      "term": "Personendaten",
+      "definition": "Daten, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Besonders schützenswerte Personendaten",
+      "definition": "Daten zu sensiblen Bereichen, die besonderen Schutz geniessen.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Bearbeiten",
+      "definition": "Jeder Umgang mit Personendaten, wie Erheben, Speichern, Verwenden.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Bekanntgeben",
+      "definition": "Übermitteln oder Zugänglichmachen von Personendaten.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Profiling",
+      "definition": "Automatisierte Verarbeitung von Daten zur Bewertung persönlicher Aspekte.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Profiling mit hohem Risiko",
+      "definition": "Verarbeitung mit hohem Risiko für die Persönlichkeit oder Grundrechte.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Verletzung der Datensicherheit",
+      "definition": "Unbeabsichtigter Verlust, Änderung oder unbefugtes Zugänglichmachen von Personendaten.",
+      "article": "Art. 5 DSG"
+    },
+    {
+      "term": "Rechtmässigkeit",
+      "definition": "Datenverarbeitung muss den gesetzlichen Vorgaben entsprechen.",
+      "article": "Art. 6 DSG"
+    },
+    {
+      "term": "Treu und Glauben",
+      "definition": "Die Verarbeitung soll fair und transparent erfolgen.",
+      "article": "Art. 6 DSG"
+    },
+    {
+      "term": "Verhältnismässigkeit",
+      "definition": "Es sollen nur notwendige Daten verarbeitet werden.",
+      "article": "Art. 6 DSG"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Geheimhaltungsvereinbarung?",
+      "back": "Ein Vertrag zum Schutz vertraulicher Informationen zwischen Vertragsparteien.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter Personendaten?",
+      "back": "Daten, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Nenne einen der Grundsätze des Datenschutzes.",
+      "back": "Rechtmässigkeit: Datenverarbeitung muss den gesetzlichen Vorgaben entsprechen.",
+      "tag": "law"
+    },
+    {
+      "front": "Wer ist ein Verantwortlicher im Datenschutz?",
+      "back": "Eine Entität, die über den Zweck und die Mittel der Datenverarbeitung entscheidet.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Was ist eine Verletzung der Datensicherheit?",
+      "back": "Unbeabsichtigter Verlust, Änderung oder unbefugtes Zugänglichmachen von Personendaten.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Welche Daten gelten als besonders schützenswert?",
+      "back": "Daten zu sensiblen Bereichen wie Gesundheit oder religiösen Ansichten.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Was bedeutet Profiling?",
+      "back": "Automatisierte Verarbeitung von Daten zur Bewertung persönlicher Aspekte.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Welche Pflicht hat ein Verantwortlicher bei der Bearbeitung durch Auftragsbearbeiter?",
+      "back": "Sicherstellung der datenschutzkonformen Verarbeitung durch Dritte.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist das Auskunftsrecht?",
+      "back": "Betroffene haben das Recht auf Auskunft über ihre gespeicherten Daten.",
+      "tag": "law"
+    },
+    {
+      "front": "Wann ist eine Einwilligung zur Datenbearbeitung nicht erforderlich?",
+      "back": "Wenn keine widerrechtliche Persönlichkeitsverletzung vorliegt und Rechtfertigungsgründe bestehen.",
+      "tag": "law"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen Sachdaten und Personendaten?",
+      "back": "Sachdaten haben keinen direkten Personenbezug, Personendaten schon.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Datenschutzberater?",
+      "back": "Ein optionaler Berater, der die Einhaltung der Datenschutzvorschriften unterstützt.",
+      "tag": "keyTerm"
+    },
+    {
+      "front": "Welche Sanktionen sind bei Datenschutzverstössen möglich?",
+      "back": "Persönliche Bussgelder bis zu 250.000 CHF.",
+      "tag": "law"
+    },
+    {
+      "front": "Was bedeutet Zweckbindung im Datenschutz?",
+      "back": "Daten dürfen nur für spezifische, rechtmässige Zwecke genutzt werden.",
+      "tag": "law"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist das Ziel einer Geheimhaltungsvereinbarung?",
+      "options": [
+        "Schutz vertraulicher Informationen",
+        "Veröffentlichung von Geschäftsgeheimnissen",
+        "Erhöhung der Unternehmensgewinne",
+        "Reduzierung der Mitarbeiterzahl"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Eine Geheimhaltungsvereinbarung schützt vertrauliche Informationen zwischen Vertragsparteien.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Daten gelten als besonders schützenswert?",
+      "options": [
+        "Name und Adresse",
+        "Gesundheitsdaten",
+        "Telefonnummer",
+        "Produktlisten"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Besonders schützenswerte Daten umfassen sensible Bereiche wie Gesundheit.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was versteht man unter Profiling?",
+      "options": [
+        "Manuelle Verarbeitung von Daten",
+        "Automatisierte Verarbeitung zur Bewertung persönlicher Aspekte",
+        "Speicherung von Daten in Papierform",
+        "Löschung von Daten"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Profiling ist die automatisierte Verarbeitung von Daten zur Bewertung persönlicher Aspekte.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Pflicht hat ein Verantwortlicher bei der Datenübermittlung ins Ausland?",
+      "options": [
+        "Keine besonderen Pflichten",
+        "Gewährleistung der Datenschutzkonformität",
+        "Erhöhung der Datenmenge",
+        "Verkauf der Daten"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei der Auslandsübermittlung muss die Datenschutzkonformität gewährleistet sein.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist eine Verletzung der Datensicherheit?",
+      "options": [
+        "Versehentliche Löschung von Daten",
+        "Unbeabsichtigter Verlust oder unbefugtes Zugänglichmachen von Daten",
+        "Regelmässige Datensicherung",
+        "Erstellung von Datenkopien"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Verletzung der Datensicherheit umfasst unbeabsichtigten Verlust oder unbefugtes Zugänglichmachen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Sanktionen sind bei Datenschutzverstössen möglich?",
+      "options": [
+        "Verwarnung",
+        "Persönliche Bussgelder bis zu 250.000 CHF",
+        "Zwangsarbeit",
+        "Entzug der Geschäftslizenz"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Bei Datenschutzverstössen können persönliche Bussgelder bis zu 250.000 CHF verhängt werden.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Wann ist eine Einwilligung zur Datenbearbeitung nicht erforderlich?",
+      "options": [
+        "Wenn die Daten öffentlich zugänglich sind",
+        "Wenn keine widerrechtliche Persönlichkeitsverletzung vorliegt",
+        "Wenn der Verantwortliche es für notwendig hält",
+        "Wenn die Daten anonymisiert sind"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Einwilligung ist nicht erforderlich, wenn keine widerrechtliche Persönlichkeitsverletzung vorliegt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet Zweckbindung im Datenschutz?",
+      "options": [
+        "Daten dürfen für beliebige Zwecke genutzt werden",
+        "Daten dürfen nur für spezifische, rechtmässige Zwecke genutzt werden",
+        "Daten müssen sofort gelöscht werden",
+        "Daten dürfen nicht gespeichert werden"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Zweckbindung bedeutet, dass Daten nur für spezifische, rechtmässige Zwecke genutzt werden dürfen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Sachdaten und Personendaten?",
+      "options": [
+        "Sachdaten sind immer öffentlich zugänglich",
+        "Personendaten haben keinen direkten Personenbezug",
+        "Sachdaten haben keinen direkten Personenbezug",
+        "Personendaten sind immer vertraulich"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Sachdaten haben keinen direkten Personenbezug, während Personendaten spezifische Informationen über eine Person enthalten.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wer kann als Datenschutzberater fungieren?",
+      "options": [
+        "Nur externe Berater",
+        "Nur interne Mitarbeiter",
+        "Sowohl interne als auch externe Berater",
+        "Nur die Geschäftsführung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Datenschutzberater kann sowohl intern als auch extern ernannt werden.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw9",
+  "subjectId": "wr"
+}

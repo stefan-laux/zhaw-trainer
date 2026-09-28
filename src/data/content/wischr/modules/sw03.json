@@ -1,0 +1,277 @@
+{
+  "title": "Wissenschaftliches Schreiben",
+  "week": "SW 03",
+  "tagline": "Effektive Stilmittel für wissenschaftliches Schreiben.",
+  "summary": "In dieser Woche werden verschiedene Stilmittel des wissenschaftlichen Schreibens behandelt, die helfen, Unpersönlichkeit sprachlich auszudrücken. Dazu gehören die Verwendung unpersönlicher Pronomen, der modale Infinitiv, unpersönliche Akteure, das Passiv und der Nominalstil. Diese Techniken tragen dazu bei, die Ich-Perspektive zu vermeiden und die wissenschaftliche Sprache zu präzisieren.",
+  "learningGoals": [
+    "Verstehen der Bedeutung unpersönlicher Pronomen im wissenschaftlichen Kontext.",
+    "Anwendung des modalen Infinitivs zur Ausdrucksvariation.",
+    "Erkennen und Nutzen unpersönlicher Akteure als Handlungsträger.",
+    "Bewusster Einsatz des Passivs zur Ausblendung des Urhebers.",
+    "Verwendung des Nominalstils zur Informationsverdichtung."
+  ],
+  "blocks": [
+    {
+      "title": "Unpersönliche Pronomen",
+      "body": "Die Verwendung unpersönlicher Pronomen wie 'es' und 'man' hilft, die Ich-Perspektive zu vermeiden und allgemeingültige Aussagen zu treffen.",
+      "bullets": [
+        "Es ist offensichtlich...",
+        "Man kann davon ausgehen..."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Modaler Infinitiv",
+      "body": "Der modale Infinitiv kombiniert das Hilfsverb 'sein' mit einem Infinitiv und drückt Notwendigkeit, Möglichkeit oder Verbot aus.",
+      "bullets": [
+        "Somit ist festzuhalten (können)",
+        "Weiter ist zu erklären (müssen)",
+        "Die Preissensibilität der Kunden ist nicht zu unterschätzen (nicht dürfen)"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Unpersönliche Akteure",
+      "body": "Teile der Arbeit werden als Urheber wissenschaftlicher Aussagen dargestellt, um die Ich-Perspektive zu vermeiden.",
+      "bullets": [
+        "Die Grafik stellt dar...",
+        "Diese Untersuchung beschäftigt sich mit..."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Passiv",
+      "body": "Das Passiv blendet den Urheber von Handlungen aus und sollte nicht gehäuft verwendet werden, um Schwerfälligkeit zu vermeiden.",
+      "bullets": [
+        "In dieser Arbeit wird untersucht...",
+        "Alternativ: Diese Untersuchung beschäftigt sich mit..."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Nominalstil",
+      "body": "Im Nominalstil werden Handlungen durch Substantive ausgedrückt, was zu einer Informationsverdichtung führt.",
+      "bullets": [
+        "Bei der Ausserachtlassung des finanziellen Risikos...",
+        "Alternativ: Das Ignorieren finanzieller Risiken führt zu..."
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Unpersönliches Pronomen",
+      "definition": "Pronomen wie 'es' und 'man', die helfen, die Ich-Perspektive zu vermeiden."
+    },
+    {
+      "term": "Modaler Infinitiv",
+      "definition": "Kombination aus 'sein' und Infinitiv mit 'zu', drückt Notwendigkeit, Möglichkeit oder Verbot aus."
+    },
+    {
+      "term": "Unpersönlicher Akteur",
+      "definition": "Teile der Arbeit werden als Urheber wissenschaftlicher Aussagen dargestellt."
+    },
+    {
+      "term": "Passiv",
+      "definition": "Grammatikalische Struktur, die den Urheber von Handlungen ausblendet."
+    },
+    {
+      "term": "Nominalstil",
+      "definition": "Stilmittel, bei dem Handlungen durch Substantive ausgedrückt werden."
+    },
+    {
+      "term": "Scheinsubjekt",
+      "definition": "Ein unpersönliches Pronomen, das als Subjekt fungiert."
+    },
+    {
+      "term": "Informationsverdichtung",
+      "definition": "Konzentration von Informationen durch Nominalstil."
+    },
+    {
+      "term": "Ich-Perspektive",
+      "definition": "Perspektive, die durch persönliche Pronomen ausgedrückt wird."
+    },
+    {
+      "term": "Allgemeingültigkeit",
+      "definition": "Eigenschaft einer Aussage, die für alle Fälle zutrifft."
+    },
+    {
+      "term": "Stilmittel",
+      "definition": "Technik, um sprachliche Effekte zu erzielen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist ein unpersönliches Pronomen?",
+      "back": "Ein Pronomen wie 'es' oder 'man', das hilft, die Ich-Perspektive zu vermeiden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie wird der modale Infinitiv gebildet?",
+      "back": "Durch das Hilfsverb 'sein' und einen Infinitiv mit 'zu'.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein unpersönlicher Akteur?",
+      "back": "Teile der Arbeit, die als Urheber wissenschaftlicher Aussagen dargestellt werden.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wann sollte das Passiv vermieden werden?",
+      "back": "Bei Häufung, da es schwerfällig wirken kann.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was bewirkt der Nominalstil?",
+      "back": "Er führt zu einer Informationsverdichtung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Beispiel für ein unpersönliches Pronomen",
+      "back": "Es ist offensichtlich...",
+      "tag": "example"
+    },
+    {
+      "front": "Beispiel für modalen Infinitiv",
+      "back": "Somit ist festzuhalten (können)",
+      "tag": "example"
+    },
+    {
+      "front": "Beispiel für unpersönlichen Akteur",
+      "back": "Die Grafik stellt dar...",
+      "tag": "example"
+    },
+    {
+      "front": "Beispiel für Passiv",
+      "back": "In dieser Arbeit wird untersucht...",
+      "tag": "example"
+    },
+    {
+      "front": "Beispiel für Nominalstil",
+      "back": "Bei der Ausserachtlassung des finanziellen Risikos...",
+      "tag": "example"
+    },
+    {
+      "front": "Was ist ein Scheinsubjekt?",
+      "back": "Ein unpersönliches Pronomen, das als Subjekt fungiert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Allgemeingültigkeit wichtig?",
+      "back": "Sie macht Aussagen universell anwendbar.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Stilmittel?",
+      "back": "Eine Technik, um sprachliche Effekte zu erzielen.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welches Pronomen kann als Scheinsubjekt verwendet werden?",
+      "options": [
+        "es",
+        "ich",
+        "wir",
+        "sie"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Pronomen 'es' wird als Scheinsubjekt verwendet.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was drückt der modale Infinitiv aus?",
+      "options": [
+        "Notwendigkeit",
+        "Möglichkeit",
+        "Verbot",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Der modale Infinitiv kann Notwendigkeit, Möglichkeit oder Verbot ausdrücken.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Warum sollte das Passiv nicht gehäuft verwendet werden?",
+      "options": [
+        "Es ist zu direkt",
+        "Es wirkt schwerfällig",
+        "Es ist zu persönlich",
+        "Es ist zu allgemein"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Passiv wirkt bei Häufung schwerfällig.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist ein Beispiel für einen unpersönlichen Akteur?",
+      "options": [
+        "Ich untersuche",
+        "Die Grafik stellt dar",
+        "Wir analysieren",
+        "Sie zeigen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Grafik stellt dar ist ein Beispiel für einen unpersönlichen Akteur.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Vorteil des Nominalstils?",
+      "options": [
+        "Er ist persönlicher",
+        "Er verdichtet Informationen",
+        "Er ist einfacher zu verstehen",
+        "Er ist direkter"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der Nominalstil führt zu einer Informationsverdichtung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welches Stilmittel verwendet das unpersönliche Pronomen 'man'?",
+      "options": [
+        "Passiv",
+        "Nominalstil",
+        "Unpersönlicher Akteur",
+        "Unpersönliches Pronomen"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Das unpersönliche Pronomen 'man' ist ein Stilmittel der Unpersönlichkeit.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welches Stilmittel kann die Ich-Perspektive vermeiden?",
+      "options": [
+        "Nominalstil",
+        "Passiv",
+        "Unpersönlicher Akteur",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Alle genannten Stilmittel können die Ich-Perspektive vermeiden.",
+      "difficulty": "schwer"
+    }
+  ],
+  "id": "wischr-sw03",
+  "subjectId": "wischr"
+}

@@ -1,0 +1,376 @@
+{
+  "title": "Firma, Handelsregister & Vollmacht",
+  "week": "SW 11",
+  "tagline": "Grundlagen des Firmenrechts, Handelsregisters und der Vollmacht.",
+  "summary": "In dieser Woche werden die Grundlagen des Firmenrechts, des Handelsregisters und der Vollmacht behandelt. Die Firma ist der Name, unter dem ein Unternehmen auftritt, und unterliegt bestimmten rechtlichen Anforderungen. Das Handelsregister ist ein staatliches Verzeichnis, das Transparenz und Rechtssicherheit für Unternehmen bietet. Die Vollmacht regelt die Vertretungsbefugnisse von Personen im Namen eines Unternehmens.",
+  "learningGoals": [
+    "Verstehen der rechtlichen Anforderungen an die Firmenbildung.",
+    "Kenntnis der Funktionen und des Zwecks des Handelsregisters.",
+    "Unterscheidung zwischen verschiedenen Arten der Vollmacht und Stellvertretung."
+  ],
+  "blocks": [
+    {
+      "title": "Namens- und Firmenrecht",
+      "body": "Die Firma ist der Name, unter dem ein Unternehmen auftritt. Die Freiheit der Firmenwahl ist durch Grundsätze wie Firmenwahrheit und Firmenunterscheidbarkeit eingeschränkt.",
+      "bullets": [
+        "Firmenwahrheit: Keine Täuschung des Publikums.",
+        "Firmenunterscheidbarkeit: Keine Verwechslungsgefahr.",
+        "Beschränkte Übertragbarkeit der Firma."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 951 OR",
+          "text": "Regelt den Schutz der Firma."
+        },
+        {
+          "ref": "Art. 956 OR",
+          "text": "Regelt die Nutzungspflicht der Firma."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Handelsregister",
+      "body": "Das Handelsregister ist ein staatliches Verzeichnis aller in der Schweiz niedergelassenen Unternehmen. Es dient der Rechtsklarheit und Rechtsdurchsetzung.",
+      "bullets": [
+        "Positive und negative Publizitätswirkung.",
+        "Eintragungsarten: Pflicht (konstitutiv/deklaratorisch), Recht (fakultativ).",
+        "Handelsgerichtsbarkeit in bestimmten Kantonen."
+      ],
+      "articles": [],
+      "type": "law"
+    },
+    {
+      "title": "Vertretung und Vollmacht",
+      "body": "Die Stellvertretung ermöglicht es, dass eine Person im Namen einer anderen handelt. Die Vollmacht ist eine einseitige Willenserklärung zur Bevollmächtigung.",
+      "bullets": [
+        "Gewöhnliche Stellvertretung basiert auf dem Willen des Vertretenen.",
+        "Kaufmännische Stellvertretung ist gesetzlich objektiv geregelt.",
+        "Vollmacht: Generalvollmacht, Spezialvollmacht, Prokura, Handlungsvollmacht."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 32 OR",
+          "text": "Regelt die bürgerliche Stellvertretung."
+        },
+        {
+          "ref": "Art. 458 OR",
+          "text": "Regelt die Prokura."
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Prokura",
+      "body": "Die Prokura ist eine umfassende Vollmacht im kaufmännischen Bereich. Sie ermöglicht es, im Namen des Unternehmens zu handeln.",
+      "bullets": [
+        "Umfasst alle Rechtshandlungen im Rahmen des Unternehmenszwecks.",
+        "Eintragung ins Handelsregister ist Pflicht, jedoch nur deklaratorisch.",
+        "Widerruf jederzeit möglich, bleibt bei Tod des Geschäftsherrn bestehen."
+      ],
+      "articles": [
+        {
+          "ref": "Art. 465 OR",
+          "text": "Regelt den Widerruf der Prokura."
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Eintragungsprozess im Handelsregister",
+      "body": "Der Eintragungsprozess im Handelsregister umfasst mehrere Schritte, die zur Rechtswirksamkeit führen.",
+      "bullets": [
+        "Anmeldung beim kantonalen Handelsregisteramt.",
+        "Prüfung der Anmeldung auf Richtigkeit.",
+        "Publikation im Schweizerischen Handelsamtsblatt (SHAB)."
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Firma",
+      "definition": "Name, unter dem ein Unternehmen auftritt.",
+      "article": "Art. 944 OR"
+    },
+    {
+      "term": "Firmenwahrheit",
+      "definition": "Grundsatz, dass die Firma keine Täuschung des Publikums bewirken darf."
+    },
+    {
+      "term": "Firmenunterscheidbarkeit",
+      "definition": "Grundsatz, dass die Firma keine Verwechslungsgefahr darstellen darf."
+    },
+    {
+      "term": "Handelsregister",
+      "definition": "Staatliches Verzeichnis aller in der Schweiz niedergelassenen Unternehmen."
+    },
+    {
+      "term": "Prokura",
+      "definition": "Umfassende Vollmacht im kaufmännischen Bereich.",
+      "article": "Art. 458 OR"
+    },
+    {
+      "term": "Generalvollmacht",
+      "definition": "Ermächtigung zur Vertretung des gesamten Geschäfts.",
+      "article": "Art. 462 Abs. 1 OR"
+    },
+    {
+      "term": "Spezialvollmacht",
+      "definition": "Ermächtigung zum Abschluss bestimmter Rechtsgeschäfte.",
+      "article": "Art. 462 Abs. 1 OR"
+    },
+    {
+      "term": "Kaufmännische Stellvertretung",
+      "definition": "Gesetzlich objektiv geregelte Vertretung.",
+      "article": "Art. 458 OR"
+    },
+    {
+      "term": "Bürgerliche Stellvertretung",
+      "definition": "Vertretung basierend auf dem Willen des Vertretenen.",
+      "article": "Art. 32 OR"
+    },
+    {
+      "term": "Positive Publizitätswirkung",
+      "definition": "Eintragungen im Handelsregister gelten als bekannt."
+    },
+    {
+      "term": "Negative Publizitätswirkung",
+      "definition": "Nicht eingetragene Änderungen gelten als unbekannt."
+    },
+    {
+      "term": "Domain Name Grabbing",
+      "definition": "Problem der Registrierung von Domainnamen ohne rechtlichen Anspruch."
+    },
+    {
+      "term": "EHRA",
+      "definition": "Eidgenössisches Handelsregisteramt, erteilt Weisungen über das Handelsregister."
+    },
+    {
+      "term": "Kollektivprokura",
+      "definition": "Zeichnung nur mit einem weiteren Zeichnungsberechtigten."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist eine Firma?",
+      "back": "Name, unter dem ein Unternehmen auftritt.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was bedeutet Firmenwahrheit?",
+      "back": "Die Firma darf keine Täuschung des Publikums bewirken.",
+      "tag": "Grundsatz"
+    },
+    {
+      "front": "Was ist das Handelsregister?",
+      "back": "Staatliches Verzeichnis aller in der Schweiz niedergelassenen Unternehmen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was ist eine Prokura?",
+      "back": "Umfassende Vollmacht im kaufmännischen Bereich.",
+      "tag": "Vollmacht"
+    },
+    {
+      "front": "Was ist eine Generalvollmacht?",
+      "back": "Ermächtigung zur Vertretung des gesamten Geschäfts.",
+      "tag": "Vollmacht"
+    },
+    {
+      "front": "Was ist eine Spezialvollmacht?",
+      "back": "Ermächtigung zum Abschluss bestimmter Rechtsgeschäfte.",
+      "tag": "Vollmacht"
+    },
+    {
+      "front": "Was ist die positive Publizitätswirkung?",
+      "back": "Eintragungen im Handelsregister gelten als bekannt.",
+      "tag": "Publizität"
+    },
+    {
+      "front": "Was ist die negative Publizitätswirkung?",
+      "back": "Nicht eingetragene Änderungen gelten als unbekannt.",
+      "tag": "Publizität"
+    },
+    {
+      "front": "Was ist Domain Name Grabbing?",
+      "back": "Problem der Registrierung von Domainnamen ohne rechtlichen Anspruch.",
+      "tag": "Recht"
+    },
+    {
+      "front": "Was ist die EHRA?",
+      "back": "Eidgenössisches Handelsregisteramt, erteilt Weisungen über das Handelsregister.",
+      "tag": "Institution"
+    },
+    {
+      "front": "Was ist eine Kollektivprokura?",
+      "back": "Zeichnung nur mit einem weiteren Zeichnungsberechtigten.",
+      "tag": "Vollmacht"
+    },
+    {
+      "front": "Was ist eine kaufmännische Stellvertretung?",
+      "back": "Gesetzlich objektiv geregelte Vertretung.",
+      "tag": "Stellvertretung"
+    },
+    {
+      "front": "Was ist eine bürgerliche Stellvertretung?",
+      "back": "Vertretung basierend auf dem Willen des Vertretenen.",
+      "tag": "Stellvertretung"
+    },
+    {
+      "front": "Welche Funktion hat das Handelsregister?",
+      "back": "Es bietet Rechtsklarheit und Rechtsdurchsetzung für Unternehmen.",
+      "tag": "Funktion"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Grundsätze gelten für die Firmenbildung?",
+      "options": [
+        "Firmenwahrheit",
+        "Firmenunterscheidbarkeit",
+        "Firmenfreiheit",
+        "Firmenübertragbarkeit"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Firmenwahrheit und Firmenunterscheidbarkeit sind Grundsätze der Firmenbildung.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Eintragungsarten gibt es im Handelsregister?",
+      "options": [
+        "Pflicht (konstitutiv)",
+        "Pflicht (deklaratorisch)",
+        "Recht (fakultativ)",
+        "Pflicht (obligatorisch)"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Es gibt konstitutive, deklaratorische und fakultative Eintragungen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was umfasst die Prokura nicht?",
+      "options": [
+        "Verträge abschliessen",
+        "Kredite aufnehmen",
+        "Einkäufe tätigen",
+        "Grundstücksveräusserung"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Die Prokura umfasst nicht die Veräusserung von Grundstücken.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Publizitätswirkung hat das Handelsregister?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Neutrale",
+        "Keine"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Das Handelsregister hat positive und negative Publizitätswirkungen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine Generalvollmacht?",
+      "options": [
+        "Ermächtigung zur Vertretung des gesamten Geschäfts",
+        "Ermächtigung zum Abschluss bestimmter Rechtsgeschäfte",
+        "Umfassende Vollmacht im kaufmännischen Bereich",
+        "Keine Vollmacht"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Generalvollmacht ist die Ermächtigung zur Vertretung des gesamten Geschäfts.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Stellvertretungsart basiert auf dem Willen des Vertretenen?",
+      "options": [
+        "Kaufmännische Stellvertretung",
+        "Bürgerliche Stellvertretung",
+        "Gesetzliche Stellvertretung",
+        "Keine"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die bürgerliche Stellvertretung basiert auf dem Willen des Vertretenen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Unternehmen müssen ins Handelsregister eingetragen werden?",
+      "options": [
+        "Einzelfirmen mit Umsatz über 100.000 CHF",
+        "Aktiengesellschaften",
+        "Vereine ohne kaufmännisches Gewerbe",
+        "Einfache Gesellschaften"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Einzelfirmen mit hohem Umsatz und Aktiengesellschaften müssen eingetragen werden.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist die Funktion des Eidgenössischen Handelsregisteramts (EHRA)?",
+      "options": [
+        "Erteilt Weisungen über das Handelsregister",
+        "Verwaltet Domainnamen",
+        "Führt das Handelsregister",
+        "Publiziert im SHAB"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das EHRA erteilt Weisungen über das Handelsregister.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Kollektivprokura?",
+      "options": [
+        "Zeichnung nur mit einem weiteren Zeichnungsberechtigten",
+        "Einzelprokura",
+        "Prokura für eine Zweigniederlassung",
+        "Keine Prokura"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Bei der Kollektivprokura ist die Zeichnung nur mit einem weiteren Zeichnungsberechtigten möglich.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Art der Stellvertretung ist gesetzlich objektiv geregelt?",
+      "options": [
+        "Bürgerliche Stellvertretung",
+        "Kaufmännische Stellvertretung",
+        "Gesetzliche Stellvertretung",
+        "Keine"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die kaufmännische Stellvertretung ist gesetzlich objektiv geregelt.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wr-sw11",
+  "subjectId": "wr"
+}

@@ -1,0 +1,325 @@
+{
+  "title": "Kontrollfluss, Bedingungen & Schleifen",
+  "week": "Woche 2",
+  "tagline": "Effiziente Steuerung von Programmabläufen durch Kontrollstrukturen.",
+  "summary": "In dieser Woche werden die Grundlagen des Kontrollflusses in der Programmierung behandelt. Dazu gehören die Verwendung von Bedingungen und Schleifen, um Entscheidungen zu treffen und wiederholte Abläufe zu steuern. UML-Aktivitätsdiagramme werden genutzt, um diese Abläufe visuell darzustellen. Die Konzepte der booleschen Variablen, relationalen und logischen Operatoren sowie die Implementierung von Schleifen und Entscheidungsstrukturen in Java und C# werden vertieft.",
+  "learningGoals": [
+    "Verstehen der UML-Aktivitätsdiagramme zur Modellierung von Kontrollflüssen.",
+    "Anwendung von booleschen Variablen und Operatoren zur Entscheidungsfindung.",
+    "Implementierung von Schleifen und Bedingungen in Java und C#.",
+    "Erkennen und Vermeiden von typischen Fehlern bei der Modellierung von Kontrollflüssen."
+  ],
+  "blocks": [
+    {
+      "title": "UML Activity-Diagramm",
+      "body": "UML (Unified Modeling Language) ist eine standardisierte Notation zur Konstruktion, Dokumentation und Visualisierung von Modellen. Aktivitätsdiagramme dienen dazu, Abläufe jeglicher Art sowie deren Regeln darzustellen.",
+      "bullets": [
+        "UML zwingt zum abstrakten Denken.",
+        "UML ist unabhängig von Programmiersprache.",
+        "Aktivitätsdiagramme modellieren das Verhalten von Systemen."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Boolsche Variablen",
+      "body": "Boolsche Variablen speichern das Ergebnis einer ja-nein-Entscheidung und können nur die Werte true oder false enthalten.",
+      "bullets": [
+        "Wichtig für Entscheidungsfindung in Programmen.",
+        "Kann nicht mit Zahlenwerten überschrieben werden."
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Relationale und logische Operatoren",
+      "body": "Relationale Operatoren vergleichen Werte, während logische Operatoren boolesche Ausdrücke verknüpfen.",
+      "bullets": [
+        "Relationale Operatoren: <, <=, >, >=, ==, !=",
+        "Logische Operatoren: &&, ||, !"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Entscheidungen mit if-else",
+      "body": "Die if-else Struktur ermöglicht es, basierend auf booleschen Ausdrücken unterschiedliche Programmabläufe zu steuern.",
+      "bullets": [
+        "if-else ermöglicht bedingte Ausführung von Code.",
+        "Verschachtelte Bedingungen für komplexe Entscheidungslogik."
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Schleifen mit while",
+      "body": "Die while-Schleife wiederholt einen Codeblock, solange eine Bedingung erfüllt ist.",
+      "bullets": [
+        "Prüft Bedingung vor jedem Schleifendurchlauf.",
+        "Kann mit if-Bedingungen innerhalb der Schleife kombiniert werden."
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "UML",
+      "definition": "Unified Modeling Language, eine standardisierte Notation zur Modellierung von Software."
+    },
+    {
+      "term": "Aktivitätsdiagramm",
+      "definition": "Diagramm zur Darstellung von Abläufen und deren Regeln in UML."
+    },
+    {
+      "term": "Boolsche Variable",
+      "definition": "Variablen-Typ, der nur die Werte true oder false annehmen kann."
+    },
+    {
+      "term": "Relationale Operatoren",
+      "definition": "Operatoren zum Vergleich von Werten, z.B. <, >, ==."
+    },
+    {
+      "term": "Logische Operatoren",
+      "definition": "Operatoren zur Verknüpfung von booleschen Ausdrücken, z.B. &&, ||, !."
+    },
+    {
+      "term": "if-else",
+      "definition": "Struktur zur bedingten Ausführung von Code basierend auf booleschen Ausdrücken."
+    },
+    {
+      "term": "while-Schleife",
+      "definition": "Schleife, die einen Codeblock wiederholt, solange eine Bedingung erfüllt ist."
+    },
+    {
+      "term": "Kontrollfluss",
+      "definition": "Die Reihenfolge, in der Anweisungen in einem Programm ausgeführt werden."
+    },
+    {
+      "term": "Startknoten",
+      "definition": "Definiert den Startpunkt des Kontrollflusses in einem Aktivitätsdiagramm."
+    },
+    {
+      "term": "Endknoten",
+      "definition": "Definiert das Ende des Kontrollflusses in einem Aktivitätsdiagramm."
+    },
+    {
+      "term": "Entscheidungsknoten",
+      "definition": "Knoten in einem Aktivitätsdiagramm, der eine Verzweigung des Kontrollflusses darstellt."
+    },
+    {
+      "term": "Verbindungsknoten",
+      "definition": "Knoten in einem Aktivitätsdiagramm, der mehrere Kontrollflüsse zusammenfasst."
+    },
+    {
+      "term": "Gültigkeitsbereich",
+      "definition": "Der Bereich im Code, in dem eine Variable gültig ist und verwendet werden kann."
+    },
+    {
+      "term": "Zufallszahl",
+      "definition": "Eine Zahl, die zufällig generiert wird, oft innerhalb eines bestimmten Bereichs."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist UML?",
+      "back": "Unified Modeling Language, eine standardisierte Notation zur Modellierung von Software.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Aktivitätsdiagramm?",
+      "back": "Ein Diagramm zur Darstellung von Abläufen und deren Regeln in UML.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Werte kann eine boolsche Variable annehmen?",
+      "back": "True oder false.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne zwei relationale Operatoren.",
+      "back": "< und >",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne zwei logische Operatoren.",
+      "back": "&& und ||",
+      "tag": "concept"
+    },
+    {
+      "front": "Was macht eine if-else Struktur?",
+      "back": "Sie ermöglicht die bedingte Ausführung von Code basierend auf booleschen Ausdrücken.",
+      "tag": "process"
+    },
+    {
+      "front": "Wann wird der Code in einer while-Schleife ausgeführt?",
+      "back": "Solange die Bedingung erfüllt ist.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist ein Startknoten?",
+      "back": "Definiert den Startpunkt des Kontrollflusses in einem Aktivitätsdiagramm.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Endknoten?",
+      "back": "Definiert das Ende des Kontrollflusses in einem Aktivitätsdiagramm.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Entscheidungsknoten?",
+      "back": "Ein Knoten in einem Aktivitätsdiagramm, der eine Verzweigung des Kontrollflusses darstellt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Verbindungsknoten?",
+      "back": "Ein Knoten in einem Aktivitätsdiagramm, der mehrere Kontrollflüsse zusammenfasst.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Gültigkeitsbereich einer Variable?",
+      "back": "Der Bereich im Code, in dem eine Variable gültig ist und verwendet werden kann.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie erzeugt man Zufallszahlen in Java?",
+      "back": "Mit der Klasse Random und Methoden wie nextInt().",
+      "tag": "process"
+    },
+    {
+      "front": "Wie kann man Strings vergleichen?",
+      "back": "Mit der Methode equals().",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Aussage über UML ist korrekt?",
+      "options": [
+        "UML ist eine Programmiersprache.",
+        "UML ist eine Notation zur Modellierung von Software.",
+        "UML ist ein Betriebssystem.",
+        "UML ist eine Datenbank."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "UML ist eine standardisierte Notation zur Modellierung von Software.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Werte kann eine boolsche Variable annehmen?",
+      "options": [
+        "True oder false",
+        "0 oder 1",
+        "Ja oder nein",
+        "Positiv oder negativ"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Boolsche Variablen können nur die Werte true oder false annehmen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was macht der Operator '&&'?",
+      "options": [
+        "Verknüpft zwei boolesche Ausdrücke mit AND",
+        "Verknüpft zwei boolesche Ausdrücke mit OR",
+        "Invertiert einen booleschen Ausdruck",
+        "Vergleicht zwei Zahlen"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Der '&&' Operator verknüpft zwei boolesche Ausdrücke mit AND.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist der Zweck eines Entscheidungsknotens in einem Aktivitätsdiagramm?",
+      "options": [
+        "Er startet den Kontrollfluss.",
+        "Er beendet den Kontrollfluss.",
+        "Er verzweigt den Kontrollfluss.",
+        "Er fasst Kontrollflüsse zusammen."
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Entscheidungsknoten verzweigt den Kontrollfluss basierend auf Bedingungen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie wird eine while-Schleife beendet?",
+      "options": [
+        "Durch eine break-Anweisung",
+        "Wenn die Bedingung false wird",
+        "Durch eine return-Anweisung",
+        "Durch eine continue-Anweisung"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine while-Schleife wird beendet, wenn die Bedingung false wird.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Methode wird verwendet, um Strings zu vergleichen?",
+      "options": [
+        "compare()",
+        "equals()",
+        "match()",
+        "compareTo()"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Methode equals() wird verwendet, um Strings zu vergleichen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was passiert, wenn ein Endknoten in einem Aktivitätsdiagramm erreicht wird?",
+      "options": [
+        "Der Kontrollfluss wird gestartet.",
+        "Der Kontrollfluss wird beendet.",
+        "Der Kontrollfluss wird verzweigt.",
+        "Der Kontrollfluss wird zusammengefasst."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ein Endknoten beendet den Kontrollfluss in einem Aktivitätsdiagramm.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Aussage über den Gültigkeitsbereich von Variablen ist korrekt?",
+      "options": [
+        "Variablen sind überall im Programm gültig.",
+        "Variablen sind nur innerhalb des Blocks gültig, in dem sie deklariert wurden.",
+        "Variablen sind nur innerhalb von Schleifen gültig.",
+        "Variablen sind nur innerhalb von Methoden gültig."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Variablen sind nur innerhalb des Blocks gültig, in dem sie deklariert wurden, sowie in allen untergeordneten Blöcken.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie erzeugt man Zufallszahlen zwischen 0 und 4 in Java?",
+      "options": [
+        "Mit Math.random()",
+        "Mit new Random().nextInt(5)",
+        "Mit Random.nextDouble()",
+        "Mit Random.nextBoolean()"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Mit new Random().nextInt(5) erzeugt man Zufallszahlen zwischen 0 und 4.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "swe1-java2",
+  "subjectId": "swe1"
+}

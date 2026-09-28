@@ -1,0 +1,361 @@
+{
+  "title": "Reiseplanung & Kennenlernen",
+  "week": "SW 01",
+  "tagline": "Einführung in das GrowthTime Konzept und Kennenlernen der Teammitglieder.",
+  "summary": "In der ersten Semesterwoche wird das GrowthTime Konzept vorgestellt, welches die Studierenden durch das Semester begleitet. Die Studierenden werden einem GrowthTime Team zugewiesen und beginnen, individuelle Ziele zu setzen. Die Woche beinhaltet auch Kennenlernübungen, um Vertrauen und Nähe innerhalb der Teams aufzubauen. Die Studierenden reflektieren ihre Rolle im Studium und setzen sich mit den Anforderungen und Strukturen des Wirtschaftsinformatik-Studiums auseinander.",
+  "learningGoals": [
+    "Verstehen des GrowthTime Konzepts",
+    "Kennenlernen der Teammitglieder",
+    "Setzen von individuellen Zielen",
+    "Reflexion der eigenen Rolle im Studium",
+    "Anwendung des Golden Circle zur Motivation"
+  ],
+  "blocks": [
+    {
+      "title": "GrowthTime Konzept",
+      "body": "Das GrowthTime Konzept begleitet die Studierenden durch das Semester und fördert die Zusammenarbeit und Zielerreichung in Teams.",
+      "bullets": [
+        "Zugehörigkeit und strukturierter Austausch",
+        "Unterstützung durch unterschiedliche Perspektiven",
+        "Regelmässige Meetings zur Zielerreichung"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "SMARTe Ziele setzen",
+      "body": "Studierende setzen individuelle GrowthTime Ziele, die bis zur zweiten Woche SMART festgelegt werden.",
+      "bullets": [
+        "Spezifische und messbare Ziele",
+        "Erreichbare und relevante Ziele",
+        "Zeitgebundene Ziele"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Fast Friends Procedure (FFP)",
+      "body": "Eine Methode, um in kurzer Zeit Vertrauen und Nähe zwischen Teammitgliedern aufzubauen.",
+      "bullets": [
+        "Drei Gesprächsrunden à 5 Minuten",
+        "Fragen zur persönlichen und beruflichen Reflexion",
+        "Förderung von Offenheit und Vertrauen"
+      ],
+      "articles": [
+        {
+          "ref": "FFP",
+          "text": "Methode zur Vertrauensbildung in Teams"
+        }
+      ],
+      "type": "example"
+    },
+    {
+      "title": "Der Golden Circle",
+      "body": "Ein Modell zur Klärung von Motivation und Zielen im Studium.",
+      "bullets": [
+        "WHY: Warum ist das Studium wichtig?",
+        "HOW: Wie strukturiert vorgehen?",
+        "WHAT: Was konkret tun?"
+      ],
+      "articles": [
+        {
+          "ref": "Golden Circle",
+          "text": "Modell zur Zielklärung"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Reflexion der eigenen Rolle im Studium",
+      "body": "Studierende reflektieren ihre Identität und Rolle im Studium und setzen sich mit den neuen Anforderungen auseinander.",
+      "bullets": [
+        "Eigenverantwortung und Selbstorganisation",
+        "Unterschiede zwischen Schule und Hochschule",
+        "Bewusste Gestaltung der Lernprozesse"
+      ],
+      "articles": [],
+      "type": "pitfall"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "GrowthTime Konzept",
+      "definition": "Ein semesterbegleitendes Konzept zur Förderung von Zusammenarbeit und Zielerreichung."
+    },
+    {
+      "term": "SMART Ziele",
+      "definition": "Spezifische, messbare, erreichbare, relevante und zeitgebundene Ziele."
+    },
+    {
+      "term": "Fast Friends Procedure (FFP)",
+      "definition": "Methode zur schnellen Vertrauensbildung in Teams.",
+      "article": "FFP"
+    },
+    {
+      "term": "Golden Circle",
+      "definition": "Modell zur Klärung von Motivation und Zielen.",
+      "article": "Golden Circle"
+    },
+    {
+      "term": "Eigenverantwortung",
+      "definition": "Selbstständige Organisation und Verantwortung im Studium."
+    },
+    {
+      "term": "Selbstorganisation",
+      "definition": "Fähigkeit, das eigene Lernen und die Zeit effektiv zu managen."
+    },
+    {
+      "term": "Teamcoaching",
+      "definition": "Unterstützung und Hilfe innerhalb des GrowthTime Teams."
+    },
+    {
+      "term": "Transkript",
+      "definition": "Aufzeichnung des Meetings zur späteren Reflexion."
+    },
+    {
+      "term": "Retrospektive",
+      "definition": "Rückblick auf die Fortschritte und Herausforderungen im GrowthTime Konzept."
+    },
+    {
+      "term": "Leistungsnachweis",
+      "definition": "Dokumentation und Präsentation der individuellen Fortschritte im Studium."
+    },
+    {
+      "term": "Socio-Technical Skills",
+      "definition": "Fähigkeiten, die das Zusammenspiel von Mensch, Organisation und Technologie fördern."
+    },
+    {
+      "term": "Konvergentes Denken",
+      "definition": "Fokussierung auf eine klare Lösung für ein Problem."
+    },
+    {
+      "term": "Divergentes Denken",
+      "definition": "Kreative Herangehensweise an ein Problem aus verschiedenen Perspektiven."
+    },
+    {
+      "term": "Peer Learning",
+      "definition": "Lernen durch Austausch und Zusammenarbeit mit Kommilitonen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist das GrowthTime Konzept?",
+      "back": "Ein semesterbegleitendes Konzept zur Förderung von Zusammenarbeit und Zielerreichung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet SMART in Bezug auf Ziele?",
+      "back": "Spezifisch, messbar, erreichbar, relevant und zeitgebunden.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist die Fast Friends Procedure (FFP)?",
+      "back": "Eine Methode zur schnellen Vertrauensbildung in Teams.",
+      "tag": "example"
+    },
+    {
+      "front": "Was ist der Golden Circle?",
+      "back": "Ein Modell zur Klärung von Motivation und Zielen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Eigenverantwortung im Studium?",
+      "back": "Selbstständige Organisation und Verantwortung im Studium.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Selbstorganisation?",
+      "back": "Fähigkeit, das eigene Lernen und die Zeit effektiv zu managen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Teamcoaching?",
+      "back": "Unterstützung und Hilfe innerhalb des GrowthTime Teams.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist ein Transkript?",
+      "back": "Aufzeichnung des Meetings zur späteren Reflexion.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Retrospektive?",
+      "back": "Rückblick auf die Fortschritte und Herausforderungen im GrowthTime Konzept.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist ein Leistungsnachweis?",
+      "back": "Dokumentation und Präsentation der individuellen Fortschritte im Studium.",
+      "tag": "law"
+    },
+    {
+      "front": "Was sind Socio-Technical Skills?",
+      "back": "Fähigkeiten, die das Zusammenspiel von Mensch, Organisation und Technologie fördern.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist konvergentes Denken?",
+      "back": "Fokussierung auf eine klare Lösung für ein Problem.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist divergentes Denken?",
+      "back": "Kreative Herangehensweise an ein Problem aus verschiedenen Perspektiven.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Peer Learning?",
+      "back": "Lernen durch Austausch und Zusammenarbeit mit Kommilitonen.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Merkmale hat das GrowthTime Konzept?",
+      "options": [
+        "Zugehörigkeit",
+        "Einzelarbeit",
+        "Unregelmässige Meetings",
+        "Keine Dokumentation"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Konzept fördert Zugehörigkeit und regelmässige Meetings.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet SMART bei der Zielsetzung?",
+      "options": [
+        "Spezifisch",
+        "Messbar",
+        "Unklar",
+        "Zeitgebunden"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "SMART steht für spezifisch, messbar, erreichbar, relevant und zeitgebunden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist das Ziel der Fast Friends Procedure (FFP)?",
+      "options": [
+        "Vertrauensbildung",
+        "Projektmanagement",
+        "Einzelarbeit",
+        "Technische Schulung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "FFP zielt darauf ab, Vertrauen und Nähe aufzubauen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Fragen klärt der Golden Circle?",
+      "options": [
+        "Warum ist das Studium wichtig?",
+        "Wie strukturiert vorgehen?",
+        "Was konkret tun?",
+        "Wo studieren?"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Der Golden Circle klärt das Warum, Wie und Was des Studiums.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist der Unterschied zwischen konvergentem und divergentem Denken?",
+      "options": [
+        "Konvergentes Denken fokussiert auf eine Lösung.",
+        "Divergentes Denken ist kreativ.",
+        "Konvergentes Denken ist kreativ.",
+        "Divergentes Denken fokussiert auf eine Lösung."
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "explanation": "Konvergentes Denken sucht eine klare Lösung, divergentes Denken ist kreativ.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Rolle spielt Eigenverantwortung im Studium?",
+      "options": [
+        "Selbstorganisation",
+        "Fremdbestimmung",
+        "Keine Verantwortung",
+        "Teamarbeit"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Eigenverantwortung bedeutet, dass Studierende selbstständig ihr Lernen organisieren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist eine Retrospektive im GrowthTime Konzept?",
+      "options": [
+        "Rückblick auf Fortschritte",
+        "Planung zukünftiger Schritte",
+        "Einzelarbeit",
+        "Technische Analyse"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Eine Retrospektive ist ein Rückblick auf die Fortschritte und Herausforderungen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Fähigkeiten fördern Socio-Technical Skills?",
+      "options": [
+        "Technik",
+        "Organisation",
+        "Mensch",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Socio-Technical Skills fördern das Zusammenspiel von Mensch, Organisation und Technik.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist das Ziel von Peer Learning?",
+      "options": [
+        "Einzelarbeit",
+        "Austausch und Zusammenarbeit",
+        "Technische Schulung",
+        "Projektmanagement"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Peer Learning fördert den Austausch und die Zusammenarbeit mit Kommilitonen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Leistungsnachweis im GrowthTime Konzept?",
+      "options": [
+        "Dokumentation der Fortschritte",
+        "Technische Analyse",
+        "Einzelarbeit",
+        "Keine Dokumentation"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ein Leistungsnachweis dokumentiert die individuellen Fortschritte im Studium.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wins-sw01",
+  "subjectId": "wins"
+}

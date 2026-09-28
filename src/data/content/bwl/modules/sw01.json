@@ -1,0 +1,357 @@
+{
+  "title": "St. Galler Management-Modell & Interaktionsthemen",
+  "week": "SW 1",
+  "tagline": "Einführung in das St. Galler Management-Modell und Interaktionsthemenanalyse",
+  "summary": "In dieser Woche wird das St. Galler Management-Modell vorgestellt, welches eine umfassende Sicht auf die Unternehmensführung bietet. Die Studierenden lernen die Umweltsphären und Anspruchsgruppen kennen und erfahren, wie diese das Unternehmen beeinflussen. Zudem wird die Interaktionsthemenanalyse eingeführt, die zeigt, wie Unternehmen mit verschiedenen Anspruchsgruppen interagieren. Die Unterschiede zwischen den Modellen von 2002 und 2019 sowie das Rahmenmodell des unternehmerischen Denkens und Handelns werden ebenfalls behandelt.",
+  "learningGoals": [
+    "Den Aufbau des Moduls kennen und das Semester sinnvoll planen.",
+    "Das Grundverständnis des St. Galler Management-Modells erklären.",
+    "Die Grundkategorien und Elemente des SGMM 2002 beschreiben.",
+    "Relevante Anspruchsgruppen identifizieren und einordnen.",
+    "Die Handlungsebenen des Managements wiedergeben.",
+    "Unterschiede zwischen SGMM 2002 und 2019 sowie dem Rahmenmodell nennen.",
+    "Einfache Interaktionsthemenanalysen durchführen."
+  ],
+  "blocks": [
+    {
+      "title": "St. Galler Management-Modell (SGMM)",
+      "body": "Das SGMM bietet eine umfassende Sicht auf die Unternehmensführung und besteht aus verschiedenen Schlüsselkategorien und Modellelementen.",
+      "bullets": [
+        "6 Schlüsselkategorien",
+        "Viele Modellelemente"
+      ],
+      "articles": [
+        {
+          "ref": "Rüegg-Stürm, 2004",
+          "text": "Das neue St. Galler Management-Modell"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Umweltsphären des SGMM",
+      "body": "Umweltsphären sind relevante Bezugsräume im Umfeld des Unternehmens, die die Geschäftstätigkeit beeinflussen.",
+      "bullets": [
+        "Gesellschaft",
+        "Natur",
+        "Technologie",
+        "Wirtschaft"
+      ],
+      "articles": [
+        {
+          "ref": "Rüegg-Stürm, 2004",
+          "text": "Umweltsphären im SGMM"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Anspruchsgruppen im SGMM",
+      "body": "Anspruchsgruppen sind Einzelpersonen, Gruppen oder Organisationen, die Erwartungen und Ansprüche an das Unternehmen haben.",
+      "bullets": [
+        "Betroffenheit",
+        "Erwartungen und Ansprüche",
+        "Basis zur Machtausübung"
+      ],
+      "articles": [
+        {
+          "ref": "Rüegg-Stürm, 2004",
+          "text": "Anspruchsgruppen im SGMM"
+        }
+      ],
+      "type": "concept"
+    },
+    {
+      "title": "Interaktionsthemenanalyse",
+      "body": "Die Interaktionsthemenanalyse zeigt auf, welche Anliegen und Interessen eine Anspruchsgruppe hat und prüft die dabei vorliegenden Normen und Werte.",
+      "bullets": [
+        "Betroffenheit einer Anspruchsgruppe",
+        "Materielle und ideelle Themenarten",
+        "Gefahren und Reaktionsmöglichkeiten"
+      ],
+      "articles": [
+        {
+          "ref": "Rüegg-Stürm, 2004",
+          "text": "Interaktionsthemen im SGMM"
+        }
+      ],
+      "type": "process"
+    },
+    {
+      "title": "Rahmenmodell des unternehmerischen Denkens und Handelns",
+      "body": "Das Rahmenmodell betrachtet verschiedene Perspektiven wie die finanzwirtschaftliche, Kunden-, Prozess- und Mitarbeiterperspektive.",
+      "bullets": [
+        "Klare strategische Ausrichtung",
+        "Ausschüttung an Eigentümer und Mitarbeitende",
+        "Zufriedenheit der Kunden durch schlanke Prozesse"
+      ],
+      "articles": [
+        {
+          "ref": "Waibel et al., 2019",
+          "text": "Rahmenmodell des unternehmerischen Denkens und Handelns"
+        }
+      ],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "St. Galler Management-Modell",
+      "definition": "Ein umfassendes Modell zur Unternehmensführung."
+    },
+    {
+      "term": "Umweltsphären",
+      "definition": "Relevante Bezugsräume im Umfeld des Unternehmens."
+    },
+    {
+      "term": "Anspruchsgruppen",
+      "definition": "Einzelpersonen, Gruppen oder Organisationen mit Erwartungen an das Unternehmen."
+    },
+    {
+      "term": "Interaktionsthemenanalyse",
+      "definition": "Analyse der Anliegen und Interessen einer Anspruchsgruppe."
+    },
+    {
+      "term": "Gesellschaft",
+      "definition": "Umweltsphäre, die demografische und politische Aspekte umfasst."
+    },
+    {
+      "term": "Natur",
+      "definition": "Umweltsphäre, die Ressourcenverfügbarkeit und Umweltverschmutzung umfasst."
+    },
+    {
+      "term": "Technologie",
+      "definition": "Umweltsphäre, die Digitalisierung und Cybersicherheit umfasst."
+    },
+    {
+      "term": "Wirtschaft",
+      "definition": "Umweltsphäre, die Beschaffungs- und Absatzmärkte umfasst."
+    },
+    {
+      "term": "Einfluss-Macht-Matrix",
+      "definition": "Matrix zur Einordnung von Anspruchsgruppen nach Interesse und Macht."
+    },
+    {
+      "term": "Rahmenmodell",
+      "definition": "Modell des unternehmerischen Denkens und Handelns."
+    },
+    {
+      "term": "Materielle Themen",
+      "definition": "Interaktionsthemen, die materielle Ressourcen betreffen."
+    },
+    {
+      "term": "Ideelle Themen",
+      "definition": "Interaktionsthemen, die ideelle Werte betreffen."
+    },
+    {
+      "term": "Gefahren",
+      "definition": "Risiken, die sich aus Interaktionsthemen für das Unternehmen ergeben."
+    },
+    {
+      "term": "Reaktionsmöglichkeiten",
+      "definition": "Maßnahmen, die ein Unternehmen ergreifen kann."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist das St. Galler Management-Modell?",
+      "back": "Ein umfassendes Modell zur Unternehmensführung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Nenne die Umweltsphären des SGMM.",
+      "back": "Gesellschaft, Natur, Technologie, Wirtschaft.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Anspruchsgruppen?",
+      "back": "Einzelpersonen, Gruppen oder Organisationen mit Erwartungen an das Unternehmen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist eine Interaktionsthemenanalyse?",
+      "back": "Analyse der Anliegen und Interessen einer Anspruchsgruppe.",
+      "tag": "process"
+    },
+    {
+      "front": "Welche Aspekte umfasst die Umweltsphäre Gesellschaft?",
+      "back": "Demografischer Wandel, Wertewandel, politische Machtstrukturen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Aspekte umfasst die Umweltsphäre Natur?",
+      "back": "Ressourcenverfügbarkeit, Klimawandel, Biodiversität.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Aspekte umfasst die Umweltsphäre Technologie?",
+      "back": "Digitalisierung, Künstliche Intelligenz, Cybersicherheit.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Aspekte umfasst die Umweltsphäre Wirtschaft?",
+      "back": "Beschaffungsmarkt, Arbeitsmarkt, Absatzmarkt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die Einfluss-Macht-Matrix?",
+      "back": "Matrix zur Einordnung von Anspruchsgruppen nach Interesse und Macht.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was beschreibt das Rahmenmodell des unternehmerischen Denkens und Handelns?",
+      "back": "Finanzwirtschaftliche, Kunden-, Prozess- und Mitarbeiterperspektive.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind materielle Themen?",
+      "back": "Interaktionsthemen, die materielle Ressourcen betreffen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind ideelle Themen?",
+      "back": "Interaktionsthemen, die ideelle Werte betreffen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Gefahren in der Interaktionsthemenanalyse?",
+      "back": "Risiken, die sich aus Interaktionsthemen für das Unternehmen ergeben.",
+      "tag": "process"
+    },
+    {
+      "front": "Was sind Reaktionsmöglichkeiten in der Interaktionsthemenanalyse?",
+      "back": "Maßnahmen, die ein Unternehmen ergreifen kann.",
+      "tag": "process"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Schlüsselkategorien gehören zum St. Galler Management-Modell?",
+      "options": [
+        "Anspruchsgruppen",
+        "Umweltsphären",
+        "Interaktionsthemen",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Das SGMM umfasst alle genannten Schlüsselkategorien.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Umweltsphäre umfasst den demografischen Wandel?",
+      "options": [
+        "Natur",
+        "Gesellschaft",
+        "Technologie",
+        "Wirtschaft"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Der demografische Wandel ist ein Aspekt der Umweltsphäre Gesellschaft.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist die Einfluss-Macht-Matrix?",
+      "options": [
+        "Ein Modell zur Unternehmensführung",
+        "Eine Matrix zur Einordnung von Anspruchsgruppen",
+        "Ein Prozess der Wertschöpfung",
+        "Ein Rahmenmodell des unternehmerischen Denkens"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Einfluss-Macht-Matrix ordnet Anspruchsgruppen nach ihrem Interesse und ihrer Macht ein.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Umweltsphäre umfasst die Digitalisierung?",
+      "options": [
+        "Gesellschaft",
+        "Natur",
+        "Technologie",
+        "Wirtschaft"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Die Digitalisierung ist ein Aspekt der Umweltsphäre Technologie.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was beschreibt eine Interaktionsthemenanalyse?",
+      "options": [
+        "Die Struktur eines Unternehmens",
+        "Die Anliegen und Interessen einer Anspruchsgruppe",
+        "Die finanzwirtschaftliche Perspektive",
+        "Die Umweltsphären"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Interaktionsthemenanalyse zeigt die Anliegen und Interessen einer Anspruchsgruppe auf.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Perspektiven umfasst das Rahmenmodell des unternehmerischen Denkens und Handelns?",
+      "options": [
+        "Finanzwirtschaftliche Perspektive",
+        "Kundenperspektive",
+        "Prozessperspektive",
+        "Alle genannten"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Das Rahmenmodell umfasst alle genannten Perspektiven.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was sind materielle Themen in der Interaktionsthemenanalyse?",
+      "options": [
+        "Themen, die ideelle Werte betreffen",
+        "Themen, die materielle Ressourcen betreffen",
+        "Themen, die die Unternehmensstruktur betreffen",
+        "Themen, die die Unternehmensstrategie betreffen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Materielle Themen betreffen materielle Ressourcen.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Umweltsphäre umfasst den Fachkräftemangel?",
+      "options": [
+        "Gesellschaft",
+        "Natur",
+        "Technologie",
+        "Wirtschaft"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Der Fachkräftemangel ist ein Aspekt der Umweltsphäre Wirtschaft.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was sind ideelle Themen in der Interaktionsthemenanalyse?",
+      "options": [
+        "Themen, die materielle Ressourcen betreffen",
+        "Themen, die ideelle Werte betreffen",
+        "Themen, die die Unternehmensstruktur betreffen",
+        "Themen, die die Unternehmensstrategie betreffen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Ideelle Themen betreffen ideelle Werte.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "bwl-sw01",
+  "subjectId": "bwl"
+}

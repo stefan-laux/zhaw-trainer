@@ -1,0 +1,329 @@
+{
+  "title": "Formale Anforderungen an Arbeiten",
+  "week": "SW 09",
+  "tagline": "Formale Anforderungen sind entscheidend für wissenschaftliche Arbeiten.",
+  "summary": "In dieser Woche werden die formalen Anforderungen an wissenschaftliche Arbeiten behandelt. Dazu gehören die Gestaltung von Titelblatt, Inhaltsverzeichnis und Literaturverzeichnis. Weitere Themen sind die korrekte Nutzung von Zitiertechniken und die Strukturierung von Texten. Die Wichtigkeit der Wissenschaftssprache und deren Merkmale werden ebenfalls thematisiert.",
+  "learningGoals": [
+    "Formale Anforderungen an wissenschaftliche Arbeiten verstehen",
+    "Wissenschaftssprache korrekt anwenden",
+    "Eigene wissenschaftliche Texte unter Berücksichtigung der formalen Anforderungen verfassen"
+  ],
+  "blocks": [
+    {
+      "title": "Titelblattgestaltung",
+      "body": "Das Titelblatt einer wissenschaftlichen Arbeit muss bestimmte Informationen enthalten, wie den Titel der Arbeit, die Autorinnen/Autoren, das Fach/Modul, die Klasse, das Semester, den Betreuer und das Abgabedatum.",
+      "bullets": [
+        "Titel der Arbeit",
+        "Autorinnen/Autoren mit E-Mail",
+        "Betreuer und Abgabedatum"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Inhaltsverzeichnis",
+      "body": "Das Inhaltsverzeichnis sollte eine klare Struktur aufweisen und maximal drei Gliederungsebenen haben. Es beginnt mit römischen Ziffern und das Literaturverzeichnis sollte darin aufgenommen werden.",
+      "bullets": [
+        "Maximal drei Gliederungsebenen",
+        "Römische Ziffern für Vorseiten",
+        "Literaturverzeichnis inkludieren"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Literaturverzeichnis",
+      "body": "Das Literaturverzeichnis muss alphabetisch geordnet sein und die Werke in chronologischer Reihenfolge aufführen. Es sollte im Blocksatz formatiert sein.",
+      "bullets": [
+        "Alphabetische Ordnung",
+        "Chronologische Reihenfolge bei mehreren Werken eines Autors",
+        "Blocksatzformatierung"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Wissenschaftssprache",
+      "body": "Die Wissenschaftssprache zeichnet sich durch Sachlichkeit, Präzision und Verständlichkeit aus. Sie dient dem Wissenstransfer und der Kommunikation innerhalb der scientific community.",
+      "bullets": [
+        "Sachlichkeit und Präzision",
+        "Vermeidung von Umgangssprache",
+        "Verwendung von Fachtermini"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Zitiertechnik",
+      "body": "Zitiertechniken sind entscheidend für die wissenschaftliche Integrität. Direktzitate sollten sparsam eingesetzt werden und immer korrekt belegt sein.",
+      "bullets": [
+        "Sparsame Nutzung von Direktzitaten",
+        "Korrekte Belege für Zitate",
+        "Vermeidung von Plagiaten"
+      ],
+      "articles": [],
+      "type": "concept"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Titelblatt",
+      "definition": "Erste Seite einer wissenschaftlichen Arbeit mit wichtigen Informationen."
+    },
+    {
+      "term": "Inhaltsverzeichnis",
+      "definition": "Liste der Kapitel und Unterkapitel einer Arbeit."
+    },
+    {
+      "term": "Literaturverzeichnis",
+      "definition": "Liste der zitierten Werke in einer wissenschaftlichen Arbeit."
+    },
+    {
+      "term": "Wissenschaftssprache",
+      "definition": "Sprache, die in wissenschaftlichen Texten verwendet wird."
+    },
+    {
+      "term": "Zitiertechnik",
+      "definition": "Methoden zur korrekten Angabe von Quellen."
+    },
+    {
+      "term": "Blocksatz",
+      "definition": "Textformatierung, bei der der Text gleichmässig über die Zeilenbreite verteilt ist."
+    },
+    {
+      "term": "Römische Ziffern",
+      "definition": "Zahlenformat, das in Vorseiten von Arbeiten verwendet wird."
+    },
+    {
+      "term": "Gliederungsebene",
+      "definition": "Hierarchische Stufe in der Struktur einer Arbeit."
+    },
+    {
+      "term": "Fachtermini",
+      "definition": "Spezifische Begriffe, die in einem Fachgebiet verwendet werden."
+    },
+    {
+      "term": "Sachlichkeit",
+      "definition": "Objektive und neutrale Darstellung in wissenschaftlichen Texten."
+    },
+    {
+      "term": "Präzision",
+      "definition": "Genauigkeit und Klarheit in der Darstellung von Informationen."
+    },
+    {
+      "term": "Direktzitat",
+      "definition": "Wörtliche Übernahme eines Textabschnitts aus einer Quelle."
+    },
+    {
+      "term": "Plagiat",
+      "definition": "Unrechtmässige Übernahme fremder Inhalte ohne Quellenangabe."
+    },
+    {
+      "term": "Kohärenz",
+      "definition": "Logische Verbindung und Zusammenhalt in einem Text."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was gehört auf das Titelblatt einer wissenschaftlichen Arbeit?",
+      "back": "Titel der Arbeit, Autorinnen/Autoren, Fach/Modul, Klasse, Semester, Betreuer, Abgabedatum.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie sollte das Inhaltsverzeichnis einer wissenschaftlichen Arbeit strukturiert sein?",
+      "back": "Mit maximal drei Gliederungsebenen und römischen Ziffern für Vorseiten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie wird das Literaturverzeichnis formatiert?",
+      "back": "Alphabetisch geordnet, chronologisch bei mehreren Werken eines Autors, im Blocksatz.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was zeichnet die Wissenschaftssprache aus?",
+      "back": "Sachlichkeit, Präzision, Verständlichkeit und die Verwendung von Fachtermini.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist die Zitiertechnik wichtig?",
+      "back": "Sie gewährleistet die wissenschaftliche Integrität und verhindert Plagiate.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Direktzitat?",
+      "back": "Eine wörtliche Übernahme eines Textabschnitts aus einer Quelle.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist der Unterschied zwischen Blocksatz und Flattersatz?",
+      "back": "Blocksatz verteilt den Text gleichmässig, Flattersatz ist linksbündig und unregelmässig.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum sollte man Fachtermini verwenden?",
+      "back": "Sie sichern die Präzision und Nachvollziehbarkeit des Textes.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Kohärenz in einem Text?",
+      "back": "Logische Verbindung und Zusammenhalt der Inhalte.",
+      "tag": "concept"
+    },
+    {
+      "front": "Wie viele Direktzitate sind pro Seite empfehlenswert?",
+      "back": "Nicht mehr als ein Zitat pro Seite.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Plagiat?",
+      "back": "Unrechtmässige Übernahme fremder Inhalte ohne Quellenangabe.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Präzision in wissenschaftlichen Texten wichtig?",
+      "back": "Sie gewährleistet die Genauigkeit und Klarheit der Informationen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist die Funktion eines Literaturverzeichnisses?",
+      "back": "Es listet alle zitierten Werke in einer wissenschaftlichen Arbeit auf.",
+      "tag": "concept"
+    },
+    {
+      "front": "Welche Rolle spielt die Wissenschaftssprache im Wissenstransfer?",
+      "back": "Sie ermöglicht die Kommunikation innerhalb der scientific community.",
+      "tag": "concept"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche Informationen gehören auf das Titelblatt einer wissenschaftlichen Arbeit?",
+      "options": [
+        "Titel der Arbeit",
+        "Inhaltsverzeichnis",
+        "Kapitelübersicht",
+        "Autorinnen/Autoren"
+      ],
+      "correct": [
+        0,
+        3
+      ],
+      "explanation": "Das Titelblatt enthält den Titel der Arbeit und die Autorinnen/Autoren.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wie sollte das Inhaltsverzeichnis formatiert sein?",
+      "options": [
+        "Mit römischen Ziffern",
+        "Mit arabischen Ziffern",
+        "Ohne Ziffern",
+        "Mit Buchstaben"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Inhaltsverzeichnis verwendet römische Ziffern für die Vorseiten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Merkmal der Wissenschaftssprache?",
+      "options": [
+        "Umgangssprache",
+        "Sachlichkeit",
+        "Ironie",
+        "Emotionalität"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Die Wissenschaftssprache zeichnet sich durch Sachlichkeit aus.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Warum ist die Zitiertechnik wichtig?",
+      "options": [
+        "Verhindert Plagiate",
+        "Erhöht die Lesbarkeit",
+        "Verschönert den Text",
+        "Erleichtert das Schreiben"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Zitiertechnik verhindert Plagiate und sichert die wissenschaftliche Integrität.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Wie viele Gliederungsebenen sind in einer Semesterarbeit empfohlen?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Es wird empfohlen, maximal drei Gliederungsebenen zu verwenden.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Plagiat?",
+      "options": [
+        "Eine kreative Idee",
+        "Ein wissenschaftlicher Artikel",
+        "Unrechtmässige Übernahme fremder Inhalte",
+        "Ein korrektes Zitat"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Plagiat ist die unrechtmässige Übernahme fremder Inhalte ohne Quellenangabe.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Textformatierung wird in wissenschaftlichen Arbeiten bevorzugt?",
+      "options": [
+        "Blocksatz",
+        "Flattersatz",
+        "Zentrierter Satz",
+        "Rechtsbündiger Satz"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Der Blocksatz wird bevorzugt, da er den Text gleichmässig verteilt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist die Funktion eines Literaturverzeichnisses?",
+      "options": [
+        "Es listet alle zitierten Werke auf",
+        "Es enthält die Zusammenfassung der Arbeit",
+        "Es beschreibt die Methodik",
+        "Es enthält die Danksagung"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Literaturverzeichnis listet alle zitierten Werke in der Arbeit auf.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet Kohärenz in einem wissenschaftlichen Text?",
+      "options": [
+        "Unregelmässigkeit",
+        "Logische Verbindung",
+        "Kreativität",
+        "Emotionalität"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Kohärenz bedeutet die logische Verbindung und den Zusammenhalt der Inhalte.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wischr-sw09",
+  "subjectId": "wischr"
+}

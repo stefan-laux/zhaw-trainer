@@ -1,0 +1,346 @@
+{
+  "title": "Immaterialgüterrecht (IP)",
+  "week": "SW 4",
+  "tagline": "Schutz und Vertrieb von immateriellen Gütern im Wirtschaftsrecht.",
+  "summary": "Das Immaterialgüterrecht (IP) ist ein zentrales Spezialrechtsgebiet im Wirtschaftsrecht, das sich mit dem Schutz und der Nutzung von immateriellen Gütern befasst. Es umfasst verschiedene Teilgebiete wie Urheberrecht, Patentrecht und Designrecht. Immaterialgüterrechte sind absolute Rechte, die erga omnes wirken und durch Lizenzen genutzt werden können. Die wirtschaftliche Bedeutung von IP liegt in der Förderung von Innovation und Forschung durch den Schutz geistigen Eigentums.",
+  "learningGoals": [
+    "Verstehen der Grundlagen des Immaterialgüterrechts.",
+    "Unterscheiden der verschiedenen Schutzrechte wie Urheberrecht, Patentrecht und Designrecht.",
+    "Erkennen der Schutzvoraussetzungen und Schutzdauer im Urheberrecht.",
+    "Verstehen der Lizenzierung und der verschiedenen Lizenzarten.",
+    "Anwenden der rechtlichen Rahmenbedingungen auf praktische Beispiele."
+  ],
+  "blocks": [
+    {
+      "title": "Einführung in das Immaterialgüterrecht",
+      "body": "Das Immaterialgüterrecht gewährt Ausschliesslichkeitsrechte an immateriellen Gütern. Diese Rechte sind absolute Rechte und betreffen nicht körperliche Sachen, sondern geistiges Eigentum.",
+      "bullets": [
+        "Ausschliesslichkeitsrechte",
+        "Absolute Rechte (erga omnes)",
+        "Geistiges Eigentum"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Übersicht über Schutzrechte",
+      "body": "Das Immaterialgüterrecht umfasst verschiedene Schutzrechte wie Urheberrecht, Patentrecht und Designrecht. Jedes dieser Rechte hat spezifische Schutzgegenstände und Schutzvoraussetzungen.",
+      "bullets": [
+        "Urheberrecht: Schutz von Computerprogrammen und Werken der Literatur und Kunst",
+        "Patentrecht: Schutz von Erfindungen",
+        "Designrecht: Schutz von Produktgestaltungen"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Schutzvoraussetzungen im Urheberrecht",
+      "body": "Um urheberrechtlich geschützt zu sein, muss ein Werk der Literatur oder Kunst oder ein Computerprogramm individuellen Charakter haben und auf einer geistigen Schöpfung beruhen.",
+      "bullets": [
+        "Werk der Literatur oder Kunst",
+        "Individueller Charakter",
+        "Geistige Schöpfung"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 2 URG",
+          "text": "Schutzvoraussetzungen für urheberrechtlich geschützte Werke"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Urheberpersönlichkeitsrechte",
+      "body": "Diese Rechte umfassen die Anerkennung der Urheberschaft, das Recht auf Erstveröffentlichung und das Verbot von Entstellungen des Werks.",
+      "bullets": [
+        "Anerkennung der Urheberschaft",
+        "Recht auf Erstveröffentlichung",
+        "Verbot von Entstellungen"
+      ],
+      "articles": [
+        {
+          "ref": "Art. 9 Abs. 3 URG",
+          "text": "Erstveröffentlichungsrecht am Sourcecode"
+        }
+      ],
+      "type": "law"
+    },
+    {
+      "title": "Lizenzverträge und Lizenzarten",
+      "body": "Lizenzen sind Nutzungsrechte an Immaterialgüterrechten gegen Entgelt. Es gibt verschiedene Arten von Lizenzen, darunter einfache Lizenzen, Exklusivlizenzen und Crosslicenses.",
+      "bullets": [
+        "Einfache Lizenz: Unbestimmte Zahl von Mitnutzern",
+        "Exklusivlizenz: Exklusivrecht für den Lizenznehmer",
+        "Crosslicense: Gegenseitige Nutzung von Immaterialgüterrechten"
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Immaterialgüterrecht",
+      "definition": "Rechtsgebiet, das sich mit dem Schutz und der Nutzung von immateriellen Gütern befasst."
+    },
+    {
+      "term": "Ausschliesslichkeitsrecht",
+      "definition": "Vom Gesetz gewährtes Recht, das Dritten die Nutzung eines immateriellen Guts untersagt."
+    },
+    {
+      "term": "Urheberrecht",
+      "definition": "Schutzrecht für Werke der Literatur und Kunst sowie Computerprogramme.",
+      "article": "Art. 2 URG"
+    },
+    {
+      "term": "Patentrecht",
+      "definition": "Schutzrecht für technische Erfindungen."
+    },
+    {
+      "term": "Designrecht",
+      "definition": "Schutzrecht für zwei- oder dreidimensionale Produktgestaltungen."
+    },
+    {
+      "term": "Geistiges Eigentum",
+      "definition": "Nicht-körperliche Güter, die durch Immaterialgüterrechte geschützt werden."
+    },
+    {
+      "term": "Lizenz",
+      "definition": "Nutzungsrecht an einem Immaterialgüterrecht gegen Entgelt."
+    },
+    {
+      "term": "Einfache Lizenz",
+      "definition": "Lizenz, die mehreren Nutzern die Nutzung eines Immaterialguts erlaubt."
+    },
+    {
+      "term": "Exklusivlizenz",
+      "definition": "Lizenz, die nur einem Nutzer das Exklusivrecht zur Nutzung eines Immaterialguts gewährt."
+    },
+    {
+      "term": "Crosslicense",
+      "definition": "Gegenseitige Lizenzierung von Immaterialgüterrechten zwischen zwei Parteien."
+    },
+    {
+      "term": "Urheberpersönlichkeitsrechte",
+      "definition": "Rechte, die die persönliche Beziehung des Urhebers zu seinem Werk schützen.",
+      "article": "Art. 9 URG"
+    },
+    {
+      "term": "Erstveröffentlichungsrecht",
+      "definition": "Recht des Urhebers, sein Werk zuerst zu veröffentlichen.",
+      "article": "Art. 9 Abs. 3 URG"
+    },
+    {
+      "term": "Erschöpfungsgrundsatz",
+      "definition": "Rechtsgrundsatz, nach dem der Urheberrechtsinhaber nach der Veräusserung eines Werkexemplars keine Kontrolle mehr über dessen Weiterveräusserung hat.",
+      "article": "Art. 12 Abs. 1 URG"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist das Immaterialgüterrecht?",
+      "back": "Ein Rechtsgebiet, das sich mit dem Schutz und der Nutzung von immateriellen Gütern befasst.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Was sind Ausschliesslichkeitsrechte?",
+      "back": "Vom Gesetz gewährte Rechte, die Dritten die Nutzung eines immateriellen Guts untersagen.",
+      "tag": "Definition"
+    },
+    {
+      "front": "Welche Schutzrechte umfasst das Immaterialgüterrecht?",
+      "back": "Urheberrecht, Patentrecht und Designrecht.",
+      "tag": "Schutzrechte"
+    },
+    {
+      "front": "Was schützt das Urheberrecht?",
+      "back": "Werke der Literatur und Kunst sowie Computerprogramme.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Was ist eine einfache Lizenz?",
+      "back": "Eine Lizenz, die mehreren Nutzern die Nutzung eines Immaterialguts erlaubt.",
+      "tag": "Lizenz"
+    },
+    {
+      "front": "Was ist eine Exklusivlizenz?",
+      "back": "Eine Lizenz, die nur einem Nutzer das Exklusivrecht zur Nutzung eines Immaterialguts gewährt.",
+      "tag": "Lizenz"
+    },
+    {
+      "front": "Was ist eine Crosslicense?",
+      "back": "Eine gegenseitige Lizenzierung von Immaterialgüterrechten zwischen zwei Parteien.",
+      "tag": "Lizenz"
+    },
+    {
+      "front": "Was sind Urheberpersönlichkeitsrechte?",
+      "back": "Rechte, die die persönliche Beziehung des Urhebers zu seinem Werk schützen.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Was ist das Erstveröffentlichungsrecht?",
+      "back": "Das Recht des Urhebers, sein Werk zuerst zu veröffentlichen.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Was ist der Erschöpfungsgrundsatz?",
+      "back": "Ein Rechtsgrundsatz, nach dem der Urheberrechtsinhaber nach der Veräusserung eines Werkexemplars keine Kontrolle mehr über dessen Weiterveräusserung hat.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Wie lange dauert der Schutz eines Computerprogramms nach dem Urheberrecht?",
+      "back": "50 Jahre nach dem Tod des Urhebers.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Welche Voraussetzungen müssen für den urheberrechtlichen Schutz erfüllt sein?",
+      "back": "Werk der Literatur oder Kunst, individueller Charakter, geistige Schöpfung.",
+      "tag": "Urheberrecht"
+    },
+    {
+      "front": "Was ist eine Lizenz?",
+      "back": "Ein Nutzungsrecht an einem Immaterialgüterrecht gegen Entgelt.",
+      "tag": "Lizenz"
+    },
+    {
+      "front": "Was ist geistiges Eigentum?",
+      "back": "Nicht-körperliche Güter, die durch Immaterialgüterrechte geschützt werden.",
+      "tag": "Definition"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das Immaterialgüterrecht zu?",
+      "options": [
+        "Es schützt körperliche Sachen.",
+        "Es gewährt Ausschliesslichkeitsrechte.",
+        "Es umfasst nur das Urheberrecht.",
+        "Es betrifft geistiges Eigentum."
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Das Immaterialgüterrecht gewährt Ausschliesslichkeitsrechte und betrifft geistiges Eigentum.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Schutzrechte gehören nicht zum Immaterialgüterrecht?",
+      "options": [
+        "Urheberrecht",
+        "Patentrecht",
+        "Designrecht",
+        "Eigentumsrecht"
+      ],
+      "correct": [
+        3
+      ],
+      "explanation": "Das Eigentumsrecht gehört nicht zum Immaterialgüterrecht.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Voraussetzungen müssen für den urheberrechtlichen Schutz eines Werks erfüllt sein?",
+      "options": [
+        "Es muss ein Werk der Literatur oder Kunst sein.",
+        "Es muss eine Erfindung sein.",
+        "Es muss individuellen Charakter haben.",
+        "Es muss auf einer geistigen Schöpfung beruhen."
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Für den urheberrechtlichen Schutz muss es sich um ein Werk der Literatur oder Kunst handeln, das individuellen Charakter hat und auf einer geistigen Schöpfung beruht.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das Urheberpersönlichkeitsrecht zu?",
+      "options": [
+        "Es kann vollständig übertragen werden.",
+        "Es umfasst das Recht auf Anerkennung der Urheberschaft.",
+        "Es umfasst das Recht auf Erstveröffentlichung.",
+        "Es umfasst das Verbot von Entstellungen des Werks."
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "Das Urheberpersönlichkeitsrecht umfasst das Recht auf Anerkennung der Urheberschaft, das Recht auf Erstveröffentlichung und das Verbot von Entstellungen des Werks.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Exklusivlizenz?",
+      "options": [
+        "Eine Lizenz, die mehreren Nutzern die Nutzung eines Immaterialguts erlaubt.",
+        "Eine Lizenz, die nur einem Nutzer das Exklusivrecht zur Nutzung eines Immaterialguts gewährt.",
+        "Eine gegenseitige Lizenzierung von Immaterialgüterrechten.",
+        "Eine Lizenz, die keine Lizenzgebühr erfordert."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Exklusivlizenz gewährt nur einem Nutzer das Exklusivrecht zur Nutzung eines Immaterialguts.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das Patentrecht zu?",
+      "options": [
+        "Es schützt Werke der Literatur.",
+        "Es schützt technische Erfindungen.",
+        "Es erfordert keine Registereintragung.",
+        "Es schützt Produktgestaltungen."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Patentrecht schützt technische Erfindungen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das Designrecht zu?",
+      "options": [
+        "Es schützt zwei- oder dreidimensionale Produktgestaltungen.",
+        "Es schützt Computerprogramme.",
+        "Es erfordert keine Registereintragung.",
+        "Es schützt Erfindungen."
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Das Designrecht schützt zwei- oder dreidimensionale Produktgestaltungen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf das Urheberrecht zu?",
+      "options": [
+        "Es schützt nur Computerprogramme.",
+        "Es schützt Werke der Literatur und Kunst.",
+        "Es erfordert eine Registereintragung.",
+        "Es schützt Erfindungen."
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Urheberrecht schützt Werke der Literatur und Kunst.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche der folgenden Aussagen trifft auf den Erschöpfungsgrundsatz zu?",
+      "options": [
+        "Der Urheber behält die Kontrolle über das Werkexemplar nach der Veräusserung.",
+        "Der Urheber verliert das Recht, über das Schicksal des Werkexemplars zu bestimmen.",
+        "Der Erwerber darf das Werkexemplar nicht weiterveräussern.",
+        "Der Erwerber darf das Werkexemplar bestimmungsgemäss gebrauchen."
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "explanation": "Der Erschöpfungsgrundsatz besagt, dass der Urheber nach der Veräusserung eines Werkexemplars das Recht verliert, über dessen Schicksal zu bestimmen, und der Erwerber es bestimmungsgemäss gebrauchen darf.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wr-sw4",
+  "subjectId": "wr"
+}

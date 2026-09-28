@@ -1,0 +1,335 @@
+{
+  "title": "Kritisches Denken I",
+  "week": "SW 11",
+  "tagline": "Kritisches Denken als Schlüsselkompetenz im Informationszeitalter",
+  "summary": "In der elften Semesterwoche wird die Bedeutung des kritischen Denkens im Kontext von Wissenschaft und Alltag untersucht. Kritisches Denken hilft, Desinformation zu erkennen und fundierte Entscheidungen zu treffen. Es ist besonders relevant in Zeiten von Fake News und Social Media Hypes. Die Vorlesung behandelt die Grundlagen und Kriterien des kritischen Denkens sowie deren Anwendung in verschiedenen Lebensbereichen.",
+  "learningGoals": [
+    "Verstehen der Bedeutung von kritischem Denken im Informationszeitalter",
+    "Erkennen und Analysieren von Desinformation und Fake News",
+    "Anwendung von kritischem Denken im Alltag, Studium und Beruf",
+    "Entwicklung von Fähigkeiten zur kritischen Analyse und Reflexion"
+  ],
+  "blocks": [
+    {
+      "title": "Wozu kritisches Denken?",
+      "body": "Kritisches Denken ist essentiell, um in Zeiten von Social Media Hypes und politischer Desinformation fundierte Entscheidungen zu treffen.",
+      "bullets": [
+        "Hilft, alternative Fakten zu entlarven",
+        "Unterstützt bei der Bewertung politischer Informationen",
+        "Fördert die Fähigkeit, Informationen kritisch zu hinterfragen"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Fake News und Desinformation",
+      "body": "Fake News sind gezielte Falschinformationen, die oft von Staaten wie Russland und China verbreitet werden, um politische Ziele zu erreichen.",
+      "bullets": [
+        "Desinformation im Interesse des russischen Staates",
+        "Verzerrung der Berichterstattung durch Fake News",
+        "Die Rolle von Social Media bei der Verbreitung von Fake News"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Das Milgram-Experiment",
+      "body": "Das Milgram-Experiment zeigt, wie Autoritätshörigkeit Menschen dazu bringen kann, unmoralische Handlungen auszuführen.",
+      "bullets": [
+        "Zwei Drittel der Teilnehmer folgten Anweisungen bis zum Ende",
+        "Keine Unterschiede zwischen verschiedenen demografischen Gruppen",
+        "Wiederholung des Experiments zeigt ähnliche Ergebnisse"
+      ],
+      "articles": [
+        {
+          "ref": "Milgram-Experiment",
+          "text": "Ein klassisches Experiment zur Untersuchung von Autoritätshörigkeit"
+        }
+      ],
+      "type": "example"
+    },
+    {
+      "title": "Kritisches Denken im Unternehmenskontext",
+      "body": "Mangelndes kritisches Denken kann zu unreflektierten Entscheidungen und ineffektivem Benchmarking führen.",
+      "bullets": [
+        "Gefahren von Groupthink in Unternehmen",
+        "Unreflektiertes Benchmarking und seine Folgen",
+        "Diversität als Mittel gegen Groupthink"
+      ],
+      "articles": [],
+      "type": "pitfall"
+    },
+    {
+      "title": "Kritisches Denken: Grundlagen und Kriterien",
+      "body": "Kritisches Denken umfasst die Fähigkeit, Annahmen zu hinterfragen und Informationen analytisch zu bewerten.",
+      "bullets": [
+        "Clarity, Accuracy, Precision, Relevance, Depth, Breadth, Logic",
+        "Anwendung im Alltag, Studium und Beruf",
+        "Methodik des Zentrums für Innovative Didaktik"
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Kritisches Denken",
+      "definition": "Die Fähigkeit, Informationen analytisch zu bewerten und Annahmen zu hinterfragen."
+    },
+    {
+      "term": "Fake News",
+      "definition": "Gezielte Falschinformationen, die oft politische Ziele verfolgen."
+    },
+    {
+      "term": "Desinformation",
+      "definition": "Verbreitung von falschen oder irreführenden Informationen."
+    },
+    {
+      "term": "Milgram-Experiment",
+      "definition": "Ein Experiment zur Untersuchung von Autoritätshörigkeit.",
+      "article": "Milgram-Experiment"
+    },
+    {
+      "term": "Groupthink",
+      "definition": "Ein Phänomen, bei dem der Wunsch nach Harmonie in einer Gruppe zu irrationalen Entscheidungen führt."
+    },
+    {
+      "term": "Autoritätshörigkeit",
+      "definition": "Die Neigung, Anweisungen von Autoritätspersonen zu befolgen, auch wenn sie unmoralisch sind."
+    },
+    {
+      "term": "Hybridkrieg",
+      "definition": "Eine Form der Kriegsführung, die konventionelle und unkonventionelle Methoden kombiniert."
+    },
+    {
+      "term": "Deep Fakes",
+      "definition": "KI-generierte Videos, die Realität und Fiktion verschmelzen lassen."
+    },
+    {
+      "term": "Buzzword Bingo",
+      "definition": "Ein Spiel, das Management-Schlagwörter in Besprechungen entlarvt."
+    },
+    {
+      "term": "Confirmation Bias",
+      "definition": "Die Tendenz, Informationen zu suchen oder zu interpretieren, die bestehende Überzeugungen bestätigen."
+    },
+    {
+      "term": "Reflective Thinking",
+      "definition": "Ein Prozess des Nachdenkens über eigene Gedanken und Handlungen."
+    },
+    {
+      "term": "Predatory Journals",
+      "definition": "Zeitschriften, die wissenschaftliche Arbeiten ohne angemessene Peer-Review veröffentlichen."
+    },
+    {
+      "term": "Resonanzboden",
+      "definition": "Das notwendige Wissen, um Informationen kritisch zu bewerten."
+    },
+    {
+      "term": "Stretch Goals",
+      "definition": "Ziele, die über das Erwartete hinausgehen und das Machbare bewusst sprengen."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist kritisches Denken?",
+      "back": "Die Fähigkeit, Informationen analytisch zu bewerten und Annahmen zu hinterfragen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Fake News?",
+      "back": "Gezielte Falschinformationen, die oft politische Ziele verfolgen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was zeigt das Milgram-Experiment?",
+      "back": "Wie Autoritätshörigkeit Menschen dazu bringen kann, unmoralische Handlungen auszuführen.",
+      "tag": "example"
+    },
+    {
+      "front": "Was ist Groupthink?",
+      "back": "Ein Phänomen, bei dem der Wunsch nach Harmonie in einer Gruppe zu irrationalen Entscheidungen führt.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist Autoritätshörigkeit?",
+      "back": "Die Neigung, Anweisungen von Autoritätspersonen zu befolgen, auch wenn sie unmoralisch sind.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Hybridkrieg?",
+      "back": "Eine Form der Kriegsführung, die konventionelle und unkonventionelle Methoden kombiniert.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Deep Fakes?",
+      "back": "KI-generierte Videos, die Realität und Fiktion verschmelzen lassen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Buzzword Bingo?",
+      "back": "Ein Spiel, das Management-Schlagwörter in Besprechungen entlarvt.",
+      "tag": "mnemonic"
+    },
+    {
+      "front": "Was ist Confirmation Bias?",
+      "back": "Die Tendenz, Informationen zu suchen oder zu interpretieren, die bestehende Überzeugungen bestätigen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Reflective Thinking?",
+      "back": "Ein Prozess des Nachdenkens über eigene Gedanken und Handlungen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Predatory Journals?",
+      "back": "Zeitschriften, die wissenschaftliche Arbeiten ohne angemessene Peer-Review veröffentlichen.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist ein Resonanzboden?",
+      "back": "Das notwendige Wissen, um Informationen kritisch zu bewerten.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was sind Stretch Goals?",
+      "back": "Ziele, die über das Erwartete hinausgehen und das Machbare bewusst sprengen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist kritisches Denken im Unternehmenskontext?",
+      "back": "Die Fähigkeit, unreflektierte Entscheidungen und ineffektives Benchmarking zu vermeiden.",
+      "tag": "pitfall"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist der Hauptzweck des kritischen Denkens?",
+      "options": [
+        "Informationen zu akzeptieren",
+        "Informationen zu hinterfragen",
+        "Informationen zu ignorieren",
+        "Informationen zu verbreiten"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Kritisches Denken zielt darauf ab, Informationen zu hinterfragen und analytisch zu bewerten.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Rolle spielen Fake News im Informationskrieg?",
+      "options": [
+        "Sie sind harmlos",
+        "Sie dienen der Unterhaltung",
+        "Sie sind ein Werkzeug der Desinformation",
+        "Sie fördern die Bildung"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Fake News sind ein Werkzeug der Desinformation und werden oft in Informationskriegen eingesetzt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was zeigt das Milgram-Experiment über menschliches Verhalten?",
+      "options": [
+        "Menschen sind grundsätzlich ungehorsam",
+        "Menschen folgen oft Autoritäten",
+        "Menschen sind immer rational",
+        "Menschen sind immun gegen Manipulation"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Das Milgram-Experiment zeigt, dass Menschen oft Autoritäten folgen, auch wenn dies zu unmoralischen Handlungen führt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist Groupthink?",
+      "options": [
+        "Ein kreativer Denkprozess",
+        "Ein uniformes Gruppendenken",
+        "Ein wissenschaftlicher Ansatz",
+        "Ein individueller Denkprozess"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Groupthink ist ein uniformes Gruppendenken, das zu irrationalen Entscheidungen führen kann.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Welche Kriterien sind Teil der Critical Thinking Checklist?",
+      "options": [
+        "Clarity, Accuracy, Precision",
+        "Speed, Efficiency, Cost",
+        "Popularity, Influence, Power",
+        "Emotion, Intuition, Instinct"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Die Critical Thinking Checklist umfasst Kriterien wie Clarity, Accuracy und Precision.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Wie kann man Groupthink überwinden?",
+      "options": [
+        "Durch mehr Meetings",
+        "Durch Querdenken fördern",
+        "Durch Ignorieren von Meinungen",
+        "Durch strikte Hierarchie"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Groupthink kann durch das Fördern von Querdenken und das Einbringen externer Perspektiven überwunden werden.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was sind Stretch Goals?",
+      "options": [
+        "Ziele, die leicht erreichbar sind",
+        "Ziele, die das Machbare bewusst sprengen",
+        "Ziele, die irrelevant sind",
+        "Ziele, die keine Herausforderung darstellen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Stretch Goals sind Ziele, die über das Erwartete hinausgehen und das Machbare bewusst sprengen.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Gefahr besteht bei unreflektiertem Benchmarking?",
+      "options": [
+        "Es führt zu Innovation",
+        "Es führt zu unreflektierten Entscheidungen",
+        "Es verbessert die Effizienz",
+        "Es fördert die Kreativität"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Unreflektiertes Benchmarking kann zu unreflektierten Entscheidungen führen, da es oft ohne kritische Analyse übernommen wird.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was ist der Confirmation Bias?",
+      "options": [
+        "Die Tendenz, Informationen zu ignorieren",
+        "Die Tendenz, Informationen zu suchen, die bestehende Überzeugungen bestätigen",
+        "Die Tendenz, Informationen zu verbreiten",
+        "Die Tendenz, Informationen zu verwerfen"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Confirmation Bias ist die Tendenz, Informationen zu suchen oder zu interpretieren, die bestehende Überzeugungen bestätigen.",
+      "difficulty": "mittel"
+    }
+  ],
+  "id": "wischr-sw11",
+  "subjectId": "wischr"
+}

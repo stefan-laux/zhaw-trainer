@@ -1,0 +1,349 @@
+{
+  "title": "Was ist Wissenschaft?",
+  "week": "SW 02",
+  "tagline": "Einführung in das wissenschaftliche Arbeiten",
+  "summary": "In dieser Woche wird das wissenschaftliche Arbeiten eingeführt, wobei der Fokus auf den Qualitätskriterien und den wissenschaftstheoretischen Grundpositionen liegt. Es wird erläutert, wie neue Erkenntnisse gewonnen werden und welche Rolle die Entwicklung von Forschungsfragen spielt. Zudem wird auf die Bedeutung von Ehrlichkeit und Überprüfbarkeit in der Wissenschaft eingegangen.",
+  "learningGoals": [
+    "Verstehen der Qualitätskriterien des wissenschaftlichen Arbeitens",
+    "Erkennen der verschiedenen wissenschaftstheoretischen Grundpositionen",
+    "Entwicklung von Forschungsfragen",
+    "Erkennen der Bedeutung von Ehrlichkeit und Überprüfbarkeit",
+    "Unterscheidung zwischen Induktion, Deduktion und Abduktion"
+  ],
+  "blocks": [
+    {
+      "title": "Qualitätskriterien des wissenschaftlichen Arbeitens",
+      "body": "Wissenschaftliches Arbeiten basiert auf bestimmten Qualitätskriterien, die sicherstellen, dass die Forschungsergebnisse zuverlässig und glaubwürdig sind.",
+      "bullets": [
+        "Ehrlichkeit",
+        "Überprüfbarkeit",
+        "Reliabilität",
+        "Relevanz",
+        "Objektivität",
+        "Validität"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Betrug in der Wissenschaft",
+      "body": "Betrug in der Wissenschaft kann in Form von Plagiaten, Datenmanipulationen oder der Erfindung von Ergebnissen auftreten. Solche Delikte zerstören die Glaubwürdigkeit und verursachen Folgeschäden.",
+      "bullets": [
+        "Plagiate",
+        "Datenmanipulation",
+        "Erfindung von Ergebnissen"
+      ],
+      "articles": [],
+      "type": "pitfall"
+    },
+    {
+      "title": "Wissenschaftstheoretische Grundpositionen",
+      "body": "Es gibt verschiedene wissenschaftstheoretische Grundpositionen, die unterschiedliche Ansätze zur Erkenntnisgewinnung bieten.",
+      "bullets": [
+        "Realismus",
+        "Empirismus",
+        "Rationalismus",
+        "Kritischer Rationalismus",
+        "Positivismus",
+        "Konstruktivismus"
+      ],
+      "articles": [],
+      "type": "concept"
+    },
+    {
+      "title": "Erkenntnisgewinn: Induktion und Deduktion",
+      "body": "Induktion und Deduktion sind zwei grundlegende Methoden zur Gewinnung neuer wissenschaftlicher Erkenntnisse.",
+      "bullets": [
+        "Induktion: Vom Besonderen auf das Allgemeine",
+        "Deduktion: Vom Allgemeinen auf das Besondere"
+      ],
+      "articles": [],
+      "type": "process"
+    },
+    {
+      "title": "Entwicklung von Forschungsfragen",
+      "body": "Die Entwicklung einer präzisen Forschungsfrage ist entscheidend für den Erfolg einer wissenschaftlichen Arbeit. Sie sollte klar formuliert und relevant sein.",
+      "bullets": [
+        "Klarer Problembezug",
+        "Relevanz für Wissenschaft und Praxis",
+        "Verfügbarkeit von Ressourcen"
+      ],
+      "articles": [],
+      "type": "process"
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Ehrlichkeit",
+      "definition": "Glaubwürdigkeit durch wahrheitsgemässe Wiedergabe von Beobachtungen und Erkenntnissen."
+    },
+    {
+      "term": "Überprüfbarkeit",
+      "definition": "Fähigkeit, wissenschaftliche Aussagen durch Dritte zu verifizieren."
+    },
+    {
+      "term": "Reliabilität",
+      "definition": "Zuverlässigkeit und Stabilität von Messergebnissen."
+    },
+    {
+      "term": "Relevanz",
+      "definition": "Bedeutung eines Themas für Wissenschaft und/oder Praxis."
+    },
+    {
+      "term": "Objektivität",
+      "definition": "Unabhängigkeit der Ergebnisse von persönlichen Vorlieben und Gemütsregungen."
+    },
+    {
+      "term": "Validität",
+      "definition": "Genauigkeit, mit der ein Verfahren das misst, was es zu messen vorgibt."
+    },
+    {
+      "term": "Plagiat",
+      "definition": "Unlauteres Verhalten durch die Übernahme fremden Gedankenguts ohne Quellenangabe."
+    },
+    {
+      "term": "Empirismus",
+      "definition": "Erkenntnisgewinn durch sinnliche Wahrnehmung und Beobachtung."
+    },
+    {
+      "term": "Kritischer Rationalismus",
+      "definition": "Theorien gelten nur bis zur Falsifikation als gültig."
+    },
+    {
+      "term": "Induktion",
+      "definition": "Schluss vom Besonderen auf das Allgemeine."
+    },
+    {
+      "term": "Deduktion",
+      "definition": "Schluss vom Allgemeinen auf das Besondere."
+    },
+    {
+      "term": "Abduktion",
+      "definition": "Ableitung von Hypothesen aus beobachteten Phänomenen."
+    },
+    {
+      "term": "Forschungsfrage",
+      "definition": "Zentrale Frage, die eine wissenschaftliche Arbeit leitet."
+    },
+    {
+      "term": "Konstruktivismus",
+      "definition": "Realität als individuelles Konstrukt auf Basis der eigenen Wahrnehmung."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Was ist Ehrlichkeit im wissenschaftlichen Arbeiten?",
+      "back": "Ehrlichkeit bedeutet, Beobachtungen und Erkenntnisse wahrheitsgemäss wiederzugeben.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Überprüfbarkeit wichtig?",
+      "back": "Überprüfbarkeit stellt sicher, dass wissenschaftliche Aussagen von Dritten verifiziert werden können.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was versteht man unter Reliabilität?",
+      "back": "Reliabilität bezeichnet die Zuverlässigkeit und Stabilität von Messergebnissen.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist ein Plagiat?",
+      "back": "Ein Plagiat ist die Übernahme fremden Gedankenguts ohne Quellenangabe.",
+      "tag": "pitfall"
+    },
+    {
+      "front": "Was ist der Empirismus?",
+      "back": "Empirismus ist die Erkenntnisgewinnung durch sinnliche Wahrnehmung und Beobachtung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was bedeutet Kritischer Rationalismus?",
+      "back": "Theorien gelten nur bis zur Falsifikation als gültig.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Induktion?",
+      "back": "Induktion ist der Schluss vom Besonderen auf das Allgemeine.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist Deduktion?",
+      "back": "Deduktion ist der Schluss vom Allgemeinen auf das Besondere.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist eine Forschungsfrage?",
+      "back": "Eine Forschungsfrage ist die zentrale Frage, die eine wissenschaftliche Arbeit leitet.",
+      "tag": "process"
+    },
+    {
+      "front": "Was ist Konstruktivismus?",
+      "back": "Konstruktivismus betrachtet die Realität als individuelles Konstrukt basierend auf der eigenen Wahrnehmung.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Validität?",
+      "back": "Validität gibt an, wie genau ein Verfahren das misst, was es zu messen vorgibt.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Objektivität?",
+      "back": "Objektivität bedeutet, dass Ergebnisse unabhängig von persönlichen Vorlieben sind.",
+      "tag": "concept"
+    },
+    {
+      "front": "Warum ist Relevanz wichtig?",
+      "back": "Relevanz bestimmt die Bedeutung eines Themas für Wissenschaft und/oder Praxis.",
+      "tag": "concept"
+    },
+    {
+      "front": "Was ist Abduktion?",
+      "back": "Abduktion ist die Ableitung von Hypothesen aus beobachteten Phänomenen.",
+      "tag": "process"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Welche der folgenden ist ein Qualitätskriterium des wissenschaftlichen Arbeitens?",
+      "options": [
+        "Ehrlichkeit",
+        "Kreativität",
+        "Subjektivität",
+        "Emotionalität"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Ehrlichkeit ist ein zentrales Qualitätskriterium des wissenschaftlichen Arbeitens.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist ein Plagiat?",
+      "options": [
+        "Eine neue Theorie",
+        "Eine fehlerhafte Studie",
+        "Die Übernahme fremden Gedankenguts ohne Quellenangabe",
+        "Ein wissenschaftlicher Artikel"
+      ],
+      "correct": [
+        2
+      ],
+      "explanation": "Ein Plagiat ist die Übernahme fremden Gedankenguts ohne Quellenangabe.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was beschreibt der Empirismus?",
+      "options": [
+        "Erkenntnisgewinn durch logische Deduktion",
+        "Erkenntnisgewinn durch sinnliche Wahrnehmung",
+        "Erkenntnisgewinn durch Abduktion",
+        "Erkenntnisgewinn durch Intuition"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Empirismus beschreibt den Erkenntnisgewinn durch sinnliche Wahrnehmung.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche Methode schliesst vom Besonderen auf das Allgemeine?",
+      "options": [
+        "Deduktion",
+        "Induktion",
+        "Abduktion",
+        "Konstruktion"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Induktion schliesst vom Besonderen auf das Allgemeine.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was ist eine Forschungsfrage?",
+      "options": [
+        "Eine Hypothese",
+        "Eine zentrale Frage einer wissenschaftlichen Arbeit",
+        "Ein wissenschaftliches Experiment",
+        "Eine Theorie"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Eine Forschungsfrage ist die zentrale Frage, die eine wissenschaftliche Arbeit leitet.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Welche Aussage trifft auf den Kritischen Rationalismus zu?",
+      "options": [
+        "Wissen ist endgültig",
+        "Theorien sind bis zur Falsifikation gültig",
+        "Wahrheit ist subjektiv",
+        "Erkenntnis basiert auf Intuition"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Im Kritischen Rationalismus sind Theorien nur bis zur Falsifikation gültig.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet Validität in der Wissenschaft?",
+      "options": [
+        "Die Zuverlässigkeit von Ergebnissen",
+        "Die Genauigkeit eines Messverfahrens",
+        "Die Relevanz eines Themas",
+        "Die Originalität einer Theorie"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Validität gibt an, wie genau ein Verfahren das misst, was es zu messen vorgibt.",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Welche der folgenden Aussagen beschreibt Objektivität?",
+      "options": [
+        "Ergebnisse sind unabhängig von persönlichen Vorlieben",
+        "Ergebnisse basieren auf Intuition",
+        "Ergebnisse sind subjektiv",
+        "Ergebnisse sind emotional"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Objektivität bedeutet, dass Ergebnisse unabhängig von persönlichen Vorlieben sind.",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was ist Abduktion?",
+      "options": [
+        "Eine Methode zur Hypothesenbildung",
+        "Ein Prozess der Datenanalyse",
+        "Eine Form der Deduktion",
+        "Eine Art der Induktion"
+      ],
+      "correct": [
+        0
+      ],
+      "explanation": "Abduktion ist die Ableitung von Hypothesen aus beobachteten Phänomenen.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Warum ist Überprüfbarkeit ein wichtiges Kriterium?",
+      "options": [
+        "Es erhöht die Kreativität",
+        "Es stellt sicher, dass Aussagen verifiziert werden können",
+        "Es fördert die Intuition",
+        "Es reduziert den Arbeitsaufwand"
+      ],
+      "correct": [
+        1
+      ],
+      "explanation": "Überprüfbarkeit stellt sicher, dass wissenschaftliche Aussagen von Dritten verifiziert werden können.",
+      "difficulty": "leicht"
+    }
+  ],
+  "id": "wischr-sw02",
+  "subjectId": "wischr"
+}

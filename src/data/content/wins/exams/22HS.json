@@ -1,0 +1,911 @@
+{
+  "id": "wins-22HS",
+  "subjectId": "wins",
+  "year": "22HS",
+  "label": "MEP 22HS",
+  "minutes": 60,
+  "maxPoints": 60.0,
+  "scoring": "exact",
+  "questions": [
+    {
+      "number": 1,
+      "type": "single",
+      "prompt": "Die Elemente des Golden Circles können über drei Fragen beschrieben werden. Welche der folgenden Fragen ist NICHT im Golden Circle enthalten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "What"
+        },
+        {
+          "label": "B",
+          "text": "Who"
+        },
+        {
+          "label": "C",
+          "text": "Why"
+        },
+        {
+          "label": "D",
+          "text": "How"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Der Golden Circle besteht aus den Fragen 'Why', 'How' und 'What'. 'Who' ist nicht Teil des Modells.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 2,
+      "type": "single",
+      "prompt": "Folgende Aussage zum Thema \"Scheitern im Hörsaal\" ist NICHT korrekt",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quizzes wirken fehlendem oder fehlerhaftem Vorwissen entgegen."
+        },
+        {
+          "label": "B",
+          "text": "Case Studies unterstützen die Vor- und Nachbereitung."
+        },
+        {
+          "label": "C",
+          "text": "Die gleichbleibende Sitzordnung im Hörsaal ist förderlich."
+        },
+        {
+          "label": "D",
+          "text": "Um der kognitiven Belastung entgegenzuwirken ist eine 2min Pause alle 20min förderlich."
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Eine gleichbleibende Sitzordnung im Hörsaal ist nicht förderlich, da sie die Interaktion und Flexibilität einschränken kann.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 3,
+      "type": "single",
+      "prompt": "Welches sind die drei Komponenten des \"ABC der Motivation\" und des Lernklimas, welche auch die drei psychologischen Grundbedürfnisse genannt werden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autonomie - Zugehörigkeit - Kompetenz"
+        },
+        {
+          "label": "B",
+          "text": "Autonomie - Befähigung - Kooperation"
+        },
+        {
+          "label": "C",
+          "text": "Autonomie - Bewältigung - Kompetenz"
+        },
+        {
+          "label": "D",
+          "text": "Autonomie - Zugehörigkeit - Kollaboration"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.0,
+      "explanation": "Die drei psychologischen Grundbedürfnisse sind Autonomie, Zugehörigkeit und Kompetenz.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 4,
+      "type": "single",
+      "prompt": "Als was versteht sich die WOL-Methode im Rahmen des Studiums an der ZHAW bzw. auch im unternehmerischen Kontext?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Top Down Approach"
+        },
+        {
+          "label": "B",
+          "text": "Grasswurzelbewegung"
+        },
+        {
+          "label": "C",
+          "text": "Diversity Initiative"
+        },
+        {
+          "label": "D",
+          "text": "Middle Side Prinzip"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Die WOL-Methode (Working Out Loud) wird als Grasswurzelbewegung verstanden, die auf Eigeninitiative und Vernetzung setzt.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 5,
+      "type": "single",
+      "prompt": "Zu einem Anwendungssystem gehört NICHT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Daten"
+        },
+        {
+          "label": "B",
+          "text": "IT-Infrastruktur"
+        },
+        {
+          "label": "C",
+          "text": "Management"
+        },
+        {
+          "label": "D",
+          "text": "Betriebliche Aufgaben"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Management gehört nicht direkt zu einem Anwendungssystem, sondern ist eher eine übergeordnete Funktion.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 6,
+      "type": "single",
+      "prompt": "Zum Methodenspektrum der WI gehört welche Methode NICHT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grounded Theory"
+        },
+        {
+          "label": "B",
+          "text": "Action Research"
+        },
+        {
+          "label": "C",
+          "text": "Wishful Thinking"
+        },
+        {
+          "label": "D",
+          "text": "Prototyping"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "'Wishful Thinking' ist keine wissenschaftliche Methode der Wirtschaftsinformatik.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 7,
+      "type": "single",
+      "prompt": "Im Cloud Computing gibt es verschiedene Service Modelle. Welche der nachfolgenden Abkürzungen beschreibt eines der im Unterricht besprochenen Modelle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TaaS"
+        },
+        {
+          "label": "B",
+          "text": "LaaS"
+        },
+        {
+          "label": "C",
+          "text": "IaaS"
+        },
+        {
+          "label": "D",
+          "text": "GaaS"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "IaaS (Infrastructure as a Service) ist ein bekanntes Cloud-Service-Modell.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 8,
+      "type": "single",
+      "prompt": "Welchen der nachfolgenden Bereiche muss der Anbieter im PaaS-Modell managen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Storage"
+        },
+        {
+          "label": "B",
+          "text": "Security"
+        },
+        {
+          "label": "C",
+          "text": "Operating Systems"
+        },
+        {
+          "label": "D",
+          "text": "Applications"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Im PaaS-Modell managt der Anbieter die Betriebssysteme, während der Kunde die Anwendungen verwaltet.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 9,
+      "type": "single",
+      "prompt": "Diverse Vorteile sprechen aus Unternehmenssicht für eine effiziente Selbstführung - welche gehört NICHT dazu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persönliche Leistungsfähigkeit"
+        },
+        {
+          "label": "B",
+          "text": "Stärkere Verantwortungsdelegation"
+        },
+        {
+          "label": "C",
+          "text": "Weitreichende Machtzuteilung an Mitarbeiter:innen"
+        },
+        {
+          "label": "D",
+          "text": "Dysfunktionale Denkmuster"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "Dysfunktionale Denkmuster sind kein Vorteil effizienter Selbstführung, sondern eher ein Hindernis.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 10,
+      "type": "single",
+      "prompt": "Welche Haltungen gehören typischerweise zu Beispielen eines Growth Mindsets? 1) Sieht eher das Risiko und meidet Herausforderungen. 2) Begrüsst Herausforderungen, sieht sie als Chance. 3) Greift Erfolgskonzepte anderer aktiv auf. 4) Ist rasch mit dem Erreichten zufrieden.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1, 3, 4"
+        },
+        {
+          "label": "B",
+          "text": "2, 4"
+        },
+        {
+          "label": "C",
+          "text": "2, 3"
+        },
+        {
+          "label": "D",
+          "text": "1, 2"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Ein Growth Mindset begrüsst Herausforderungen und greift Erfolgskonzepte anderer aktiv auf.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 11,
+      "type": "single",
+      "prompt": "Worauf fokussiert nach Schulz von Thun bei einer Nachricht die Ebene \"Selbstkundgabe\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Worüber ich informiere"
+        },
+        {
+          "label": "B",
+          "text": "Was ich von mir preisgebe"
+        },
+        {
+          "label": "C",
+          "text": "Wozu ich jemanden veranlassen möchte"
+        },
+        {
+          "label": "D",
+          "text": "Wie wir zueinanderstehen"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Die Selbstkundgabeebene fokussiert darauf, was der Sender von sich preisgibt.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 12,
+      "type": "single",
+      "prompt": "Welche der vier Ebenen einer Nachricht nach Schulz von Thun hat das grösste Potential, dass ein Missverständnis entsteht zwischen Sendenden und Empfangenden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sachebene"
+        },
+        {
+          "label": "B",
+          "text": "Appellebene"
+        },
+        {
+          "label": "C",
+          "text": "Selbstkundgabeebene"
+        },
+        {
+          "label": "D",
+          "text": "Beziehungsebene"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "Die Beziehungsebene hat das grösste Potential für Missverständnisse, da sie stark von subjektiven Interpretationen abhängt.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 13,
+      "type": "single",
+      "prompt": "Wie wichtig sind mit abnehmender Relevanz (von links nach rechts) die einzelnen Bereiche, um Glaubwürdigkeit in der Kommunikation zu schaffen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stimme - Inhalt - Körpersprache"
+        },
+        {
+          "label": "B",
+          "text": "Körpersprache - Stimme - Inhalt"
+        },
+        {
+          "label": "C",
+          "text": "Inhalt - Körpersprache - Stimme"
+        },
+        {
+          "label": "D",
+          "text": "Körpersprache - Inhalt - Stimme"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Körpersprache, Stimme und dann Inhalt sind entscheidend für die Glaubwürdigkeit in der Kommunikation.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 14,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Verhaltenskategorien der Kommunikation ist am schwierigsten zum Steuern durch den Sendenden?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sprachliches Verhalten"
+        },
+        {
+          "label": "B",
+          "text": "Körpersprachliches Verhalten"
+        },
+        {
+          "label": "C",
+          "text": "Sprecherisches Verhalten"
+        },
+        {
+          "label": "D",
+          "text": "Alle drei sind gleich kompliziert zum Steuern"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Körpersprachliches Verhalten ist am schwierigsten zu steuern, da es oft unbewusst abläuft.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 15,
+      "type": "single",
+      "prompt": "Welche Argumenttypen der Kommunikation gehören zur Strategie \"Moralität\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autorität - Normen - Tradition"
+        },
+        {
+          "label": "B",
+          "text": "Definition - Freak Case - Normen"
+        },
+        {
+          "label": "C",
+          "text": "Autorität - Definition - Ad hominem"
+        },
+        {
+          "label": "D",
+          "text": "Schiefe Ebene - Tradition - Verkettung"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.0,
+      "explanation": "Argumente der Strategie 'Moralität' umfassen Autorität, Normen und Tradition.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 16,
+      "type": "single",
+      "prompt": "Welche Hauptgefahr besteht bei der Nutzung von \"Ad hominem\"-Argumenten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unterstellung an das Gegenüber"
+        },
+        {
+          "label": "B",
+          "text": "Starke Fokussierung auf rationale Aspekte"
+        },
+        {
+          "label": "C",
+          "text": "Einseitige Argumentation mit Tradition"
+        },
+        {
+          "label": "D",
+          "text": "Ausschliessliche Argumentation mit Ergebnissen von Studien"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.0,
+      "explanation": "'Ad hominem'-Argumente greifen die Person an und unterstellen dem Gegenüber etwas, was die Diskussion unsachlich macht.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 17,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Begriffe gehört NICHT zum Akronym SMART?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terminiert"
+        },
+        {
+          "label": "B",
+          "text": "Schnell"
+        },
+        {
+          "label": "C",
+          "text": "Messbar"
+        },
+        {
+          "label": "D",
+          "text": "Realistisch"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "'Schnell' gehört nicht zum SMART-Akronym, das für spezifisch, messbar, erreichbar, relevant und terminiert steht.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 18,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aussagen stimmt im Rahmen der ABC-Analyse NICHT?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C-Aufgaben zuerst ausführen"
+        },
+        {
+          "label": "B",
+          "text": "B-Aufgaben als zweites Ausführen"
+        },
+        {
+          "label": "C",
+          "text": "A-Aufgaben sind wichtig und dringend"
+        },
+        {
+          "label": "D",
+          "text": "Die ABC Analyse hilft Prioritäten zu setzen"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.0,
+      "explanation": "C-Aufgaben sollten nicht zuerst ausgeführt werden, da sie weniger wichtig sind.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 19,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Aussagen ist in Bezug auf das Pareto-Prinzip nach Mackenzie korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80% der aufgewendeten Zeit bringen 80% Ertrag."
+        },
+        {
+          "label": "B",
+          "text": "20% der aufgewendeten Zeit bringen 80% Ertrag."
+        },
+        {
+          "label": "C",
+          "text": "20% der aufgewendeten Zeit bringen 20% Ertrag."
+        },
+        {
+          "label": "D",
+          "text": "80% der aufgewendeten Zeit bringen 100% Ertrag."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Das Pareto-Prinzip besagt, dass 20% der aufgewendeten Zeit 80% des Ertrags bringen.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 20,
+      "type": "single",
+      "prompt": "Welches sind die vier Grunddimensionen des Kompetenzatlas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Personale Kompetenz - Aktivitäts- und Handlungskompetenz - Sozial-Kommunikative Kompetenz - Fach- und Methodenkompetenz"
+        },
+        {
+          "label": "B",
+          "text": "Wertorientierungskompetenz - Aktivitäts- und Handlungskompetenz - Analysekompetenz - Fach- und Methodenkompetenz"
+        },
+        {
+          "label": "C",
+          "text": "Expertise - Aktivitäts- und Handlungskompetenz - Sozial-Kommunikative Kompetenz - Personale Kompetenz"
+        },
+        {
+          "label": "D",
+          "text": "Kommunikationskompetenz - Aktivitäts- und Handlungskompetenz - Entscheidungskompetenz - Fach- und Methodenkompetenz"
+        }
+      ],
+      "correct": [
+        "A"
+      ],
+      "points": 2.0,
+      "explanation": "Die vier Grunddimensionen des Kompetenzatlas sind Personale Kompetenz, Aktivitäts- und Handlungskompetenz, Sozial-Kommunikative Kompetenz und Fach- und Methodenkompetenz.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 21,
+      "type": "single",
+      "prompt": "Welches sind drei typische Teilkompetenzen der Sozialkompetenz?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Teamfähigkeit - Projektmanagement - Sachlichkeit"
+        },
+        {
+          "label": "B",
+          "text": "Problemlösungsfähigkeit - Teamfähigkeit - Gewissenhaftigkeit"
+        },
+        {
+          "label": "C",
+          "text": "Fachwissen - Sprachkenntnisse - Loyalität"
+        },
+        {
+          "label": "D",
+          "text": "Entscheidungsstärke - Selbstoptimierung - Belastbarkeit"
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Problemlösungsfähigkeit, Teamfähigkeit und Gewissenhaftigkeit sind typische Teilkompetenzen der Sozialkompetenz.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 22,
+      "type": "single",
+      "prompt": "Welcher Tätigkeitsbereich gehört NICHT zu den typischen Aufgaben der Applikationsentwicklung?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lösen von Software-Fehlern"
+        },
+        {
+          "label": "B",
+          "text": "Analysieren von Change-Requests"
+        },
+        {
+          "label": "C",
+          "text": "Einrichten von Entwicklungs- und Testumgebungen"
+        },
+        {
+          "label": "D",
+          "text": "Sicherstellen der Überwachung des laufenden Applikationsbetriebs"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "Das Sicherstellen der Überwachung des laufenden Applikationsbetriebs gehört nicht typischerweise zur Applikationsentwicklung.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 23,
+      "type": "single",
+      "prompt": "Die Ziele eines Projekts können über das magische Dreieck beschrieben werden. Welches der nachfolgenden Ziele ist NICHT im magischen Dreieck enthalten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zeit"
+        },
+        {
+          "label": "B",
+          "text": "Leistungsumfang"
+        },
+        {
+          "label": "C",
+          "text": "Kapazität"
+        },
+        {
+          "label": "D",
+          "text": "Kosten"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Kapazität ist nicht Teil des magischen Dreiecks, das aus Zeit, Kosten und Leistungsumfang besteht.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 24,
+      "type": "single",
+      "prompt": "Welche der nachfolgenden Eigenschaften ist für das Projektmanagement nach der Wasserfallmethode NICHT typisch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Projektstruktur ist stark vorgegeben"
+        },
+        {
+          "label": "B",
+          "text": "Projekt ist stark von Phasen abhängig"
+        },
+        {
+          "label": "C",
+          "text": "Projekt ist auf Dokumentation ausgerichtet"
+        },
+        {
+          "label": "D",
+          "text": "Projekt durchläuft Phasen mehrfach"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "In der Wasserfallmethode durchläuft ein Projekt die Phasen nicht mehrfach, sondern sequentiell.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 25,
+      "type": "single",
+      "prompt": "Zur systematischen Erstellung eines Business Cases haben Sie in der GK einen Prozess kennengelernt. Welche der nachfolgenden Aussagen trifft NICHT auf diesen Prozess zu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Im Rahmen der Initialisierung werden die Stakeholder identifiziert."
+        },
+        {
+          "label": "B",
+          "text": "Der NPV wird während der Konzeptionsphase erhoben."
+        },
+        {
+          "label": "C",
+          "text": "Die Investitionsrechnung hilft bei der Evaluation des Cases."
+        },
+        {
+          "label": "D",
+          "text": "Die Lösungskonzeption ist für die Kostenschätzung nötig."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Der NPV (Net Present Value) wird in der Evaluationsphase und nicht während der Konzeptionsphase erhoben.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 26,
+      "type": "single",
+      "prompt": "Mithilfe des ICAP Modells diskutierten wir in der Grossklasse das Lernen. Welche Erkenntnis daraus ist NICHT erkennbar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Es gibt eine Diskrepanz zwischen gefühltem und eigentlichem Lernen."
+        },
+        {
+          "label": "B",
+          "text": "Aufmerksames Zuhören ist eine Variante des passiven Lernengagements."
+        },
+        {
+          "label": "C",
+          "text": "Aktives Lernen ist anstrengender als inaktiver Lernkonsum."
+        },
+        {
+          "label": "D",
+          "text": "Konsumhaltung fördert die Achtsamkeit im Lernprozess."
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "Konsumhaltung fördert nicht die Achtsamkeit im Lernprozess, sondern eher das Gegenteil.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 27,
+      "type": "single",
+      "prompt": "Welche Ergebnisse konnten Sie in der Grossklasse aufgrund der Monotasking-Übung NICHT beobachten?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unterbrechungen kosten Energie"
+        },
+        {
+          "label": "B",
+          "text": "Konzentration ist beeinträchtigt"
+        },
+        {
+          "label": "C",
+          "text": "Multitasking fördert die Arbeitsergebnisse"
+        },
+        {
+          "label": "D",
+          "text": "Monotasking spart Zeit"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Multitasking fördert nicht die Arbeitsergebnisse, sondern beeinträchtigt sie oft.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 28,
+      "type": "single",
+      "prompt": "Welche Aussage zu \"unconcious bias\" ist NICHT korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Findet täglich und automatisch statt"
+        },
+        {
+          "label": "B",
+          "text": "Niemand ist dagegen immun"
+        },
+        {
+          "label": "C",
+          "text": "Personen werden in Kategorien eingeordnet"
+        },
+        {
+          "label": "D",
+          "text": "Trainings dazu wirken nicht zur Bewusstmachung eigener unbewusster Vorurteile"
+        }
+      ],
+      "correct": [
+        "D"
+      ],
+      "points": 2.0,
+      "explanation": "Trainings können sehr wohl zur Bewusstmachung eigener unbewusster Vorurteile beitragen.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 29,
+      "type": "single",
+      "prompt": "Nicht nur in IT-Berufen ist nach wie vor ein verschwindend geringer Anteil der Führungskräfte weiblich. Welche Aussage ist dazu korrekt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diese horizontale Segregation ist Teil des Diversity-Auftrages im Unternehmen"
+        },
+        {
+          "label": "B",
+          "text": "Das Phänomen wird als hierarchische Segregation oder auch als \"Glass-Ceiling-Effekt\" bezeichnet."
+        },
+        {
+          "label": "C",
+          "text": "Frauen schaffen den Aufstieg über eine gewisse Barriere leichter aufgrund der Schulbildung."
+        },
+        {
+          "label": "D",
+          "text": "Männer und Frauen führen auf derselben hierarchischen Ebene gleiche Aufgaben durch."
+        }
+      ],
+      "correct": [
+        "B"
+      ],
+      "points": 2.0,
+      "explanation": "Das Phänomen der geringen Anzahl weiblicher Führungskräfte wird als 'Glass-Ceiling-Effekt' bezeichnet.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    },
+    {
+      "number": 30,
+      "type": "single",
+      "prompt": "Was ist KEIN Hauptgrund für die Verwendung von Buzzwords?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ausstrahlung von Kompetenz"
+        },
+        {
+          "label": "B",
+          "text": "Überspielung von Unsicherheit"
+        },
+        {
+          "label": "C",
+          "text": "Abkürzung von Gesprächen und Erklärungen"
+        },
+        {
+          "label": "D",
+          "text": "Klangvoller Name"
+        }
+      ],
+      "correct": [
+        "C"
+      ],
+      "points": 2.0,
+      "explanation": "Buzzwords werden nicht primär zur Abkürzung von Gesprächen und Erklärungen verwendet.",
+      "source": "Altprüfung 22HS",
+      "aiGenerated": true
+    }
+  ]
+}
