@@ -50,7 +50,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
             answerOverrides: (remoteState.answerOverrides ?? {}) as never,
           });
         } else {
-          await pushProgress(u.uid);
+          await pushProgress(u.uid).catch(() => {});
         }
       }
     });
@@ -70,7 +70,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       if (!u || pushing.current) return;
       pushing.current = true;
       try {
-        await pushProgress(u.uid);
+        await pushProgress(u.uid).catch(() => {});
       } finally {
         pushing.current = false;
       }
