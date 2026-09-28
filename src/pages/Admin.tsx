@@ -5,7 +5,7 @@ import { PageHeader, SectionTitle } from "../components/ui";
 import { SUBJECTS, getSubjectContent } from "../data";
 import type { SubjectId } from "../data/types";
 import { useAuth } from "../lib/auth";
-import { firebaseConfigured, uploadSlide, listSlides, deleteSlide, type SlideMeta } from "../lib/firebase";
+import { firebaseConfigured, uploadSlide, listSlides, deleteSlide, loadFileUrl, type SlideMeta } from "../lib/firebase";
 import { cn } from "../lib/utils";
 
 const WEEKS = Array.from({ length: 14 }, (_, i) => `SW ${String(i + 1).padStart(2, "0")}`);
@@ -131,7 +131,7 @@ export default function Admin() {
                 <div key={s.id} className="flex items-center gap-3 rounded-xl border border-amber-100/10 bg-white/5 p-2.5">
                   <FileText className="h-4 w-4 text-zhaw-light" />
                   <div className="min-w-0 flex-1"><div className="truncate text-xs text-white">{s.title}</div><div className="text-[10px] text-slate-500">{s.week}</div></div>
-                  <a href={s.url} target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white"><ExternalLink className="h-3.5 w-3.5" /></a>
+                  <button onClick={async () => { const url = await loadFileUrl(s); window.open(url, "_blank"); }} className="text-slate-400 hover:text-white"><ExternalLink className="h-3.5 w-3.5" /></button>
                   <button onClick={async () => { await deleteSlide(s); refresh(); }} className="text-slate-500 hover:text-rose-300"><Trash2 className="h-3.5 w-3.5" /></button>
                 </div>
               ))}

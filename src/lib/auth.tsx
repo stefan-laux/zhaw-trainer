@@ -8,7 +8,6 @@ import {
   watchAuth,
   logout as fbLogout,
   loginGoogle,
-  loginMicrosoft,
   loginEmail,
   registerEmail,
 } from "./firebase";
@@ -20,7 +19,6 @@ interface AuthValue {
   isAdmin: boolean;
   configured: boolean;
   loginGoogle: typeof loginGoogle;
-  loginMicrosoft: typeof loginMicrosoft;
   loginEmail: typeof loginEmail;
   registerEmail: typeof registerEmail;
   logout: () => Promise<void>;
@@ -85,8 +83,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       isAdmin: isAdmin(user),
       configured: firebaseConfigured,
       loginGoogle,
-      loginMicrosoft,
-      loginEmail,
+          loginEmail,
       registerEmail,
       logout: fbLogout,
     }),

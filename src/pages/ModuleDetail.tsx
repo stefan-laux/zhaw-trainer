@@ -25,7 +25,7 @@ import AiModal from "../components/AiModal";
 import { PageHeader, ProgressBar } from "../components/ui";
 import { cn } from "../lib/utils";
 import { explainPrompt } from "../lib/ai";
-import { firebaseConfigured, listSlides, type SlideMeta } from "../lib/firebase";
+import { firebaseConfigured, listSlides, loadFileUrl, type SlideMeta } from "../lib/firebase";
 
 const TABS = [
   { id: "ueberblick", label: "Überblick", icon: BookOpen },
@@ -249,14 +249,14 @@ function SlidesTab({ subjectId, week }: { subjectId: string; week: string }) {
       ) : slides.length ? (
         <div className="grid gap-3 sm:grid-cols-2">
           {slides.map((s) => (
-            <a key={s.id} href={s.url} target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-xl border border-amber-100/10 bg-white/5 p-4 transition hover:border-zhaw-light/40 hover:bg-white/10">
+            <button key={s.id} onClick={async () => { const url = await loadFileUrl(s); window.open(url, "_blank"); }} className="flex items-center gap-3 rounded-xl border border-amber-100/10 bg-white/5 p-4 text-left transition hover:border-zhaw-light/40 hover:bg-white/10">
               <FileText className="h-5 w-5 text-zhaw-light" />
               <div className="min-w-0 flex-1">
                 <div className="truncate text-sm text-white">{s.title}</div>
                 <div className="text-[11px] text-slate-500">{s.week}</div>
               </div>
               <ExternalLink className="h-4 w-4 text-slate-500" />
-            </a>
+            </button>
           ))}
         </div>
       ) : (

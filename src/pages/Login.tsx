@@ -1,11 +1,10 @@
 import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import { LogIn, Mail, Lock, Chrome, AlertTriangle, ArrowLeft, GraduationCap } from "lucide-react";
-import { PageHeader } from "../components/ui";
+import { Mail, Lock, Chrome, AlertTriangle, ArrowLeft, GraduationCap } from "lucide-react";
 import { useAuth } from "../lib/auth";
 
 export default function Login({ standalone = false }: { standalone?: boolean }) {
-  const { configured, loginGoogle, loginMicrosoft, loginEmail, registerEmail } = useAuth();
+  const { configured, loginGoogle, loginEmail, registerEmail } = useAuth();
   const navigate = useNavigate();
   const [mode, setMode] = useState<"login" | "register">("login");
   const [email, setEmail] = useState("");
@@ -41,8 +40,6 @@ export default function Login({ standalone = false }: { standalone?: boolean }) 
           <div className="text-xs text-slate-400">Melde dich an, um zu starten</div>
         </div>
       )}
-      <PageHeader title={mode === "login" ? "Anmelden" : "Registrieren"} subtitle="Fortschritt geräteübergreifend speichern." icon={<LogIn className="h-6 w-6" />} />
-
       {!configured ? (
         <div className="rounded-2xl glass p-6 text-sm text-slate-300">
           <div className="mb-2 flex items-center gap-2 font-semibold text-amber-300"><AlertTriangle className="h-4 w-4" /> Firebase nicht konfiguriert</div>
@@ -54,15 +51,12 @@ VITE_FIREBASE_STORAGE_BUCKET=xxx.appspot.com
 VITE_FIREBASE_MESSAGING_SENDER_ID=...
 VITE_FIREBASE_APP_ID=...
 VITE_ADMIN_EMAILS=deine@mail.ch`}</pre>
-          <p className="mt-3 text-xs text-slate-500">Danach App neu starten und in Firebase Authentication (Google & E-Mail/Passwort) sowie Storage aktivieren.</p>
+          <p className="mt-3 text-xs text-slate-500">Danach App neu starten und in Firebase Authentication Google sowie E-Mail/Passwort aktivieren.</p>
         </div>
       ) : (
         <div className="rounded-2xl glass p-6">
           <button onClick={() => loginGoogle().then(() => navigate("/")).catch((e) => setError(String(e)))} className="btn-ghost w-full">
             <Chrome className="h-4 w-4" /> Mit Google anmelden
-          </button>
-          <button onClick={() => loginMicrosoft().then(() => navigate("/")).catch((e) => setError(String(e)))} className="btn-ghost mt-2 w-full">
-            <GraduationCap className="h-4 w-4" /> Mit ZHAW-/Microsoft-Konto
           </button>
           <div className="my-4 flex items-center gap-3 text-xs text-slate-500"><div className="h-px flex-1 bg-white/10" /> oder <div className="h-px flex-1 bg-white/10" /></div>
           <label className="mb-3 flex items-center gap-2 rounded-xl border border-amber-100/10 bg-white/5 px-3 focus-within:border-zhaw-light/50">

@@ -26,16 +26,15 @@ Der OpenRouter-Key wird nie im Browser gespeichert:
 - Entwicklung: Vite-Proxy (`vite.config.ts`) liest `OPENROUTER_API_KEY` aus `.env.local`.
 - Produktion: Serverless-Funktion `api/ai/chat.ts`.
 
-## Firebase einrichten (optional, für Login, Sync und Folien-Upload)
+## Firebase einrichten (optional, für Login und Sync)
 
 1. Projekt auf https://console.firebase.google.com erstellen.
 2. **Authentication** aktivieren: Anbieter *Google* und *E-Mail/Passwort*.
 3. **Firestore Database** erstellen (Produktionsmodus).
-4. **Storage** aktivieren.
-5. Web-App registrieren und die Config-Werte in `.env.local` (lokal) bzw. Vercel-Env eintragen.
-6. `VITE_ADMIN_EMAILS` mit deiner E-Mail füllen.
+4. Web-App registrieren und die Config-Werte in `.env.local` (lokal) bzw. Vercel-Env eintragen.
+5. `VITE_ADMIN_EMAILS` mit deiner E-Mail füllen.
 
-Ohne Firebase läuft die App vollständig lokal (Fortschritt im Browser-localStorage).
+Kein **Cloud Storage** nötig: Hochgeladene Folien werden in Firestore gespeichert (in ~700 KB-Chunks als Base64) und beim Öffnen wieder zusammengesetzt. Damit läuft alles auf dem kostenlosen Spark-Plan. Ohne Firebase läuft die App vollständig lokal.
 
 ### Firestore-Regeln (Start, anpassen)
 
@@ -45,11 +44,12 @@ service cloud.firestore {
   match /databases/{db}/documents {
     match /users/{uid} { allow read, write: if request.auth != null && request.auth.uid == uid; }
     match /slides/{id} { allow read: if true; allow write: if request.auth != null; }
+    match /content/{subject}/{kind}/{id} { allow read: if true; allow write: if request.auth != null; }
   }
 }
 ```
 
-Storage-Regeln: `slides/**` lesbar für alle, schreibbar nur für angemeldete Nutzer.
+Hinweis: Dateien werden in der `slides`-Collection als Chunk-Dokumente (`<id>__c0`, `<id>__c1`, ...) abgelegt, damit keine eigene Regel nötig ist. Firestore-Dokumente sind auf 1 MiB begrenzt, deshalb die Chunks.
 
 ## Deploy auf Vercel
 
