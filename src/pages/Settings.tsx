@@ -7,13 +7,15 @@ import { useAuth } from "../lib/auth";
 import { SUBJECTS } from "../data";
 
 const MODELS = [
-  { id: "qwen/qwen3.8-27b", label: "Qwen3.8 27B" },
-  { id: "deepseek/deepseek-v4.1-flash", label: "DeepSeek V4.1 Flash" },
-  { id: "openai/gpt-4o-mini", label: "GPT-4o mini (schnell, günstig)" },
-  { id: "openai/gpt-4o", label: "GPT-4o (stark)" },
-  { id: "anthropic/claude-sonnet-5", label: "Claude Sonnet 5" },
-  { id: "google/gemini-3.8-flash", label: "Gemini 3.8 Flash" },
-  { id: "deepseek/deepseek-chat", label: "DeepSeek Chat (V3)" },
+  { id: "deepseek/deepseek-v4.1-flash", label: "DeepSeek V4.1 Flash (Standard, sehr günstig)" },
+  { id: "qwen/qwen3.8-27b:free", label: "Qwen3.8 27B (gratis)" },
+  { id: "openai/gpt-oss-20b", label: "GPT-OSS 20B (extrem günstig)" },
+  { id: "mistralai/mistral-small-24b-instruct-2501", label: "Mistral Small 24B (günstig)" },
+  { id: "qwen/qwen3.7-flash", label: "Qwen3.7 Flash (günstig)" },
+  { id: "deepseek/deepseek-v4-flash", label: "DeepSeek V4 Flash (günstig)" },
+  { id: "anthropic/claude-sonnet-5", label: "Claude Sonnet 5 (stark, teurer)" },
+  { id: "openai/gpt-4o-mini", label: "GPT-4o mini" },
+  { id: "google/gemini-3.1-flash-lite", label: "Gemini 3.1 Flash Lite" },
 ];
 
 export default function Settings() {

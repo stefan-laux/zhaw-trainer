@@ -31,7 +31,7 @@ export function hasApiKey(): boolean {
 }
 
 /** Calls OpenRouter directly from the browser using the user's own API key (stored locally). */
-export async function chat(messages: ChatMessage[], model = "openai/gpt-4o-mini"): Promise<string> {
+export async function chat(messages: ChatMessage[], model = "deepseek/deepseek-v4.1-flash"): Promise<string> {
   const key = getKey();
   if (!key) throw new MissingKeyError();
   const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {

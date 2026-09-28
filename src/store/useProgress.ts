@@ -70,7 +70,7 @@ export const useProgress = create<ProgressState>()(
       cards: {},
       questionStats: {},
       answerOverrides: {},
-      aiModel: "openai/gpt-4o-mini",
+      aiModel: "deepseek/deepseek-v4.1-flash",
       openrouterKey: "",
       setOpenrouterKey: (openrouterKey) => set({ openrouterKey }),
       setModel: (aiModel) => set({ aiModel }),
@@ -130,7 +130,18 @@ export const useProgress = create<ProgressState>()(
         set({ results: [], moduleViewed: {}, moduleCompleted: [], cards: {}, questionStats: {}, answerOverrides: {} }),
       resetCards: () => set({ cards: {} }),
     }),
-    { name: "wr-trainer-progress", version: 2 }
+    {
+      name: "wr-trainer-progress",
+      version: 3,
+      migrate: (persisted: unknown) => {
+        const state = (persisted ?? {}) as Record<string, unknown>;
+        const old = state.aiModel as string | undefined;
+        if (!old || old === "openai/gpt-4o-mini" || old === "openai/gpt-4o") {
+          state.aiModel = "deepseek/deepseek-v4.1-flash";
+        }
+        return state;
+      },
+    }
   )
 );
 
