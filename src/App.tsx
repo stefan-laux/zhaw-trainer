@@ -38,7 +38,7 @@ function Gate() {
         <Aurora />
         <div className="flex flex-col items-center gap-4">
           <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-zhaw to-zhaw-dark shadow-glow ring-1 ring-zhaw-light/40">
-            <Scale className="h-7 w-7 text-white" />
+            <Scale className="h-7 w-7 text-white keep-white" />
           </div>
           <div className="flex items-center gap-2 text-sm text-slate-400">
             <Loader2 className="h-4 w-4 animate-spin" /> Wird geladen...

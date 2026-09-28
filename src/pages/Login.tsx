@@ -34,7 +34,7 @@ export default function Login({ standalone = false }: { standalone?: boolean }) 
       {standalone && (
         <div className="mb-6 flex flex-col items-center text-center">
           <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-zhaw to-zhaw-dark shadow-glow ring-1 ring-zhaw-light/40">
-            <GraduationCap className="h-7 w-7 text-white" />
+            <GraduationCap className="h-7 w-7 text-white keep-white" />
           </div>
           <div className="font-display mt-3 text-xl font-semibold text-white">ZHAW Trainer</div>
           <div className="text-xs text-slate-400">Melde dich an, um zu starten</div>

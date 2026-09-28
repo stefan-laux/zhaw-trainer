@@ -206,11 +206,51 @@ html.light .border-amber-100\/20 {
 html.light .divide-white\/5 > :not([hidden]) ~ :not([hidden]) {
   border-color: var(--c-border) !important;
 }
-/* keep white text on solid coloured surfaces */
+/* keep white text/icons on solid coloured surfaces */
 html.light .bg-zhaw,
 html.light .btn-primary,
 html.light .bg-gradient-to-r.from-\[#1E3A5F\] {
   color: #ffffff !important;
+}
+html.light .text-white.keep-white,
+html.light .text-white.keep-white * {
+  color: #ffffff !important;
+}
+
+/* readable accent text on light tinted surfaces */
+html.light .text-amber-100,
+html.light .text-amber-100\/80,
+html.light .text-amber-200,
+html.light .text-amber-200\/70 {
+  color: #92400e !important;
+}
+html.light .text-amber-300 {
+  color: #b45309 !important;
+}
+html.light .text-rose-200,
+html.light .text-rose-300 {
+  color: #be123c !important;
+}
+html.light .text-emerald-200,
+html.light .text-emerald-300,
+html.light .text-emerald-400 {
+  color: #047857 !important;
+}
+html.light .text-teal-300 {
+  color: #0f766e !important;
+}
+html.light .text-sky-200,
+html.light .text-sky-300 {
+  color: #0369a1 !important;
+}
+html.light .text-violet-200 {
+  color: #6d28d9 !important;
+}
+html.light .text-orange-300 {
+  color: #c2410c !important;
+}
+html:focus-within {
+  scroll-behavior: smooth;
 }
 
 .aurora-bg {

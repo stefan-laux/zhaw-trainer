@@ -57,13 +57,13 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <aside className="fixed inset-y-0 left-0 z-30 hidden w-64 flex-col border-r border-amber-100/10 bg-black/30 px-4 py-6 backdrop-blur-xl lg:flex">
         <div className="mb-5 flex items-center gap-3 px-2">
           <div className="relative flex h-11 w-11 items-center justify-center rounded-xl bg-gradient-to-br from-zhaw to-zhaw-dark shadow-glow ring-1 ring-zhaw-light/40">
-            <Scale className="h-6 w-6 text-white" />
+            <Scale className="h-6 w-6 text-white keep-white" />
           </div>
           <div className="flex-1">
             <div className="font-display text-base font-semibold leading-tight text-white">ZHAW Trainer</div>
             <div className="text-[11px] text-slate-400">Semester 1 · WIN</div>
           </div>
-          <button onClick={toggle} title="Hell / Dunkel" className="rounded-lg border border-amber-100/10 bg-white/5 p-2 text-slate-300 transition hover:border-zhaw-light/40 hover:text-white">
+          <button onClick={toggle} title="Hell / Dunkel" className="rounded-lg border border-amber-100/10 bg-white/5 p-2 text-slate-300 transition hover:border-zhaw-light/40 hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-zhaw-light/60">
             {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
           </button>
         </div>
@@ -119,12 +119,12 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <header className="sticky top-0 z-20 flex items-center justify-between gap-3 border-b border-amber-100/10 bg-black/40 px-4 py-3 backdrop-blur-xl lg:hidden">
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-zhaw to-zhaw-dark ring-1 ring-zhaw-light/40">
-              <Scale className="h-4 w-4 text-white" />
+              <Scale className="h-4 w-4 text-white keep-white" />
             </div>
             <span className="font-display text-sm font-semibold text-white">ZHAW Trainer</span>
           </div>
           <div className="flex items-center gap-2">
-            <button onClick={toggle} title="Hell / Dunkel" className="rounded-lg border border-amber-100/10 bg-white/5 p-1.5 text-slate-300">
+            <button onClick={toggle} title="Hell / Dunkel" className="rounded-lg border border-amber-100/10 bg-white/5 p-1.5 text-slate-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-zhaw-light/60">
               {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
             </button>
             <span className="chip" style={{ borderColor: subject.accent + "66", color: subject.accent }}>{subject.short}</span>
