@@ -7,11 +7,13 @@ import { useAuth } from "../lib/auth";
 import { SUBJECTS } from "../data";
 
 const MODELS = [
+  { id: "qwen/qwen3.8-27b", label: "Qwen3.8 27B" },
+  { id: "deepseek/deepseek-v4.1-flash", label: "DeepSeek V4.1 Flash" },
   { id: "openai/gpt-4o-mini", label: "GPT-4o mini (schnell, günstig)" },
   { id: "openai/gpt-4o", label: "GPT-4o (stark)" },
-  { id: "anthropic/claude-3.5-sonnet", label: "Claude 3.5 Sonnet" },
-  { id: "google/gemini-2.0-flash-001", label: "Gemini 2.0 Flash (günstig)" },
-  { id: "deepseek/deepseek-chat", label: "DeepSeek Chat" },
+  { id: "anthropic/claude-sonnet-5", label: "Claude Sonnet 5" },
+  { id: "google/gemini-3.8-flash", label: "Gemini 3.8 Flash" },
+  { id: "deepseek/deepseek-chat", label: "DeepSeek Chat (V3)" },
 ];
 
 export default function Settings() {

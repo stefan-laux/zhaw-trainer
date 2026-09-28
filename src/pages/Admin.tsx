@@ -144,14 +144,17 @@ export default function Admin() {
         <SectionTitle>Wochen-Abdeckung (Module)</SectionTitle>
         <div className="flex flex-col gap-4">
           {SUBJECTS.map((s) => {
-            const mods = getSubjectContent(s.id).modules.map((m) => m.week);
+            const covered = new Set<number>();
+            for (const m of getSubjectContent(s.id).modules) {
+              for (const n of weekNumbers(m.week)) covered.add(n);
+            }
             return (
               <div key={s.id}>
-                <div className="mb-1.5 flex items-center gap-2 text-xs"><span className="h-2.5 w-2.5 rounded-full" style={{ background: s.accent }} /><span className="text-slate-300">{s.name}</span></div>
-                <div className="flex flex-wrap gap-1">
-                  {WEEKS.map((w) => {
-                    const has = mods.some((mw) => mw.replace(/\s+/g, "").toLowerCase().includes(w.replace(/\s+/g, "").toLowerCase()));
-                    return <span key={w} className={cn("rounded-md border px-1.5 py-0.5 text-[10px]", has ? "border-emerald-400/30 bg-emerald-400/10 text-emerald-300" : "border-amber-100/10 bg-white/5 text-slate-600")}>{w.replace("SW ", "")}</span>;
+                <div className="mb-1.5 flex items-center gap-2 text-xs"><span className="h-2.5 w-2.5 rounded-full" style={{ background: s.accent }} /><span className="text-slate-300">{s.name}</span><span className="text-slate-500">({covered.size}/14 Wochen)</span></div>
+                <div className="grid gap-1" style={{ gridTemplateColumns: "repeat(14, minmax(0, 1fr))" }}>
+                  {Array.from({ length: 14 }, (_, i) => i + 1).map((n) => {
+                    const has = covered.has(n);
+                    return <span key={n} className={cn("rounded-md border py-1 text-center text-[11px]", has ? "border-emerald-400/30 bg-emerald-400/10 text-emerald-300" : "border-amber-100/10 bg-white/5 text-slate-600")}>{String(n).padStart(2, "0")}</span>;
                   })}
                 </div>
               </div>
@@ -162,4 +165,15 @@ export default function Admin() {
       </div>
     </div>
   );
+}
+
+function weekNumbers(label: string): number[] {
+  const nums = (label.match(/\d+/g) ?? []).map(Number);
+  const isRange = label.includes("-") || label.includes("–") || /\bbis\b/i.test(label);
+  if (nums.length >= 2 && isRange) {
+    const out: number[] = [];
+    for (let n = nums[0]; n <= nums[1] && n - nums[0] < 30; n++) out.push(n);
+    return out;
+  }
+  return nums;
 }
