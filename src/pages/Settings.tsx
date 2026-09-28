@@ -124,7 +124,7 @@ export default function Settings() {
           KI-Schlüssel (OpenRouter)
         </SectionTitle>
         <p className="mb-3 text-sm text-slate-400">
-          Der KI-Tutor und die Erklärungen nutzen <strong className="text-slate-300">deinen eigenen</strong> OpenRouter-API-Key. Er wird nur lokal in diesem Browser gespeichert und nie an unsere Server gesendet.
+          Der KI-Tutor und die Erklärungen nutzen <strong className="text-slate-300">deinen eigenen</strong> OpenRouter-API-Key. Angemeldet wird er in <strong className="text-slate-300">deinem Konto</strong> (Firestore) gespeichert und so auf allen Geräten (Laptop, iPad) synchronisiert. Ohne Login bleibt er nur lokal in diesem Browser.
         </p>
         <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
           <label className="flex flex-1 items-center gap-2 rounded-xl border border-amber-100/10 bg-white/5 px-3 focus-within:border-zhaw-light/50">
