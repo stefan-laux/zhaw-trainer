@@ -168,6 +168,14 @@ export default function Settings() {
       </div>
 
       <div className="mt-4 rounded-2xl glass p-6">
+        <SectionTitle>Auf iPad/iPhone installieren</SectionTitle>
+        <p className="text-sm text-slate-400">
+          Öffne die Seite in <strong className="text-slate-300">Safari</strong>, tippe auf das <strong className="text-slate-300">Teilen-Symbol</strong> und wähle <strong className="text-slate-300">"Zum Home-Bildschirm"</strong>. Danach startet die App im Vollbild wie eine native App und die zuletzt geladenen Inhalte sind auch offline verfügbar.
+        </p>
+        <p className="mt-2 text-xs text-slate-500">Auf Windows/Android: im Browser-Menü "App installieren" bzw. "Zum Startbildschirm hinzufügen".</p>
+      </div>
+
+      <div className="mt-4 rounded-2xl glass p-6">
         <SectionTitle>Fächer</SectionTitle>
         <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
           {SUBJECTS.map((s) => (

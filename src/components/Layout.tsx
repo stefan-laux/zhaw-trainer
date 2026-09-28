@@ -54,7 +54,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     <div className="min-h-screen text-slate-200">
       <Aurora />
 
-      <aside className="fixed inset-y-0 left-0 z-30 hidden w-64 flex-col border-r border-amber-100/10 bg-black/30 px-4 py-6 backdrop-blur-xl lg:flex">
+      <aside className="safe-top fixed inset-y-0 left-0 z-30 hidden w-64 flex-col border-r border-amber-100/10 bg-black/30 px-4 pb-6 backdrop-blur-xl lg:flex">
         <div className="mb-5 flex items-center gap-3 px-2">
           <div className="relative flex h-11 w-11 items-center justify-center rounded-xl bg-gradient-to-br from-zhaw to-zhaw-dark shadow-glow ring-1 ring-zhaw-light/40">
             <Scale className="h-6 w-6 text-white keep-white" />
@@ -116,7 +116,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       </aside>
 
       <div className="lg:pl-64">
-        <header className="sticky top-0 z-20 flex items-center justify-between gap-3 border-b border-amber-100/10 bg-black/40 px-4 py-3 backdrop-blur-xl lg:hidden">
+        <header className="safe-top-sm sticky top-0 z-20 flex items-center justify-between gap-3 border-b border-amber-100/10 bg-black/40 px-4 pb-3 backdrop-blur-xl lg:hidden">
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-zhaw to-zhaw-dark ring-1 ring-zhaw-light/40">
               <Scale className="h-4 w-4 text-white keep-white" />
@@ -202,7 +202,7 @@ function MobileNav({ subject, isAdmin }: { subject: { hasTasks: boolean }; isAdm
   const location = useLocation();
   const items = NAV.slice(0, 6).filter((n) => !(n.to === "/aufgaben" && !subject.hasTasks));
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-30 flex items-center justify-around border-t border-amber-100/10 bg-black/70 px-2 py-2 backdrop-blur-xl lg:hidden">
+    <nav className="safe-bottom fixed inset-x-0 bottom-0 z-30 flex items-center justify-around border-t border-amber-100/10 bg-black/70 px-2 pt-2 backdrop-blur-xl lg:hidden">
       {items.map((item) => {
         const Icon = item.icon;
         const active = item.to === "/" ? location.pathname === "/" : location.pathname.startsWith(item.to);
