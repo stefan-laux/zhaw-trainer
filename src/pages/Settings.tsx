@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 import { Link } from "react-router-dom";
-import { Settings as SettingsIcon, User, Cpu, Download, Upload, Trash2, RefreshCw, ShieldAlert, LogIn, LogOut, Shield, Cloud, CloudOff } from "lucide-react";
+import { Settings as SettingsIcon, User, Cpu, Download, Upload, Trash2, RefreshCw, ShieldAlert, LogIn, LogOut, Shield, Cloud, CloudOff, KeyRound, Eye, EyeOff, ExternalLink, Check } from "lucide-react";
 import { PageHeader, SectionTitle } from "../components/ui";
 import { useProgress } from "../store/useProgress";
 import { useAuth } from "../lib/auth";
@@ -15,10 +15,12 @@ const MODELS = [
 ];
 
 export default function Settings() {
-  const { name, setName, aiModel, setModel, resetAll, resetCards, answerOverrides } = useProgress();
+  const { name, setName, aiModel, setModel, resetAll, resetCards, answerOverrides, openrouterKey, setOpenrouterKey } = useProgress();
   const { user, isAdmin, configured, logout } = useAuth();
   const fileRef = useRef<HTMLInputElement>(null);
   const [saved, setSaved] = useState("");
+  const [keyDraft, setKeyDraft] = useState("");
+  const [showKey, setShowKey] = useState(false);
 
   function exportData() {
     const data = localStorage.getItem("wr-trainer-progress") ?? localStorage.getItem("zhaw-trainer-progress") ?? "{}";
@@ -103,6 +105,52 @@ export default function Settings() {
             {MODELS.map((m) => <option key={m.id} value={m.id}>{m.label}</option>)}
           </select>
         </label>
+      </div>
+
+      <div className="mt-4 rounded-2xl glass p-6">
+        <SectionTitle
+          right={
+            openrouterKey ? (
+              <span className="inline-flex items-center gap-1 text-xs text-emerald-400"><Check className="h-3.5 w-3.5" /> hinterlegt</span>
+            ) : (
+              <span className="inline-flex items-center gap-1 text-xs text-amber-300">nicht gesetzt</span>
+            )
+          }
+        >
+          KI-Schlüssel (OpenRouter)
+        </SectionTitle>
+        <p className="mb-3 text-sm text-slate-400">
+          Der KI-Tutor und die Erklärungen nutzen <strong className="text-slate-300">deinen eigenen</strong> OpenRouter-API-Key. Er wird nur lokal in diesem Browser gespeichert und nie an unsere Server gesendet.
+        </p>
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
+          <label className="flex flex-1 items-center gap-2 rounded-xl border border-amber-100/10 bg-white/5 px-3 focus-within:border-zhaw-light/50">
+            <KeyRound className="h-4 w-4 shrink-0 text-slate-500" />
+            <input
+              type={showKey ? "text" : "password"}
+              value={keyDraft}
+              onChange={(e) => setKeyDraft(e.target.value)}
+              placeholder={openrouterKey ? "sk-or-... (gespeichert)" : "sk-or-..."}
+              autoComplete="off"
+              className="w-full bg-transparent py-2.5 text-sm text-white placeholder:text-slate-500 focus:outline-none"
+            />
+            <button onClick={() => setShowKey((s) => !s)} className="text-slate-500 hover:text-white" title="Anzeigen/Verbergen">
+              {showKey ? <EyeOff className="h-4 w-4" /> : <Eye className="h-4 w-4" />}
+            </button>
+          </label>
+          <button
+            onClick={() => { setOpenrouterKey(keyDraft.trim()); setKeyDraft(""); flash("KI-Schlüssel gespeichert."); }}
+            disabled={!keyDraft.trim()}
+            className="btn-primary"
+          >
+            Speichern
+          </button>
+          {openrouterKey && (
+            <button onClick={() => { setOpenrouterKey(""); setKeyDraft(""); flash("KI-Schlüssel entfernt."); }} className="btn-ghost">Entfernen</button>
+          )}
+        </div>
+        <a href="https://openrouter.ai/keys" target="_blank" rel="noreferrer" className="mt-3 inline-flex items-center gap-1.5 text-xs text-zhaw-light hover:underline">
+          <ExternalLink className="h-3.5 w-3.5" /> Kostenlosen OpenRouter-Key erstellen (openrouter.ai/keys)
+        </a>
       </div>
 
       <div className="mt-4 rounded-2xl glass p-6">

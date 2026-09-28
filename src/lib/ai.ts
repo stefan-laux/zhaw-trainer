@@ -1,3 +1,5 @@
+import { useProgress } from "../store/useProgress";
+
 export interface ChatMessage {
   role: "system" | "user" | "assistant";
   content: string;
@@ -13,31 +15,38 @@ Stilregeln:
 - Wenn unsicher, sag es klar und verweise auf Skript/Gesetzestext.
 - Keine erfundenen Artikel.`;
 
+export class MissingKeyError extends Error {
+  constructor() {
+    super("Kein KI-Schlüssel hinterlegt. Bitte in den Einstellungen deinen OpenRouter-API-Key eintragen.");
+    this.name = "MissingKeyError";
+  }
+}
+
+function getKey(): string {
+  return (useProgress.getState().openrouterKey ?? "").trim();
+}
+
+export function hasApiKey(): boolean {
+  return getKey().length > 0;
+}
+
+/** Calls OpenRouter directly from the browser using the user's own API key (stored locally). */
 export async function chat(messages: ChatMessage[], model = "openai/gpt-4o-mini"): Promise<string> {
-  const res = await fetch("/api/ai/chat", {
+  const key = getKey();
+  if (!key) throw new MissingKeyError();
+  const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      Authorization: `Bearer ${key}`,
+      "Content-Type": "application/json",
+      "HTTP-Referer": typeof location !== "undefined" ? location.origin : "https://zhaw.ch",
+      "X-Title": "ZHAW Trainer",
+    },
     body: JSON.stringify({ model, messages, temperature: 0.3, max_tokens: 1500 }),
   });
   const data = await res.json();
   if (!res.ok) throw new Error(data?.error?.message || data?.error || "KI-Anfrage fehlgeschlagen");
   return data?.choices?.[0]?.message?.content ?? "";
-}
-
-export async function streamChat(
-  messages: ChatMessage[],
-  onToken: (t: string) => void,
-  model = "openai/gpt-4o-mini"
-): Promise<void> {
-  const res = await fetch("/api/ai/chat", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ model, messages, stream: false, temperature: 0.3, max_tokens: 1500 }),
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error(data?.error?.message || data?.error || "KI-Anfrage fehlgeschlagen");
-  const text = data?.choices?.[0]?.message?.content ?? "";
-  onToken(text);
 }
 
 export function makeTutorMessages(history: ChatMessage[]): ChatMessage[] {

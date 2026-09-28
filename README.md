@@ -16,15 +16,13 @@ Interaktive Lernplattform für die Module im 1. Semester WIN. Enthält echte Alt
 
 ```bash
 npm install
-cp .env.example .env.local   # Keys eintragen (mind. OPENROUTER_API_KEY)
+cp .env.example .env.local   # Firebase-Keys eintragen (optional)
 npm run dev
 ```
 
 ## KI-Tutor
 
-Der OpenRouter-Key wird nie im Browser gespeichert:
-- Entwicklung: Vite-Proxy (`vite.config.ts`) liest `OPENROUTER_API_KEY` aus `.env.local`.
-- Produktion: Serverless-Funktion `api/ai/chat.ts`.
+Jede/r Nutzer/in trägt den eigenen **OpenRouter-API-Key** in den **Einstellungen** ein (Feld "KI-Schlüssel"). Der Key wird nur lokal im Browser (localStorage) gespeichert und nie an unsere Server gesendet. Die KI-Aufrufe gehen direkt vom Browser zu OpenRouter. Key erstellen: https://openrouter.ai/keys
 
 ## Firebase einrichten (optional, für Login und Sync)
 
@@ -56,13 +54,12 @@ Hinweis: Dateien werden in der `slides`-Collection als Chunk-Dokumente (`<id>__c
 ```bash
 npm i -g vercel
 vercel                     # Projekt verknüpfen
-vercel env add OPENROUTER_API_KEY
 vercel env add VITE_FIREBASE_API_KEY
 # ... alle weiteren VITE_FIREBASE_* und VITE_ADMIN_EMAILS
 vercel --prod
 ```
 
-Vercel erkennt Vite automatisch (Build `npm run build`, Output `dist`). `vercel.json` regelt das SPA-Routing, `api/ai/chat.ts` übernimmt den KI-Proxy.
+Vercel erkennt Vite automatisch (Build `npm run build`, Output `dist`). `vercel.json` regelt das SPA-Routing.
 
 ## Folien nachträglich ergänzen
 

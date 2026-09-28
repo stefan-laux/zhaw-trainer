@@ -39,6 +39,8 @@ interface ProgressState {
   questionStats: Record<string, QuestionStat>;
   answerOverrides: Record<string, string[]>;
   aiModel: string;
+  openrouterKey: string;
+  setOpenrouterKey: (k: string) => void;
   setModel: (m: string) => void;
   setName: (n: string) => void;
   addResult: (r: ExamResult) => void;
@@ -69,6 +71,8 @@ export const useProgress = create<ProgressState>()(
       questionStats: {},
       answerOverrides: {},
       aiModel: "openai/gpt-4o-mini",
+      openrouterKey: "",
+      setOpenrouterKey: (openrouterKey) => set({ openrouterKey }),
       setModel: (aiModel) => set({ aiModel }),
       setName: (name) => set({ name }),
       addResult: (r) => set({ results: [r, ...get().results].slice(0, 100) }),

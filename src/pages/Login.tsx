@@ -20,7 +20,7 @@ export default function Login({ standalone = false }: { standalone?: boolean }) 
       else await registerEmail(email, password);
       navigate("/");
     } catch (e) {
-      setError(String(e).replace("Firebase: ", ""));
+      setError(mapAuthError(String(e)));
     } finally {
       setBusy(false);
     }
@@ -55,7 +55,7 @@ VITE_ADMIN_EMAILS=deine@mail.ch`}</pre>
         </div>
       ) : (
         <div className="rounded-2xl glass p-6">
-          <button onClick={() => loginGoogle().then(() => navigate("/")).catch((e) => setError(String(e)))} className="btn-ghost w-full">
+          <button onClick={() => loginGoogle().then(() => navigate("/")).catch((e) => setError(mapAuthError(String(e))))} className="btn-ghost w-full">
             <Chrome className="h-4 w-4" /> Mit Google anmelden
           </button>
           <div className="my-4 flex items-center gap-3 text-xs text-slate-500"><div className="h-px flex-1 bg-white/10" /> oder <div className="h-px flex-1 bg-white/10" /></div>
@@ -76,4 +76,23 @@ VITE_ADMIN_EMAILS=deine@mail.ch`}</pre>
       )}
     </div>
   );
+}
+
+function mapAuthError(raw: string): string {
+  const msg = raw.replace("Firebase: ", "");
+  if (msg.includes("auth/operation-not-allowed") || msg.includes("operation-not-allowed")) {
+    return "Dieser Anmeldeweg ist in Firebase nicht aktiviert. In der Firebase Console unter Authentication > Sign-in method den Anbieter aktivieren (Google bzw. E-Mail/Passwort).";
+  }
+  if (msg.includes("auth/unauthorized-domain")) {
+    return "Diese Domain ist nicht autorisiert. In Firebase unter Authentication > Settings > Authorized domains hinzufuegen.";
+  }
+  if (msg.includes("auth/popup-blocked")) return "Popup wurde vom Browser blockiert. Bitte Popups fuer diese Seite erlauben.";
+  if (msg.includes("auth/popup-closed-by-user") || msg.includes("auth/cancelled-popup-request")) return "Anmeldung abgebrochen.";
+  if (msg.includes("auth/invalid-credential") || msg.includes("auth/wrong-password") || msg.includes("auth/user-not-found") || msg.includes("auth/invalid-email")) {
+    return "E-Mail oder Passwort ist falsch.";
+  }
+  if (msg.includes("auth/email-already-in-use")) return "Diese E-Mail ist bereits registriert. Bitte anmelden statt registrieren.";
+  if (msg.includes("auth/weak-password")) return "Passwort zu kurz (mindestens 6 Zeichen).";
+  if (msg.includes("auth/network-request-failed")) return "Netzwerkfehler. Internetverbindung pruefen.";
+  return msg;
 }

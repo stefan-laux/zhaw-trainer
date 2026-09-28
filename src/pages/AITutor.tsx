@@ -2,8 +2,9 @@ import { useEffect, useRef, useState } from "react";
 import { Sparkles, Send, Loader2, User, Bot, Trash2 } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { Link } from "react-router-dom";
 import { PageHeader } from "../components/ui";
-import { chat, makeTutorMessages, type ChatMessage } from "../lib/ai";
+import { chat, makeTutorMessages, hasApiKey, type ChatMessage } from "../lib/ai";
 import { useProgress } from "../store/useProgress";
 import { useSubject } from "../store/useSubject";
 import { getSubject } from "../data";
@@ -55,6 +56,13 @@ export default function AITutor() {
       <PageHeader title={`KI-Tutor · ${subject.short}`} subtitle={`Frag alles zu ${subject.name}. Antworten prüfungsorientiert mit Begründung.`} icon={<Sparkles className="h-6 w-6" />}>
         {messages.length > 0 && <button onClick={() => setMessages([])} className="btn-ghost"><Trash2 className="h-4 w-4" /> Verlauf löschen</button>}
       </PageHeader>
+
+      {!hasApiKey() && (
+        <div className="mb-4 flex items-center justify-between gap-3 rounded-2xl border border-amber-400/30 bg-amber-400/10 p-3 text-xs text-amber-100">
+          <span>Kein KI-Schlüssel hinterlegt. Trage deinen OpenRouter-Key in den Einstellungen ein, um den Tutor zu nutzen.</span>
+          <Link to="/einstellungen" className="btn-primary !py-1.5 whitespace-nowrap text-xs">Einstellungen</Link>
+        </div>
+      )}
 
       <div className="flex-1 overflow-y-auto rounded-2xl glass p-4 sm:p-6">
         {messages.length === 0 ? (
