@@ -49,6 +49,9 @@ export function AuthProvider({ children }: { children: ReactNode }) {
             ...(typeof remoteState.openrouterKey === "string" && remoteState.openrouterKey
               ? { openrouterKey: remoteState.openrouterKey as never }
               : {}),
+            ...(typeof remoteState.visionModel === "string" && remoteState.visionModel
+              ? { visionModel: remoteState.visionModel as never }
+              : {}),
           });
           await pushProgress(u.uid).catch(() => {});
         } else {
@@ -104,6 +107,6 @@ export function useAuth(): AuthValue {
 }
 
 function pushProgress(uid: string) {
-  const { results, moduleViewed, moduleCompleted, cards, questionStats, answerOverrides, name, openrouterKey } = useProgress.getState();
-  return saveProgress(uid, { results, moduleViewed, moduleCompleted, cards, questionStats, answerOverrides, name, openrouterKey });
+  const { results, moduleViewed, moduleCompleted, cards, questionStats, answerOverrides, name, openrouterKey, visionModel } = useProgress.getState();
+  return saveProgress(uid, { results, moduleViewed, moduleCompleted, cards, questionStats, answerOverrides, name, openrouterKey, visionModel });
 }

@@ -41,6 +41,8 @@ interface ProgressState {
   aiModel: string;
   openrouterKey: string;
   setOpenrouterKey: (k: string) => void;
+  visionModel: string;
+  setVisionModel: (m: string) => void;
   setModel: (m: string) => void;
   setName: (n: string) => void;
   addResult: (r: ExamResult) => void;
@@ -73,6 +75,8 @@ export const useProgress = create<ProgressState>()(
       aiModel: "deepseek/deepseek-v4.1-flash",
       openrouterKey: "",
       setOpenrouterKey: (openrouterKey) => set({ openrouterKey }),
+      visionModel: "google/gemini-3.1-flash-lite",
+      setVisionModel: (visionModel) => set({ visionModel }),
       setModel: (aiModel) => set({ aiModel }),
       setName: (name) => set({ name }),
       addResult: (r) => set({ results: [r, ...get().results].slice(0, 100) }),

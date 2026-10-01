@@ -18,8 +18,16 @@ const MODELS = [
   { id: "google/gemini-3.1-flash-lite", label: "Gemini 3.1 Flash Lite" },
 ];
 
+const VISION_MODELS = [
+  { id: "google/gemini-3.1-flash-lite", label: "Gemini 3.1 Flash Lite (gute Handschrift-Erkennung, günstig)" },
+  { id: "google/gemini-3.5-flash-lite", label: "Gemini 3.5 Flash Lite (stärker)" },
+  { id: "qwen/qwen3.8-27b:free", label: "Qwen3.8 27B Vision (gratis)" },
+  { id: "z-ai/glm-flash-latest", label: "GLM Flash (sehr günstig)" },
+  { id: "deepseek/deepseek-v4.1-flash", label: "DeepSeek V4.1 Flash (Standard)" },
+];
+
 export default function Settings() {
-  const { name, setName, aiModel, setModel, resetAll, resetCards, answerOverrides, openrouterKey, setOpenrouterKey } = useProgress();
+  const { name, setName, aiModel, setModel, resetAll, resetCards, answerOverrides, openrouterKey, setOpenrouterKey, visionModel, setVisionModel } = useProgress();
   const { user, isAdmin, configured, logout } = useAuth();
   const fileRef = useRef<HTMLInputElement>(null);
   const [saved, setSaved] = useState("");
@@ -107,6 +115,17 @@ export default function Settings() {
           <Cpu className="h-5 w-5 text-slate-400" />
           <select value={aiModel} onChange={(e) => setModel(e.target.value)} className="w-full rounded-xl panel-solid border border-amber-100/10 px-3 py-2.5 text-sm text-white focus:border-zhaw-light/50 focus:outline-none">
             {MODELS.map((m) => <option key={m.id} value={m.id}>{m.label}</option>)}
+          </select>
+        </label>
+      </div>
+
+      <div className="mt-4 rounded-2xl glass p-6">
+        <SectionTitle>Vision-Modell (PDF-Auswertung)</SectionTitle>
+        <p className="mb-3 text-sm text-slate-400">Dieses Modell liest die handschriftlich ausgefüllten PDF-Prüfungen (Bilder). Muss Bilder unterstützen.</p>
+        <label className="flex items-center gap-3">
+          <Cpu className="h-5 w-5 text-slate-400" />
+          <select value={visionModel} onChange={(e) => setVisionModel(e.target.value)} className="w-full rounded-xl panel-solid border border-amber-100/10 px-3 py-2.5 text-sm text-white focus:border-zhaw-light/50 focus:outline-none">
+            {VISION_MODELS.map((m) => <option key={m.id} value={m.id}>{m.label}</option>)}
           </select>
         </label>
       </div>

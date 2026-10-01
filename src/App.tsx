@@ -10,6 +10,7 @@ import Flashcards from "./pages/Flashcards";
 import ExamHome from "./pages/ExamHome";
 import ExamRunner from "./pages/ExamRunner";
 import ExamResult from "./pages/ExamResult";
+import ExamPdf from "./pages/ExamPdf";
 import Practice from "./pages/Practice";
 import Stats from "./pages/Stats";
 import AITutor from "./pages/AITutor";
@@ -67,6 +68,7 @@ function Gate() {
         <Route path="/module/:id" element={<ModuleDetail />} />
         <Route path="/karten" element={<Flashcards />} />
         <Route path="/pruefung" element={<ExamHome />} />
+        <Route path="/pruefung/pdf" element={<ExamPdf />} />
         <Route path="/pruefung/:id" element={<ExamRunner />} />
         <Route path="/pruefung/:id/resultat" element={<ExamResult />} />
         <Route path="/aufgaben" element={<Practice />} />

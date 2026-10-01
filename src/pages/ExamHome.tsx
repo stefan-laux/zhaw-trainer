@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { GraduationCap, Clock, ListChecks, Play, Trophy, Shuffle, Info, Settings2, FileText, BookOpen } from "lucide-react";
+import { GraduationCap, Clock, ListChecks, Play, Trophy, Shuffle, Info, Settings2, FileText, BookOpen, FileScan } from "lucide-react";
 import { PageHeader, StatCard } from "../components/ui";
 import SpotlightCard from "../components/reactbits/SpotlightCard";
 import { getSubjectContent, getSubject } from "../data";
@@ -94,6 +94,12 @@ export default function ExamHome() {
           </label>
         </div>
         <Link to={`/pruefung/custom?minutes=${minutes}&count=${count}&shuffle=${shuffled}&subject=${active}`} className="btn-ghost mt-5"><Shuffle className="h-4 w-4" /> Zufallsprüfung starten</Link>
+      </SpotlightCard>
+
+      <SpotlightCard className="mt-8 p-6">
+        <div className="flex items-center gap-2 text-sm font-semibold text-white"><FileScan className="h-4 w-4 text-zhaw-light" /> PDF-Prüfung zum Ausfüllen</div>
+        <p className="mt-1 text-sm text-slate-400">Generiere eine Probeprüfung als PDF, fülle sie auf dem iPad handschriftlich aus und lade sie hoch. Die KI liest deine Kreuze und wertet aus.</p>
+        <Link to="/pruefung/pdf" className="btn-ghost mt-4"><FileScan className="h-4 w-4" /> PDF-Prüfung öffnen</Link>
       </SpotlightCard>
 
       <div className="mt-6 flex items-start gap-2 rounded-2xl border border-amber-100/10 bg-white/5 p-4 text-xs text-slate-400">
