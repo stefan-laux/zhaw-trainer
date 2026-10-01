@@ -20,6 +20,7 @@ export interface PdfExamInput {
   minutes: number;
   questions: PdfQuestion[];
   date?: string;
+  code?: string;
 }
 
 const GOLD: [number, number, number] = [154, 123, 66];
@@ -63,6 +64,11 @@ export function generateExamPdf(input: PdfExamInput): Blob {
   doc.setFontSize(10);
   doc.text(`Dauer: ${input.minutes} Min`, W - M, 30, { align: "right" });
   doc.text(`Datum: ${input.date ?? new Date().toLocaleDateString("de-CH")}`, W - M, 46, { align: "right" });
+  if (input.code) {
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(10);
+    doc.text(`Set-Code: ${input.code}`, M, 62);
+  }
   y = 96;
 
   text("Name: ______________________________    Punkte: ______ / ______", 11, "normal", GOLD);
@@ -148,6 +154,16 @@ export function generateExamPdf(input: PdfExamInput): Blob {
       doc.rect(x + 22, yy - 11, 70, 15);
     }
     y += 26;
+  }
+
+  // footer with set code on all pages
+  const pages = doc.getNumberOfPages();
+  doc.setFont("helvetica", "normal");
+  doc.setFontSize(8);
+  doc.setTextColor(150, 155, 165);
+  for (let i = 1; i <= pages; i++) {
+    doc.setPage(i);
+    doc.text(`${input.subjectName} · ${input.label}${input.code ? " · Set " + input.code : ""} · Seite ${i}/${pages}`, W / 2, H - 20, { align: "center" });
   }
 
   return doc.output("blob");
